@@ -1,0 +1,21 @@
+   # Ignore Python virtual environment
+   venv/
+   __pycache__/
+   *.pyc
+   *.pyo
+   *.pyd
+
+   # Ignore Jupyter Notebook checkpoints
+   .ipynb_checkpoints
+
+   # Ignore environment variables
+   .env
+
+   # Ignore any other temporary files
+   *.log
+   *.tmp
+
+   # Allow CSV and pages directories
+   !italki_tutors.csv
+   !italki_teachers_details.csv
+   !pages/
