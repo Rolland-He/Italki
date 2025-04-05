@@ -1,0 +1,1827 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 9791387,
+        "nickname": "MICHAEL-BizEng/IELTS",
+        "avatar_file_name": "3T097913870",
+        "is_tutor": 1,
+        "is_pro": 1,
+        "origin_country_id": "ZM",
+        "is_online": 0,
+        "living_country_id": "ZM",
+        "origin_city_id": "ZM00001",
+        "origin_city_name": "Lusaka",
+        "living_city_id": "ZM00001",
+        "living_city_name": "Lusaka",
+        "timezone": "Africa/Lusaka",
+        "last_login_time": "2025-04-01T23:09:14+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/B2F5sm6DiwI",
+        "video_pic_url": "https://img.youtube.com/vi/B2F5sm6DiwI/0.jpg",
+        "intro": "Hello, My name is Michael. I am an English Teacher with over 6 years of experience teaching online Business English, preparing students for IELTS exams, Interview preparations, and basic English Conversation, and three years of experience in Public speaking coaching and Fluency Coaching. Other than my vast experience with teaching business English to beginners I have also taught adult learners over the age of 40 who are just getting introduced to the English Language.\n\nI love working with people in lifting their confidence for their work or personal interactions.\n\nI love reading and take a number of culinary lessons. My scope of reading spans the areas of Business and World History",
+        "short_signature": "TESOL, IELTS Specialist, and Business English Certified Teacher with 6 years of Experience",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 3
+          },
+          {
+            "language": "french",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-10-14T20:43:49Z",
+        "session_count": 965,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/E9EBE9E1-4654-43E2-95FF-BACDEFA5552D.mp4",
+        "cover_name": "u/9791387/cover/ctrnus4akq6idkk9n2l0.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/B2F5sm6DiwI.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          8,
+          3,
+          12,
+          6,
+          4
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello, My name is Michael. I am an English Teacher with over 6 years of experience teaching online Business English, preparing students for IELTS exams, Interview preparations, and basic English Conversation, and three years of experience in Public speaking coaching and Fluency Coaching. Other than my vast experience with teaching business English to beginners I have also taught adult learners over the age of 40 who are just getting introduced to the English Language.\n\nI love working with people in lifting their confidence for their work or personal interactions.\n\nI love reading and take a number of culinary lessons. My scope of reading spans the areas of Business and World History",
+        "about_teacher": "I have six years of experience in teaching in general and three years of experience teaching online. I hold a TESOL Certificate and I am also a Certified Leadership Trainer. For my English language, I take a very versatile approach depending on the needs and goals of my students. I like to have an open conversation to assess my students and be able to give them feedback on what I believe we can work on.\n\nIt could be fluency improvements, writing skills, pronunciation accuracy, sentence construction, and understanding. My sessions typically involve reading practices, grammar exercises, word pronunciation and topical-based studies",
+        "teaching_style": "My class sessions mainly start with open conversations that allow me to learn about my student and also make an assessment of how best can help them make improvements. i like to ask the student what goals or targets they may have and also get to have a picture of what weaknesses or strengths they believe they have in English.\nMy approach may take a contextual or topical approach to get the student to understand the use of nouns and verbs. These go on to take a role play-based approach to help the student apply the right use of tenses, adjectives, and pronouns. I also like to take on new word challenges to teach my students new words. I also like to give pronunciation exercises",
+        "is_student_full": 0,
+        "student_count": 132,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-10-15T10:42:32+00:00",
+        "exp_info": [
+          {
+            "country": "ZM",
+            "city": "LUSAKA",
+            "company": "Success Practitioners",
+            "job": "English Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I taught English as a tutor to High School Examination Students in a classroom setup. I tutored over 100 students mainly for their examination preparation.",
+            "start_year": 2017,
+            "end_year": 2019,
+            "status": 1,
+            "create_time": "2021-10-15T11:03:24Z",
+            "exp_id": 124640
+          },
+          {
+            "country": "ZM",
+            "city": "LUSAKA",
+            "company": "Empire Skills Academy",
+            "job": "English Language Trainer",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I taught Adults over the age of 40 who were foreign Professionals and had come to Zambia for work. The Adult learners came from none-English speaking Countries. I taught online and on a physical One on One basis.",
+            "start_year": 2019,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2021-10-15T11:06:39Z",
+            "exp_id": 124641
+          },
+          {
+            "country": "ZM",
+            "city": "LUSAKA",
+            "company": "Hut to Hut",
+            "job": "English Language Consultant",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I was responsible for designing the English language teaching materials and aids for students. Also marked student answer sheets for different English entry level exams",
+            "start_year": 2021,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2021-10-15T11:09:03Z",
+            "exp_id": 124642
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "The University Of Zambia",
+            "major": "Biology",
+            "level": 1,
+            "start_year": 2014,
+            "end_year": 2019,
+            "status": 1,
+            "file_ext": "jpeg",
+            "file_path": "***",
+            "create_time": "2021-10-15T10:59:33Z",
+            "edu_id": "739CDF04-B629-4725-B9FE-DA5BE379CA84"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2023-08-01T13:40:55Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Complete 160-hour modules worth of content covering all the basics of how to teach a language to different level students",
+            "institution": "Preply",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "Language Teaching Certificate",
+            "cert_id": "113CD177-C5B3-43FD-9D53-F86C0EDA32BC"
+          },
+          {
+            "create_time": "2021-10-15T11:11:09Z",
+            "file_ext": "jpeg",
+            "file_path": "***",
+            "institution": "INTERNATIONAL OPEN ACADEMY",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "TESOL",
+            "cert_id": "7452D856-9D9E-4F73-8BB2-102056B12B0B"
+          },
+          {
+            "create_time": "2023-06-24T19:41:12Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "I was required to attend a minimum of 60-hour training and studying and pass an exam at the end of the course.\r\nThis certificate allows me to help tutor and train those preparing to seat for their IELTS exams. I can also consult on anything pertaining to IELTS exams",
+            "institution": "Global Language Training",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "IELTS Teaching Specialist",
+            "cert_id": "A849D23B-CBF9-469F-A3A9-315A789916E1"
+          },
+          {
+            "create_time": "2024-11-12T13:36:00Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Completed 5 modules with course work and video material. I scored  'B' as an average. This certificate means I am able to teach business English as a core function and speciality.",
+            "institution": "Global Language Training-Global Tefl UK",
+            "end_year": 2024,
+            "status": 1,
+            "certificate": "40 HOUR - HOUR BUSINESS ENGLISH SPECIALIST COURSE",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "EDF2ACEB-7BC5-48BC-88FD-ABB6CCB2E29C"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "Global Language Training-Global Tefl UK",
+            "type": "CA002",
+            "type_text_code": "BUSINESS",
+            "certificate": "CERTIFICATE IN BUSINESS ENGLISH",
+            "end_year": 2024,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/7476A07D-282E-4FB6-AA48-7A05DB343983.pdf",
+            "create_time": "2024-11-17T16:00:09Z",
+            "update_time": "2024-11-17T16:00:09Z",
+            "approve_time": "2024-11-20T03:16:21Z"
+          },
+          {
+            "institution": "Global Language Training-Global Tefl UK",
+            "type": "CA003",
+            "type_text_code": "TEST",
+            "certificate": "IELTS SPECIALIST CERTIFICATE",
+            "end_year": 2023,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/06B5C47D-C855-41E4-A621-496CB35FAD11.pdf",
+            "create_time": "2024-11-17T16:03:03Z",
+            "update_time": "2024-11-17T16:03:02Z",
+            "approve_time": "2024-11-20T03:16:17Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "40 HOUR - HOUR BUSINESS ENGLISH SPECIALIST COURSE",
+            "institution": "Global Language Training-Global Tefl UK",
+            "end_year": 2024,
+            "status": 1,
+            "description": "Completed 5 modules with course work and video material. I scored  'B' as an average. This certificate means I am able to teach business English as a core function and speciality.",
+            "type": "TEFL"
+          },
+          {
+            "certificate": "CERTIFICATE IN BUSINESS ENGLISH",
+            "institution": "Global Language Training-Global Tefl UK",
+            "end_year": 2024,
+            "status": 1,
+            "description": "",
+            "type": "CA002"
+          },
+          {
+            "certificate": "Language Teaching Certificate",
+            "institution": "Preply",
+            "end_year": 2023,
+            "status": 1,
+            "description": "Complete 160-hour modules worth of content covering all the basics of how to teach a language to different level students",
+            "type": ""
+          },
+          {
+            "certificate": "IELTS Teaching Specialist",
+            "institution": "Global Language Training",
+            "end_year": 2023,
+            "status": 1,
+            "description": "I was required to attend a minimum of 60-hour training and studying and pass an exam at the end of the course.\r\nThis certificate allows me to help tutor and train those preparing to seat for their IELTS exams. I can also consult on anything pertaining to IELTS exams",
+            "type": ""
+          },
+          {
+            "certificate": "IELTS SPECIALIST CERTIFICATE",
+            "institution": "Global Language Training-Global Tefl UK",
+            "end_year": 2023,
+            "status": 1,
+            "description": "",
+            "type": "CA003"
+          },
+          {
+            "certificate": "TESOL",
+            "institution": "INTERNATIONAL OPEN ACADEMY",
+            "end_year": 2021,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 2
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1000,
+        "trial_session_count": 0,
+        "trial_description": "The trial lesson is where there is an opportunity for the student to have an experience of what a lesson with me is like. It mainly starts with open conversations that allow me to learn about my student and also make an assessment of how best can help them make improvements. I like to ask the student what goals or targets they may have and also get to have a picture of what weaknesses or strengths they believe they have in English.\nDuring the trial lesson I make observations and give feedback to the student with regards to grammar usage, Pronunciation, listening, and vocabulary. In the last 10 to 15 minutes I like to give an exercise to my student that also helps them assess themselves and know their level of Proficiency.\nThe trial lesson sets the foundation and the pace for my future lessons with the student."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 9791387
+      },
+      "pro_course_detail": [
+        {
+          "id": 189200,
+          "teacher_id": 9791387,
+          "language": "english",
+          "title": "OPEN  CONVERSATION (SPEAKING & FLUENCY PRACTICE)",
+          "description": "My class sessions mainly start with open conversations that allow me to learn about my student and also make an assessment of how best can help them make improvements. I like to ask the student what goals or targets they may have.\nThe lesson plan carters for General English depending on the preference of the student.\nIn this lesson, students learn and practice vocabulary to talk about a city break. Exercises cover places to go, what to pack and how to get around a city. There is also a grammar activity on there was/there were, in which students complete.\nIn the lesson package, students learn the structure like, don't like, hate, love + -ing. Students listen to a short conversation about likes and dislikes. There is also an online video-aided exercise in which students watch a series of video clips and make sentences using the target language.\n\nThe third lesson introduces elementary students to the present continuous. The target language is presented in a dialogue and there are several activities in which students practice the new structure. The worksheet also presents expressions for describing typical holiday/vacation activities and revises language from previous lessons.\n\nIn the next lesson, Students define free-time activities and listen to a conversation between two people with different lifestyles. They learn how to ask present simple questions about habits and routines and how to use adverbs of frequency in their answers. Students interview their partners about exercise and food habits. There is also a short optional extension activity related to sports collocations with the verbs go, play, and do.\nBy the 5th lesson, Students revise and extend phrases to describe leisure activities and listen to two short interviews about how people spend their free time. The language point is (really) + like/love/hate/prefer + verb with -ing. Students practice the target language in a speaking activity and there is a short optional extension activity",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1100,
+          "student_count": 57,
+          "session_count": 544,
+          "create_time": "2021-10-15T03:12:19Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 189200,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 625343
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1100,
+              "course_id": 189200,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 474546
+            },
+            {
+              "package_price": 6000,
+              "session_price": 1500,
+              "course_id": 189200,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 620512
+            }
+          ]
+        },
+        {
+          "id": 189278,
+          "teacher_id": 9791387,
+          "language": "english",
+          "title": "TEST  PREPARATION ( IELTS)  & INTERVIEW PREPARATION",
+          "description": "This lesson caters to students who are either preparing for their examinations such as the IELTS and the Cambridge B2 First exam or those who are preparing to attend a job interview as well as students who need to interview candidates in English.\nA level placement test has been designed to be used for determining a student's level according to his/her speaking ability and categorized into one of the following: Elementary, Pre-intermediate, Intermediate, Upper intermediate-advance.\nThis lesson plan is designed to prepare IELTS candidates to talk about different topics in Parts 1, 2, and 3 of the IELTS Speaking test.\n\nThe lesson includes a topic on Expressing Opinions. In the IELTS speaking test, the examiner will ask for the candidate's opinions on different topics. This lesson plan gives students practice in expressing their opinions using a variety of structures\nIn the IELTS speaking test, the examiner might ask difficult questions and the candidate may need some time to think about how to respond. This lesson plan gives students practice in using 'time fillers' -- words and structures that allow them to buy time to think without affecting their fluency score.\nFor the students who will be preparing for a Job interview, the class will take the following approach:\nThe worksheet presents key adjectives for describing personal characteristics as well as common words and expressions used for writing a CV. Students look at a variety of typical questions that can be asked during a job interview and then listen to a dialogue between an interviewer and a candidate. The language used in the dialogue is studied and practiced through role play. \n\nIn this dialogue-based lesson plan, students learn useful vocabulary for attending a job interview in English. The worksheet includes an article about things candidates shouldn't say during an interview.\nStudents identify and compare some jobs and then listen to/read a text about a typical day in the life of the workers.",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1100,
+          "student_count": 22,
+          "session_count": 118,
+          "create_time": "2021-10-15T10:28:40Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 189278,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 478226
+            },
+            {
+              "package_price": 5200,
+              "session_price": 1100,
+              "course_id": 189278,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 474774
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1400,
+              "course_id": 189278,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 625344
+            }
+          ]
+        },
+        {
+          "id": 204160,
+          "teacher_id": 9791387,
+          "language": "english",
+          "title": "ENGLISH FOR BEGINNERS",
+          "description": "This class is meant to be an introductory package for those just starting their journey in the English language. I start out from the basics in the English Language and make them comfortable in understanding the basic rules of Speaking English. I include some basic Pronunciation Exercises, reading exercises, and Sentence Construction Exercises.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 1000,
+          "student_count": 1,
+          "session_count": 12,
+          "create_time": "2022-01-03T08:17:25Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 204160,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 518339
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 204160,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 518338
+            },
+            {
+              "package_price": 1100,
+              "session_price": 1100,
+              "course_id": 204160,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 620511
+            }
+          ]
+        },
+        {
+          "id": 255489,
+          "teacher_id": 9791387,
+          "language": "english",
+          "title": "BUSINESS ENGLISH",
+          "description": "Business English lessons focused on different functions of English Language useful for the work place, meetings, Business Leaders and Business Presentations. Basically, its being equipped for for any kind of situation in a business environment. I have been a business coach for startups and generally teach business language in making business presentations. I have taught Business English to over 50 students this far. Some of the things to look out for \n1. Phrasal verbs in Business English\n2. Making Presentation\n3. Understanding Language in Meetings\n4. Conversation Practise/ Chit chat  in a Business Environment",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0007",
+            "T0008",
+            "T0012",
+            "T0022"
+          ],
+          "session_price": 1150,
+          "student_count": 1,
+          "session_count": 2,
+          "create_time": "2024-11-17T15:41:05Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1050,
+              "course_id": 255489,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 685972
+            },
+            {
+              "package_price": 5200,
+              "session_price": 1150,
+              "course_id": 255489,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 685971
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 25.0
+          },
+          {
+            "month": 2,
+            "data": 36.0
+          },
+          {
+            "month": 3,
+            "data": 40.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.95
+          },
+          {
+            "month": 3,
+            "data": 0.89
+          }
+        ],
+        "finished_session": 965,
+        "response_rate": 1,
+        "attendance_rate": 0.98,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 6305356,
+        "nickname": "Ana Kazoka",
+        "avatar_file_name": "7T063053560",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "ZM",
+        "is_online": 0,
+        "living_country_id": "ES",
+        "origin_city_id": "ZM00001",
+        "origin_city_name": "Lusaka",
+        "living_city_id": "ES00171",
+        "living_city_name": "Santander",
+        "timezone": "Europe/Paris",
+        "last_login_time": "2025-03-31T14:15:16+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/x6hpMKMdq6A",
+        "video_pic_url": "https://img.youtube.com/vi/x6hpMKMdq6A/0.jpg",
+        "intro": "I was born in an English-speaking country (Zambia) and brought up in a bilingual family because my father spoke English and my mother Spanish. I've lived in Spain and in two English-speaking countries (Zambia and South Africa). I love travelling and I love learning languages. I speak French quite fluently and I've started learning Italian, therefore I also know what it's like to be a student of language learning.",
+        "short_signature": "Bilingual teacher (Spanish-English) with more than 20 years of experience!",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "spanish",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "french",
+            "level": 4
+          },
+          {
+            "language": "italian",
+            "level": 4
+          }
+        ],
+        "first_valid_time": "2020-04-09T10:59:01Z",
+        "session_count": 1558,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/4562DB22-C6AB-4087-B881-C3413D1BDA86.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/x6hpMKMdq6A.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          8,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I was born in an English-speaking country (Zambia) and brought up in a bilingual family because my father spoke English and my mother Spanish. I've lived in Spain and in two English-speaking countries (Zambia and South Africa). I love travelling and I love learning languages. I speak French quite fluently and I've started learning Italian, therefore I also know what it's like to be a student of language learning.",
+        "about_teacher": "I started teaching English over 20 years ago in Spain. I began teaching kids but for the past 15 years I've been teaching English mainly to adults in companies. I enjoy teaching adults and I find it very rewarding to see how adults who had lost hope of ever speaking English, end up speaking it. In the past couple of years I've also taught Italians and French people and since I speak those languages, if my students need a quick explanation in their native tongue, I can give it to them.",
+        "teaching_style": "My students say that my lessons are fun and entertaining. Adults, as well as children, must find lessons entertaining so as to be interested in learning, which is the first step in learning faster. That's why I make the lessons fun and do several activities during the lesson so that it doesn't drag. My students also mention how quick time goes by in my lessons. \nSince I've been teaching for so long, I also know why students make certain mistakes and warn them beforehand.\nBeginners do speaking activities and drills to practice the new structures; and with advanced students, I plan part of the following lesson with drills to correct mistakes they've made in the speaking activities.",
+        "is_student_full": 0,
+        "student_count": 110,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "ES",
+            "city": "Santander",
+            "company": "Self-employed",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "As a self-employed teacher I have worked in many different companies who have contacted me either directly or through a training provider company",
+            "start_year": 2004,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2020-01-31T19:17:50Z",
+            "exp_id": 63403
+          },
+          {
+            "country": "ES",
+            "city": "Santander",
+            "company": "Bray's English Centre (Alan&Alicia)",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "English teacher and in some periods Centre Manager Assistant",
+            "start_year": 1993,
+            "end_year": 1998,
+            "status": 1,
+            "create_time": "2020-02-01T13:37:06Z",
+            "exp_id": 63439
+          },
+          {
+            "country": "ES",
+            "city": "Santander",
+            "company": "Regional Government of Cantabria",
+            "job": "English Teacher of local Police",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Teach English to the local police (basic and intermediate levels) focusing especially on the different situations where they have to deal with English speakers.",
+            "start_year": 2009,
+            "end_year": 2010,
+            "status": 1,
+            "create_time": "2020-02-01T13:50:29Z",
+            "exp_id": 63442
+          },
+          {
+            "country": "ES",
+            "city": "Santander",
+            "company": "Opening",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Teach English to all levels and prepare students for Cambridge First Certificate B2 exam",
+            "start_year": 2002,
+            "end_year": 2003,
+            "status": 1,
+            "create_time": "2020-02-01T13:53:39Z",
+            "exp_id": 63443
+          },
+          {
+            "country": "ES",
+            "city": "Santander",
+            "company": "IFES (Institute for Training and Social Studies)",
+            "job": "Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Teacher for employees at Fundaci\u00f3n Marqu\u00e9s de Valdecilla",
+            "start_year": 2012,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2020-02-01T14:05:54Z",
+            "exp_id": 63445
+          },
+          {
+            "country": "ES",
+            "city": "Santander",
+            "company": "Grupo Clave",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "English teacher for employees (intermediate and advanced groups) and executives (individual) at company Teka",
+            "start_year": 2011,
+            "end_year": 2016,
+            "status": 1,
+            "create_time": "2020-02-01T14:14:10Z",
+            "exp_id": 63446
+          },
+          {
+            "country": "ES",
+            "city": "Santander",
+            "company": "Prisma",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Teach English to executives and employees (intermediate and advanced levels)",
+            "start_year": 2007,
+            "end_year": 2017,
+            "status": 1,
+            "create_time": "2020-02-01T14:18:21Z",
+            "exp_id": 63447
+          },
+          {
+            "country": "ES",
+            "city": "Santander",
+            "company": "Urbiola Formaci\u00f3n",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Teach English to employees at IDIVAL (medical reseach institute)",
+            "start_year": 2014,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2020-02-01T14:26:19Z",
+            "exp_id": 63448
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Universidad de Cantabria",
+            "major": "Law",
+            "level": 1,
+            "start_year": 1986,
+            "end_year": 1995,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2020-02-01T16:46:41Z",
+            "edu_id": "4A3959BA-6411-4CDD-A044-4DB5EA7134F3"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2020-02-01T17:55:02Z",
+            "update_time": "2020-02-01T17:55:02Z",
+            "file_ext": "pdf",
+            "description": "Adults all levels",
+            "institution": "Opening Language School",
+            "end_year": 2002,
+            "status": 1,
+            "certificate": "Contract extension",
+            "cert_id": "066855F3-BB87-4DE9-87F2-ED61276D0061"
+          },
+          {
+            "create_time": "2020-02-01T17:28:18Z",
+            "update_time": "2020-02-01T17:28:18Z",
+            "file_ext": "pdf",
+            "description": "Refered to courses given at hospital reseach centre (IDIVAL). Courses ongoing from 2014 upto date.",
+            "institution": "Urbiola Formaci\u00f3n",
+            "end_year": 2018,
+            "status": 1,
+            "certificate": "Reference Letter",
+            "cert_id": "22BE9B10-ACB7-4864-9B4D-8AD6536647C4"
+          },
+          {
+            "create_time": "2020-02-01T17:45:21Z",
+            "update_time": "2020-02-01T17:45:21Z",
+            "file_ext": "pdf",
+            "description": "Lessons given to employees and executives at Teka, all levels, from 2011 to 2016",
+            "institution": "Grupo Clave",
+            "end_year": 2016,
+            "status": 1,
+            "certificate": "Contract p.2",
+            "cert_id": "2AB9CD6B-23D2-4AB9-829B-97CC877CDA35"
+          },
+          {
+            "create_time": "2020-02-01T17:50:49Z",
+            "update_time": "2020-02-01T17:50:49Z",
+            "file_ext": "pdf",
+            "description": "Lessons taught at the fund Fundaci\u00f3n Valdecilla for 2 years",
+            "institution": "IFES",
+            "end_year": 2013,
+            "status": 1,
+            "certificate": "Contract p.1",
+            "cert_id": "55D13C4C-BB13-4247-8796-3156DEA4916C"
+          },
+          {
+            "create_time": "2020-02-01T16:44:00Z",
+            "update_time": "2020-02-01T16:44:00Z",
+            "file_ext": "pdf",
+            "description": "C1 Level of English",
+            "institution": "Official School of Languages",
+            "end_year": 1993,
+            "status": 1,
+            "certificate": "Advanced Level in English",
+            "cert_id": "73C1F61D-3F9B-4220-83C0-38E2B3A160DF"
+          },
+          {
+            "create_time": "2020-02-01T16:28:21Z",
+            "update_time": "2020-02-01T16:28:21Z",
+            "file_ext": "pdf",
+            "description": "(Front)\nRequired to teach in Public/Government institutions and entities",
+            "institution": "Directorate of Labour",
+            "end_year": 2003,
+            "status": 1,
+            "certificate": "Teaching Methodolgy",
+            "cert_id": "7C6F4CB7-D35D-46D2-B15F-CB063846CC13"
+          },
+          {
+            "create_time": "2020-02-01T17:51:50Z",
+            "update_time": "2020-02-01T17:51:50Z",
+            "file_ext": "pdf",
+            "description": "Lessons taught at the fund Fundaci\u00f3n Valdecilla for 2 years",
+            "institution": "IFES",
+            "end_year": 2013,
+            "status": 1,
+            "certificate": "Contract p.2",
+            "cert_id": "850B4D74-00B6-4198-A37A-001D4F051565"
+          },
+          {
+            "create_time": "2020-02-01T17:31:21Z",
+            "update_time": "2020-02-01T17:31:21Z",
+            "file_ext": "pdf",
+            "description": "In-company lessons from 2007 to 2017",
+            "institution": "Prisma Publicidad",
+            "end_year": 2010,
+            "status": 1,
+            "certificate": "Reference Letter",
+            "cert_id": "86F24457-BA7A-490A-B3AB-A04CE8FEA735"
+          },
+          {
+            "create_time": "2020-02-01T17:14:19Z",
+            "update_time": "2020-02-01T17:14:19Z",
+            "file_ext": "pdf",
+            "institution": "Bray's English School",
+            "end_year": 2003,
+            "status": 1,
+            "certificate": "Contract p.1",
+            "cert_id": "93927189-D2A6-4626-B898-7B5BE612306F"
+          },
+          {
+            "create_time": "2020-02-01T17:00:53Z",
+            "update_time": "2020-02-01T17:00:53Z",
+            "file_ext": "pdf",
+            "description": "This report shows how I've been teaching since 1993 (Alan Bray) upto 2003. And then how I became self-employed (Otra educaci\u00f3n) from 2004 upto date.",
+            "institution": "Ministry of Social Security",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "Employment history report",
+            "cert_id": "A7697B86-6C85-4692-B906-A1630D607F9D"
+          },
+          {
+            "create_time": "2020-02-01T17:19:33Z",
+            "update_time": "2020-02-01T17:19:33Z",
+            "file_ext": "pdf",
+            "institution": "Bray's English School",
+            "end_year": 2003,
+            "status": 1,
+            "certificate": "Contract p.3",
+            "cert_id": "A89741E5-3534-4ABF-AD0A-6A931691E6A0"
+          },
+          {
+            "create_time": "2020-02-01T17:22:28Z",
+            "update_time": "2020-02-01T17:22:28Z",
+            "file_ext": "pdf",
+            "description": "Course given to Local Police",
+            "institution": "Regional Government of Cantabria",
+            "end_year": 2010,
+            "status": 1,
+            "certificate": "Reference Letter p.1",
+            "cert_id": "AE7D02D0-52AD-41AD-A984-67B60ADBDA58"
+          },
+          {
+            "create_time": "2020-02-01T17:43:29Z",
+            "update_time": "2020-02-01T17:43:29Z",
+            "file_ext": "pdf",
+            "description": "Lessons given to employees and executives at Teka, all levels, from 2011 to 2016",
+            "institution": "Grupo Clave",
+            "end_year": 2016,
+            "status": 1,
+            "certificate": "Contract p.1",
+            "cert_id": "BAF11495-6DCF-420D-9537-A11A3A9B5D81"
+          },
+          {
+            "create_time": "2020-02-01T17:23:45Z",
+            "update_time": "2020-02-01T17:23:45Z",
+            "file_ext": "pdf",
+            "description": "Course given to Local Police",
+            "institution": "Regional Government of Cantabria",
+            "end_year": 2010,
+            "status": 1,
+            "certificate": "Reference Letter p.2",
+            "cert_id": "C9D8BB14-B49F-414F-9793-80A6CA9D9818"
+          },
+          {
+            "create_time": "2020-02-01T17:15:08Z",
+            "update_time": "2020-02-01T17:15:08Z",
+            "file_ext": "pdf",
+            "institution": "Bray's English School",
+            "end_year": 2003,
+            "status": 1,
+            "certificate": "Contract p.2",
+            "cert_id": "D103080E-7657-4A00-A674-25CD6044E089"
+          },
+          {
+            "create_time": "2020-02-01T17:09:44Z",
+            "update_time": "2020-02-01T17:09:44Z",
+            "file_ext": "pdf",
+            "institution": "Bray's English School",
+            "end_year": 2010,
+            "status": 1,
+            "certificate": "Reference letter",
+            "cert_id": "DD161AA5-D2EB-4B06-84F9-A05F204BC4CB"
+          },
+          {
+            "create_time": "2020-02-01T16:30:12Z",
+            "update_time": "2020-02-01T16:30:12Z",
+            "file_ext": "pdf",
+            "description": "(Back)\nRequired to teach in Public/Government institutions and entities",
+            "institution": "Directorate of Labour",
+            "end_year": 2003,
+            "status": 1,
+            "certificate": "Teaching Methodolgy (back)",
+            "cert_id": "EEC7B4E0-F43A-4D75-A470-2EEF32C68C2B"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Employment history report",
+            "institution": "Ministry of Social Security",
+            "end_year": 2020,
+            "status": 1,
+            "description": "This report shows how I've been teaching since 1993 (Alan Bray) upto 2003. And then how I became self-employed (Otra educaci\u00f3n) from 2004 upto date.",
+            "type": ""
+          },
+          {
+            "certificate": "Reference Letter",
+            "institution": "Urbiola Formaci\u00f3n",
+            "end_year": 2018,
+            "status": 1,
+            "description": "Refered to courses given at hospital reseach centre (IDIVAL). Courses ongoing from 2014 upto date.",
+            "type": ""
+          },
+          {
+            "certificate": "Contract p.2",
+            "institution": "Grupo Clave",
+            "end_year": 2016,
+            "status": 1,
+            "description": "Lessons given to employees and executives at Teka, all levels, from 2011 to 2016",
+            "type": ""
+          },
+          {
+            "certificate": "Contract p.1",
+            "institution": "Grupo Clave",
+            "end_year": 2016,
+            "status": 1,
+            "description": "Lessons given to employees and executives at Teka, all levels, from 2011 to 2016",
+            "type": ""
+          },
+          {
+            "certificate": "Contract p.1",
+            "institution": "IFES",
+            "end_year": 2013,
+            "status": 1,
+            "description": "Lessons taught at the fund Fundaci\u00f3n Valdecilla for 2 years",
+            "type": ""
+          },
+          {
+            "certificate": "Contract p.2",
+            "institution": "IFES",
+            "end_year": 2013,
+            "status": 1,
+            "description": "Lessons taught at the fund Fundaci\u00f3n Valdecilla for 2 years",
+            "type": ""
+          },
+          {
+            "certificate": "Reference Letter",
+            "institution": "Prisma Publicidad",
+            "end_year": 2010,
+            "status": 1,
+            "description": "In-company lessons from 2007 to 2017",
+            "type": ""
+          },
+          {
+            "certificate": "Reference Letter p.1",
+            "institution": "Regional Government of Cantabria",
+            "end_year": 2010,
+            "status": 1,
+            "description": "Course given to Local Police",
+            "type": ""
+          },
+          {
+            "certificate": "Reference Letter p.2",
+            "institution": "Regional Government of Cantabria",
+            "end_year": 2010,
+            "status": 1,
+            "description": "Course given to Local Police",
+            "type": ""
+          },
+          {
+            "certificate": "Reference letter",
+            "institution": "Bray's English School",
+            "end_year": 2010,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Teaching Methodolgy",
+            "institution": "Directorate of Labour",
+            "end_year": 2003,
+            "status": 1,
+            "description": "(Front)\nRequired to teach in Public/Government institutions and entities",
+            "type": ""
+          },
+          {
+            "certificate": "Contract p.1",
+            "institution": "Bray's English School",
+            "end_year": 2003,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Contract p.3",
+            "institution": "Bray's English School",
+            "end_year": 2003,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Contract p.2",
+            "institution": "Bray's English School",
+            "end_year": 2003,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Teaching Methodolgy (back)",
+            "institution": "Directorate of Labour",
+            "end_year": 2003,
+            "status": 1,
+            "description": "(Back)\nRequired to teach in Public/Government institutions and entities",
+            "type": ""
+          },
+          {
+            "certificate": "Contract extension",
+            "institution": "Opening Language School",
+            "end_year": 2002,
+            "status": 1,
+            "description": "Adults all levels",
+            "type": ""
+          },
+          {
+            "certificate": "Advanced Level in English",
+            "institution": "Official School of Languages",
+            "end_year": 1993,
+            "status": 1,
+            "description": "C1 Level of English",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 2500,
+        "trial_session_count": 0,
+        "trial_description": "With this trial lesson for 30 minutes you will be able to have a feel of my teaching style and you will see how entertaining and varied my lesson are and how much you learn because my lessons are personalised for each student's individual needs.\n\nFor Spanish trial lessons: Si quieres hacer una clase de prueba de 30 minutos de conversaci\u00f3n para ver c\u00f3mo son mis clases, reserva aqu\u00ed."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 6305356
+      },
+      "pro_course_detail": [
+        {
+          "id": 106954,
+          "teacher_id": 6305356,
+          "language": "english",
+          "title": "English for Adult Beginners",
+          "description": "If you are an adult beginner don't feel shy to start learning a language. I have over 20 years of experience teaching adult beginners from different countries, especially from Spain, Italy and France. I speak those languages so you can relax if you need to say something or understand something in your own language. But all nationalities are welcome. My lessons are varied and fun. You'll be happy with your progress.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 2500,
+          "student_count": 15,
+          "session_count": 188,
+          "create_time": "2020-04-09T17:40:09Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12100,
+              "session_price": 2500,
+              "course_id": 106954,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 237258
+            }
+          ]
+        },
+        {
+          "id": 106955,
+          "teacher_id": 6305356,
+          "language": "english",
+          "title": "English - All Levels",
+          "description": "I have over 20 years of experience in teaching English to all levels, especially adults. I make my lessons varied and entertaining. After a short conversation with my students I pick up what they lack and/or need, so I tailor my lessons to their needs. What I also do is after teaching certain grammar topics, I make my students do oral exercises and drills with those structures so that eventually these become automatic.  I also emphasise a lot on correct pronunciation.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 2500,
+          "student_count": 30,
+          "session_count": 529,
+          "create_time": "2020-04-09T17:49:02Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12100,
+              "session_price": 2500,
+              "course_id": 106955,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 237260
+            }
+          ]
+        },
+        {
+          "id": 106969,
+          "teacher_id": 6305356,
+          "language": "english",
+          "title": "Conversation + Grammar (based on your own mistakes)",
+          "description": "We will practice the different grammar structures, prepositions, phrasal verbs or whatever mistakes you have made during the conversation. Therefore, these are tailored lessons where you will practice exactly what you need to correct.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 2500,
+          "student_count": 30,
+          "session_count": 417,
+          "create_time": "2020-04-09T19:01:57Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6000,
+              "session_price": 1200,
+              "course_id": 106969,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 336795
+            },
+            {
+              "package_price": 12100,
+              "session_price": 2500,
+              "course_id": 106969,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 237294
+            }
+          ]
+        },
+        {
+          "id": 164686,
+          "teacher_id": 6305356,
+          "language": "spanish",
+          "title": "Spanish conversation for Intermediate or Advanced students",
+          "description": "Si tienes un nivel intermedio o avanzado, ofrezco clases de conversaci\u00f3n sobre distintos temas donde aprender\u00e1s vocabulario y expresiones mientras conversamos. Har\u00e9 las correcciones mientras hablamos para que sepas qu\u00e9 necesitas corregir en tu espa\u00f1ol hablado.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1900,
+          "student_count": 4,
+          "session_count": 8,
+          "create_time": "2021-07-17T11:15:27Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6000,
+              "session_price": 1200,
+              "course_id": 164686,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 403362
+            },
+            {
+              "package_price": 9200,
+              "session_price": 1900,
+              "course_id": 164686,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 403361
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 4.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 1558,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 21456468,
+        "nickname": "Lily",
+        "avatar_file_name": "2T214564680",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "ZM",
+        "is_online": 0,
+        "living_country_id": "ZA",
+        "origin_city_id": "ZM00001",
+        "origin_city_name": "Lusaka",
+        "living_city_id": "ZA00000",
+        "living_city_name": "Other",
+        "timezone": "Africa/Johannesburg",
+        "last_login_time": "2025-03-25T10:55:35+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/upTcRCBtdK8",
+        "video_pic_url": "https://img.youtube.com/vi/upTcRCBtdK8/0.jpg",
+        "intro": "Hello there! I am Teacher Lilian, and it would be my great honour to be your new favourite English tutor\ud83d\udc69\u200d\ud83c\udfeb\nI am currently studying to obtain a degree in International Studies, and when I'm not busy with that I enjoy reading, writing, and watching superhero movies. Team Captain America forever!",
+        "short_signature": "TEFL-certified & enthusiastic teacher with fun lessons that make you love English!",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "afrikaans",
+            "level": 4
+          },
+          {
+            "language": "korean",
+            "level": 1
+          },
+          {
+            "language": "other",
+            "level": 1
+          },
+          {
+            "language": "spanish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2024-12-21T21:52:46Z",
+        "session_count": 0,
+        "pro_rating": "0.0",
+        "tutor_rating": "0.0",
+        "overall_rating": "0.0",
+        "qiniu_video_url": "https://v.italki.cn/7CBE2A5E-25CC-4A3D-9739-C0E24FC612EB.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/upTcRCBtdK8.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello there! I am Teacher Lilian, and it would be my great honour to be your new favourite English tutor\ud83d\udc69\u200d\ud83c\udfeb\nI am currently studying to obtain a degree in International Studies, and when I'm not busy with that I enjoy reading, writing, and watching superhero movies. Team Captain America forever!",
+        "about_teacher": "I have close to 4 years of experience offering tutoring services in the following:\n\ud83d\udde3\ufe0f Conversational skills\n\ud83c\udf99\ufe0f Pronunciation\n\u270d\ufe0f Writing\n\ud83d\udcda Grammar\n\ud83d\udcd6 Reading & comprehension\n\ud83d\udcdd Vocabulary Development\nI teach both children and adults, from intermediate to advanced level. I have completed my 120-hour TEFL Course, providing me with the certification to teach English as a foreign language\ud83c\udf93\nI am also a youth activist, regularly engaging in projects with UNICEF and working on different community projects to help make the world a better place for young people in society!",
+        "teaching_style": "I use fun, interactive lessons that help you enjoy learning. We go through a specific topic and do activities to make sure you understand how to apply what you\u2019ve just learned. If you want extra practice I assign homework to help you better understand and practice any concepts you\u2019re struggling with \ud83d\udcdd\n\nYou can't reach your learning target overnight, but I will help you find enjoyment in English to make the process more enjoyable",
+        "is_student_full": 0,
+        "student_count": 0,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2024-12-21T21:52:46+00:00",
+        "exp_info": [
+          {
+            "industry": "politics_law",
+            "country": "ZA",
+            "company": "International Society of Politics (Tuks)",
+            "job": "Secretary General",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2022,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2024-12-16T14:46:05Z",
+            "exp_id": 157907
+          },
+          {
+            "industry": "public_social_service",
+            "company": "Youth@SAIIA",
+            "job": "Youth Policy Committee member",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2022,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2024-12-16T14:47:27Z",
+            "exp_id": 157909
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University of Pretoria",
+            "major": "BPolSci (International Studies)",
+            "level": 1,
+            "start_year": 2024,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2024-12-16T14:14:02Z",
+            "edu_id": "5C8D9BD2-A1D7-4E7C-818C-E9AB0D58559B"
+          },
+          {
+            "institution": "Woodhill College",
+            "major": "High School",
+            "level": 11,
+            "start_year": 2019,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2024-12-16T14:13:21Z",
+            "edu_id": "E09AFEF5-735D-4748-AD4D-0C16ED7BA829"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2024-12-16T14:28:31Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "Teacher Record",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "Teaching English as a Foreign Language Course",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "0EDFD0BC-7F48-4A12-8941-ABF2BEAD7659"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Teaching English as a Foreign Language Course",
+            "institution": "Teacher Record",
+            "end_year": 2023,
+            "status": 1,
+            "description": "",
+            "type": "TEFL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 14433,
+            "user_id": 21456468,
+            "start_year": 2021,
+            "end_year": 2022,
+            "institution": "The Language Sloth",
+            "institution_type": "private_education_center",
+            "position": "Intermediate English Teacher",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-12-16T14:30:19Z",
+            "create_by": "21456468",
+            "update_at": "2024-12-16T14:30:19Z",
+            "update_by": "21456468",
+            "status": 1
+          },
+          {
+            "id": 14434,
+            "user_id": 21456468,
+            "start_year": 2022,
+            "end_year": 2155,
+            "institution": "Preply",
+            "institution_type": "private_education_center",
+            "position": "English Tutor",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-12-16T14:32:26Z",
+            "create_by": "21456468",
+            "update_at": "2024-12-16T14:32:26Z",
+            "update_by": "21456468",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          },
+          {
+            "name": "quiz",
+            "created_count": 2
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 3,
+        "has_trial": 1,
+        "trial_price": 800,
+        "min_price": 1300,
+        "trial_session_count": 0,
+        "trial_description": "Book a trial for a little introduction lesson, and a sneak peak of how your language development journey with me will go!\nIn our trial, we will:\n- get to know you and your learning goals\n- map out a personalised lesson plan\n- cover a demo of my teaching style\nI look forward to meeting you!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 21456468
+      },
+      "pro_course_detail": [
+        {
+          "id": 257404,
+          "teacher_id": 21456468,
+          "language": "english",
+          "title": "Pronunciation Pro!",
+          "description": "These lessons are designed to help you develop your English pronunciation skills. We will be working on a variety of areas such as:\n- consonant & vowel sounds\n- vocal intonation\n- silent letters",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0083"
+          ],
+          "session_price": 1700,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-12-21T17:01:05Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8100,
+              "session_price": 1700,
+              "course_id": 257404,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 692288
+            },
+            {
+              "package_price": 15900,
+              "session_price": 1700,
+              "course_id": 257404,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 705782
+            }
+          ]
+        },
+        {
+          "id": 257432,
+          "teacher_id": 21456468,
+          "language": "english",
+          "title": "Grammar Genius!",
+          "description": "Through a series of related grammar concepts, we will make sure your grammar skills improve! We will cover the basics of grammar that lay the foundation for clear communication and increase in levels as we go along. Here are a few things you can look forward to learning:\n- Rules of syntax\n- Punctuation\n- Sentence types & structures\n- Parts of speech\n- Correct tense use",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0006",
+            "T0083"
+          ],
+          "session_price": 1500,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-12-21T22:25:28Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7300,
+              "session_price": 1500,
+              "course_id": 257432,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 705762
+            },
+            {
+              "package_price": 14300,
+              "session_price": 1500,
+              "course_id": 257432,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 692395
+            },
+            {
+              "package_price": 27000,
+              "session_price": 1500,
+              "course_id": 257432,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 705763
+            }
+          ]
+        },
+        {
+          "id": 257434,
+          "teacher_id": 21456468,
+          "language": "english",
+          "title": "Writing Warrior!",
+          "description": "All things literature will be unpacked in these lessons! Whether you need help with: \n- creative or academic/professional writing assistance\n- improving your sentence structures\n- polishing your overall skills \n- exploring books together to help improve your reading to writing level",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1300,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-12-21T22:34:30Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6300,
+              "session_price": 1300,
+              "course_id": 257434,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 692398
+            },
+            {
+              "package_price": 12200,
+              "session_price": 1300,
+              "course_id": 257434,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 705785
+            }
+          ]
+        },
+        {
+          "id": 257436,
+          "teacher_id": 21456468,
+          "language": "english",
+          "title": "Speaking Specialist!",
+          "description": "With these lessons, we work on improving your speaking skills in a variety of ways. We will be working on:\n- conversation skills\n- phrases for different situations\n- practice conversations\n- figurative language\n- overall clarity in communication",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-12-21T22:48:58Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7300,
+              "session_price": 1500,
+              "course_id": 257436,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 705777
+            },
+            {
+              "package_price": 14300,
+              "session_price": 1500,
+              "course_id": 257436,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 692403
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 0,
+        "response_rate": 0,
+        "attendance_rate": 0,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 12,
+    "price_list": [
+      0,
+      0,
+      0,
+      2,
+      6,
+      0,
+      3,
+      4,
+      5,
+      6,
+      2,
+      5,
+      0,
+      2,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-e0-448e-bdca-9f13510ee464-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 12
+  },
+  "paging": {
+    "page": 1,
+    "page_size": 20,
+    "total": 12,
+    "has_next": 0
+  }
+}

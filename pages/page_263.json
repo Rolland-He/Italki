@@ -1,0 +1,2786 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 7202354,
+        "nickname": "Jordan De Bono",
+        "avatar_file_name": "1T072023540",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "MT",
+        "is_online": 0,
+        "living_country_id": "MT",
+        "origin_city_id": "MT00036",
+        "origin_city_name": "Naxxar",
+        "living_city_id": "MT00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Malta",
+        "last_login_time": "2025-04-01T20:24:58+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/K-D7WAMZgYM",
+        "video_pic_url": "https://img.youtube.com/vi/K-D7WAMZgYM/0.jpg",
+        "intro": "Hello there! My name is Jordan, and I'm a native English & Maltese teacher from the Southern European island of Malta. I love travelling, pop culture, politics, and cycling! \ud83d\ude0a I am a qualified English teacher (TEFL, TELT), a Bachelor of Commerce graduate in Economics and Banking, and a Master's graduate in International Business & Development Studies. Today, I also work as a Diplomat for Malta!\n\nHow quickly do you need to improve your English & Maltese? Follow my advice, and we can produce fast results, with confidence. \ud83d\udc4d\n\n* Malta is a bilingual country, where everyone speaks both fluently! *\n\n\u65e5\u672c\u4eba\u5b66\u751f\u306e\u5834\u5408\uff1a\u73fe\u5728\u65e5\u672c\u306b\u4f4f\u3093\u3067\u3044\u307e\u3059\u3002 \u4e2d\u7d1a\u30ec\u30d9\u30eb\u306e\u65e5\u672c\u8a9e\u306e\u77e5\u8b58\u304c\u3042\u308a\u3001\u65e5\u672c\u306e\u6587\u5316\u3092\u3088\u304f\u77e5\u3063\u3066\u3044\u307e\u3059\u3002 \u65e5\u672c\u4eba\u306e\u5b66\u751f\u306b\u82f1\u8a9e\u3092\u6559\u3048\u3066\u304f\u308c\u308b\u3053\u3068\u3092\u3068\u3066\u3082\u3046\u308c\u3057\u304f\u601d\u3044\u307e\u3059\u3002 \u5b9c\u3057\u304f\u304a\u9858\u3044\u81f4\u3057\u307e\u3059\uff01",
+        "short_signature": "Professional teacher from Malta - let's learn quickly, but confidently!",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "maltese",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "japanese",
+            "level": 4
+          },
+          {
+            "language": "german",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2020-06-01T03:18:49Z",
+        "session_count": 5316,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/06CFD4D5-156A-4D06-BA09-7EE1FE35FC9E.mp4",
+        "cover_name": "u/7202354/cover/cqbef3t6fd13ffjc74u0.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/K-D7WAMZgYM.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello there! My name is Jordan, and I'm a native English & Maltese teacher from the Southern European island of Malta. I love travelling, pop culture, politics, and cycling! \ud83d\ude0a I am a qualified English teacher (TEFL, TELT), a Bachelor of Commerce graduate in Economics and Banking, and a Master's graduate in International Business & Development Studies. Today, I also work as a Diplomat for Malta!\n\nHow quickly do you need to improve your English & Maltese? Follow my advice, and we can produce fast results, with confidence. \ud83d\udc4d\n\n* Malta is a bilingual country, where everyone speaks both fluently! *\n\n\u65e5\u672c\u4eba\u5b66\u751f\u306e\u5834\u5408\uff1a\u73fe\u5728\u65e5\u672c\u306b\u4f4f\u3093\u3067\u3044\u307e\u3059\u3002 \u4e2d\u7d1a\u30ec\u30d9\u30eb\u306e\u65e5\u672c\u8a9e\u306e\u77e5\u8b58\u304c\u3042\u308a\u3001\u65e5\u672c\u306e\u6587\u5316\u3092\u3088\u304f\u77e5\u3063\u3066\u3044\u307e\u3059\u3002 \u65e5\u672c\u4eba\u306e\u5b66\u751f\u306b\u82f1\u8a9e\u3092\u6559\u3048\u3066\u304f\u308c\u308b\u3053\u3068\u3092\u3068\u3066\u3082\u3046\u308c\u3057\u304f\u601d\u3044\u307e\u3059\u3002 \u5b9c\u3057\u304f\u304a\u9858\u3044\u81f4\u3057\u307e\u3059\uff01",
+        "about_teacher": "\ud83d\udc49 I have been teaching since November 2018\n\ud83d\udc49 I have taught in schools in Malta, Japan, and Kenya\n\ud83d\udc49 I have worked for a total of six English schools, but today I work only on italki\n\ud83d\udc49 I have taught students of all levels, ages and cultures\n\ud83d\udc49 I am incredibly lucky to be a teacher - it's a dream job! \u2764\ufe0f",
+        "teaching_style": "\ud83d\udc49 I use an eliciting approach - I don't answer students' problems, I help them solve their own\n\ud83d\udc49 Original content, as well as critically acclaimed English textbooks\n\ud83d\udc49 Speak with correct pronunciation, but APPRECIATE your accent\n\ud83d\udc49 Let's focus on IMPROVEMENT - we can always do better\n\ud83d\udc49 Optional homework is provided every lesson",
+        "is_student_full": 0,
+        "student_count": 580,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "industry": "business",
+            "country": "MT",
+            "city": "\u0126amrun",
+            "company": "Artis Gioielli",
+            "job": "Accountant",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2017,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2020-03-31T20:59:53Z",
+            "update_time": "2024-08-20T06:17:22Z",
+            "exp_id": 69362
+          },
+          {
+            "industry": "business",
+            "country": "MT",
+            "city": "Mrie\u0127el",
+            "company": "HSBC",
+            "job": "Portfolio Associate",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2018,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2020-03-31T21:00:34Z",
+            "update_time": "2024-08-20T06:17:38Z",
+            "exp_id": 69363
+          },
+          {
+            "industry": "business",
+            "country": "MT",
+            "city": "Mrie\u0127el",
+            "company": "PwC",
+            "job": "Junior Associate",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2018,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2020-03-31T21:01:00Z",
+            "update_time": "2024-08-20T06:17:49Z",
+            "exp_id": 69364
+          },
+          {
+            "industry": "public_social_service",
+            "country": "BE",
+            "city": "Brussels",
+            "company": "European Parliament",
+            "job": "Schuman Trainee",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2023,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2024-03-05T10:47:17Z",
+            "exp_id": 151640
+          },
+          {
+            "industry": "public_social_service",
+            "country": "US",
+            "city": "New York City",
+            "company": "Permanent Mission of Malta to the United Nations",
+            "job": "Advisor (Intern)",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2024,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2024-08-20T06:16:14Z",
+            "exp_id": 155354
+          },
+          {
+            "industry": "public_social_service",
+            "country": "MT",
+            "company": "Ministry for Foreign Affairs",
+            "job": "Diplomat",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2024,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2024-08-20T06:16:55Z",
+            "exp_id": 155355
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Akita International University",
+            "major": "Global Business",
+            "level": 1,
+            "description": "Student Exchange",
+            "start_year": 2019,
+            "end_year": 2019,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2020-03-31T21:02:44Z",
+            "edu_id": "D1A37FA0-4450-4825-9218-E541A2213E41"
+          },
+          {
+            "institution": "University of Malta",
+            "major": "Economics and Banking & Finance",
+            "level": 1,
+            "start_year": 2017,
+            "end_year": 2021,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2020-03-31T21:02:06Z",
+            "edu_id": "D3305A43-7EB9-40D0-B65D-71898B7E988D"
+          },
+          {
+            "institution": "Sophia University \u4e0a\u667a\u5927\u5b66",
+            "major": "Master's in International Business & Development Studies",
+            "level": 2,
+            "start_year": 2021,
+            "end_year": 2023,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2023-01-14T11:16:50Z",
+            "edu_id": "FDE98BBD-1F76-438F-90DE-5D1E0D30A3D1"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2020-03-31T21:05:51Z",
+            "update_time": "2020-03-31T21:05:51Z",
+            "file_ext": "pdf",
+            "institution": "Eurocentres",
+            "end_year": 2018,
+            "status": 1,
+            "certificate": "TEFL",
+            "cert_id": "836155C5-82F7-4C48-B0CE-265CD9FF8E44"
+          },
+          {
+            "create_time": "2020-03-31T21:05:23Z",
+            "update_time": "2020-03-31T21:05:23Z",
+            "file_ext": "pdf",
+            "institution": "ELT Council",
+            "end_year": 2018,
+            "status": 1,
+            "certificate": "Test for English Language Teachers (TELT)",
+            "cert_id": "A504A29D-B587-4DE1-9626-FB779EA1892C"
+          },
+          {
+            "create_time": "2020-03-31T21:06:09Z",
+            "update_time": "2020-03-31T21:06:09Z",
+            "file_ext": "pdf",
+            "institution": "ELT Council",
+            "end_year": 2018,
+            "status": 1,
+            "certificate": "ELT Permit",
+            "cert_id": "C4076A71-69E8-4FD6-A146-8E6C9CBEF756"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "University of Malta",
+            "type": "CA002",
+            "type_text_code": "BUSINESS",
+            "certificate": "Bachelor of Commerce (Honours)",
+            "end_year": 2021,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/C9075038-672C-4C45-A227-3D8FB8616356.pdf",
+            "create_time": "2024-08-19T19:29:00Z",
+            "update_time": "2024-08-19T19:28:59Z",
+            "approve_time": "2024-08-21T03:05:02Z"
+          },
+          {
+            "institution": "IELS Malta",
+            "type": "CA004",
+            "type_text_code": "KIDS",
+            "certificate": "Activity Leader - Reference Letter",
+            "description": "Proof of my work as an Activity Leader for an English language school, where I worked with children and young teenagers on activities after their English classes in Malta.",
+            "end_year": 2018,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/99B02012-8D0E-48DA-B5FE-A4346F4C3FD4.pdf",
+            "create_time": "2024-08-19T19:33:08Z",
+            "update_time": "2024-08-19T19:33:07Z",
+            "approve_time": "2024-08-21T03:04:59Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "Bachelor of Commerce (Honours)",
+            "institution": "University of Malta",
+            "end_year": 2021,
+            "status": 1,
+            "description": "",
+            "type": "CA002"
+          },
+          {
+            "certificate": "TEFL",
+            "institution": "Eurocentres",
+            "end_year": 2018,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Test for English Language Teachers (TELT)",
+            "institution": "ELT Council",
+            "end_year": 2018,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "ELT Permit",
+            "institution": "ELT Council",
+            "end_year": 2018,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Activity Leader - Reference Letter",
+            "institution": "IELS Malta",
+            "end_year": 2018,
+            "status": 1,
+            "description": "Proof of my work as an Activity Leader for an English language school, where I worked with children and young teenagers on activities after their English classes in Malta.",
+            "type": "CA004"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 1078,
+            "user_id": 7202354,
+            "start_year": 2019,
+            "end_year": 2022,
+            "institution": "AM Language",
+            "institution_type": "private_education_center",
+            "position": "English (EFL) Teacher",
+            "country": "MT",
+            "city": "Sliema",
+            "description": "",
+            "create_at": "2024-03-05T16:25:43Z",
+            "create_by": "7202354",
+            "update_at": "2024-03-05T16:29:59Z",
+            "update_by": "7202354",
+            "status": 1
+          },
+          {
+            "id": 1082,
+            "user_id": 7202354,
+            "start_year": 2019,
+            "end_year": 2020,
+            "institution": "LINK School of English",
+            "institution_type": "private_education_center",
+            "position": "English (EFL) Teacher",
+            "country": "MT",
+            "city": "Swieqi",
+            "description": "",
+            "create_at": "2024-03-05T16:27:14Z",
+            "create_by": "7202354",
+            "update_at": "2024-03-05T16:30:04Z",
+            "update_by": "7202354",
+            "status": 1
+          },
+          {
+            "id": 1084,
+            "user_id": 7202354,
+            "start_year": 2018,
+            "end_year": 2018,
+            "institution": "Eurocentres",
+            "institution_type": "private_education_center",
+            "position": "English & Maltese Teacher",
+            "country": "MT",
+            "city": "Msida",
+            "description": "",
+            "create_at": "2024-03-05T16:28:02Z",
+            "create_by": "7202354",
+            "update_at": "2024-03-05T16:30:17Z",
+            "update_by": "7202354",
+            "status": 1
+          },
+          {
+            "id": 1090,
+            "user_id": 7202354,
+            "start_year": 2022,
+            "end_year": 2022,
+            "institution": "American Language School",
+            "institution_type": "private_education_center",
+            "position": "English Teacher with Children",
+            "country": "JP",
+            "city": "Tokyo",
+            "description": "",
+            "create_at": "2024-03-05T16:29:30Z",
+            "create_by": "7202354",
+            "update_at": "2024-03-05T16:29:30Z",
+            "update_by": "7202354",
+            "status": 1
+          },
+          {
+            "id": 1095,
+            "user_id": 7202354,
+            "start_year": 2020,
+            "end_year": 2024,
+            "institution": "italki",
+            "institution_type": "self_employed_online",
+            "position": "English & Maltese Teacher",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-03-05T16:31:22Z",
+            "create_by": "7202354",
+            "update_at": "2024-03-05T16:31:22Z",
+            "update_by": "7202354",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 13
+          },
+          {
+            "name": "podcast",
+            "created_count": 4
+          },
+          {
+            "name": "quiz",
+            "created_count": 18
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 2000,
+        "trial_session_count": 0,
+        "trial_description": "Thank you for your interest!! \ud83d\ude0a\n\nGet used to my voice and personality. Introduce yourself, and your needs. And let me give you a sample of all of my lessons. But most of all, let's just get to know each other! If you want to save some time before the trial lessons, please send me a message or fill out my teacher form!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 7202354
+      },
+      "pro_course_detail": [
+        {
+          "id": 119068,
+          "teacher_id": 7202354,
+          "language": "english",
+          "title": "General English (covering all 4 skills)",
+          "description": "How quickly do you need to improve your English? If you follow my advice, this course is designed to produce fast results, with confidence. \ud83d\ude0a\n\nThis is my most popular lesson. We will work from a famous English book (which I will give you for FREE!), as well as original material I have prepared for your level. Our aim is to improve all four core skills of English (speaking, writing, listening, reading). Please message me for more information.\n\n\ud83d\udc49 Optional homework is provided every lesson\n\ud83d\udc49 Free English book for you to keep\n\ud83d\udc49 I correct your essays and provide in-depth explanations\n\ud83d\udc49 tips on how to learn vocabulary FAST\n\ud83d\udc49 ** children and young students are welcome \ud83d\ude0a **",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0006"
+          ],
+          "session_price": 2000,
+          "student_count": 194,
+          "session_count": 2078,
+          "create_time": "2020-06-16T16:18:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7600,
+              "session_price": 1600,
+              "course_id": 119068,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 715130
+            },
+            {
+              "package_price": 14800,
+              "session_price": 1600,
+              "course_id": 119068,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 274080
+            },
+            {
+              "package_price": 19400,
+              "session_price": 1600,
+              "course_id": 119068,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 771815
+            },
+            {
+              "package_price": 25900,
+              "session_price": 1600,
+              "course_id": 119068,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 715132
+            },
+            {
+              "package_price": 8600,
+              "session_price": 1800,
+              "course_id": 119068,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 715134
+            },
+            {
+              "package_price": 16900,
+              "session_price": 1800,
+              "course_id": 119068,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 274081
+            },
+            {
+              "package_price": 23000,
+              "session_price": 1800,
+              "course_id": 119068,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 771816
+            },
+            {
+              "package_price": 30900,
+              "session_price": 1800,
+              "course_id": 119068,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 715136
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2000,
+              "course_id": 119068,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 715127
+            },
+            {
+              "package_price": 18500,
+              "session_price": 2000,
+              "course_id": 119068,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 270480
+            },
+            {
+              "package_price": 24000,
+              "session_price": 2000,
+              "course_id": 119068,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 771814
+            },
+            {
+              "package_price": 32000,
+              "session_price": 2000,
+              "course_id": 119068,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 715129
+            }
+          ]
+        },
+        {
+          "id": 119072,
+          "teacher_id": 7202354,
+          "language": "english",
+          "title": "Conversation Class",
+          "description": "Speaking, speaking, speaking, speaking, speaking, speaking, speaking! \ud83d\ude0a\n\nOvercome your fear of speaking English! I want to hear about you, your culture, and your life, and I want to share my own experiences as well! Let's talk about travel, business,\npolitics, pop culture, and anything else you like. Please message me for more information.\n\n\ud83d\udc49 let's learn some native idioms!\n\ud83d\udc49 controlled conversation on a specific topic\n\ud83d\udc49 let's read an article, then discuss it in detail\n\ud83d\udc49 casual conversation - about our lives, dreams, and more\n\ud83d\udc49 conversation games - let's have some fun!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2000,
+          "student_count": 119,
+          "session_count": 1087,
+          "create_time": "2020-06-16T16:46:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7600,
+              "session_price": 1600,
+              "course_id": 119072,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 715145
+            },
+            {
+              "package_price": 14800,
+              "session_price": 1600,
+              "course_id": 119072,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 274084
+            },
+            {
+              "package_price": 19400,
+              "session_price": 1600,
+              "course_id": 119072,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 771818
+            },
+            {
+              "package_price": 25900,
+              "session_price": 1600,
+              "course_id": 119072,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 715146
+            },
+            {
+              "package_price": 8600,
+              "session_price": 1800,
+              "course_id": 119072,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 715159
+            },
+            {
+              "package_price": 16900,
+              "session_price": 1800,
+              "course_id": 119072,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 274085
+            },
+            {
+              "package_price": 23000,
+              "session_price": 1800,
+              "course_id": 119072,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 771819
+            },
+            {
+              "package_price": 30900,
+              "session_price": 1800,
+              "course_id": 119072,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 715160
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2000,
+              "course_id": 119072,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 715144
+            },
+            {
+              "package_price": 18500,
+              "session_price": 2000,
+              "course_id": 119072,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 270490
+            },
+            {
+              "package_price": 24000,
+              "session_price": 2000,
+              "course_id": 119072,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 771817
+            },
+            {
+              "package_price": 32000,
+              "session_price": 2000,
+              "course_id": 119072,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 715147
+            }
+          ]
+        },
+        {
+          "id": 125385,
+          "teacher_id": 7202354,
+          "language": "english",
+          "title": "Business English",
+          "description": "Have a job interview? Want to work abroad (or in Malta)? Not feeling confident at the workplace?\n\nThis course is aimed for intermediate to advanced students (B1-C2). We will work from the Cambridge Business English textbook, supplemented by original material tailored to your needs. Examples of topics covered:\n\n\ud83d\udc49 formal vs informal English\n\ud83d\udc49 how to write business emails\n\ud83d\udc49 Writing a CV, resume, or cover letter\n\ud83d\udc49 how to give presentations\n\ud83d\udc49 how to network\n\ud83d\udc49 finance and investment terminology",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0009",
+            "T0011",
+            "T0012",
+            "T0018"
+          ],
+          "session_price": 2000,
+          "student_count": 47,
+          "session_count": 307,
+          "create_time": "2020-08-19T21:13:47Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7600,
+              "session_price": 1600,
+              "course_id": 125385,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 715163
+            },
+            {
+              "package_price": 14800,
+              "session_price": 1600,
+              "course_id": 125385,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 289564
+            },
+            {
+              "package_price": 19400,
+              "session_price": 1600,
+              "course_id": 125385,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 771821
+            },
+            {
+              "package_price": 25900,
+              "session_price": 1600,
+              "course_id": 125385,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 715164
+            },
+            {
+              "package_price": 8600,
+              "session_price": 1800,
+              "course_id": 125385,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 715165
+            },
+            {
+              "package_price": 16900,
+              "session_price": 1800,
+              "course_id": 125385,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 289565
+            },
+            {
+              "package_price": 23000,
+              "session_price": 1800,
+              "course_id": 125385,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 771822
+            },
+            {
+              "package_price": 30900,
+              "session_price": 1800,
+              "course_id": 125385,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 715166
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2000,
+              "course_id": 125385,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 715161
+            },
+            {
+              "package_price": 18500,
+              "session_price": 2000,
+              "course_id": 125385,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 289563
+            },
+            {
+              "package_price": 24000,
+              "session_price": 2000,
+              "course_id": 125385,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 771820
+            },
+            {
+              "package_price": 32000,
+              "session_price": 2000,
+              "course_id": 125385,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 715162
+            }
+          ]
+        },
+        {
+          "id": 233565,
+          "teacher_id": 7202354,
+          "language": "english",
+          "title": "Maltese! --> Please book under the Maltese Language section of my profile :)",
+          "description": "* Note: Please book Maltese lessons under my Maltese language section - they are the same price. I keep this section here to make sure students realise I teach both languages :) *\n\nThank you very much for showing interest in Maltese! \u2764\ufe0f Whilst Maltese is not a global language like English, it is the national language of Malta. If you are someone who wishes to relocate to Malta for the long-term, or who wishes to raise kids in Malta, learning Maltese is essential. In this class, I will introduce all the basics of Maltese, as well as recommend a beginner's Maltese book that we can work on together. If you have any further questions, do not hesitate to message me.\n\nGrazzi \u0127afna g\u0127all-interess tieg\u0127ek fil-Malti! \u2764\ufe0f Minkejja li l-Malti m'huwiex lingwa globali b\u0127alma hu l-Ingli\u017c, xorta wa\u0127da jibqa' l-lingwa nazzjonali ta' Malta. Jekk inti xi \u0127add li tixtieq tg\u0127ix Malta fit-tul, jew li tixtieq trabbi t-tfal f'Malta, it-tag\u0127lim tal-Malti huwa essenzjali. F'dan il-klassi, se nintrodu\u010bi affarijiet ba\u017ci\u010bi dwar il-Malti, kif ukoll nintrodu\u010bi ktieb g\u0127all-prin\u010bipjanti li nistg\u0127u nu\u017caw flimkien. Jekk g\u0127andek iktar mistoqsijiet, tist\u0127ix tibg\u0127atli messa\u0121\u0121.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 2000,
+          "student_count": 17,
+          "session_count": 170,
+          "create_time": "2023-01-14T14:46:17Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 19400,
+              "session_price": 1600,
+              "course_id": 233565,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 771825
+            },
+            {
+              "package_price": 24000,
+              "session_price": 2000,
+              "course_id": 233565,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 771826
+            }
+          ]
+        },
+        {
+          "id": 240294,
+          "teacher_id": 7202354,
+          "language": "maltese",
+          "title": "Maltese / Il-Malti - General Course",
+          "description": "Thank you very much for showing interest in Maltese! \u2764\ufe0f Whilst Maltese is not a global language like English, it is the national language of Malta. If you are someone who wishes to relocate to Malta for the long-term, or who wishes to raise kids in Malta, learning Maltese is essential. In this class, I will introduce all the basics of Maltese, as well as recommend a beginner's Maltese book that we can work on together. If you have any further questions, do not hesitate to message me.\n\nGrazzi \u0127afna g\u0127all-interess tieg\u0127ek fil-Malti! \u2764\ufe0f Minkejja li l-Malti m'huwiex lingwa globali b\u0127alma hu l-Ingli\u017c, xorta wa\u0127da jibqa' l-lingwa nazzjonali ta' Malta. Jekk inti xi \u0127add li tixtieq tg\u0127ix Malta fit-tul, jew li tixtieq trabbi t-tfal f'Malta, it-tag\u0127lim tal-Malti huwa essenzjali. F'dan il-klassi, se nintrodu\u010bi affarijiet ba\u017ci\u010bi dwar il-Malti, kif ukoll nintrodu\u010bi ktieb g\u0127all-prin\u010bipjanti li nistg\u0127u nu\u017caw flimkien. Jekk g\u0127andek iktar mistoqsijiet, tist\u0127ix tibg\u0127atli messa\u0121\u0121.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 2000,
+          "student_count": 114,
+          "session_count": 1178,
+          "create_time": "2023-08-28T10:02:55Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7600,
+              "session_price": 1600,
+              "course_id": 240294,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 715173
+            },
+            {
+              "package_price": 14800,
+              "session_price": 1600,
+              "course_id": 240294,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 635959
+            },
+            {
+              "package_price": 19400,
+              "session_price": 1600,
+              "course_id": 240294,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 771834
+            },
+            {
+              "package_price": 25900,
+              "session_price": 1600,
+              "course_id": 240294,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 715174
+            },
+            {
+              "package_price": 8600,
+              "session_price": 1800,
+              "course_id": 240294,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 715175
+            },
+            {
+              "package_price": 16900,
+              "session_price": 1800,
+              "course_id": 240294,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 635960
+            },
+            {
+              "package_price": 23000,
+              "session_price": 1800,
+              "course_id": 240294,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 771835
+            },
+            {
+              "package_price": 30900,
+              "session_price": 1800,
+              "course_id": 240294,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 715176
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2000,
+              "course_id": 240294,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 715171
+            },
+            {
+              "package_price": 18500,
+              "session_price": 2000,
+              "course_id": 240294,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 635958
+            },
+            {
+              "package_price": 24000,
+              "session_price": 2000,
+              "course_id": 240294,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 771833
+            },
+            {
+              "package_price": 32000,
+              "session_price": 2000,
+              "course_id": 240294,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 715172
+            }
+          ]
+        },
+        {
+          "id": 240295,
+          "teacher_id": 7202354,
+          "language": "maltese",
+          "title": "Ejja nitkellmu bil-Malti!",
+          "description": "G\u0127andek xi ftit esperjenza bil-Malti di\u0121\u00e0? G\u0127andek problemi ssib xi \u0127bieb jew nies Maltin biex tippratika u titkellem il-lingwa? Tikkonfondix! B\u0127ala l-uniku g\u0127alliem tal-Malti fuq dan is-sit, huwa unur li nintrodu\u010bi ru\u0127i mieg\u0127ek u nsir nafek sew.\n\nNistg\u0127u nitkellmu fuq kwalunkwe topik li tixtieq. Ukoll nissu\u0121\u0121erixxi li naqraw artikli tal-a\u0127barijiet bil-Malti, u niddiskutuhom flimkien wara. \n\nGrazzi tal-appo\u0121\u0121 tieg\u0127ek, u tist\u0127ix tibg\u0127atli messa\u0121\u0121 jekk g\u0127andek iktar mistoqsijiet.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2000,
+          "student_count": 9,
+          "session_count": 163,
+          "create_time": "2023-08-28T10:09:19Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7600,
+              "session_price": 1600,
+              "course_id": 240295,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 771840
+            },
+            {
+              "package_price": 14800,
+              "session_price": 1600,
+              "course_id": 240295,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 635962
+            },
+            {
+              "package_price": 19400,
+              "session_price": 1600,
+              "course_id": 240295,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 771841
+            },
+            {
+              "package_price": 25900,
+              "session_price": 1600,
+              "course_id": 240295,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 771842
+            },
+            {
+              "package_price": 8600,
+              "session_price": 1800,
+              "course_id": 240295,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 771843
+            },
+            {
+              "package_price": 16900,
+              "session_price": 1800,
+              "course_id": 240295,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 635963
+            },
+            {
+              "package_price": 23000,
+              "session_price": 1800,
+              "course_id": 240295,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 771844
+            },
+            {
+              "package_price": 30900,
+              "session_price": 1800,
+              "course_id": 240295,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 771845
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2000,
+              "course_id": 240295,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 771837
+            },
+            {
+              "package_price": 18500,
+              "session_price": 2000,
+              "course_id": 240295,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 635961
+            },
+            {
+              "package_price": 24000,
+              "session_price": 2000,
+              "course_id": 240295,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 771838
+            },
+            {
+              "package_price": 32000,
+              "session_price": 2000,
+              "course_id": 240295,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 771839
+            }
+          ]
+        },
+        {
+          "id": 262645,
+          "teacher_id": 7202354,
+          "language": "maltese",
+          "title": "Maltese SELF-STUDY Package",
+          "description": "Are you interested in learning Maltese at your own pace? This one-time self-study package provides all the materials you need to begin your journey towards fluency.  \n\n\ud83d\udcda What\u2019s Included?\n\u2705 A single 60 minute live class with me\n\u2705 Access to an *unlisted* YouTube series of lessons\n\u2705 Step-by-step grammar book of A1 and A2 level\n\u2705 Associated workbook of exercises, with answers\n\u2705 Audio files featuring my own pronunciation guide for each text\n\u2705 Chapter Revision worksheets, with answers\n\u2705 Two short stories written in Maltese\n\u2705 One week of unlimited messaging with me on any questions \n\u2705 Three essay corrections of \u2264150 words each\n\u2705 List of basic words Maltese to insert into your flashcard app\n\u2705 A set of Maltese short conversation to pick up key phrases\n\u2705 Recommended resources to continue your learning \n\nThis package is ideal for independent learners who want a structured yet flexible approach to learning Maltese. Whether you're a complete beginner or looking to reinforce your foundation, this package will give you the tools you need to self-study this language notorious for having few materials on the internet. \n\nMaterial will be shared via online shareable links. Feel free to message me to inquire.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 12000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-05T09:55:34Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 12000,
+              "session_price": 12000,
+              "course_id": 262645,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 821787
+            }
+          ]
+        },
+        {
+          "id": 262646,
+          "teacher_id": 7202354,
+          "language": "english",
+          "title": "English Job Interview Preparation \u2013 One-Time Intensive Session",
+          "description": "Do you have an important job interview coming up? This one-time, fully comprehensive session will equip you with all the tools and confidence you need to succeed.  \n\n\ud83d\udcdd What\u2019s Included?\n\u2705 60-minute intensive session focused on your target job/industry\n\u2705 Model answers for how to answer the most common interview questions\n\u2705 Post-session feedback on your CV / r\u00e9sum\u00e9 - I will correct it fully for you \n\u2705 Personalized and post-session feedback on your answers and speaking style\n\u2705 Mock interview practice with realistic questions  \n\nThis session is ideal for professionals preparing for an English-language job interview, whether in-person or online. We will simulate a real interview, fine-tune your responses, and ensure you're fully prepared to impress your interviewer.\n\nBe sure to drop me a message to clarify any details.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0009",
+            "T0011",
+            "T0007",
+            "T0015"
+          ],
+          "session_price": 10000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-05T10:03:44Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 10000,
+              "session_price": 10000,
+              "course_id": 262646,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 821788
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 105.0
+          },
+          {
+            "month": 1,
+            "data": 115.0
+          },
+          {
+            "month": 2,
+            "data": 109.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.99
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 5312,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 7810953,
+        "nickname": "Geshna",
+        "avatar_file_name": "8T078109530",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "MU",
+        "is_online": 0,
+        "living_country_id": "MU",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "MU00000",
+        "living_city_name": "Other",
+        "timezone": "Asia/Shanghai",
+        "last_login_time": "2025-04-01T12:43:36+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/4Mw5cke7Z4I",
+        "video_pic_url": "https://img.youtube.com/vi/4Mw5cke7Z4I/0.jpg",
+        "intro": "Hello! I am a pre-medical student. Studying languages has always been my passion. I was born and raised in Mauritius. My native language is Creole Mauritian. I can speak four languages fluently among which are; English, French, Creole Mauritian, and Hindi. I have been learning English and French at school for almost 18 years now. I am always keen to discover new languages and cultures through traveling. I love to interact with people from different backgrounds and from all parts of the world. I believe interacting with people on a global platform really widens our perspective about the world.\nFeel free to check out my blog posts. Click on the link!\ud83d\ude0a\nhttps://linktr.ee/geshnaclassics",
+        "short_signature": "TEFL certified and Cambridge O-Level certified French   https://linktr.ee/geshnaclassics",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "mauritiancreole",
+            "level": 7
+          },
+          {
+            "language": "french",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "hindi",
+            "level": 4
+          },
+          {
+            "language": "chinese(other)",
+            "level": 3
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2020-08-07T11:00:23Z",
+        "session_count": 583,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/A36C4764-2509-4121-B938-02ABCA245DDE.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/4Mw5cke7Z4I.jpg",
+        "teacher_material_list": [
+          1,
+          3,
+          5,
+          7,
+          8,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello! I am a pre-medical student. Studying languages has always been my passion. I was born and raised in Mauritius. My native language is Creole Mauritian. I can speak four languages fluently among which are; English, French, Creole Mauritian, and Hindi. I have been learning English and French at school for almost 18 years now. I am always keen to discover new languages and cultures through traveling. I love to interact with people from different backgrounds and from all parts of the world. I believe interacting with people on a global platform really widens our perspective about the world.\nFeel free to check out my blog posts. Click on the link!\ud83d\ude0a\nhttps://linktr.ee/geshnaclassics",
+        "about_teacher": "I am a very patient and calm person. I carry out my work diligently. I want to help my students overcome their language barrier and be able to fully experience the culture of a foreign country by learning its native language. Learning languages is the best way to live an extraordinary experience since communication is key. Learners can study vocabulary words very hard but somehow most people struggle to pronounce the words. I will make my best to make sure that my students are pronouncing the words correctly. Language exchange can be so fun even in a virtual classroom!",
+        "teaching_style": "My lessons will be short and fun. Lessons will include general, daily conversational topics. If the person is a complete beginner, I will start by teaching syllables, verbs, tenses and vocabulary words. I will also take short and quick tests to examine the learner and see whether there has been any progress so far. I will carefully listen to what they have to say, note down their mistakes and then correct them at the end of each lesson. I like using notebooks and sometimes a whiteboard to explain so that the student does not get confused. I will also be using some resources such as books, storybooks, grammar, verb tenses books as well as dictionaries for references,and even blog articles!",
+        "is_student_full": 0,
+        "student_count": 162,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [
+          {
+            "create_time": "2024-01-19T13:40:17Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "The TEFL Academy",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "TEFL Level 5",
+            "cert_id": "9DEB2BC9-4E8D-408E-97CD-867BB0247B3D"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "TEFL Level 5",
+            "institution": "The TEFL Academy",
+            "end_year": 2023,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 2000,
+        "trial_session_count": 0,
+        "trial_description": "Hello there! A trial lesson will be strictly based on having a conversation so that I can assess your language level and we can discuss how I can try my best to help you move forward with your language learning journey!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 7810953
+      },
+      "pro_course_detail": [
+        {
+          "id": 124356,
+          "teacher_id": 7810953,
+          "language": "mauritiancreole",
+          "title": "Talk to me in Mauritian Creole! For anyone who wants to learn the basics of speaking In Mauritian Creole ;)",
+          "description": "This will be a fun lesson! At the end of each lesson you will be able to say some Mauritian Creole words. You will learn about grammar points, vocabulary words used in daily Mauritian lifestyles and some basic verb tenses as well. You can decide about any topic of your choice and i will teach you the appropriate words. Goodluck!",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 2000,
+          "student_count": 31,
+          "session_count": 112,
+          "create_time": "2020-08-07T15:15:44Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7000,
+              "session_price": 1600,
+              "course_id": 124356,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 302191
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1800,
+              "course_id": 124356,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 302190
+            },
+            {
+              "package_price": 8000,
+              "session_price": 2000,
+              "course_id": 124356,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 286402
+            }
+          ]
+        },
+        {
+          "id": 132267,
+          "teacher_id": 7810953,
+          "language": "french",
+          "title": "Express yourself inn a French way! French course for beginners !!",
+          "description": "This lesson will help you understand the basic aspects of the French language. You will learn about the basic pronunciations, grammar, everyday vocabulary words, comprehension passages, verb tenses and short stories as well. This lesson includes reading a little bit so as to improve your fluency of speaking French. Do not be afraid. I am here to help you step by step! Good Luck!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 2000,
+          "student_count": 19,
+          "session_count": 101,
+          "create_time": "2021-01-03T07:48:33Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8000,
+              "session_price": 1600,
+              "course_id": 132267,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 312007
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1800,
+              "course_id": 132267,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 312008
+            },
+            {
+              "package_price": 10000,
+              "session_price": 2000,
+              "course_id": 132267,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 312006
+            }
+          ]
+        },
+        {
+          "id": 200634,
+          "teacher_id": 7810953,
+          "language": "french",
+          "title": "Talk to me in French! A course for beginners who are willing to reach fluency by just having a conversation.",
+          "description": "This course will help you communicate with people in English by simply learning basic, everyday use vocabulary words, You will also learn about basic grammar and verb tenses. Sometimes you might need to read a short story or article as well. I will correct your pronunciation and help you speak more fluently! Do not be afraid. I will teach you step by step. Good luck!",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2000,
+          "student_count": 8,
+          "session_count": 19,
+          "create_time": "2021-12-09T10:08:36Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8000,
+              "session_price": 1600,
+              "course_id": 200634,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 507924
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1800,
+              "course_id": 200634,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 507925
+            },
+            {
+              "package_price": 10000,
+              "session_price": 2000,
+              "course_id": 200634,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 507923
+            }
+          ]
+        },
+        {
+          "id": 201294,
+          "teacher_id": 7810953,
+          "language": "english",
+          "title": "Talk to me in English! A course for beginners who are willing to reach fluency by just having a conversation.",
+          "description": "This course will help you communicate with people in English by simply learning basic, everyday use vocabulary words, You will also learn about basic grammar and verb tenses. Sometimes you might need to read a short story or article as well. I will correct your pronunciation and help you speak more fluently! Do not be afraid. I will teach you step by step. Good luck!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 2000,
+          "student_count": 7,
+          "session_count": 18,
+          "create_time": "2021-12-13T05:29:37Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8000,
+              "session_price": 1600,
+              "course_id": 201294,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 509813
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1800,
+              "course_id": 201294,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 509812
+            },
+            {
+              "package_price": 10000,
+              "session_price": 2000,
+              "course_id": 201294,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 509811
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 12.0
+          },
+          {
+            "month": 2,
+            "data": 13.0
+          },
+          {
+            "month": 3,
+            "data": 7.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.9
+          },
+          {
+            "month": 3,
+            "data": 0.79
+          }
+        ],
+        "finished_session": 583,
+        "response_rate": 0.98,
+        "attendance_rate": 0.96,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 3235658,
+        "nickname": "Guyomar",
+        "avatar_file_name": "20T032356580",
+        "is_tutor": 1,
+        "is_pro": 1,
+        "origin_country_id": "MU",
+        "is_online": 1,
+        "living_country_id": "US",
+        "origin_city_id": "MU00006",
+        "origin_city_name": "Beau Bassin-Rosehill",
+        "living_city_id": "US00266",
+        "living_city_name": "Columbus",
+        "timezone": "America/Indiana/Tell_City",
+        "last_login_time": "2025-04-01T20:55:41+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/oPaRCpZQo0g",
+        "video_pic_url": "https://img.youtube.com/vi/oPaRCpZQo0g/0.jpg",
+        "intro": "I've been teaching languages for over 10 years with 6 years' experience in universities and 6 online. As a fellow language learner who is fascinated by how acquisition works, I know what works and what doesn't. We learn languages through stories and interactions that sustain our interest. In my classes, you do learn about the patterns of a language (the \"grammar rules\" colloquially) but this is not the focus of the classes.\n\nYou can expect:\n\u2747\ufe0fOriginal story-lessons\n\u2747\ufe0fClasses focused on listening & speaking about ideas, with occasional structured tasks to address difficulties that arise.\n\u2747\ufe0fTo get better at using the language even though you aren't spending most of your time focused on rules.",
+        "short_signature": "Ready to understand and speak the language you've studied? Start now!",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "french",
+            "level": 7
+          },
+          {
+            "language": "mauritiancreole",
+            "level": 6
+          },
+          {
+            "language": "spanish",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "italian",
+            "level": 4
+          },
+          {
+            "language": "latin",
+            "level": 3
+          },
+          {
+            "language": "portuguese",
+            "level": 3
+          },
+          {
+            "language": "russian",
+            "level": 3
+          },
+          {
+            "language": "hungarian",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2016-06-07T09:54:41Z",
+        "session_count": 3758,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/9D3B4C57-F4B0-4835-931A-CF4CA4B7F219.mp4",
+        "cover_name": "u/3235658/cover/cmuk5ammeij90osihga0.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/oPaRCpZQo0g.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "Do you need to use French, Creole, or English in everyday situations?\nAre you the kind of person who likes to travel like a local?\nDo you dream of being mistaken for a native speaker?\n Maybe you want to ace an interview for your dream job?\n\nWith me, you will learn the expressions natives use and all the tricks to sound confidently fluent.\n\nI also make FREE online videos about language and culture where I share tips + new expressions to give your French or English that ring of authenticity.\n\n\u201cIn my judgment, Ms. Pillai\u2019s teaching skills, effectiveness and enthusiasm were notably outstanding, and rose to a higher standard than the courses I had earlier completed.\u201d \u2013 Suzanne Minnich, Executive Director, Brain Injury Association of Ohio, USA\n\nI am a perfectly bilingual speaker of French and English who has been teaching online since June 2016 & in a U.S. college for 6 years. Language teaching is my full-time job and I take pride in doing it well.\n\nRecently I developed the unique Cave of Wonders method to keep your quest for fluency both challenging and rewarding. Why not give it a try and see how addictive learning can be?\n\nFrom the moment you book a trial, we'll be in touch to get you closer to the hidden side of cultures that tourists don't get to see. Even if you don\u2019t continue working with me, I will provide you with professional feedback on your level and my recommendations to incorporate the language into your life easily, naturally, and pleasurably.\n\n\u201cGuyomar\u2019s passion and enthusiasm for what she is teaching are highly infectious. Throughout this class, my French skills grew tremendously and I now feel confident to compare and contrast French as well as have intellectual conversations on culture and literary topics.\u201d \u2013 Mallory Nicodemus, Volunteer (Mission of Hope, Haiti)\n\nWhy wait another second? A whole new world awaits - book a trial now.",
+        "about_me": "I've been teaching languages for over 10 years with 6 years' experience in universities and 6 online. As a fellow language learner who is fascinated by how acquisition works, I know what works and what doesn't. We learn languages through stories and interactions that sustain our interest. In my classes, you do learn about the patterns of a language (the \"grammar rules\" colloquially) but this is not the focus of the classes.\n\nYou can expect:\n\u2747\ufe0fOriginal story-lessons\n\u2747\ufe0fClasses focused on listening & speaking about ideas, with occasional structured tasks to address difficulties that arise.\n\u2747\ufe0fTo get better at using the language even though you aren't spending most of your time focused on rules.",
+        "about_teacher": "My goal is to get my students competent, comfortable and confident speaking the language, not just conjugating verbs by heart in isolation or performing controlled written exercises. When you work with me you will receive:\n\u2747\ufe0fAn accurate assessment of your current level, strengths, difficulties.\n\u2747\ufe0fAppropriate challenge, genuine compliments, feedback about what you can do better and how.\n\u2747\ufe0fI write stories and create lessons from scratch for YOU with your interests, goals, and level of understanding in mind.\n\u2747\ufe0fYou will be immersed in story-worlds and discuss characters, ideas, and themes as much as you please. The more you engage with the material, the more you will get out of the lessons.",
+        "teaching_style": "\u2747\ufe0f Material sent ahead of time: a recording, a PDF with the transcript of the story, vocabulary, and notes on grammar. \n\u2747\ufe0f Lesson focused on listening and speaking the target language: listen to the 2nd part of the story, discuss the characters and ideas presented. \n\u2747\ufe0f The focus is not on grammar, words in isolation or mechanical drills. Occasionally, I will provide tasks to address persistent pronunciation and grammar difficulties. \n\u2747\ufe0f Informed by Dr. Stephen Krashen's Input Hypothesis & Blaine Ray's story-learning\n*NEW STUDENTS: Either include a message when you book or have a filled-in profile stating your goals.",
+        "is_student_full": 0,
+        "student_count": 335,
+        "teacher_tag": [
+          1,
+          3,
+          5
+        ],
+        "teacher_child_tag_id_list": [
+          5
+        ],
+        "cancel_policy": "-I do not accept CANCELLATIONS, except for genuine emergencies.\n-RESCHEDULING A LESSON: 36h+ notice is required. Any less will be declined, with payment still due.\n*Please note that I will not reschedule a lesson more than once, except for genuine emergencies. \n-If you NO-SHOW (no sign of life after 15 min), the lesson will be cancelled but payment will be due.\n-LATENESS: I will wait up to 15 minutes to start the lesson, but it will still end as scheduled.\n-EXCEPTIONS: I am understanding of and make exceptions for real emergencies (wife ran away, tornado hit, you're in hospital).\nPlease respect the time and preparation I put into lessons, as I do yours.",
+        "interest": "Travel",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "US",
+            "city": "Columbus, OHio",
+            "company": "The Ohio State University",
+            "job": "Graduate Teaching Associate",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I have been teaching as an instructor in the Department of French and Italian since I began my graduate studies at Ohio State University in 2011. I have been the sole, independent instructor of basic language classes as well as intermediate cultural classes in literature, cinema, and culture. I have taught all levels of the introductory French sequence for beginners and I have taught accelerated summer classes for four years, a competitive position, contingent on excellent student evaluations.",
+            "start_year": 2011,
+            "end_year": 2016,
+            "status": 1,
+            "create_time": "2016-08-01T14:37:11Z",
+            "exp_id": 14583
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "The Ohio State University",
+            "major": "French",
+            "level": 3,
+            "description": "My specialization is French and I also completed an interdisciplinary specialization in Second Language Acquisiton (SLA), as well as college teacher training & apprenticeships. Please note EDUTL 5620 (Summer 2012), French 8301 (Spring 2013), and French 8302 (Spring 2014) as my SLA courses.  French 801 (Autumn 2011) is teacher training, and 2 French 8303 apprenticeships are noted in Autumn 2013 &2014. You can see the titles of the courses on the transcript as well as the grades.",
+            "start_year": 2013,
+            "end_year": 2017,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2016-08-01T14:46:30Z",
+            "edu_id": "22B4EBDE-04FC-491E-BA3D-CA4F5D64AF05"
+          },
+          {
+            "institution": "Boston University",
+            "major": "French and Economics",
+            "level": 1,
+            "description": "Double major in French and Economics.",
+            "start_year": 2007,
+            "end_year": 2011,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2016-08-01T14:52:08Z",
+            "edu_id": "4C65B9C7-5359-4F48-9F51-6F3100F7AE37"
+          },
+          {
+            "institution": "The Ohio State University",
+            "major": "French",
+            "level": 2,
+            "description": "Master's degree awarded as part of combined M.A. + PhD program that is still ongoing. I have attached my degree from the university but also included my transcript attached to the \"doctorate\" section which shows the degree program I've been in since 2011, because this not listed on the certificate.",
+            "start_year": 2011,
+            "end_year": 2013,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2016-08-01T14:51:15Z",
+            "edu_id": "B6FEE1BC-0615-4377-9602-FBDBA8EBC610"
+          },
+          {
+            "institution": "Dartmouth College, New Hampshire",
+            "major": "French Cultural Studies Institute",
+            "level": 5,
+            "description": "Participated in biennial invitation-only 2-month workshop for 25 professors and advanced doctoral students in French studies. Attended meetings & lectures on the theme of \"La politique et le politique\" as well as pedagogy workshops. Created syllabus on voyeurism and voyage in 18th- and 19th-century literature. Fully sponsored by my home department.",
+            "start_year": 2015,
+            "end_year": 2015,
+            "status": 1,
+            "create_time": "2017-05-11T04:10:04Z",
+            "edu_id": "E0D1BD81-BCA4-4E37-A8C3-B1D171D67D41"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2016-08-01T15:00:43Z",
+            "file_ext": "pdf",
+            "description": "Served as the independent instructor for one French class (beginner & intermediate) each semester, including summer term. In charge of creating all lesson plans, teaching all sessions, writing quizzes and exams, grading, giving feedback on writing & speaking, and holding weekly office hours",
+            "institution": "Ohio State University",
+            "end_year": 2016,
+            "status": 1,
+            "certificate": "Proof of current employment",
+            "cert_id": "1C707460-172B-412C-96F6-AB60493B0C52"
+          },
+          {
+            "create_time": "2018-02-01T07:13:06Z",
+            "file_ext": "pdf",
+            "description": "120 Hour Professional Teaching English as a Foreign Language Program",
+            "institution": "myTEFL",
+            "end_year": 2018,
+            "status": 1,
+            "certificate": "TEFL",
+            "cert_id": "415E1D4B-38AF-490D-9EA9-2452AD94DC7C"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "TEFL",
+            "institution": "myTEFL",
+            "end_year": 2018,
+            "status": 1,
+            "description": "120 Hour Professional Teaching English as a Foreign Language Program",
+            "type": ""
+          },
+          {
+            "certificate": "Proof of current employment",
+            "institution": "Ohio State University",
+            "end_year": 2016,
+            "status": 1,
+            "description": "Served as the independent instructor for one French class (beginner & intermediate) each semester, including summer term. In charge of creating all lesson plans, teaching all sessions, writing quizzes and exams, grading, giving feedback on writing & speaking, and holding weekly office hours",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 823,
+            "user_id": 3235658,
+            "start_year": 2011,
+            "end_year": 2017,
+            "institution": "The Ohio State University",
+            "institution_type": "public_education",
+            "position": "Graduate Teaching Associate",
+            "country": "US",
+            "city": "Columbus",
+            "description": "Taught beginner and intermediate French classes to hundreds of students. All materials and tests prepared by me. All evaluations done by me.",
+            "create_at": "2024-03-05T13:14:51Z",
+            "create_by": "3235658",
+            "update_at": "2024-03-05T13:14:51Z",
+            "update_by": "3235658",
+            "status": 1
+          },
+          {
+            "id": 827,
+            "user_id": 3235658,
+            "start_year": 2016,
+            "end_year": 2024,
+            "institution": "italki",
+            "institution_type": "self_employed_online",
+            "position": "Private teacher",
+            "country": "US",
+            "city": "",
+            "description": "Taught over 3000 lessons to over 300 students. Average of 11 lessons per student. My students improved their ability to communicate in French through a story-based approach.",
+            "create_at": "2024-03-05T13:16:45Z",
+            "create_by": "3235658",
+            "update_at": "2024-03-05T13:16:45Z",
+            "update_by": "3235658",
+            "status": 1
+          }
+        ],
+        "offline_reason": "Travel",
+        "personal_tag": [],
+        "teacher_child_tag": [
+          {
+            "tag_name": "DELF",
+            "full_name": "Dipl\u00f4me d'\u00e9tudes en langue fran\u00e7aise",
+            "language": "french"
+          }
+        ],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1700,
+        "min_price": 4200,
+        "trial_session_count": 0,
+        "trial_description": "This is an opportunity to meet, discuss your language goals and for me to evaluate your current level. We'll dive right into storytelling so that you get an idea of what lessons are like."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 5428,
+        "exam_type": 0,
+        "level": "C2+",
+        "score": "119.00",
+        "show_badge": 1,
+        "show_score": 1,
+        "url_id": 2865816955,
+        "user_id": 3235658
+      },
+      "pro_course_detail": [
+        {
+          "id": 50871,
+          "teacher_id": 3235658,
+          "language": "french",
+          "title": "French through Storytelling (click for description)",
+          "description": "We learn languages through stories. When you book these lessons, I will send you a story that I write myself (transcript + recording). During the session we discuss your thoughts on the story, then practice further listening and commentary. The listening portion and questions are created carefully to enrich your vocabulary, improve your comprehension, and elicit the use of new grammatical structures. If your goals include understanding natural spoken French, speaking fluently, making the interaction a pleasure for all involved, and having meaningful conversations, these lessons are for you. The students who have enjoyed and gotten the most value from these lessons typically book a package: the better I know you as a student, the more tailored the stories are to your current level, interests and language goals. I've written travel stories, twists on Greek mythology, mysteries and fantastical tales, it all depends on what captures your interest.\n\nThis course includes:\n-a story with a transcript, recording, discussion questions, vocabulary & notes on grammar sent before the lesson (the \"exposure\" to the language)\n-a session that includes a listening activity (the 2nd part of the story) and focused questions intended to elicit rapid, accurate responses using the new words and structures presented.\n-occasional assessment of current areas of weakness + mini tasks/exercises to address these\n\nCANCELLATIONS/RESCHEDULING/LATE ARRIVALS/NO-SHOWS\nCancelling and rescheduling require at least 24h notice, preferably more because I typically have materials ready 2 days before. I will be there during the scheduled session. I don't reschedule for no shows or stay longer than scheduled if you are late.\n\nPACKAGE DURATION\nMust be used within six months of purchase. If you can't commit to 2-3 lessons per month, it's best to purchase individual lessons as needed.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 4200,
+          "student_count": 50,
+          "session_count": 1040,
+          "create_time": "2017-02-16T23:40:33Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 18000,
+              "session_price": 2100,
+              "course_id": 50871,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 91984
+            },
+            {
+              "package_price": 25500,
+              "session_price": 2100,
+              "course_id": 50871,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 781933
+            },
+            {
+              "package_price": 26000,
+              "session_price": 3200,
+              "course_id": 50871,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 475873
+            },
+            {
+              "package_price": 37500,
+              "session_price": 3200,
+              "course_id": 50871,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 781934
+            },
+            {
+              "package_price": 33000,
+              "session_price": 4200,
+              "course_id": 50871,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 91985
+            },
+            {
+              "package_price": 48000,
+              "session_price": 4200,
+              "course_id": 50871,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 781932
+            }
+          ]
+        },
+        {
+          "id": 52048,
+          "teacher_id": 3235658,
+          "language": "english",
+          "title": "English through Storytelling (click for description)",
+          "description": "We learn languages through stories. When you book these lessons, I will send you a story that I write myself (transcript + recording). During the session we discuss your thoughts on the story, then practice further listening and commentary. The listening portion and questions are created carefully to enrich your vocabulary, improve your comprehension, and elicit the use of new grammatical structures. If your goals include understanding natural spoken English, speaking fluently, making the interaction a pleasure for all involved, and having meaningful conversations, these lessons are for you. The students who have enjoyed and gotten the most value from these lessons typically book a package: the better I know you as a student, the more tailored the stories are to your current level, interests and language goals. I've written travel stories, twists on Greek mythology, mysteries and fantastical tales, it all depends on what captures your interest.\n\nThis course includes:\n-a story with a transcript, recording, discussion questions, vocabulary & notes on grammar sent before the lesson (the \"exposure\" to the language)\n-a session that includes a listening activity (the 2nd part of the story) and focused questions intended to elicit rapid, accurate responses using the new words and structures presented.\n-occasional assessment of current areas of weakness + mini tasks/exercises to address these\n\nCANCELLATIONS/RESCHEDULING/LATE ARRIVALS/NO SHOWS\nCancelling and rescheduling require at least 24h notice, preferably more because I typically have materials ready 2 days before. I will be there during the scheduled session. I don't reschedule for no shows or stay longer than scheduled if you are late.\n\nPACKAGE DURATION\nMust be used within six months of purchase. If you can't commit to 2-3 lessons per month, it's best to purchase individual lessons as needed.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 4200,
+          "student_count": 20,
+          "session_count": 128,
+          "create_time": "2017-03-15T21:35:57Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 18000,
+              "session_price": 2100,
+              "course_id": 52048,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 94666
+            },
+            {
+              "package_price": 25500,
+              "session_price": 2100,
+              "course_id": 52048,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 781972
+            },
+            {
+              "package_price": 26000,
+              "session_price": 3200,
+              "course_id": 52048,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 475874
+            },
+            {
+              "package_price": 37500,
+              "session_price": 3200,
+              "course_id": 52048,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 781973
+            },
+            {
+              "package_price": 33000,
+              "session_price": 4200,
+              "course_id": 52048,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 94667
+            },
+            {
+              "package_price": 48000,
+              "session_price": 4200,
+              "course_id": 52048,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 781971
+            }
+          ]
+        },
+        {
+          "id": 54726,
+          "teacher_id": 3235658,
+          "language": "mauritiancreole",
+          "title": "Mauritian Creole through Storytelling (click for description)",
+          "description": "We learn languages through stories. When you book these lessons, I will send you a story that I write myself (transcript + recording). During the session we discuss your thoughts on the story, then practice further listening and commentary. The listening portion and questions are created carefully to enrich your vocabulary, improve your comprehension, and elicit the use of new grammatical structures. If your goals include understanding natural spoken Mauritian Creole, speaking fluently, making the interaction a pleasure for all involved, and having meaningful conversations, these lessons are for you. The students who have enjoyed and gotten the most value from these lessons typically book a package: the better I know you as a student, the more tailored the stories are to your current level, interests and language goals. I've written travel stories, twists on Greek mythology, mysteries and fantastical tales, it all depends on what captures your interest.\n\nThis course includes:\n-a story with a transcript, recording, discussion questions, vocabulary & notes on grammar sent before the lesson (the \"exposure\" to the language)\n-a session that includes a listening activity (the 2nd part of the story) and focused questions intended to elicit rapid, accurate responses using the new words and structures presented.\n-occasional assessment of current areas of weakness + mini tasks/exercises to address these\n\nCANCELLATIONS/RESCHEDULING/LATE ARRIVALS/NO SHOWS\nCancelling and rescheduling require at least 24h notice, preferably more because I typically have materials ready 2 days before. I will be there during the scheduled session. I don't reschedule for no shows or stay longer than scheduled if you are late.\n\nPACKAGE DURATION\nMust be used within six months of purchase. If you can't commit to 2-3 lessons per month, it's best to purchase individual lessons as needed.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 4000,
+          "student_count": 24,
+          "session_count": 156,
+          "create_time": "2017-06-19T08:03:31Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 18000,
+              "session_price": 2000,
+              "course_id": 54726,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 101139
+            },
+            {
+              "package_price": 25500,
+              "session_price": 2000,
+              "course_id": 54726,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 781983
+            },
+            {
+              "package_price": 26000,
+              "session_price": 3000,
+              "course_id": 54726,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 475875
+            },
+            {
+              "package_price": 37500,
+              "session_price": 3000,
+              "course_id": 54726,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 781984
+            },
+            {
+              "package_price": 34000,
+              "session_price": 4000,
+              "course_id": 54726,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 101140
+            },
+            {
+              "package_price": 48000,
+              "session_price": 4000,
+              "course_id": 54726,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 781982
+            }
+          ]
+        },
+        {
+          "id": 112706,
+          "teacher_id": 3235658,
+          "language": "french",
+          "title": "1-time coaching",
+          "description": "Do you like being in control of your own language acquisition plan? Don't want to follow a teacher's book or preferred method? Unsure how to use all the resources at your disposal? Have questions about the \"best\" way to learn? I can help.\n\nWhether you want to improve your listening comprehension, speak more fluently and clearly in sepcific situations (travel, interviews, casual and formal settings), read more easily or write better, I can help you build your study plan.\n\nIncludes:\n1 detailed break-down of my own approach to languages (not just generic tips such as \"listen to music in the target language\" or \"watch movies\")\n2 resource recommendations specific to your target language and interests (the more you tell me about yourself and why you are learning this language, the better the recommendations)\n3 my evaluation of apps/methods/books you are considering\n\nBook at least a week before to give me time to prepare, especially if you want me to evaluate other resources.\n\nIf the lesson needs to be scheduled, it should be done at least 24 hours ahead of time. I will be present during the schedule lesson and will not reschedule if you no-show. If you arrive late, the lesson will stil end at the official end time.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 9000,
+          "student_count": 5,
+          "session_count": 24,
+          "create_time": "2020-05-06T21:45:23Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 9000,
+              "session_price": 9000,
+              "course_id": 112706,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 252368
+            }
+          ]
+        },
+        {
+          "id": 120218,
+          "teacher_id": 3235658,
+          "language": "spanish",
+          "title": "Better Spanish: Intentional Practice + Corrections + Recommendations (see description)",
+          "description": "To get better at a language, we not only have to spend a lot of time observing native speakers using it, listening to and reading content in the language, but also engage in mindful practice and honest, direct feedback from a teacher. If your goals include speaking well, going beyond the most basic communication, making the interaction a pleasure for all involved, and having meaningful conversations, you need focused, intentional practice in the areas that are the most difficult and uncomfortable for you right now. Repeatedly having the same conversations about familiar topics and making the same mistakes without trying to pause, reflect, and  correct yourself will not lead to any measurable progress even if you have invested hours and money into the project of foreign language learning. If you want to improve and use your time and money wisely, book this course.\n\nDuring these lessons, I will:\n-assess your areas of weakness, the ones most in need of attention.\n-provide you with exercises/tasks that isolate this area (listening comprehension, pronunciation, a particular aspect of the grammar) so that you get focused practice.\n-give you immediate feedback on whether you have understood the concept and whether you are improving.\n-explain to you how to correct an error / help you improve your pronunciation or listening on the spot.\n-provide recommendations for listening and reading in the form of podcasts, videos, songs, articles and other material to supplement lessons.\n\nCANCELLATIONS/RESCHEDULING/LATE ARRIVALS/NO SHOWS\nCancelling and rescheduling require at least 24h notice, preferably more because I typically have materials ready 2 days before. I will be there during the scheduled session. I don't reschedule for no shows or stay longer than scheduled if you are late.\n\nPACKAGE DURATION\nMust be used within six months of purchase. If you can't commit to 2-3 lessons per month, it's best to purchase individual lessons as needed.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1850,
+          "student_count": 17,
+          "session_count": 206,
+          "create_time": "2020-06-29T15:56:17Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 120218,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 469222
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1000,
+              "course_id": 120218,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 782005
+            },
+            {
+              "package_price": 12500,
+              "session_price": 1450,
+              "course_id": 120218,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 475878
+            },
+            {
+              "package_price": 17250,
+              "session_price": 1450,
+              "course_id": 120218,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 782006
+            },
+            {
+              "package_price": 15500,
+              "session_price": 1850,
+              "course_id": 120218,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 274134
+            },
+            {
+              "package_price": 21750,
+              "session_price": 1850,
+              "course_id": 120218,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 782004
+            }
+          ]
+        },
+        {
+          "id": 120220,
+          "teacher_id": 3235658,
+          "language": "spanish",
+          "title": "Spanish through Storytelling (click for description)",
+          "description": "We learn languages through stories. When you book these lessons, I will send you a story that I write myself (transcript + recording). During the session we discuss your thoughts on the story, then practice further listening and commentary. The listening portion and questions are created carefully to enrich your vocabulary, improve your comprehension, and elicit the use of new grammatical structures. If your goals include understanding natural spoken Spanish, speaking fluently, making the interaction a pleasure for all involved, and having meaningful conversations, these lessons are for you. The students who have enjoyed and gotten the most value from these lessons typically book a package: the better I know you as a student, the more tailored the stories are to your current level, interests and language goals. I've written travel stories, twists on Greek mythology, mysteries and fantastical tales, it all depends on what captures your interest.\n\nThis course includes:\n-a story with a transcript, recording, discussion questions, vocabulary & notes on grammar sent before the lesson (the \"exposure\" to the language)\n-a session that includes a listening activity (the 2nd part of the story) and focused questions intended to elicit rapid, accurate responses using the new words and structures presented.\n-occasional assessment of current areas of weakness + mini tasks/exercises to address these\n\nCANCELLATIONS/RESCHEDULING/LATE ARRIVALS/NO SHOWS\nCancelling and rescheduling require at least 24h notice, preferably more because I typically have materials ready 2 days before. I will be there during the scheduled session. I don't reschedule for no shows or stay longer than scheduled if you are late.\n\nPACKAGE DURATION\nMust be used within six months of purchase. If you can't commit to 2-3 lessons per month, it's best to purchase individual lessons as needed.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 3200,
+          "student_count": 7,
+          "session_count": 138,
+          "create_time": "2020-06-29T16:05:21Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 13000,
+              "session_price": 1600,
+              "course_id": 120220,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 469223
+            },
+            {
+              "package_price": 18750,
+              "session_price": 1600,
+              "course_id": 120220,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 781991
+            },
+            {
+              "package_price": 20000,
+              "session_price": 2400,
+              "course_id": 120220,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 475879
+            },
+            {
+              "package_price": 27750,
+              "session_price": 2400,
+              "course_id": 120220,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 781992
+            },
+            {
+              "package_price": 26000,
+              "session_price": 3200,
+              "course_id": 120220,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 274138
+            },
+            {
+              "package_price": 38250,
+              "session_price": 3200,
+              "course_id": 120220,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 781990
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 20.0
+          },
+          {
+            "month": 1,
+            "data": 24.0
+          },
+          {
+            "month": 2,
+            "data": 18.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 3758,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 26242196,
+        "nickname": "Cheikh DIAKITE",
+        "avatar_file_name": "T262421960",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "MR",
+        "is_online": 0,
+        "living_country_id": "SN",
+        "origin_city_id": "MR00001",
+        "origin_city_name": "Nouakchott",
+        "living_city_id": "SN00021",
+        "living_city_name": "Mbour",
+        "timezone": "Africa/Dakar",
+        "last_login_time": "2025-03-30T21:54:02+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/0aFG9bDsTu0",
+        "video_pic_url": "https://img.youtube.com/vi/0aFG9bDsTu0/0.jpg",
+        "intro": "I\u2019m Cheikh, a passionate language educator with over 12 years of experience as a tech entrepreneur and Health Data Scientist. My journey from a French native speaker to a bilingual professional excelling in technology, healthcare, and business has shaped my unique teaching approach. I\u2019ve honed advanced fluency in conversational, business, tech, and medical English while maintaining native-level mastery of French.\n\nMy mission is to empower learners like you to achieve fluency through personalized, goal-oriented lessons. Whether you\u2019re preparing for exams (IELTS, TOEFL, TOEIC, GMAT, and more), advancing your career, or mastering specialized jargon, I\u2019m here to guide you every step of the way.",
+        "short_signature": "English & French Tutor | Unlock your fluency now!",
+        "teach_language": [
+          {
+            "language": "french",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2025-02-28T21:29:51Z",
+        "session_count": 0,
+        "pro_rating": "0.0",
+        "tutor_rating": "0.0",
+        "overall_rating": "0.0",
+        "qiniu_video_url": "https://v.italki.cn/FDD437E9-83A9-434B-8E92-25B18F692C8C.mp4",
+        "cover_name": "u/26242196/cover/cv4qsh0pppot0dgc3q6g.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/0aFG9bDsTu0.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I\u2019m Cheikh, a passionate language educator with over 12 years of experience as a tech entrepreneur and Health Data Scientist. My journey from a French native speaker to a bilingual professional excelling in technology, healthcare, and business has shaped my unique teaching approach. I\u2019ve honed advanced fluency in conversational, business, tech, and medical English while maintaining native-level mastery of French.\n\nMy mission is to empower learners like you to achieve fluency through personalized, goal-oriented lessons. Whether you\u2019re preparing for exams (IELTS, TOEFL, TOEIC, GMAT, and more), advancing your career, or mastering specialized jargon, I\u2019m here to guide you every step of the way.",
+        "about_teacher": "\u2728 I\u2019m Not Just Another Teacher\u2014I\u2019m Your Success Partner \u2728\nI don\u2019t settle for mediocrity, and neither should you. My students know I push them to excel because I believe in their potential. Whether you\u2019re aiming for conversational ease, business acumen, or technical precision, I\u2019ll guide you step-by-step with a blend of challenge and encouragement.\n\nMy teaching philosophy is simple yet powerful: raise the bar high while keeping things engaging. I combine strict standards with practical tools to create a supportive and dynamic learning environment. My lessons are immersive, actionable, and tailored to your goals.",
+        "teaching_style": "My lessons blend real-world expertise with immersive techniques, ensuring fluency that aligns with your aspirations. Here\u2019s how I approach teaching:\n\nLevels Covered: From A1 to C2 in both English and French.\nSpecializations: Conversational, business, tech, and medical English/French.\nExam Preparation: IELTS, TOEFL, TOEIC... and Cambridge exams (KET, PET, FCE, CAE, CPE), as well as TFI, DELF, DALF, TEF for French mastery.\nFocus Areas: Pronunciation, accent reduction, interview prep, writing, literature, and specialized vocabulary.\n\nI use interactive tools and practical exercises to make learning engaging and transformative.",
+        "is_student_full": 0,
+        "student_count": 0,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2025-02-28T21:29:51+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "University of the People",
+            "major": "Health Science",
+            "level": 1,
+            "description": "As a Health Science graduate, I have developed a comprehensive and multidisciplinary understanding of disease prevention and the enhancement of societal health. My education encompassed the intricate interplay of social, behavioral, and biological determinants of health and illness, providing me with a robust analytical foundation for developing data-driven healthcare strategies.",
+            "start_year": 2017,
+            "end_year": 2025,
+            "status": 1,
+            "create_time": "2025-03-02T07:38:58Z",
+            "edu_id": "55E1F347-36D0-4981-B6D0-C36C3A59A0B0"
+          },
+          {
+            "institution": "Universit\u00e9 de Nice - Sophia Antipolis",
+            "major": "Science",
+            "level": 11,
+            "start_year": 2017,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2025-03-02T07:39:40Z",
+            "edu_id": "86011146-7CB3-4C89-AEAD-C2CF79220942"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 4,
+        "has_trial": 1,
+        "trial_price": 700,
+        "min_price": 1200,
+        "trial_session_count": 0,
+        "trial_description": "Discover Your Path to Language Mastery with a Bilingual Tech Professional\nReady to experience a truly transformative approach to language learning? This 60-minute trial session introduces you to my unique teaching methodology, shaped by my journey from native speaker to bilingual professional in tech and healthcare environments.\n\n\ud83d\udd39 Personalized Language Assessment (15 minutes)\nWhether you're learning English or French, we'll begin by evaluating your current proficiency, identifying specific challenges, and understanding your learning style. This targeted assessment allows me to craft a learning approach that works specifically for you.\n\n\ud83d\udd39 Immersive Practice Experience (30 minutes)\nDive into practical conversation scenarios tailored to your goals\u2014whether that's casual conversation, travel preparation, or professional communication. You'll experience firsthand how my interactive teaching methodology combines high standards with engaging, relevant exercises.\n\n\ud83d\udd39 Strategic Learning Roadmap (15 minutes)\nWe'll conclude by designing a personalized learning plan aligned with your specific objectives\u2014from exam preparation to professional advancement or cultural immersion.\n\n\ud83c\udf1f What Makes My Approach Different:\nMy 12+ years in tech entrepreneurship and health data science have equipped me with specialized language expertise in both English and French that transcends traditional language instruction.\n\nI specialize in:\n\u2705 Building natural conversation skills for everyday situations\n\u2705 Developing precise pronunciation and authentic accent\n\u2705 Navigating cultural nuances essential for true fluency\n\u2705 Tailoring lessons to your specific learning style and goals\n\nFrom beginner to advanced, my methodology accelerates your progress through personalized attention. Book today and experience learning with someone who truly understands your journey from both sides!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 26242196
+      },
+      "pro_course_detail": [
+        {
+          "id": 262832,
+          "teacher_id": 26242196,
+          "language": "english",
+          "title": "Master Natural English Pronunciation: From Basic Sounds to Flowing Conversation with a Native-Like Accent",
+          "description": "Transform your everyday English communication with this targeted pronunciation masterclass designed by someone who's successfully navigated the exact journey you're on \u2013 from non-native speaker to fluent, natural-sounding English speaker. I've designed this lesson to address the specific challenges that prevent you from sounding natural and confident in everyday conversations and social interactions.\n\n\ud83d\udd39 Why This Lesson Is Different\nUnlike generic pronunciation courses, this lesson focuses on the specific sounds and patterns most crucial for natural communication. Having navigated the transition from French to English myself, I can pinpoint exactly where your accent might be creating barriers to clear understanding.\n\n\u2705 What We'll Cover:\n\u27a4 Precise articulation of challenging English phonemes that typically trouble non-native speakers\n\u27a4 Natural rhythm and intonation patterns used in everyday conversations\n\u27a4 Stress placement techniques that instantly make your speech sound more natural\n\u27a4 Reduction and linking strategies employed by native speakers in casual settings\n\n\ud83d\udd39 Practical Application:\nYou'll practice with real-world scenarios from ordering at restaurants to making small talk at social gatherings. We'll use recording and playback techniques to help you identify and correct patterns in your speech.\n\n\u2705 Personalized Feedback:\nYour pronunciation challenges are unique to your native language and personal speech patterns. I'll provide targeted feedback and customized exercises addressing your specific obstacles to clear, natural English pronunciation.\n\n\ud83d\udd39 Measurable Outcomes:\n\u2714 By the end of this lesson, you'll have practical techniques to:\n\u2714 Pronounce common English words and phrases with confidence\n\u2714 Reduce accent interference during everyday conversations\n\u2714 Apply natural intonation patterns that enhance your conversational fluency\n\u2714 Self-correct your pronunciation using the techniques I'll teach you",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0083",
+            "T0001",
+            "T0005"
+          ],
+          "session_price": 1200,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-07T17:10:40Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5500,
+              "session_price": 1200,
+              "course_id": 262832,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 823835
+            },
+            {
+              "package_price": 10500,
+              "session_price": 1200,
+              "course_id": 262832,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 823836
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1200,
+              "course_id": 262832,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 823838
+            },
+            {
+              "package_price": 19000,
+              "session_price": 1200,
+              "course_id": 262832,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 823837
+            }
+          ]
+        },
+        {
+          "id": 262833,
+          "teacher_id": 26242196,
+          "language": "english",
+          "title": "Everyday English Conversation Mastery: Speak Naturally and Confidently in Social Settings, Travel Situations, and Daily Interactions",
+          "description": "Elevate your everyday English conversation skills with this practical, immersive lesson designed by someone who understands exactly what it takes to transition from textbook English to natural, flowing conversation.\n\nThis isn't just another English conversation class\u2014it's a guided practice session that helps you bridge the gap between knowing English grammar and vocabulary and actually using the language confidently in real-life situations.\n\n\ud83d\udd39 Beyond Basic English\nWhile most courses teach standard phrases, this lesson focuses on the natural conversational patterns, cultural references, and social cues that make your English sound authentic rather than rehearsed.\n\n\u2705 What We'll Master:\n\u27a4 Natural conversation starters and transitions for different social contexts\n\u27a4 Active listening techniques that improve comprehension and show engagement\n\u27a4 Idiomatic expressions and colloquialisms used in everyday conversation\n\u27a4 Appropriate responses to common questions and conversation topics\n\n\ud83d\udd39 Real-World Application:\nThrough dynamic role plays and guided conversations, you'll practice:\n\u27a1 Navigating casual social interactions with confidence\n\u27a1 Handling common travel and daily life situations (restaurants, shops, etc.)\n\u27a1 Sharing personal stories and opinions in engaging ways\n\u27a1 Maintaining conversations with appropriate turn-taking and follow-up questions\n\n\u2705 Tailored to Your Interests:\nI personalize conversation topics to match your hobbies, travel plans, or daily activities, making our practice both relevant and engaging for your specific needs.\n\n\ud83d\udd39 Your Transformation:\nBy the end of our session, you'll have practical techniques to:\n\u2714 Initiate and maintain natural conversations with native English speakers\n\u2714 Express yourself with greater fluency and less hesitation\n\u2714 Navigate cultural nuances that often cause misunderstandings\n\u2714 Adapt your communication style to different casual settings",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-07T17:15:24Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5500,
+              "session_price": 1200,
+              "course_id": 262833,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 823839
+            },
+            {
+              "package_price": 10500,
+              "session_price": 1200,
+              "course_id": 262833,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 823840
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1200,
+              "course_id": 262833,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 823841
+            },
+            {
+              "package_price": 19000,
+              "session_price": 1200,
+              "course_id": 262833,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 823842
+            }
+          ]
+        },
+        {
+          "id": 262835,
+          "teacher_id": 26242196,
+          "language": "french",
+          "title": "French Pronunciation Mastery: Unlock Authentic Accent and Natural Speech Patterns for Real-Life Conversations",
+          "description": "Discover the secrets to sounding authentically French in this specialized pronunciation lesson designed by a native French speaker who understands exactly what makes non-native speech instantly recognizable. I've crafted this lesson to address the specific challenges that prevent you from blending in during your travels, cultural exchanges, or everyday interactions with French speakers.\n\n\ud83d\udd39 Beyond Basic Pronunciation Rules\nThis isn't about textbook French\u2014it's about real, living French as it's spoken in caf\u00e9s, markets, and homes across the Francophone world. We'll focus on the subtle nuances that transform academic French into natural, flowing speech.\n\n\u2705 What you'll Master:\n\u27a4 The musicality and rhythm patterns unique to authentic French speech\n\u27a4 Liaisons, encha\u00eenements, and elisions that native speakers use unconsciously\n\u27a4 Regional accent awareness to help you understand different French speakers\n\u27a4 Mouth positioning techniques for producing traditionally difficult French sounds\n\n\ud83d\udd39 Practical Application:\nYou'll practice with real-world scenarios you're likely to encounter:\n\u27a1 Ordering in restaurants and navigating markets with confidence\n\u27a1 Making small talk that sounds natural, not rehearsed\n\u27a1 Telling stories and expressing opinions with authentic intonation\n\u27a1 Understanding and responding to rapid, casual French speech\n\n\u2705 Personalized Approach:\nAs a native French speaker who has mastered English, I can precisely identify how your native language influences your French pronunciation and provide targeted techniques to overcome these specific patterns.\n\n\ud83d\udd39 Lasting Results:\nBy the end of our session, you'll have:\n\u2714 Practical techniques to continue improving your pronunciation independently\n\u2714 Increased confidence for real-world French conversations\n\u2714 A better ear for authentic French speech patterns\n\u2714 The ability to self-correct using the methods I'll teach you",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0083",
+            "T0001",
+            "T0005"
+          ],
+          "session_price": 1200,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-07T17:28:50Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5500,
+              "session_price": 1200,
+              "course_id": 262835,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 823847
+            },
+            {
+              "package_price": 10500,
+              "session_price": 1200,
+              "course_id": 262835,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 823848
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1200,
+              "course_id": 262835,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 823849
+            },
+            {
+              "package_price": 19000,
+              "session_price": 1200,
+              "course_id": 262835,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 823850
+            }
+          ]
+        },
+        {
+          "id": 262836,
+          "teacher_id": 26242196,
+          "language": "french",
+          "title": "Authentic French Conversation: Master Cultural Nuances and Daily Expressions for Travel, Social Connection, and Personal Enrichment",
+          "description": "Elevate your French beyond textbook phrases to truly connect with the culture and people in this immersive conversation lesson designed by a native speaker with extensive cross-cultural experience. As someone who understands both French and English-speaking worlds intimately, I've designed this session to bridge the gap between academic French and the living language you'll encounter in real-world settings.\n\n\ud83d\udd39 Cultural Fluency, Not Just Linguistic Fluency\nThis lesson focuses on the cultural context that gives French its richness and subtlety. You'll learn not just what to say, but how to say it in ways that resonate authentically with native speakers.\n\n\u2705 What We'll Explore:\n\u27a4 Conversational rituals and social codes essential for genuine connection\n\u27a4 Regional expressions and cultural references that enrich your speech\n\u27a4 Idiomatic expressions that reveal cultural values and perspectives\n\u27a4 Non-verbal communication patterns that complement your spoken French\n\n\ud83d\udd39 Real-Life Application:\nThrough dynamic role plays and guided conversations, you'll practice:\n\u27a1 Navigating everyday situations from shopping to socializing\n\u27a1 Expressing opinions and emotions with cultural appropriateness\n\u27a1 Telling stories and sharing experiences in engaging ways\n\u27a1 Adapting your communication style to different contexts and relationships\n\n\u2705 Personalized Experience:\nDrawing on my background spanning technology, healthcare, and entrepreneurship, I can tailor our conversation topics to your specific interests, whether they're cultural, culinary, literary, artistic, or practical.\n\n\ud83d\udd39 Your Transformation:\nBy the end of our session, you'll be equipped to:\n\u2714 Engage in authentic conversations that go beyond tourist phrases\n\u2714 Express yourself with the natural flow and cultural awareness of a near-native speaker\n\u2714 Navigate subtle social cues and conversational nuances\n\u2714 Connect more meaningfully with French speakers in any context",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-07T17:34:28Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5500,
+              "session_price": 1200,
+              "course_id": 262836,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 823852
+            },
+            {
+              "package_price": 10500,
+              "session_price": 1200,
+              "course_id": 262836,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 823853
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1200,
+              "course_id": 262836,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 823855
+            },
+            {
+              "package_price": 19000,
+              "session_price": 1200,
+              "course_id": 262836,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 823854
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 0,
+        "response_rate": 0,
+        "attendance_rate": 0,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 4,
+    "price_list": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-32-4c9a-8be5-e14f9e70892f-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 4
+  },
+  "paging": {
+    "page": 1,
+    "page_size": 20,
+    "total": 4,
+    "has_next": 0
+  }
+}

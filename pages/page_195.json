@@ -1,0 +1,4018 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 8894013,
+        "nickname": "Maryam",
+        "avatar_file_name": "T088940130",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "TR",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "ZZ00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Istanbul",
+        "last_login_time": "2025-04-01T11:37:50+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/rrWCW4JDxcI",
+        "video_pic_url": "https://img.youtube.com/vi/rrWCW4JDxcI/0.jpg",
+        "intro": "My name is Maryam and apart from English, I also speak Turkish and Persian. I am passionate about learning and teaching languages because I believe learning a new language is the key to understanding a new culture. Being well-traveled and exposed to different cultures has helped me successfully teach languages to students from other countries. Your personal interests will form the topics for our lessons together. During our conversations, I will listen carefully to you and advise you of the adjustments you may need to make to your pronunciation, lexical, or grammatical choices in order to help you become an articulate and coherent speaker.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "persian(farsi)",
+            "level": 7
+          },
+          {
+            "language": "azerbaijani",
+            "level": 5
+          },
+          {
+            "language": "turkish",
+            "level": 5
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-06-08T21:30:33Z",
+        "session_count": 468,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/E5187C2A-F127-4FBB-8892-292ECEA67EE5.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/rrWCW4JDxcI.jpg",
+        "teacher_material_list": [
+          1,
+          4,
+          7,
+          2,
+          8,
+          5,
+          3,
+          6,
+          9,
+          12,
+          10
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "My name is Maryam and apart from English, I also speak Turkish and Persian. I am passionate about learning and teaching languages because I believe learning a new language is the key to understanding a new culture. Being well-traveled and exposed to different cultures has helped me successfully teach languages to students from other countries. Your personal interests will form the topics for our lessons together. During our conversations, I will listen carefully to you and advise you of the adjustments you may need to make to your pronunciation, lexical, or grammatical choices in order to help you become an articulate and coherent speaker.",
+        "about_teacher": "I have a CELTA diploma -- Certificate in Teaching English to Speakers of Other Languages -- from the University of Cambridge and 20 years of experience teaching English in both face-to-face and online classes. \nI teach any level of English between beginner and advanced, helping my students to hone each and every one of the four skills-- reading, listening, speaking, and writing. I truly enjoy teaching and helping people achieve their language learning goals.",
+        "teaching_style": "My students' needs and preferences are the basis of my lesson planning and I believe that if we collaborate together and find out about the language areas and skills that we need to focus on, then we can agree on goals. Whether your goal is to improve your general English or acquire a certain score in IELTS, TOEFL, etc., I will help you achieve it through tailor-made lessons for you.\nIn your lessons with me, your participation in the class will be at the highest of levels and additionally, you will be actively involved in the lessons through speaking practices. To help you achieve optimal success - at the end of each session, I will always provide you with constructive feedback.",
+        "is_student_full": 0,
+        "student_count": 30,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-06-11T14:54:32+00:00",
+        "exp_info": [
+          {
+            "country": "IR",
+            "city": "Tehran",
+            "company": "Simin Educational Association",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2002,
+            "end_year": 2016,
+            "status": 1,
+            "create_time": "2021-05-21T20:50:45Z",
+            "exp_id": 107399
+          },
+          {
+            "country": "IR",
+            "city": "Tehran",
+            "company": "Self-employed",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "One-to-one and Online teaching",
+            "start_year": 2016,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2021-05-21T20:54:23Z",
+            "exp_id": 107400
+          }
+        ],
+        "edu_info": [],
+        "cert_info": [
+          {
+            "create_time": "2021-05-21T21:25:17Z",
+            "update_time": "2021-05-21T21:25:17Z",
+            "file_ext": "jpg",
+            "institution": "Cambridge University",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "CELTA",
+            "cert_id": "17B1095E-42AA-4E3B-9018-938D960DE51D"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "CELTA",
+            "institution": "Cambridge University",
+            "end_year": 2021,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 800,
+        "min_price": 1500,
+        "trial_session_count": 0,
+        "trial_description": "During a trial lesson, I will asses student's level of English language knowledge and will identify their strength and weakness points. Then I and the learner will discuss which areas of the language and which skills need to be focused on and decide on objectives and goals. Finally I will explain how I will help them achieve the mentioned objectives and goals."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 8894013
+      },
+      "pro_course_detail": [
+        {
+          "id": 153480,
+          "teacher_id": 8894013,
+          "language": "english",
+          "title": "General English",
+          "description": "The main focus of this lesson is improving students' general knowledge of the English language by focusing on four skills including speaking, writing, reading, and listening. The students can choose to concentrate on one particular skill or more, based on their needs and preferences.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 1500,
+          "student_count": 12,
+          "session_count": 200,
+          "create_time": "2021-06-11T14:34:05Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 22000,
+              "session_price": 1500,
+              "course_id": 153480,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 770234
+            },
+            {
+              "package_price": 29500,
+              "session_price": 1500,
+              "course_id": 153480,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 770238
+            },
+            {
+              "package_price": 22000,
+              "session_price": 1500,
+              "course_id": 153480,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 770236
+            },
+            {
+              "package_price": 29500,
+              "session_price": 1500,
+              "course_id": 153480,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 770237
+            },
+            {
+              "package_price": 29500,
+              "session_price": 2000,
+              "course_id": 153480,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 770235
+            },
+            {
+              "package_price": 39500,
+              "session_price": 2000,
+              "course_id": 153480,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 770239
+            }
+          ]
+        },
+        {
+          "id": 153744,
+          "teacher_id": 8894013,
+          "language": "english",
+          "title": "Conversation practice",
+          "description": "conversation sessions will be helpful and fun lessons with the topics of your interests and preferences. we can have open conversation lessons in which the conversation will take place without previous planning or any special material, just like conversation in real life.\nWe can also have structured conversation sessions based around a previously selected topic, featuring an article to prompt and drive the conversation. I can include teaching vocabulary and grammatical features present in the article if needed.",
+          "level_lower_limit": 3,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 13,
+          "session_count": 195,
+          "create_time": "2021-06-12T13:07:18Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 22000,
+              "session_price": 1500,
+              "course_id": 153744,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 770240
+            },
+            {
+              "package_price": 29500,
+              "session_price": 1500,
+              "course_id": 153744,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 770244
+            },
+            {
+              "package_price": 22000,
+              "session_price": 1500,
+              "course_id": 153744,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 770241
+            },
+            {
+              "package_price": 29500,
+              "session_price": 1500,
+              "course_id": 153744,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 770243
+            },
+            {
+              "package_price": 29500,
+              "session_price": 2000,
+              "course_id": 153744,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 770242
+            },
+            {
+              "package_price": 39500,
+              "session_price": 2000,
+              "course_id": 153744,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 770245
+            }
+          ]
+        },
+        {
+          "id": 154212,
+          "teacher_id": 8894013,
+          "language": "english",
+          "title": "Grammar structures , vocabulary",
+          "description": "I teach grammatical structures and vocabulary in a communicative and practicable way and include enough controlled and the freer practice of the already learnt items in each session. My students use the learnt grammar or vocabulary items in speaking or writing practices in order to produce the language of their own at each lesson.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0006"
+          ],
+          "session_price": 1500,
+          "student_count": 1,
+          "session_count": 3,
+          "create_time": "2021-06-14T19:39:54Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 22000,
+              "session_price": 1500,
+              "course_id": 154212,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 770246
+            },
+            {
+              "package_price": 29500,
+              "session_price": 1500,
+              "course_id": 154212,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 770250
+            },
+            {
+              "package_price": 22000,
+              "session_price": 1500,
+              "course_id": 154212,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 770247
+            },
+            {
+              "package_price": 29500,
+              "session_price": 1500,
+              "course_id": 154212,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 770249
+            },
+            {
+              "package_price": 29500,
+              "session_price": 2000,
+              "course_id": 154212,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 770248
+            },
+            {
+              "package_price": 39500,
+              "session_price": 2000,
+              "course_id": 154212,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 770251
+            }
+          ]
+        },
+        {
+          "id": 163083,
+          "teacher_id": 8894013,
+          "language": "english",
+          "title": "English for beginners",
+          "description": "You can start to learn English with me at any age you are, even if you are an absolute beginner.\nI know how to plan easy and understandable lessons for you based on what your goal is for learning English.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0003",
+            "T0005"
+          ],
+          "session_price": 1500,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2021-07-12T20:59:42Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 22000,
+              "session_price": 1500,
+              "course_id": 163083,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 770252
+            },
+            {
+              "package_price": 29500,
+              "session_price": 1500,
+              "course_id": 163083,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 770256
+            },
+            {
+              "package_price": 22000,
+              "session_price": 1500,
+              "course_id": 163083,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 770253
+            },
+            {
+              "package_price": 29500,
+              "session_price": 1500,
+              "course_id": 163083,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 770255
+            },
+            {
+              "package_price": 29500,
+              "session_price": 2000,
+              "course_id": 163083,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 770254
+            },
+            {
+              "package_price": 39500,
+              "session_price": 2000,
+              "course_id": 163083,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 770257
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 15.0
+          },
+          {
+            "month": 2,
+            "data": 13.0
+          },
+          {
+            "month": 3,
+            "data": 11.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 0.92
+          }
+        ],
+        "finished_session": 468,
+        "response_rate": 0.99,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 3449499,
+        "nickname": "Furkan",
+        "avatar_file_name": "3T034494990",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "TR",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "TR00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Istanbul",
+        "last_login_time": "2025-04-01T09:14:33+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/wuLBHiwPBik",
+        "video_pic_url": "https://img.youtube.com/vi/wuLBHiwPBik/0.jpg",
+        "intro": "I am a native Turkish speaker. I am a student at a med school in \u0130stanbul. I am looking for students learning Turkish (for all levels) and English (beginner,elemantary and pre-intermediate). If you have any question, please feel free to ask.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "turkish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2016-08-10T07:43:51Z",
+        "session_count": 4352,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/italki10001426.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/wuLBHiwPBik.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "Hello! \nI am a native Turkish speaker. I am a university student at a medical faculty in \u0130stanbul. I am here to teach you Turkish. I can help all level Turkish learners from A1 (Beginner) to C1(Advanced). \n\nServices: \n.Regular lesson plan \n.Speaking lessons \n\nBefore applying any of my lessons: \n\nWhen you contact me, I will ask you to take a free Turkish level test, so I can organize lessons for you. In addition to this, I will ask you to introduce yourself, so I can add special materials according to your likes or I can change the way lessons will be taught. \n\nBefore you lessons: \n\nBefore at each lesson, I will send you some documents that I am going to teach you from. There could be some tasks for you to do before lessons or not. During lessons: We will have 5 different parts: Vocublary, Grammar, Reading, Exercises and Activity. Lessons will not only contain information. You will could see somethiing from Turkish culture or a funny Turkish story or anything (video, pic...) I am not a comedian, I cannot make you laugh a lot. Furthermore I am good at teaching but I am not really funny :D. However, I will try my best at this area, too. \n\nAfter lessons: \n\nAfter each lesson, I will send you exercises or a quiz over Edmodo or Google Form. You will have some easy question to remind you our lesson. Not to make you bored, I will try to keep exercises and quizzes short. \n\nYou can ask me any question you have, please feel free to ask :) \n\nThis my my regular plan for lessons. However, if you are A2 (Elemantary), B1(Pre-intermediate), B1+ (Intermadiate), B2 (Upper-int) or C1 (advanced) we can follow an other stuructre. My personal suggestion is that if you are not beginner, you should talk. So, we can choose a topic for those level and make a conversation with about that topic. \n\nFinally, if you have any suggestion about lessons or anything, feedbacks are welcomed.",
+        "about_me": "I am a native Turkish speaker. I am a student at a med school in \u0130stanbul. I am looking for students learning Turkish (for all levels) and English (beginner,elemantary and pre-intermediate). If you have any question, please feel free to ask.",
+        "about_teacher": "",
+        "teaching_style": null,
+        "is_student_full": 0,
+        "student_count": 461,
+        "teacher_tag": [
+          1,
+          3,
+          4
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 600,
+        "min_price": 1000,
+        "trial_session_count": 0,
+        "trial_description": "Hello! \nI am a native Turkish speaker. I am a university student at a medical faculty in \u0130stanbul. I am here to teach you Turkish. I can help all level Turkish learners from A1 (Beginner) to C1(Advanced). \n\nServices: \n.Regular lesson plan \n.Speaking lessons \n\nBefore applying any of my lessons: \n\nWhen you contact me, I will ask you to take a free Turkish level test, so I can organize lessons for you. In addition to this, I will ask you to introduce yourself, so I can add special materials according to your likes or I can change the way lessons will be taught. \n\nBefore you lessons: \n\nBefore at each lesson, I will send you some documents that I am going to teach you from. There could be some tasks for you to do before lessons or not. During lessons: We will have 5 different parts: Vocublary, Grammar, Reading, Exercises and Activity. Lessons will not only contain information. You will could see somethiing from Turkish culture or a funny Turkish story or anything (video, pic...) I am not a comedian, I cannot make you laugh a lot. Furthermore I am good at teaching but I am not really funny :D. However, I will try my best at this area, too. \n\nAfter lessons: \n\nAfter each lesson, I will send you exercises or a quiz over Edmodo or Google Form. You will have some easy question to remind you our lesson. Not to make you bored, I will try to keep exercises and quizzes short. \n\nYou can ask me any question you have, please feel free to ask :) \n\nThis my my regular plan for lessons. However, if you are A2 (Elemantary), B1(Pre-intermediate), B1+ (Intermadiate), B2 (Upper-int) or C1 (advanced) we can follow an other stuructre. My personal suggestion is that if you are not beginner, you should talk. So, we can choose a topic for those level and make a conversation with about that topic. \n\nFinally, if you have any suggestion about lessons or anything, feedbacks are welcomed."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 3449499
+      },
+      "pro_course_detail": [
+        {
+          "id": 44663,
+          "teacher_id": 3449499,
+          "language": "turkish",
+          "title": "Informal Tutoring",
+          "description": "Hello! \nI am a native Turkish speaker. I am a university student at a medical faculty in \u0130stanbul. I am here to teach you Turkish. I can help all level Turkish learners from A1 (Beginner) to C1(Advanced). \n\nServices: \n.Regular lesson plan \n.Speaking lessons \n\nBefore applying any of my lessons: \n\nWhen you contact me, I will ask you to take a free Turkish level test, so I can organize lessons for you. In addition to this, I will ask you to introduce yourself, so I can add special materials according to your likes or I can change the way lessons will be taught. \n\nBefore you lessons: \n\nBefore at each lesson, I will send you some documents that I am going to teach you from. There could be some tasks for you to do before lessons or not. During lessons: We will have 5 different parts: Vocublary, Grammar, Reading, Exercises and Activity. Lessons will not only contain information. You will could see somethiing from Turkish culture or a funny Turkish story or anything (video, pic...) I am not a comedian, I cannot make you laugh a lot. Furthermore I am good at teaching but I am not really funny :D. However, I will try my best at this area, too. \n\nAfter lessons: \n\nAfter each lesson, I will send you exercises or a quiz over Edmodo or Google Form. You will have some easy question to remind you our lesson. Not to make you bored, I will try to keep exercises and quizzes short. \n\nYou can ask me any question you have, please feel free to ask :) \n\nThis my my regular plan for lessons. However, if you are A2 (Elemantary), B1(Pre-intermediate), B1+ (Intermadiate), B2 (Upper-int) or C1 (advanced) we can follow an other stuructre. My personal suggestion is that if you are not beginner, you should talk. So, we can choose a topic for those level and make a conversation with about that topic. \n\nFinally, if you have any suggestion about lessons or anything, feedbacks are welcomed.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 295,
+          "session_count": 3387,
+          "create_time": "2016-08-10T13:39:54Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 600,
+              "session_price": 600,
+              "course_id": 44663,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 400773
+            },
+            {
+              "package_price": 3750,
+              "session_price": 750,
+              "course_id": 44663,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 298891
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 44663,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 147415
+            }
+          ]
+        },
+        {
+          "id": 127466,
+          "teacher_id": 3449499,
+          "language": "english",
+          "title": "English",
+          "description": "Hello! \nI am a native Turkish speaker. I am a university student at a medical faculty in \u0130stanbul. I am here to teach you Turkish. I can help all level Turkish learners from A1 (Beginner) to C1(Advanced). \n\nServices: \n.Regular lesson plan \n.Speaking lessons \n\nBefore applying any of my lessons: \n\nWhen you contact me, I will ask you to take a free Turkish level test, so I can organize lessons for you. In addition to this, I will ask you to introduce yourself, so I can add special materials according to your likes or I can change the way lessons will be taught. \n\nBefore you lessons: \n\nBefore at each lesson, I will send you some documents that I am going to teach you from. There could be some tasks for you to do before lessons or not. During lessons: We will have 5 different parts: Vocublary, Grammar, Reading, Exercises and Activity. Lessons will not only contain information. You will could see somethiing from Turkish culture or a funny Turkish story or anything (video, pic...) I am not a comedian, I cannot make you laugh a lot. Furthermore I am good at teaching but I am not really funny :D. However, I will try my best at this area, too. \n\nAfter lessons: \n\nAfter each lesson, I will send you exercises or a quiz over Edmodo or Google Form. You will have some easy question to remind you our lesson. Not to make you bored, I will try to keep exercises and quizzes short. \n\nYou can ask me any question you have, please feel free to ask :) \n\nThis my my regular plan for lessons. However, if you are A2 (Elemantary), B1(Pre-intermediate), B1+ (Intermadiate), B2 (Upper-int) or C1 (advanced) we can follow an other stuructre. My personal suggestion is that if you are not beginner, you should talk. So, we can choose a topic for those level and make a conversation with about that topic. \n\nFinally, if you have any suggestion about lessons or anything, feedbacks are welcomed.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 1000,
+          "student_count": 49,
+          "session_count": 365,
+          "create_time": "2020-09-24T09:25:06Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 600,
+              "session_price": 600,
+              "course_id": 127466,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 296404
+            },
+            {
+              "package_price": 3750,
+              "session_price": 750,
+              "course_id": 127466,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 296917
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 127466,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 296403
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 12.0
+          },
+          {
+            "month": 1,
+            "data": 12.0
+          },
+          {
+            "month": 2,
+            "data": 16.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 0.93
+          },
+          {
+            "month": 2,
+            "data": 0.91
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.94
+          }
+        ],
+        "finished_session": 4351,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 21992154,
+        "nickname": "Oguzhan",
+        "avatar_file_name": "1T219921540",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 1,
+        "living_country_id": "DE",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "DE00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Berlin",
+        "last_login_time": "2025-04-01T20:20:19+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/hsZ-vmb6cqU",
+        "video_pic_url": "https://img.youtube.com/vi/hsZ-vmb6cqU/0.jpg",
+        "intro": "Since my school days, I have been teaching students on the side in various areas, including the German language. Now, I would like to help you with that!\nFor more than a decade, I have been offering private tutoring services, dedicating my expertise to helping students excel. In addition to that, I hold a position as a teacher at a private institution, where I continue to contribute to the academic growth of learners.",
+        "short_signature": "From A0 to C1 in no time - your best choice! \u2714\ufe0f",
+        "teach_language": [
+          {
+            "language": "german",
+            "level": 7
+          },
+          {
+            "language": "turkish",
+            "level": 7
+          },
+          {
+            "language": "arabic",
+            "level": 6
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "russian",
+            "level": 2
+          },
+          {
+            "language": "spanish",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2024-03-01T10:04:36Z",
+        "session_count": 144,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/A1AC93B0-437B-41B1-8A2D-402CCCDCDA32.mp4",
+        "cover_name": "u/21992154/cover/colvt95r7jhv52an81rg.jpg",
+        "instant_lesson_status": 1,
+        "qiniu_video_pic_url": "https://v.italki.cn/hsZ-vmb6cqU.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 1,
+        "introduction": "",
+        "about_me": "Since my school days, I have been teaching students on the side in various areas, including the German language. Now, I would like to help you with that!\nFor more than a decade, I have been offering private tutoring services, dedicating my expertise to helping students excel. In addition to that, I hold a position as a teacher at a private institution, where I continue to contribute to the academic growth of learners.",
+        "about_teacher": "For more than a decade, I have been offering private tutoring services, dedicating my expertise to helping students excel. In addition to that, I hold a position as a teacher at a private institution, where I continue to contribute to the academic growth of learners.\nExpect both rewarding lessons and personalized methods designed just for you. We'll work together to enhance your language skills. I'm excited to be a part of your progress!",
+        "teaching_style": "I can help improve your writing, reading, speaking, and listening skills. As a proficient internet user, I can find effective materials like apps, short films, podcasts, and enjoyable readings for you. Feel free to email me anytime with questions; you don't need to wait for lesson time. Don't hesitate to reach out or write to me.",
+        "is_student_full": 0,
+        "student_count": 59,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": ".",
+        "apply_status": 9,
+        "first_complete_time": "2024-03-01T10:04:36+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [
+          {
+            "id": 63,
+            "user_id": 21992154,
+            "start_year": 2023,
+            "end_year": 2024,
+            "institution": "Preply",
+            "institution_type": "private_education_center",
+            "position": "Online-Tutor",
+            "country": "DE",
+            "city": "",
+            "description": "",
+            "create_at": "2024-03-01T20:18:09Z",
+            "create_by": "21992154",
+            "update_at": "2024-03-01T20:18:09Z",
+            "update_by": "21992154",
+            "status": 1
+          }
+        ],
+        "offline_reason": ".",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          },
+          {
+            "name": "quiz",
+            "created_count": 36
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1200,
+        "min_price": 2200,
+        "trial_session_count": 49,
+        "trial_description": "Experience a non-binding trial lesson with me as your teacher! In these thirty minutes, we'll get to know each other, discuss your learning goals, and talk about my teaching style. I will strive to understand your individual needs and create a learning plan for you. Whether you're a beginner or looking to enhance your skills, this trial lesson provides you with the opportunity to take your language proficiency to the next level. Book your free trial lesson now!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 21992154
+      },
+      "pro_course_detail": [
+        {
+          "id": 244508,
+          "teacher_id": 21992154,
+          "language": "turkish",
+          "title": "Easy Turkish - Kolay T\u00fcrk\u00e7e",
+          "description": "In this session, we'll focus on conversation skills rather than traditional book work or worksheets.\nIf you prefer a structured approach with grammar and textbooks, you're welcome to explore my other lesson option.\n\nTURKISH\nBu dersimizde, konu\u015fma yetene\u011fini geli\u015ftirece\u011fiz. Geleneksel kitap \u00e7al\u0131\u015fmas\u0131 veya \u00e7al\u0131\u015fma sayfalar\u0131 yerine daha \u00e7ok konu\u015fma pratikleri yapaca\u011f\u0131z.\nE\u011fer kitap \u00e7al\u0131\u015fmas\u0131 ve gramara daha fazla \u00f6nem veriyorsan\u0131z, di\u011fer dersimi se\u00e7ebilirsin.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 4000,
+          "student_count": 4,
+          "session_count": 14,
+          "create_time": "2024-03-01T09:13:10Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 11900,
+              "session_price": 2500,
+              "course_id": 244508,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 651594
+            },
+            {
+              "package_price": 15000,
+              "session_price": 3300,
+              "course_id": 244508,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 693231
+            },
+            {
+              "package_price": 14900,
+              "session_price": 4000,
+              "course_id": 244508,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 651576
+            }
+          ]
+        },
+        {
+          "id": 245863,
+          "teacher_id": 21992154,
+          "language": "german",
+          "title": "From Any Level to C2",
+          "description": "This is my general language course for all who want to learn German. I can help you in becoming a C1 fastly with my highly effective method. Try it out and you'll get convinced immediately. :)",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0005",
+            "T0083"
+          ],
+          "session_price": 4000,
+          "student_count": 10,
+          "session_count": 43,
+          "create_time": "2024-04-26T19:30:20Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2000,
+              "session_price": 2000,
+              "course_id": 245863,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 838500
+            },
+            {
+              "package_price": 13900,
+              "session_price": 3000,
+              "course_id": 245863,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 657731
+            },
+            {
+              "package_price": 19900,
+              "session_price": 4000,
+              "course_id": 245863,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 656237
+            },
+            {
+              "package_price": 49900,
+              "session_price": 4000,
+              "course_id": 245863,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 838501
+            },
+            {
+              "package_price": 65000,
+              "session_price": 4000,
+              "course_id": 245863,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 754750
+            }
+          ]
+        },
+        {
+          "id": 246881,
+          "teacher_id": 21992154,
+          "language": "german",
+          "title": "Conversational German A0 to C2",
+          "description": "Here we just make conversations with me writing down your wrong and the corrected sentences. You will here effectively learn by context.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 4000,
+          "student_count": 12,
+          "session_count": 38,
+          "create_time": "2024-05-08T14:38:25Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 9500,
+              "session_price": 2000,
+              "course_id": 246881,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 659111
+            },
+            {
+              "package_price": 14400,
+              "session_price": 3000,
+              "course_id": 246881,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 660865
+            },
+            {
+              "package_price": 18900,
+              "session_price": 4000,
+              "course_id": 246881,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 659110
+            },
+            {
+              "package_price": 65000,
+              "session_price": 4000,
+              "course_id": 246881,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 754752
+            }
+          ]
+        },
+        {
+          "id": 257288,
+          "teacher_id": 21992154,
+          "language": "english",
+          "title": "Conversational English",
+          "description": "Hello everyone! Welcome to my conversational lesson designed for beginner and intermediate English speakers. In these sessions, you'll have plenty of opportunities to speak as much as possible while we avoid using other languages. The more English you practice, the better you'll get!",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2200,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-12-19T14:54:03Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1100,
+              "session_price": 1100,
+              "course_id": 257288,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 691791
+            },
+            {
+              "package_price": 1600,
+              "session_price": 1600,
+              "course_id": 257288,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 691792
+            },
+            {
+              "package_price": 11000,
+              "session_price": 2200,
+              "course_id": 257288,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 692466
+            }
+          ]
+        },
+        {
+          "id": 260652,
+          "teacher_id": 21992154,
+          "language": "arabic",
+          "title": "Modern Standard Arabic - Fusha",
+          "description": "Hello everyone, in this course, I will be teaching you Modern Standard Arabic. I have extensive experience working with students in real-life settings, which has greatly enhanced my teaching skills.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-02-04T13:25:07Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7400,
+              "session_price": 1500,
+              "course_id": 260652,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 794771
+            },
+            {
+              "package_price": 14400,
+              "session_price": 1500,
+              "course_id": 260652,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 794772
+            },
+            {
+              "package_price": 19900,
+              "session_price": 1500,
+              "course_id": 260652,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 794773
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 18.0
+          },
+          {
+            "month": 2,
+            "data": 9.0
+          },
+          {
+            "month": 3,
+            "data": 2.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.91
+          },
+          {
+            "month": 3,
+            "data": 0.5
+          }
+        ],
+        "finished_session": 144,
+        "response_rate": 0.96,
+        "attendance_rate": 0.95,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 5084131,
+        "nickname": "Yavuzcan",
+        "avatar_file_name": "1T050841310",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "TR",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "ZZ00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Istanbul",
+        "last_login_time": "2025-03-31T13:53:28+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/5AvQ2dpGtec",
+        "video_pic_url": "https://img.youtube.com/vi/5AvQ2dpGtec/0.jpg",
+        "intro": "Merhaba / Hello! I love having conversations, getting to know new people, learning about different cultures, and everything about languages. I also love teaching since it gives me the opportunity to do all these at once. What I love is to make people comfortable around me; I never prefer to make people feel that there is no space for humor in my classes. I believe fun and learning go together well",
+        "short_signature": "A facilitator who shares his knowledge",
+        "teach_language": [
+          {
+            "language": "turkish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2018-04-11T10:44:32Z",
+        "session_count": 133,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/xitalki10008419.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/5AvQ2dpGtec.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          9,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Merhaba / Hello! I love having conversations, getting to know new people, learning about different cultures, and everything about languages. I also love teaching since it gives me the opportunity to do all these at once. What I love is to make people comfortable around me; I never prefer to make people feel that there is no space for humor in my classes. I believe fun and learning go together well",
+        "about_teacher": "I graduated from English Language Teaching in Marmara University, Istanbul. I worked for a few years in a private school. Since 2013, I have taught in one of the universities in Turkey. Personally, I wouldn't only think about experience when it comes to finding a good teacher. I have seen many naive teachers who do a great job or vice versa. I guess good teaching is some sort of agreement between the personality and the requirements of the job of teaching.  As a teacher, I believe my strengths would be to anticipate well what difficulties a student may have through the process of learning a language and to be able to simplify complicated points. You can say better after taking classes...",
+        "teaching_style": "If communication is your main goal, we don't have to speak a common language. But if you want to have a grammar-based class (due to your personality or aims), then speaking a COMMON LANGUAGE would be my preference. For communication, my method is little grammar and much practice. For other purposes (exams or writing), you can learn very subtle grammar points with me. My classes will always be shaped around your needs. Also, I will always be guiding you about how to learn a language for a specific purpose. For the materials, we can ascertain their inclusion after trial classes.\nI have experience of teaching to people who want to learn a language for business or for common exams.",
+        "is_student_full": 0,
+        "student_count": 37,
+        "teacher_tag": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "teacher_child_tag_id_list": [
+          1,
+          2,
+          3,
+          21,
+          23,
+          24
+        ],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "TR",
+            "city": "\u0130stanbul",
+            "company": "Marmara University",
+            "job": "Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2012,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2018-04-06T22:28:07Z",
+            "exp_id": 33829
+          },
+          {
+            "country": "TR",
+            "city": "\u0130stanbul",
+            "company": "Just English Language Schools",
+            "job": "English Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2011,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2018-04-06T22:29:11Z",
+            "exp_id": 33830
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "\u00c7ukurova University",
+            "major": "English Language Teaching",
+            "level": 2,
+            "start_year": 2015,
+            "end_year": 2018,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2022-09-17T13:03:27Z",
+            "edu_id": "E0325694-C5BF-48ED-9CB7-660E4EA536DB"
+          },
+          {
+            "institution": "Marmara University",
+            "major": "English Language Teaching",
+            "level": 1,
+            "start_year": 2008,
+            "end_year": 2012,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2018-04-07T22:11:08Z",
+            "edu_id": "E0A100EB-4953-4350-A794-1B514C7247A3"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2018-04-06T22:34:57Z",
+            "file_ext": "jpg",
+            "institution": "\u00c7ukurova University",
+            "end_year": 2016,
+            "status": 1,
+            "certificate": "Teaching Turkish",
+            "cert_id": "EEF8E175-4DD1-4320-8156-B71B33FE7D67"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Teaching Turkish",
+            "institution": "\u00c7ukurova University",
+            "end_year": 2016,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [
+          {
+            "tag_name": "IELTS",
+            "full_name": "International English Language Testing System",
+            "language": "english"
+          },
+          {
+            "tag_name": "TOEFL",
+            "full_name": "Test of English as a Foreign Language",
+            "language": "english"
+          },
+          {
+            "tag_name": "TOEIC",
+            "full_name": "Test of English for International Communication",
+            "language": "english"
+          },
+          {
+            "tag_name": "FCE",
+            "full_name": "First Certificate in English",
+            "language": "english"
+          },
+          {
+            "tag_name": "PET",
+            "full_name": "Preliminary English Test (PET)",
+            "language": "english"
+          },
+          {
+            "tag_name": "CAE",
+            "full_name": "Cambridge English: Advanced (CAE)",
+            "language": "english"
+          }
+        ],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 700,
+        "min_price": 1000,
+        "trial_session_count": 0,
+        "trial_description": "Trail lessons might be particularly helpful for the learners who are curious about the content and methodology of the classes. Also, it helps the teacher know about the needs and expectations of learners."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 5084131
+      },
+      "pro_course_detail": [
+        {
+          "id": 98999,
+          "teacher_id": 5084131,
+          "language": "english",
+          "title": "Practice of English Language",
+          "description": "In these lessons, learners will have the opportunity to practice their English language skills. If requested, the help to revise grammar points will be provided as well.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002"
+          ],
+          "session_price": 1000,
+          "student_count": 4,
+          "session_count": 5,
+          "create_time": "2020-02-05T17:43:05Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 98999,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 215854
+            }
+          ]
+        },
+        {
+          "id": 99000,
+          "teacher_id": 5084131,
+          "language": "turkish",
+          "title": "Turkish Classes",
+          "description": "In these lessons, Turkish will be taught according to your needs and goals. The focus of the lesson and use of materials will be designed based on your preferences.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 1400,
+          "student_count": 13,
+          "session_count": 51,
+          "create_time": "2020-02-05T17:44:43Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1400,
+              "session_price": 1400,
+              "course_id": 99000,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 215855
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 4.0
+          },
+          {
+            "month": 2,
+            "data": 3.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 133,
+        "response_rate": 0.97,
+        "attendance_rate": 0.97,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 6117102,
+        "nickname": "Yusuf",
+        "avatar_file_name": "3T061171020",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "GB",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "GB00051",
+        "living_city_name": "Kingston upon Hull",
+        "timezone": "Europe/Istanbul",
+        "last_login_time": "2025-03-31T18:05:35+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/n3IkIm8yP3M",
+        "video_pic_url": "https://img.youtube.com/vi/n3IkIm8yP3M/0.jpg",
+        "intro": "Hi there! This is Yusuf, Turkish and English teacher with over 5 years experience, currently living in Hull, United Kingdom. I love travelling abroad! I have been to many European countries. Also I lived in London and Krakow for a long time.\nI am always excited to talk about any area of philosophy and history. I love to discuss about history, learn new things about cultures and of course I have a great interest in languages. Moreover, I'm interested in marketing as it's my specialty. I love sports, I have been playing tennis since I was a kid and I'd say I am a good swimmer. Looking forward to seeing you!",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "turkish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 3
+          },
+          {
+            "language": "polish",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2019-03-26T11:41:00Z",
+        "session_count": 1229,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/451B281B-AA54-4E4A-B66F-9AE593DE1F53.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/n3IkIm8yP3M.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi there! This is Yusuf, Turkish and English teacher with over 5 years experience, currently living in Hull, United Kingdom. I love travelling abroad! I have been to many European countries. Also I lived in London and Krakow for a long time.\nI am always excited to talk about any area of philosophy and history. I love to discuss about history, learn new things about cultures and of course I have a great interest in languages. Moreover, I'm interested in marketing as it's my specialty. I love sports, I have been playing tennis since I was a kid and I'd say I am a good swimmer. Looking forward to seeing you!",
+        "about_teacher": "I have been teaching English and Turkish for over 5 years. I have experience teaching languages both in-person and online. I love teaching languages! One of the reasons I love teaching languages is to meet people from all over the world and learn about new cultures. I am usually very flexible in my lessons. I always try to focus on my student's needs and work on them. My teaching style is fun and informal, yet structured and organised. Most of my students say I'm very funny and they don't understand how time passes. I've got many grammar books and exercises for Turkish and English, so you won't have any problem about materials.",
+        "teaching_style": "I always build my lessons with my student's goals in mind. In our lessons  I love to laugh and get to know people. I want you to feel comfortable and relaxed to learn with me. I like to include various activities and tasks within the lessons as well as learning new vocabulary relating to what we have learned in class. \nI teach beginner up to advanced level and my lessons are suitable for anyone who wants to learn a new language or brush up their language skills. I can help with vocabulary, grammar, conversation speaking, and test preparation. Also, we will talk about interesting topics to improve your speaking skills.",
+        "is_student_full": 0,
+        "student_count": 169,
+        "teacher_tag": [
+          1,
+          2,
+          3
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 2000,
+        "trial_session_count": 0,
+        "trial_description": "Let's get to know each other! We can discuss your goals and difficulties while also running a short lesson to determine your level and needs. I look forward to meeting with you and up-leveling your English and Turkish skills!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 6117102
+      },
+      "pro_course_detail": [
+        {
+          "id": 79879,
+          "teacher_id": 6117102,
+          "language": "english",
+          "title": "English Lessons A1-C1",
+          "description": "I have a lot of experience helping my students with their English grammar. These lessons are for everyone who wants to learn English grammar.\nI can give General English lessons A1 to C1. I have many materials to improve your listening, reading, writing skills.",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 2000,
+          "student_count": 38,
+          "session_count": 211,
+          "create_time": "2019-03-26T13:52:55Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12500,
+              "session_price": 1300,
+              "course_id": 79879,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 284972
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 79879,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 306761
+            },
+            {
+              "package_price": 19000,
+              "session_price": 2000,
+              "course_id": 79879,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 163493
+            }
+          ]
+        },
+        {
+          "id": 79880,
+          "teacher_id": 6117102,
+          "language": "turkish",
+          "title": "Turkish Lessons A1-C2",
+          "description": "I have a lot of experience helping my students with their Turkish grammar. These lessons are for everyone who wants to learn Turkish grammar.\nI can give General Turkish lessons A1 to C2. I have many  materials to improve your listening, reading, writing skills.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 2200,
+          "student_count": 66,
+          "session_count": 585,
+          "create_time": "2019-03-26T13:53:34Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 14500,
+              "session_price": 1500,
+              "course_id": 79880,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 288019
+            },
+            {
+              "package_price": 18000,
+              "session_price": 1900,
+              "course_id": 79880,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 229206
+            },
+            {
+              "package_price": 21000,
+              "session_price": 2200,
+              "course_id": 79880,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 163494
+            }
+          ]
+        },
+        {
+          "id": 80169,
+          "teacher_id": 6117102,
+          "language": "turkish",
+          "title": "Let's talk in Turkish!",
+          "description": "In these conversation lessons, we will look at countless different topics that will help you improve your speaking skills. These topics can include culture, food, travel, social issues, study, music and many more! I will prepare materials for us to focus on. I will have a focus on your pronunciation. I look forward to have some great conversations with you!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2200,
+          "student_count": 25,
+          "session_count": 171,
+          "create_time": "2019-04-02T12:32:40Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 14500,
+              "session_price": 1500,
+              "course_id": 80169,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 288020
+            },
+            {
+              "package_price": 18000,
+              "session_price": 1900,
+              "course_id": 80169,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 264005
+            },
+            {
+              "package_price": 21000,
+              "session_price": 2200,
+              "course_id": 80169,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 164230
+            }
+          ]
+        },
+        {
+          "id": 106386,
+          "teacher_id": 6117102,
+          "language": "english",
+          "title": "Conversation Practice",
+          "description": "This lesson is for students who just need to practice speaking.  I will help with pronunciation and building vocabulary on the topics we discuss in a relaxed environment. Hope to see you soon!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2000,
+          "student_count": 34,
+          "session_count": 159,
+          "create_time": "2020-04-07T21:10:22Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12500,
+              "session_price": 1300,
+              "course_id": 106386,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 284973
+            },
+            {
+              "package_price": 16500,
+              "session_price": 1700,
+              "course_id": 106386,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 306760
+            },
+            {
+              "package_price": 19000,
+              "session_price": 2000,
+              "course_id": 106386,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 235910
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 4.0
+          },
+          {
+            "month": 3,
+            "data": 5.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.8
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 1229,
+        "response_rate": 1,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 5998691,
+        "nickname": "G\u00f6khan",
+        "avatar_file_name": "T059986910",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "BA",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "BA00021",
+        "living_city_name": "Mostar",
+        "timezone": "Europe/Istanbul",
+        "last_login_time": "2025-04-01T10:39:49+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/Xjtevlvs6vk",
+        "video_pic_url": "https://img.youtube.com/vi/Xjtevlvs6vk/0.jpg",
+        "intro": "Hi, everybody! As a native Turkish who is willing to learn new languages, I have my Bachelor's degree in English Language and Literature from the University of Mostar, Bosnia and Herzegovina. I continue to improve my skills for teaching Turkish as a foreign language. I am interested in photography, new cultures, and languages.\nHerkese merhaba! Bir T\u00fcrk olarak, Mostar \u00dcniversitesi \u0130ngiliz Dili ve Edebiyat\u0131 b\u00f6l\u00fcm\u00fcnden mezun oldum. Yabanc\u0131 dil olarak T\u00fcrk\u00e7e \u00f6\u011fretimi konusunda becerilerimi geli\u015ftirmeye devam ediyorum. Foto\u011fraf\u00e7\u0131l\u0131k, yeni k\u00fclt\u00fcrler ve diller benim ilgi alanlar\u0131mdan baz\u0131lar\u0131d\u0131r.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "turkish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "bosnian",
+            "level": 2
+          },
+          {
+            "language": "croatian",
+            "level": 2
+          },
+          {
+            "language": "german",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2019-08-01T10:45:51Z",
+        "session_count": 1892,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/xitalki100035612.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/Xjtevlvs6vk.jpg",
+        "teacher_material_list": [
+          1,
+          8
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi, everybody! As a native Turkish who is willing to learn new languages, I have my Bachelor's degree in English Language and Literature from the University of Mostar, Bosnia and Herzegovina. I continue to improve my skills for teaching Turkish as a foreign language. I am interested in photography, new cultures, and languages.\nHerkese merhaba! Bir T\u00fcrk olarak, Mostar \u00dcniversitesi \u0130ngiliz Dili ve Edebiyat\u0131 b\u00f6l\u00fcm\u00fcnden mezun oldum. Yabanc\u0131 dil olarak T\u00fcrk\u00e7e \u00f6\u011fretimi konusunda becerilerimi geli\u015ftirmeye devam ediyorum. Foto\u011fraf\u00e7\u0131l\u0131k, yeni k\u00fclt\u00fcrler ve diller benim ilgi alanlar\u0131mdan baz\u0131lar\u0131d\u0131r.",
+        "about_teacher": "\u0130htiya\u00e7lar\u0131n\u0131z do\u011frultusunda sizlere eksik oldu\u011funuz konularda baz\u0131 ek materyaller ile gereken yard\u0131m\u0131 sa\u011flamaya \u00e7al\u0131\u015f\u0131r\u0131m.\nI will try to do my best to help and improve your language skills with some additional materials.",
+        "teaching_style": "I will check your Turkish level and according to your level, I will try to prepare a plan for your lesson. We will talk about the topics and to practise some exercises. Everything will be planned. I kindly recommend you to keep notes during the lesson.",
+        "is_student_full": 0,
+        "student_count": 108,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1100,
+        "trial_session_count": 0,
+        "trial_description": "Verilecek dersler hakk\u0131nda k\u0131sa bilgilendirme ve k\u0131sa bir \u00f6rnek ders verilecektir. I will inform you about the course that I offer and you will have an example."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 5998691
+      },
+      "pro_course_detail": [
+        {
+          "id": 87700,
+          "teacher_id": 5998691,
+          "language": "turkish",
+          "title": "Pronunciation & Conversation Practice in Turkish / Telaffuz & Konu\u015fma Prati\u011fi (T\u00fcrk\u00e7e)",
+          "description": "I can help you on how to pronounce Turkish words correctly and have a conversation practice well. \nT\u00fcrk\u00e7e s\u00f6zc\u00fckleri do\u011fru telaffuz etmenize ve konu\u015fma prati\u011fi yapman\u0131za yard\u0131mc\u0131 olabilirim. :)",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1300,
+          "student_count": 95,
+          "session_count": 1848,
+          "create_time": "2019-08-12T17:55:10Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 650,
+              "course_id": 87700,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 221224
+            },
+            {
+              "package_price": 6250,
+              "session_price": 1300,
+              "course_id": 87700,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 184300
+            }
+          ]
+        },
+        {
+          "id": 236761,
+          "teacher_id": 5998691,
+          "language": "english",
+          "title": "\u0130ngilizce Konu\u015fma Prati\u011fi (English Practice)",
+          "description": "Dil bilgisi konular\u0131nda k\u0131sa a\u00e7\u0131klamalar ile birlikte \u00e7e\u015fitli konularda \u0130ngilizce - T\u00fcrk\u00e7e konu\u015fma prati\u011fi yapman\u0131za yard\u0131mc\u0131 olabilirim. :)",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1100,
+          "student_count": 2,
+          "session_count": 10,
+          "create_time": "2023-05-03T21:14:12Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 236761,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 623828
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1100,
+              "course_id": 236761,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 623827
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 11.0
+          },
+          {
+            "month": 2,
+            "data": 13.0
+          },
+          {
+            "month": 3,
+            "data": 8.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 1892,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 8207576,
+        "nickname": "Gizem",
+        "avatar_file_name": "T082075760",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "TR",
+        "origin_city_id": "TR00000",
+        "origin_city_name": "Other",
+        "living_city_id": "TR00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Istanbul",
+        "last_login_time": "2025-03-22T02:15:26+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/2P5pHW4GwYA",
+        "video_pic_url": "https://img.youtube.com/vi/2P5pHW4GwYA/0.jpg",
+        "intro": "Hi everyone! I'm Gizem and I'm from \u0130stanbul, Turkey. I love traveling, meeting people with various backgrounds and learning about new cultures. I'm also a big fan of roadtrips, amusement parks and watching netflix on a couch for hours on end! I'm so happy to meet you :)\n\nHerkese merhaba! Ben Gizem. 28 ya\u015f\u0131nday\u0131m ve \u0130stanbulluyum. Seyahat etmeyi, \u00e7e\u015fitli yerlerden gelen insanlarla tan\u0131\u015fmay\u0131 ve yeni k\u00fclt\u00fcrler hakk\u0131nda bilgi edinmeyi \u00e7ok severim. Ayr\u0131ca uzun araba yolculuklar\u0131na, lunaparklara ve saatlerce kanepede netflix izlemeye bay\u0131l\u0131r\u0131m! Tan\u0131\u015ft\u0131\u011f\u0131m\u0131za \u00e7ok sevindim :)",
+        "short_signature": "Community Tutor",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "turkish",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "french",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2021-12-22T13:04:51Z",
+        "session_count": 91,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/2A15F0BF-09F0-4F15-92C7-BA2EE2EDB95F.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/2P5pHW4GwYA.jpg",
+        "teacher_material_list": [
+          1,
+          6,
+          8,
+          2
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi everyone! I'm Gizem and I'm from \u0130stanbul, Turkey. I love traveling, meeting people with various backgrounds and learning about new cultures. I'm also a big fan of roadtrips, amusement parks and watching netflix on a couch for hours on end! I'm so happy to meet you :)\n\nHerkese merhaba! Ben Gizem. 28 ya\u015f\u0131nday\u0131m ve \u0130stanbulluyum. Seyahat etmeyi, \u00e7e\u015fitli yerlerden gelen insanlarla tan\u0131\u015fmay\u0131 ve yeni k\u00fclt\u00fcrler hakk\u0131nda bilgi edinmeyi \u00e7ok severim. Ayr\u0131ca uzun araba yolculuklar\u0131na, lunaparklara ve saatlerce kanepede netflix izlemeye bay\u0131l\u0131r\u0131m! Tan\u0131\u015ft\u0131\u011f\u0131m\u0131za \u00e7ok sevindim :)",
+        "about_teacher": "Growing up in a family of teachers I've always felt a natural affinity to teaching. I was always interested to interact with my mom's and other relatives' students and loved seeing how big of a difference teachers can make. It was a natural transition for me when I started tutoring others around the time I started high school. Although I didn't pursue it as a profession, I continued to tutor on and off voluntarily as I grew older. \n\n\u00d6\u011fretmen dolu bir ailede b\u00fcy\u00fcd\u00fcm ve k\u00fc\u00e7\u00fckken annemin \u00f6\u011frencileriyle vakit ge\u00e7irmek hep \u00e7ok ilgimi \u00e7ekti. Bu sayede \u00f6\u011fretmenlerin \u00f6\u011frencilerin hayatlar\u0131na etkilerini g\u00f6zlemledim. Ba\u015fkalar\u0131na ders vermek de benim i\u00e7in do\u011fal bir s\u00fcre\u00e7 olarak ba\u015flad\u0131.",
+        "teaching_style": "I don't believe in a one-size fits all curriculum and try to tailor my course content to my students' needs. I promise to make our time together as fun as possible, as learning a language should really not be a hassle!\n\nHerkese uyan standart m\u00fcfredatlarla \u00e7al\u0131\u015fman\u0131n g\u00fcn\u00fcm\u00fczde \u00e7o\u011fu ki\u015fi i\u00e7in faydal\u0131 oldu\u011funu d\u00fc\u015f\u00fcnm\u00fcyorum. Bu y\u00fczden derslerimi \u00f6\u011frencimin ihtiya\u00e7lar\u0131na g\u00f6re planlamay\u0131 tercih ediyorum. Beraber ge\u00e7irece\u011fimiz zaman\u0131n keyifli olmas\u0131 i\u00e7in elimden geleni yapaca\u011f\u0131ma s\u00f6z verebilirim. Sonu\u00e7ta yeni bir dil \u00f6\u011frenmek kimse i\u00e7in bir y\u00fck haline gelmemeli!",
+        "is_student_full": 0,
+        "student_count": 24,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-12-22T13:04:51+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1500,
+        "trial_session_count": 0,
+        "trial_description": "In this trial lesson, I would like to focus on us getting acquainted. We can start off by having a fun, casual conversation about any topic \u2014which would help me understand your level and needs better. We can also talk about your expectations and plan out a roadmap to help you improve your language skills."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 8207576
+      },
+      "pro_course_detail": [
+        {
+          "id": 202509,
+          "teacher_id": 8207576,
+          "language": "english",
+          "title": "Conversational English - Let's practice speaking!",
+          "description": "These lessons are prepared to help you with your speaking skills. We will be choosing themes to focus on (eg. current affairs, hobbies, grocery shopping, work-related discussions or anything else that's of interest to you) and dedicate each lesson to different topics.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 13,
+          "session_count": 61,
+          "create_time": "2021-12-22T11:28:25Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10000,
+              "session_price": 1100,
+              "course_id": 202509,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 513462
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1300,
+              "course_id": 202509,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 513580
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 202509,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 513461
+            }
+          ]
+        },
+        {
+          "id": 202550,
+          "teacher_id": 8207576,
+          "language": "turkish",
+          "title": "Speaking Practice - T\u00fcrk\u00e7e \u00d6\u011freniyorum!",
+          "description": "These lessons are prepared to help you with your speaking skills. We will be choosing themes to focus on (eg. current affairs, hobbies, grocery shopping, work-related discussions or anything else that's of interest to you) and dedicate each lesson to different topics.\n\nBu derste T\u00fcrk\u00e7e konu\u015fma becerinizi geli\u015ftirmek \u00fczerine \u00e7al\u0131\u015faca\u011f\u0131z. \u0130lginizi \u00e7eken, \u00fczerinde konu\u015fmak istedi\u011finiz konular\u0131 belirleyip derslerimizi bu konular \u00fczerine sohbet ederek ge\u00e7irece\u011fiz.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1400,
+          "student_count": 3,
+          "session_count": 12,
+          "create_time": "2021-12-22T14:47:22Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 11000,
+              "session_price": 1200,
+              "course_id": 202550,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 513588
+            },
+            {
+              "package_price": 13000,
+              "session_price": 1400,
+              "course_id": 202550,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 513587
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 91,
+        "response_rate": 0.98,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 9271360,
+        "nickname": "Tu\u011f\u00e7e Ba\u011fl\u0131o\u011flu",
+        "avatar_file_name": "13T092713600",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "PL",
+        "origin_city_id": "TR00000",
+        "origin_city_name": "Other",
+        "living_city_id": "PL00026",
+        "living_city_name": "Gdansk",
+        "timezone": "Europe/Warsaw",
+        "last_login_time": "2025-04-01T13:27:49+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/LOYWYFXJ0Bo",
+        "video_pic_url": "https://img.youtube.com/vi/LOYWYFXJ0Bo/0.jpg",
+        "intro": "Hi, I'm Tu\u011f\u00e7e,originally from the beautiful Republic of Turkey and currently living in Poland. I'm pursuing a master's in management while fueling my passion for languages and teaching. I've taught English to children in Denmark and Turkish to foreigners in Poland. With a diverse background, I bring creativity and captivating presentations to my lessons. \n\nMy background in Cinema and Television adds a unique twist to my teaching style. I've honed my presentation skills over the years, making my lessons engaging and captivating.Sharing my travel memories adds a fun element.  Let's make language learning immersive and memorable !",
+        "short_signature": "Passionate Community Teacher : Delving into Conversations,Uncovering the World Together!",
+        "teach_language": [
+          {
+            "language": "turkish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "polish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2022-04-02T15:06:45Z",
+        "session_count": 490,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/08DDFA00-3045-4550-8C2B-8524F09E4D74.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/LOYWYFXJ0Bo.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi, I'm Tu\u011f\u00e7e,originally from the beautiful Republic of Turkey and currently living in Poland. I'm pursuing a master's in management while fueling my passion for languages and teaching. I've taught English to children in Denmark and Turkish to foreigners in Poland. With a diverse background, I bring creativity and captivating presentations to my lessons. \n\nMy background in Cinema and Television adds a unique twist to my teaching style. I've honed my presentation skills over the years, making my lessons engaging and captivating.Sharing my travel memories adds a fun element.  Let's make language learning immersive and memorable !",
+        "about_teacher": "As a sociable teacher, my strength lies in effective communication. I love learning about cultures and exchanging experiences. In my conversation classes, we'll discuss various topics, encouraging lively discussions and practicing real-life communication skills. I adapt lessons to your needs and goals, whether you're a beginner or advanced learner. Let's embark on this exciting language journey together!",
+        "teaching_style": "Various speaking activities and conversations will be the focus of my classes. Whenever a need is felt, support my teaching with pdf documents and slides. Afterall, the needs of the students matter the most.",
+        "is_student_full": 0,
+        "student_count": 134,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-04-02T15:06:45+00:00",
+        "exp_info": [
+          {
+            "country": "PL",
+            "city": "Gdansk",
+            "company": "Amazon",
+            "job": "Senior Compliance",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2022,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2023-09-18T07:53:54Z",
+            "exp_id": 149945
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University of Gdansk",
+            "major": "Management",
+            "level": 2,
+            "start_year": 2022,
+            "end_year": 2024,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2023-09-18T07:56:37Z",
+            "edu_id": "1573F43F-0F3A-46F0-B8EE-34A966D31CD0"
+          },
+          {
+            "institution": "Afyon Kocatepe University",
+            "major": "Cinema and Television",
+            "level": 1,
+            "start_year": 2014,
+            "end_year": 2018,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2023-09-18T07:53:13Z",
+            "edu_id": "254F7FA2-52F5-4F73-B472-B9768ACBAD1C"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 24
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 850,
+        "min_price": 950,
+        "trial_session_count": 0,
+        "trial_description": "Hello ! I'm Tu\u011f\u00e7e. I'm here on Italki to offer you a trial lesson, and I'd be happy to help you out.\n\nDuring our trial lesson, we can not only focus on your language skills but also chat about our experiences and lives. I'm really excited to hear about the many countries you've traveled to, and I'd love to share stories as well.\n\nI hope we have a fun trial lesson together, and I can be a friendly support for you on your language learning journey. If you have any questions, feel free to reach out to me."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 9271360
+      },
+      "pro_course_detail": [
+        {
+          "id": 219266,
+          "teacher_id": 9271360,
+          "language": "english",
+          "title": "\ud83d\udde3\ufe0f English Speaking Practice | B1-B2 Levels \ud83c\udf1f",
+          "description": "In my English classes, you can focus on improving your speaking skills with confidence and ease. Instead of teaching grammar or language points, I create a supportive environment where you can practice real-life conversations.\nWhether you're preparing for a presentation, practicing for an interview, or just looking to sound more natural, I\u2019m here to guide you. Together, we'll work on fluency, pronunciation, and vocabulary through engaging and practical discussions.\n\u2714\ufe0f Interactive and conversational lessons\n\u2714\ufe0f Customized to your interests and goals\n\u2714\ufe0f Boost your confidence and fluency\nLet\u2019s make speaking English fun and effective! \ud83e\udd73",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 950,
+          "student_count": 88,
+          "session_count": 327,
+          "create_time": "2022-04-02T14:20:17Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3950,
+              "session_price": 850,
+              "course_id": 219266,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 659435
+            },
+            {
+              "package_price": 4150,
+              "session_price": 900,
+              "course_id": 219266,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 659434
+            },
+            {
+              "package_price": 4400,
+              "session_price": 950,
+              "course_id": 219266,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 562341
+            }
+          ]
+        },
+        {
+          "id": 219269,
+          "teacher_id": 9271360,
+          "language": "turkish",
+          "title": "\ud83d\udde3\ufe0f Turkish Speaking/ Grammar Practice | Learn and Improve with Confidence \ud83c\udf1f",
+          "description": "Merhaba! \ud83d\ude0a Benimle T\u00fcrk\u00e7e konu\u015fma prati\u011fi yapabilir ve basit seviye dilbilgisi konusunda destek alabilirsiniz. Sizi destekleyici ve keyifli bir ders ortam\u0131 bekliyor!\n\nHello! \ud83d\ude0a You can practice Turkish with me and get help with basic grammar. I create a friendly and encouraging environment to help you feel confident while learning.\n\nHadi, T\u00fcrk\u00e7e \u00f6\u011frenmeye birlikte ba\u015flayal\u0131m! Dersimde g\u00f6r\u00fc\u015fmek \u00fczere! \ud83d\ude80\nLet\u2019s start your Turkish learning journey together! See you in my classes! \ud83c\udf1f",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 38,
+          "session_count": 145,
+          "create_time": "2022-04-02T15:16:45Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4150,
+              "session_price": 900,
+              "course_id": 219269,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 659436
+            },
+            {
+              "package_price": 4400,
+              "session_price": 950,
+              "course_id": 219269,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 659433
+            },
+            {
+              "package_price": 4600,
+              "session_price": 1000,
+              "course_id": 219269,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 562360
+            }
+          ]
+        },
+        {
+          "id": 258912,
+          "teacher_id": 9271360,
+          "language": "english",
+          "title": "\ud83d\udcda English Practice for Kids | Grammar & Homework Help \ud83c\udf89",
+          "description": "Hello! My name is Tu\u011f\u00e7e, and I am here to help you learn English in a fun and easy way! \ud83d\ude0a\nIn my lessons, we will:\n\u2728 Learn grammar step by step (don\u2019t worry, I make it simple!)\n\u2728 Practice English with fun exercises \ud83d\udcdd\n\u2728 Finish your English homework together \ud83c\udf92\n\nI will help you understand English better and feel more confident in school. Let\u2019s make learning English exciting and stress-free! \ud83c\udf88\n\nAre you ready to start your English adventure? Let\u2019s go! \ud83d\ude80",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0083",
+            "T0004"
+          ],
+          "session_price": 1000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-12T12:39:05Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4150,
+              "session_price": 900,
+              "course_id": 258912,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 752483
+            },
+            {
+              "package_price": 4400,
+              "session_price": 950,
+              "course_id": 258912,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 752484
+            },
+            {
+              "package_price": 4600,
+              "session_price": 1000,
+              "course_id": 258912,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 752482
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 14.0
+          },
+          {
+            "month": 2,
+            "data": 5.0
+          },
+          {
+            "month": 3,
+            "data": 10.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.89
+          },
+          {
+            "month": 3,
+            "data": 0.94
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.93
+          },
+          {
+            "month": 2,
+            "data": 0.86
+          },
+          {
+            "month": 3,
+            "data": 0.85
+          }
+        ],
+        "finished_session": 490,
+        "response_rate": 1,
+        "attendance_rate": 0.98,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 11540576,
+        "nickname": "Tolunay Gedik",
+        "avatar_file_name": "5T115405760",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "TR",
+        "origin_city_id": "TR00000",
+        "origin_city_name": "Other",
+        "living_city_id": "TR00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Istanbul",
+        "last_login_time": "2025-04-01T12:02:57+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/qARaPDTQ6Ds",
+        "video_pic_url": "https://img.youtube.com/vi/qARaPDTQ6Ds/0.jpg",
+        "intro": "Merhaba (HELLO) ! This is Tolunay. I am a middle aged man living in a beautiful mediterranean  province of Antalya in Turkey. I'm eager to be open to new experiences and meet up like-minded people with different perspectives. As for things I enjoy the most can be defined as outdoor activities such as hiking,cycling and camping in Nature. I enjoy getting familiar with other cultures as such in the language they speak,traditional dresses they wear on a national day and even food culture they represent worldwide.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "turkish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2021-12-15T13:54:07Z",
+        "session_count": 95,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/08DEBD6E-2FC4-4D25-9A18-4ED25F503E70.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/qARaPDTQ6Ds.jpg",
+        "teacher_material_list": [
+          5,
+          7
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Merhaba (HELLO) ! This is Tolunay. I am a middle aged man living in a beautiful mediterranean  province of Antalya in Turkey. I'm eager to be open to new experiences and meet up like-minded people with different perspectives. As for things I enjoy the most can be defined as outdoor activities such as hiking,cycling and camping in Nature. I enjoy getting familiar with other cultures as such in the language they speak,traditional dresses they wear on a national day and even food culture they represent worldwide.",
+        "about_teacher": "I went to study in a multi-cultural institution where I had specialized in International Relations and Science. By the end of schooling, I was given a bachelor badge and college graduate status. During my education era, I had been given considerable amount of insights into the very nature of the history of english language and its psychology. Since I was graduated from college, I have been engaging with lots of studies including teaching english as a second language.",
+        "teaching_style": "On the first stage of teaching, I initially help students gain familiarity with the language as we move on to types of words and  form a level of vocabulary in order to make a sentence. We will be taking little steps and gradually grow on. Punctuations, phonetics, word roots, sentence structures will be covered in detail.",
+        "is_student_full": 0,
+        "student_count": 11,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-12-15T13:54:07+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Kyrenia American University",
+            "major": "International Relations and Political Science",
+            "level": 1,
+            "description": "I'm doing my studies and researches on strategies to develop and maintain mutual relationships among individuals and create a better environment for well being of all. I aim to get all our needs met through using NVC (Non violent communication) methods and apply them into daily life when encountering a situation.",
+            "start_year": 2012,
+            "end_year": 2016,
+            "status": 1,
+            "create_time": "2024-09-07T15:59:27Z",
+            "edu_id": "031F3F4B-FB9E-43AB-932B-9E0EF1B3C857"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 1
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 700,
+        "trial_session_count": 0,
+        "trial_description": "In these lessons,you will be introduced to the basic structure of turkish language and learn about pronounciation,grammer,vocabulary and so on. You will be made use of a few materials which I strongly recommend. Our main focus will be on the conversational skills. With the word association method,you will learn as many words as possible in order to use them in your daily life."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 11540576
+      },
+      "pro_course_detail": [
+        {
+          "id": 201594,
+          "teacher_id": 11540576,
+          "language": "turkish",
+          "title": "Turkish basics for beginners ( Temel turkce egitim )",
+          "description": "Students will be introduced to types of words which are required to form a basic sentence in turkish language. Students will increase the level of vocabulary required to be used in a sentence and gradually have a deeper understanding of how turkish language is formed.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 700,
+          "student_count": 7,
+          "session_count": 26,
+          "create_time": "2021-12-14T20:40:35Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 700,
+              "session_price": 700,
+              "course_id": 201594,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 510702
+            }
+          ]
+        },
+        {
+          "id": 201832,
+          "teacher_id": 11540576,
+          "language": "english",
+          "title": "English basics for beginners ( Temel ingilizce egitim)",
+          "description": "It a great chance for those who start to learn english as a beginner. You are going to learn grammer,vocabulary,pronounciation,spelling,and everything you need to know to fully express yourself in an open way.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 700,
+          "student_count": 2,
+          "session_count": 2,
+          "create_time": "2021-12-16T10:59:04Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 700,
+              "session_price": 700,
+              "course_id": 201832,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 511376
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 95,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 18491956,
+        "nickname": "Ario",
+        "avatar_file_name": "T184919560",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "TR",
+        "origin_city_id": "TR00000",
+        "origin_city_name": "Other",
+        "living_city_id": "TR00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Istanbul",
+        "last_login_time": "2025-04-01T14:14:30+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/PsFF6nN7mh4",
+        "video_pic_url": "https://img.youtube.com/vi/PsFF6nN7mh4/0.jpg",
+        "intro": "Hi! My name is Ario. I speak English, Persian, and Turkish. I am a friendly, approachable, and experienced teacher.\n\nI\u2019ve got a PhD in Exercise Physiology, but on top of that, I\u2019m currently studying Dentistry. It\u2019s just my curiosity and passions which won\u2019t let me stop learning. Speaking of passions, there's nothing that gets me pumped like teaching a language or picking up a new one\u2026 \n\nI\u2019m so into science, culture, health, fitness, and I always keep up with the latest events and headlines across the globe. With more than 8 years of teaching experience and a wide range of knowledge an",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "persian(farsi)",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "turkish",
+            "level": 6
+          },
+          {
+            "language": "french",
+            "level": 4
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2024-09-30T08:18:51Z",
+        "session_count": 32,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/09175FD8-CE55-41C4-B69D-F35451DB601A.mp4",
+        "cover_name": "u/18491956/cover/cv5ns68qfk8oa7g5i7c0.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/PsFF6nN7mh4.jpg",
+        "teacher_material_list": [
+          4,
+          2,
+          8,
+          3,
+          6,
+          9,
+          1,
+          5
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi! My name is Ario. I speak English, Persian, and Turkish. I am a friendly, approachable, and experienced teacher.\n\nI\u2019ve got a PhD in Exercise Physiology, but on top of that, I\u2019m currently studying Dentistry. It\u2019s just my curiosity and passions which won\u2019t let me stop learning. Speaking of passions, there's nothing that gets me pumped like teaching a language or picking up a new one\u2026 \n\nI\u2019m so into science, culture, health, fitness, and I always keep up with the latest events and headlines across the globe. With more than 8 years of teaching experience and a wide range of knowledge an",
+        "about_teacher": "I\u2019ve been teaching languages for more than 8 years. I\u2019d like to tailor my classes specifically to your level, needs, and goals. This personalized approach ensures that you get the most out of every class, making the learning process both enjoyable and effective.\n\nI must admit that I thoroughly enjoy teaching you guys as well. Looking back, I can say that the time I've spent in the classroom has been some of the most rewarding and fulfilling moments of my life.",
+        "teaching_style": "During our first lesson or even before that by texting via italki, I would like to discuss your language learning goals and assess your current proficiency level. This will give me a better understanding of what you expect from our lessons and how I can assist you in improving your skills. \n\nAbout teaching materials, we\u2019re going to use interactive and engaging ones. These materials will include textbooks that cover all skills (speaking, writing, \u2026), articles, and discussion sessions on interesting topics or the latest headlines, as well as audio and video resources. Additionally, I will be preparing personalized documents for you to use.",
+        "is_student_full": 0,
+        "student_count": 10,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2024-09-30T08:18:51+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "University of Tarbiat Modares",
+            "major": "Exercise Physiology",
+            "level": 3,
+            "start_year": 2013,
+            "end_year": 2018,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2024-07-08T14:26:20Z",
+            "edu_id": "E4D1AABF-3999-4D73-A0E7-3170DA5D8844"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [
+          {
+            "id": 3886,
+            "user_id": 18491956,
+            "start_year": 2020,
+            "end_year": 2155,
+            "institution": "Zoom",
+            "institution_type": "self_employed_online",
+            "position": "Teacher",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-04-22T20:16:48Z",
+            "create_by": "18491956",
+            "update_at": "2024-10-14T08:12:32Z",
+            "update_by": "18491956",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 3,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 600,
+        "trial_session_count": 0,
+        "trial_description": "\"Experience a trial lesson designed just for you! In our 45-minute session, I\u2019ll focus on getting to know you, exploring your learning goals, and engaging in interactive conversation. You'll enjoy personalized activities and constructive feedback in a friendly, supportive environment. Let\u2019s kickstart your journey to greater fluency together!\""
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 18491956
+      },
+      "pro_course_detail": [
+        {
+          "id": 249276,
+          "teacher_id": 18491956,
+          "language": "persian(farsi)",
+          "title": "PERSIAN FREE CONVERSATION",
+          "description": "Enhance your Persian speaking and listening skills through engaging conversations. Suitable for all levels, these sessions focus on vocabulary, pronunciation, and real-life scenarios. Join me for personalized, supportive, and enjoyable practice.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 600,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-07-30T20:06:47Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 500,
+              "session_price": 500,
+              "course_id": 249276,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 811134
+            },
+            {
+              "package_price": 600,
+              "session_price": 600,
+              "course_id": 249276,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 667291
+            }
+          ]
+        },
+        {
+          "id": 261413,
+          "teacher_id": 18491956,
+          "language": "english",
+          "title": "English Conversation",
+          "description": "Are you looking for a fun, relaxed, and engaging way to practice your English? Do you want to improve your fluency, gain confidence, and speak more naturally? If so, regardless of your English level, my \"Free English Conversation\" lesson is perfect for you!\n\n**What is this lesson about?**\n\nThis is a free conversation lesson where you can practice speaking English in a comfortable and supportive environment on any topic you like. Sometimes, we may use materials like videos or articles to spark real, meaningful conversations that help you express yourself better.\n\n**How will this lesson help you?**\n\nBy joining my Free English Conversation lesson, you will:\n\u2705 Improve your fluency and pronunciation\n\u2705 Learn new words and phrases in a natural way\n\u2705 Gain confidence in speaking English\n\u2705 Develop better listening skills\n\u2705 Learn about different cultures and perspectives\n\u2705 Get personalized feedback and tips to improve your speaking\n\n**How to Prepare for the Lesson**\n\nYou don\u2019t need to prepare anything! Just bring yourself, a willingness to talk, and maybe a cup of coffee or tea. However, if you have a topic in mind, feel free to share it with me before our lesson.\n\n**Final Words**\n\nSpeaking English fluently is not about memorizing grammar rules\u2014it\u2019s about practice! The more you speak, the more confident you\u2019ll become.\n\nLet\u2019s have an engaging conversation and take your English to the next level!\n\nSee you! \ud83d\ude0a",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 600,
+          "student_count": 7,
+          "session_count": 17,
+          "create_time": "2025-02-15T12:25:36Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 500,
+              "session_price": 500,
+              "course_id": 261413,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 815656
+            },
+            {
+              "package_price": 2500,
+              "session_price": 550,
+              "course_id": 261413,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 815654
+            },
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 261413,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 815655
+            }
+          ]
+        },
+        {
+          "id": 261919,
+          "teacher_id": 18491956,
+          "language": "english",
+          "title": "General English Lessons",
+          "description": "This general English lesson is designed to help you build confidence in everyday communication. We'll use different materials like textbooks, videos, and etc. Through interactive activities, engaging exercises, and real-life scenarios, you'll enhance your vocabulary, master essential grammar rules, and develop your speaking and writing skills. Whether you're just starting out or looking to refine your language abilities, this lesson offers a supportive and dynamic environment to explore and practice English in a fun and practical way.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0006",
+            "T0083"
+          ],
+          "session_price": 600,
+          "student_count": 1,
+          "session_count": 13,
+          "create_time": "2025-02-22T22:57:01Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 500,
+              "session_price": 500,
+              "course_id": 261919,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 812919
+            },
+            {
+              "package_price": 2500,
+              "session_price": 550,
+              "course_id": 261919,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 815653
+            },
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 261919,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 815652
+            }
+          ]
+        },
+        {
+          "id": 261920,
+          "teacher_id": 18491956,
+          "language": "persian(farsi)",
+          "title": "General Persian Language",
+          "description": "Join my comprehensive Persian lesson designed to enhance every aspect of your language skills. In this engaging course, you'll improve your speaking, listening, reading, and writing through interactive exercises and real-life practice. Whether you're a beginner or looking to refine your abilities, you'll gain the confidence and fluency to connect with Persian language and culture.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0083"
+          ],
+          "session_price": 600,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2025-02-22T23:00:26Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 500,
+              "session_price": 500,
+              "course_id": 261920,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 812921
+            },
+            {
+              "package_price": 2500,
+              "session_price": 550,
+              "course_id": 261920,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 815651
+            },
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 261920,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 815650
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 3.0
+          },
+          {
+            "month": 3,
+            "data": 29.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 0.97
+          }
+        ],
+        "finished_session": 32,
+        "response_rate": 1,
+        "attendance_rate": 0.97,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 14984948,
+        "nickname": "Sepanta",
+        "avatar_file_name": "1T149849480",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "TR",
+        "origin_city_id": "TR00000",
+        "origin_city_name": "Other",
+        "living_city_id": "TR00000",
+        "living_city_name": "Other",
+        "timezone": "Asia/Tbilisi",
+        "last_login_time": "2025-04-01T17:50:29+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/j7ANOG1rqqY",
+        "video_pic_url": "https://img.youtube.com/vi/j7ANOG1rqqY/0.jpg",
+        "intro": "Hi! My name is Sepanta, I am from Istanbul Turkey, The Land of Cats and Dogs!\n\nI love learning and sharing new things about languages with others. Ever since I was a kid, I was in love with languages and of course their culture and history too!\n\nMy hobbies are beatboxing and walking or both of them together. I also love talking about things like music, art, sports and movies.\n\nMerhaba! Benim ad\u0131m Sepanta, \u0130stanbulda ya\u015f\u0131yorum.\n\n\u00c7ocuklu\u011fumdan beri farkl\u0131 k\u00fclt\u00fcr ve dillere i\u00e7in kalbimde \u00f6zel bir yer var. Yeni bir dil ve o dilin k\u00fclt\u00fcr\u00fc ve tarihini \u00f6\u011frenmek bana mutluluk getiriyor!\n\nHobilerim beatbox ve y\u00fcr\u00fcy\u00fc\u015f ya da ikisi birlikte. Ayn\u0131 zamanda m\u00fczik ve  sanat hakk\u0131nda konu\u015fmay\u0131da severim.",
+        "short_signature": "Linguaphile enthusiast!",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "persian(farsi)",
+            "level": 7
+          },
+          {
+            "language": "turkish",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "japanese",
+            "level": 4
+          }
+        ],
+        "first_valid_time": "2022-08-26T07:44:47Z",
+        "session_count": 43,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/680B0442-9F44-482A-8A86-DE794875FFCC.mp4",
+        "cover_name": "u/14984948/cover/cqtftfmang6f22g8dmsg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/j7ANOG1rqqY.jpg",
+        "teacher_material_list": [
+          7,
+          2,
+          9,
+          4,
+          5,
+          1
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi! My name is Sepanta, I am from Istanbul Turkey, The Land of Cats and Dogs!\n\nI love learning and sharing new things about languages with others. Ever since I was a kid, I was in love with languages and of course their culture and history too!\n\nMy hobbies are beatboxing and walking or both of them together. I also love talking about things like music, art, sports and movies.\n\nMerhaba! Benim ad\u0131m Sepanta, \u0130stanbulda ya\u015f\u0131yorum.\n\n\u00c7ocuklu\u011fumdan beri farkl\u0131 k\u00fclt\u00fcr ve dillere i\u00e7in kalbimde \u00f6zel bir yer var. Yeni bir dil ve o dilin k\u00fclt\u00fcr\u00fc ve tarihini \u00f6\u011frenmek bana mutluluk getiriyor!\n\nHobilerim beatbox ve y\u00fcr\u00fcy\u00fc\u015f ya da ikisi birlikte. Ayn\u0131 zamanda m\u00fczik ve  sanat hakk\u0131nda konu\u015fmay\u0131da severim.",
+        "about_teacher": "As a teacher\nI have less than 3 years of experience in the teaching language field.\nI'm patient, adaptable and calm. I like to have a good relationship with my students.\n\nI have taught languages privately, formally and informally.\n-------\n\u00d6\u011fretmen olarak\n\nBu alanda 3 y\u0131la yak\u0131n bir tecr\u00fcbem var. \u00d6zel, resmi, aile ve arkada\u015f ortamlar\u0131nda Dil \u00d6\u011fretmenli\u011fi yapm\u0131\u015fl\u0131\u011f\u0131m var.\n\n\u00d6\u011fretmen olarak sab\u0131rl\u0131 ve esne\u011fim. Ayn\u0131 zamanda \u00f6\u011frencilerim ile iyi bir ili\u015fkiye sahip olmakta benim i\u00e7in \u00f6nemli.",
+        "teaching_style": "- I generally focus on conversational skills but I also can help with grammar and  vocabulary.\n\n- I want to help you to achieve your language goals by using conversation. One of the most important skills needed for communication.\n\n- Don't be afraid of making mistakes - everyone (including me \ud83d\ude01) - can make mistakes!\n\n- I'm flexible so don't be afraid of speaking about the topics that interest you!\n---------\n- Hedefine ula\u015fmanda yard\u0131m etmek istiyorum, g\u00fcnl\u00fck konu\u015fulan konular hakk\u0131nda muhabbet ederek.\n\n- Hata yapmaktan \u00e7ekinme! Herkes konu\u015furken hata yapabilir (bende dahil \ud83d\ude01)",
+        "is_student_full": 0,
+        "student_count": 12,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-08-26T07:44:47+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Halil Akkanat \u00c7ok Programl\u0131 Anadolu Lisesi.",
+            "major": "Foreign Languages",
+            "level": 11,
+            "description": "My studies focused on English and German. I studied English Grammar and English was the main foreign language German being the secondary language.",
+            "start_year": 2018,
+            "end_year": 2022,
+            "status": 1,
+            "create_time": "2024-04-24T08:01:06Z",
+            "edu_id": "567DDFAB-54C6-4C7D-A879-69201C2CE52C"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1000,
+        "trial_session_count": 0,
+        "trial_description": "In this lesson we are going to focus on learning about each other and what goals we can set and want to achieve!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 14984948
+      },
+      "pro_course_detail": [
+        {
+          "id": 248701,
+          "teacher_id": 14984948,
+          "language": "english",
+          "title": "Conversational Practice (English)",
+          "description": "In this lesson we will speak and discuss various topics that interest you.\n\nIf you are looking for a relaxed and enjoyable lesson but also want to improve and sharpen your speaking skills, look no further. This lesson is for you!",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 3,
+          "session_count": 7,
+          "create_time": "2024-07-16T09:59:41Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 248701,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 665536
+            },
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 248701,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 665537
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 248701,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 665535
+            }
+          ]
+        },
+        {
+          "id": 251049,
+          "teacher_id": 14984948,
+          "language": "turkish",
+          "title": "Conversational Practice (Turkish)",
+          "description": "In this lesson we will speak and discuss various topics that interest you.\n\nIf you are looking for a relaxed and enjoyable lesson but also want to improve and sharpen your speaking skills, look no further. This lesson is for you!",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 4,
+          "session_count": 4,
+          "create_time": "2024-09-06T09:50:09Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 251049,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 672819
+            },
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 251049,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 682427
+            },
+            {
+              "package_price": 4500,
+              "session_price": 1000,
+              "course_id": 251049,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 672818
+            }
+          ]
+        },
+        {
+          "id": 251050,
+          "teacher_id": 14984948,
+          "language": "persian(farsi)",
+          "title": "Conversational Practice (Farsi)",
+          "description": "In this lesson we will speak and discuss various topics that interest you.\n\nIf you are looking for a relaxed and enjoyable lesson but also want to improve and sharpen your speaking skills, look no further. This lesson is for you!",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 1,
+          "session_count": 3,
+          "create_time": "2024-09-06T09:54:03Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 251050,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 672821
+            },
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 251050,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 682426
+            },
+            {
+              "package_price": 4500,
+              "session_price": 1000,
+              "course_id": 251050,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 672820
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 4.0
+          },
+          {
+            "month": 1,
+            "data": 3.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 43,
+        "response_rate": 1,
+        "attendance_rate": 0.94,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 14084800,
+        "nickname": "Abdullah Kele\u015f",
+        "avatar_file_name": "4T140848000",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "TR",
+        "is_online": 0,
+        "living_country_id": "TR",
+        "origin_city_id": "TR00000",
+        "origin_city_name": "Other",
+        "living_city_id": "TR00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Istanbul",
+        "last_login_time": "2025-03-28T09:27:07+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/8Hb8I6wJqH8",
+        "video_pic_url": "https://img.youtube.com/vi/8Hb8I6wJqH8/0.jpg",
+        "intro": "After 4 full years of working at the Ministry of Foreign Affairs in T\u00fcrkiye and visiting 42 countries, I faced a lot of challenges about how to understand and apply the knowledge of foreign language  and had the chance to work with international teams. I was presidential/simultaneous translator, and foreign language tutor. And today I will be your personal teacher, but as well as to be able to handle consistency, I will be your personal psychologist too.",
+        "short_signature": "Certified and 5+ Years Experience Turkish Language Tutor at Ministry of Foreign Affairs",
+        "teach_language": [
+          {
+            "language": "turkish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 6
+          },
+          {
+            "language": "russian",
+            "level": 2
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2023-11-09T21:10:01Z",
+        "session_count": 29,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/4F64B822-0CAE-4D7E-995F-183A113CF784.mp4",
+        "cover_name": "u/14084800/cover/coj3aqlr7jhsgf38e1gg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/8Hb8I6wJqH8.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "After 4 full years of working at the Ministry of Foreign Affairs in T\u00fcrkiye and visiting 42 countries, I faced a lot of challenges about how to understand and apply the knowledge of foreign language  and had the chance to work with international teams. I was presidential/simultaneous translator, and foreign language tutor. And today I will be your personal teacher, but as well as to be able to handle consistency, I will be your personal psychologist too.",
+        "about_teacher": "-  I worked as a tutor as well as simultaneous interpreter in the Ministry of Foreign Affairs for 3 years and in the foreign embassies located in \ud83c\uddf9\ud83c\uddf7 \n\n- About teaching and translation of English/Turkish/Spanish for 2 years.\n\n- 1 year, I worked in a private school with children about teaching methodologies.",
+        "teaching_style": "Everybody has a passion, right? And mine is traveling, learning new cultures and trying to understand all of them in their own native languages, and sharing and teaching what I know. My all-the-time motivation was that it is useless to take knowledge to the grave without sharing it.\n\nSo what are we going to do? In the process of learning a language, together we will explore the language, try to understand the culture and language structure. Last but not least, we together discover the way that you enjoy learning. I will supply each document for you, so no need to worry about paper work. I am going to take care of it.\n\nWhat are you waiting for? Let\u2019s get started.",
+        "is_student_full": 0,
+        "student_count": 11,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2023-11-09T21:10:00+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 4,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 1800,
+        "trial_session_count": 0,
+        "trial_description": "\ud83c\uddfa\ud83c\uddf2 How about taking a step to learn Turkish or Spanish ? In this trial lesson we will get to know each other, I will understand your needs, goals and we will design further course of learning! Looking forward seeing you!\n\nIn our trial lesson, I promise to teach you the golden rule and the key to learning these languages. In fact, it's not as hard as it sounds, let's explore the darkness together and remember that sunny days await you! \n\n\ud83c\uddea\ud83c\uddf8 \u00bfQu\u00e9 tal dar un paso para aprender turco o ingles? \u00a1En esta lecci\u00f3n de prueba nos conoceremos, entenderemos sus necesidades, objetivos y dise\u00f1aremos un curso de aprendizaje adicional! \u00a1Deseando verte!\n\nEn nuestra lecci\u00f3n de prueba, prometo ense\u00f1arte la regla de oro y la clave para aprender los idiomas. De hecho, no es tan dif\u00edcil como parece, \u00a1exploremos juntos la oscuridad y recuerda que te esperan d\u00edas soleados! \n\n\ud83c\uddf9\ud83c\uddf7ispanyolca veya \u0130ngilizce \u00f6\u011frenmek i\u00e7in bir ad\u0131m atmaya ne dersin? Bu deneme dersimizde birbirimizi daha da yak\u0131ndan tan\u0131yaca\u011f\u0131z, ihtiya\u00e7lar\u0131n\u0131, hedeflerini anlayaca\u011f\u0131m ve daha \u00fcst d\u00fczey bir \u00f6\u011frenim rotas\u0131n\u0131 birlikte tasarlayaca\u011f\u0131z! Seni g\u00f6rmeyi sab\u0131rs\u0131zl\u0131kla bekliyorum!\n\nDeneme dersimizde, size bu dilleri \u00f6\u011frenmenin alt\u0131n kural\u0131n\u0131 ve anahtar\u0131n\u0131 verece\u011fime ve \u00f6\u011fretece\u011fime s\u00f6z veriyorum. Asl\u0131nda bu san\u0131ld\u0131\u011f\u0131 kadar da zor de\u011fil, gel o karanl\u0131k olarak g\u00f6rd\u00fc\u011f\u00fcn yeri beraber ke\u015ffedelim ve unutma g\u00fcne\u015fli g\u00fcnler seni bekliyor!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 14084800
+      },
+      "pro_course_detail": [
+        {
+          "id": 242158,
+          "teacher_id": 14084800,
+          "language": "turkish",
+          "title": "Let's get our hands dirty - How to construct a sentence in Turkish?",
+          "description": "\ud83c\uddfa\ud83c\uddf2 If you want to get a little bit of taste of the Turkish language but say you have no idea where and how to start, this course is for you.\n\nAfter first explaining the difference of Turkish from other languages and its language family, we travel deeper together, and we will be improving your Turkish by using different materials, methods, teaching tools, and etc.\n\n\ud83c\uddea\ud83c\uddf8 Si quieres iniciarte un poco en la lengua turca pero dices que no tienes ni idea de por d\u00f3nde y c\u00f3mo empezar, este curso es para ti.\n\nDespu\u00e9s de explicar y descubrir primero la diferencia entre el turco y otros idiomas y su familia ling\u00fc\u00edstica, profundizaremos juntos y mejoraremos su turco utilizando diferentes materiales, m\u00e9todos, herramientas de ense\u00f1anza, etc.",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 2000,
+          "student_count": 6,
+          "session_count": 23,
+          "create_time": "2023-11-09T19:33:21Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 9000,
+              "session_price": 2000,
+              "course_id": 242158,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 642658
+            },
+            {
+              "package_price": 18000,
+              "session_price": 2000,
+              "course_id": 242158,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 664854
+            }
+          ]
+        },
+        {
+          "id": 242162,
+          "teacher_id": 14084800,
+          "language": "turkish",
+          "title": "Turkish pronunciation and speaking - How to speak like a native?",
+          "description": "\ud83c\uddfa\ud83c\uddf2 Students often hesitate about pronunciation and do not want to go over this fear, but there is nothing to worry about. Because every letter in Turkish has a sound and this sound does not change. In the context of this rule, we will read books together, we will listen to music and sing together, and we will see our mistakes when we make sentences together and we will improve ourselves very, very much. \n\nUnfortunately there is no magic wand, but isn't life itself magic? Let's face our fears and conquer them!\n\n\ud83c\uddea\ud83c\uddf8A menudo, los alumnos dudan sobre la pronunciaci\u00f3n y no quieren pasar ese miedo, pero no hay nada de qu\u00e9 preocuparse. Porque cada letra en turco tiene un sonido y este sonido no cambia. En el contexto de esta regla, leeremos libros juntos, escucharemos m\u00fasica y cantaremos juntos, y veremos nuestros errores cuando hagamos frases juntos y mejoraremos mucho, much\u00edsimo. \n\nPor desgracia, no hay varita m\u00e1gica, pero \u00bfacaso no es m\u00e1gica la vida misma? \u00a1Enfrent\u00e9monos a nuestros miedos y venz\u00e1moslos!",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2023-11-09T21:49:01Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8500,
+              "session_price": 1800,
+              "course_id": 242162,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 642668
+            }
+          ]
+        },
+        {
+          "id": 242183,
+          "teacher_id": 14084800,
+          "language": "turkish",
+          "title": "Modal verbs in Turkish language - Do you want or Can you?",
+          "description": "\ud83c\uddfa\ud83c\uddf2 Scientific research shows that modal verbs make up 35% of everyday spoken dialog. Thanks to modal verbs, we can express topics ranging from wanting something, or being able to do something, to a future event. \n\nIn this course, instead of getting lost in boring grammar, let's prepare you with the necessary equipment to speak and feel freer in both writing and speaking! In this course, you will also be able to express yourself more freely in the future by reinforcing this rule in every sentence we write under the main topic of how to construct sentences in Turkish. \n\n\ud83c\uddea\ud83c\uddf8 Las investigaciones cient\u00edficas demuestran que los verbos modales constituyen el 35% del di\u00e1logo oral cotidiano. Gracias a los verbos modales, podemos expresar temas que van desde querer algo o poder hacer algo hasta un acontecimiento futuro. \n\nEn este curso, en lugar de perderte en la aburrida gram\u00e1tica, vamos a prepararte con el equipo necesario para hablar y sentirte m\u00e1s libre tanto al escribir como al hablar. En este curso, tambi\u00e9n podr\u00e1s expresarte m\u00e1s libremente en el futuro reforzando esta regla en cada frase que escribamos bajo el tema principal de c\u00f3mo construir frases en turco.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 2000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2023-11-10T11:02:37Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 9000,
+              "session_price": 2000,
+              "course_id": 242183,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 642722
+            }
+          ]
+        },
+        {
+          "id": 248646,
+          "teacher_id": 14084800,
+          "language": "english",
+          "title": "\u0130ngilizce c\u00fcmle nas\u0131l kurulur - \u00bfC\u00f3mo construir una frase en ingl\u00e9s?",
+          "description": "\ud83c\uddf9\ud83c\uddf7 \u0130ngilizceyi biraz olsun tatmak istiyor ama nereden ve nas\u0131l ba\u015flayaca\u011f\u0131m\u0131 bilmiyorum diyorsan\u0131z bu kurs tam size g\u00f6re.\n\n\u00d6nce \u0130ngilizcenin di\u011fer dillerden fark\u0131n\u0131 ve dil ailesini anlatt\u0131ktan sonra birlikte daha derinlere iniyor, farkl\u0131 materyaller, y\u00f6ntemler, \u00f6\u011fretim ara\u00e7lar\u0131 vb. kullanarak \u0130ngilizcenizi geli\u015ftiriyor olaca\u011f\u0131z.\n\n\ud83c\uddea\ud83c\uddf8 Si quieres iniciarte un poco en la lengua Ingles pero dices que no tienes ni idea de por d\u00f3nde y c\u00f3mo empezar, este curso es para ti.\n\nDespu\u00e9s de explicar y descubrir primero la diferencia entre el ingles y otros idiomas y su familia ling\u00fc\u00edstica, profundizaremos juntos y mejoraremos su ingles utilizando diferentes materiales, m\u00e9todos, herramientas de ense\u00f1anza, etc.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 2000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-07-15T09:03:51Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 9000,
+              "session_price": 2000,
+              "course_id": 248646,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 665373
+            }
+          ]
+        },
+        {
+          "id": 248647,
+          "teacher_id": 14084800,
+          "language": "english",
+          "title": "\u0130ngilizce telaffuz ve konu\u015fma - Anadili gibi \u0130ngilizce nas\u0131l konu\u015fulur? |\u00a0Pronunciaci\u00f3n y expresi\u00f3n oral en ingl\u00e9s - \u00bfC\u00f3mo hablar ingl\u00e9s como un nativo?",
+          "description": "\ud83c\uddf9\ud83c\uddf7 \u00d6\u011frenciler genellikle telaffuz konusunda teredd\u00fct eder ve bu korkunun \u00fczerine gitmek istemezler ancak endi\u015felenecek bir \u015fey yoktur. Genel kurallar ba\u011flam\u0131nda birlikte kitap okuyaca\u011f\u0131z, birlikte m\u00fczik dinleyip \u015fark\u0131 s\u00f6yleyece\u011fiz ve birlikte c\u00fcmle kurdu\u011fumuzda hatalar\u0131m\u0131z\u0131 g\u00f6rece\u011fiz ve kendimizi \u00e7ok ama \u00e7ok geli\u015ftirece\u011fiz. \n\nMaalesef sihirli bir de\u011fnek yok ama hayat\u0131n kendisi sihirli de\u011fil mi? Hadi korkular\u0131m\u0131zla y\u00fczle\u015felim ve onlar\u0131 yenelim!\n\n\ud83c\uddea\ud83c\uddf8 Los alumnos suelen tener dudas sobre la pronunciaci\u00f3n y no quieren superar este miedo, pero no hay de qu\u00e9 preocuparse. Por regla general, leeremos libros juntos, escucharemos m\u00fasica y cantaremos juntos y cuando hagamos frases juntos veremos nuestros errores y mejoraremos much\u00edsimo. \n\nPor desgracia, no existe una varita m\u00e1gica, pero \u00bfacaso no es m\u00e1gica la vida misma? \u00a1Enfrent\u00e9monos a nuestros miedos y venz\u00e1moslos!",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-07-15T09:07:15Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8500,
+              "session_price": 1800,
+              "course_id": 248647,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 665375
+            }
+          ]
+        },
+        {
+          "id": 248648,
+          "teacher_id": 14084800,
+          "language": "english",
+          "title": "\u0130ngilizce dilinde modal fiiller - \u0130stiyor musunuz yoksa Yapabilir misiniz? |\u00a0Los verbos modales en Ingles - \u00bfQuieres o puedes?",
+          "description": "\ud83c\uddf9\ud83c\uddf7 Bilimsel ara\u015ft\u0131rmalar, kip fiillerin g\u00fcnl\u00fck konu\u015fma dilinin %35'\u0131n\u0131 olu\u015fturdu\u011funu g\u00f6stermektedir. Modal fiiller sayesinde, bir \u015feyi istemekten veya bir \u015feyi yapabilmeye, gelecekteki bir olaya kadar \u00e7e\u015fitli konular\u0131 ifade edebiliriz. Bu kursta s\u0131k\u0131c\u0131 dilbilgisi i\u00e7inde kaybolmak yerine sizi konu\u015fmak i\u00e7in gerekli donan\u0131mla haz\u0131rlayal\u0131m ve hem yazarken hem de konu\u015furken kendinizi daha \u00f6zg\u00fcr hissedin! Bu kursta ayr\u0131ca \u0130ngilizce c\u00fcmle nas\u0131l kurulur ana ba\u015fl\u0131\u011f\u0131 alt\u0131nda yazd\u0131\u011f\u0131m\u0131z her c\u00fcmlede bu kural\u0131 peki\u015ftirerek ileride kendinizi daha \u00f6zg\u00fcrce ifade edebileceksiniz. \n\n\ud83c\uddea\ud83c\uddf8 Las investigaciones cient\u00edficas demuestran que los verbos modales constituyen el 35% del di\u00e1logo oral cotidiano. Gracias a los verbos modales, podemos expresar temas que van desde querer algo o poder hacer algo hasta un acontecimiento futuro. \n\nEn este curso, en lugar de perderte en la aburrida gram\u00e1tica, vamos a prepararte con el equipo necesario para hablar y sentirte m\u00e1s libre tanto al escribir como al hablar. En este curso, tambi\u00e9n podr\u00e1s expresarte m\u00e1s libremente en el futuro reforzando esta regla en cada frase que escribamos bajo el tema principal de c\u00f3mo construir frases en ingles.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-07-15T09:15:03Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8500,
+              "session_price": 1800,
+              "course_id": 248648,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 665377
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.5
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 29,
+        "response_rate": 0.97,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 52,
+    "price_list": [
+      0,
+      0,
+      4,
+      2,
+      0,
+      1,
+      8,
+      6,
+      10,
+      18,
+      21,
+      21,
+      22,
+      8,
+      8,
+      4,
+      23,
+      0,
+      10,
+      1,
+      4,
+      11,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      4,
+      0,
+      1,
+      13,
+      1,
+      7,
+      2,
+      1,
+      5,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-dd-41c2-ae1f-96a5e15b161f-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 52
+  },
+  "paging": {
+    "page": 3,
+    "page_size": 20,
+    "total": 52,
+    "has_next": 0
+  }
+}

@@ -1,0 +1,4829 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 6027039,
+        "nickname": "Toyosi",
+        "avatar_file_name": "6T060270390",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "NG",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "NG00001",
+        "living_city_name": "Lagos",
+        "timezone": "Africa/Lagos",
+        "last_login_time": "2025-04-01T17:21:16+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/6krFqJy0AA4",
+        "video_pic_url": "https://img.youtube.com/vi/6krFqJy0AA4/0.jpg",
+        "intro": "My name is Toyosi, and I'm a native of The Federal Republic of Nigeria and I'm a native English speaker. I was born and raised in Lagos. I speak English (obviously haha), Yoruba, and I'm learning Spanish and French. I'm a student at the university studying architecture and I would like to think of myself as really interesting and fun.",
+        "short_signature": "conversational tutor with 4 years of tutoring experience!",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "yoruba",
+            "level": 7
+          },
+          {
+            "language": "spanish",
+            "level": 4
+          },
+          {
+            "language": "french",
+            "level": 2
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2019-03-01T15:32:18Z",
+        "session_count": 2809,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/xitalki100036391.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/6krFqJy0AA4.jpg",
+        "teacher_material_list": [
+          8,
+          9,
+          12,
+          2
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "My name is Toyosi, and I'm a native of The Federal Republic of Nigeria and I'm a native English speaker. I was born and raised in Lagos. I speak English (obviously haha), Yoruba, and I'm learning Spanish and French. I'm a student at the university studying architecture and I would like to think of myself as really interesting and fun.",
+        "about_teacher": "I can personally say that it is never easy to learn a new language, and sometimes it feels like you're in a state of utter confusion, but I can also say that it gets better. As a teacher my main aim is to make my students transition from a stage of difficulty to ease. I would love to put smiles on the faces of people just by showing support in the simplest way possible - conversations.",
+        "teaching_style": "My lessons  would generally be from the English as a Second Language website as it is vast and covers a lot of topics that can be discussed. I would also have some articles and tasks for those students who would like to have a change from the usual conversation classes.",
+        "is_student_full": 0,
+        "student_count": 878,
+        "teacher_tag": [
+          1,
+          3
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 800,
+        "min_price": 1200,
+        "trial_session_count": 0,
+        "trial_description": "You're scared of having a full on conversation with someone you haven't met for the first time? No problem!! Just take a trial lesson with me!!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 6027039
+      },
+      "pro_course_detail": [
+        {
+          "id": 78806,
+          "teacher_id": 6027039,
+          "language": "english",
+          "title": "One-on-One: Conversations",
+          "description": "Interesting and interactive conversations about different topics, knowledge about culture, all the while helping with new vocabulary and pronunciation. This is mainly to help practice speaking and conversation skills.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 642,
+          "session_count": 2407,
+          "create_time": "2019-03-02T09:28:55Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3700,
+              "session_price": 800,
+              "course_id": 78806,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 160860
+            },
+            {
+              "package_price": 4700,
+              "session_price": 1000,
+              "course_id": 78806,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 170531
+            },
+            {
+              "package_price": 5700,
+              "session_price": 1200,
+              "course_id": 78806,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 160861
+            },
+            {
+              "package_price": 7700,
+              "session_price": 1600,
+              "course_id": 78806,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 597551
+            }
+          ]
+        },
+        {
+          "id": 110468,
+          "teacher_id": 6027039,
+          "language": "english",
+          "title": "One-on-One: English Grammar",
+          "description": "To be able to completely understand the concept of English language, the basics need to be learnt. Learning English Grammar would help understand how sentences should be structured and how certain things should be used. Practice reading, writing, and grammar with me today!!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1400,
+          "student_count": 18,
+          "session_count": 47,
+          "create_time": "2020-04-25T15:42:36Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4500,
+              "session_price": 1000,
+              "course_id": 110468,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 246412
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1200,
+              "course_id": 110468,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 246411
+            },
+            {
+              "package_price": 6500,
+              "session_price": 1400,
+              "course_id": 110468,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 246410
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2000,
+              "course_id": 110468,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 612057
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 7.0
+          },
+          {
+            "month": 2,
+            "data": 2.0
+          },
+          {
+            "month": 3,
+            "data": 12.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 0.94
+          }
+        ],
+        "finished_session": 2809,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 25620090,
+        "nickname": "Iniobong Stephen",
+        "avatar_file_name": "T256200900",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "NG",
+        "origin_city_id": "NG00000",
+        "origin_city_name": "Other",
+        "living_city_id": "NG00000",
+        "living_city_name": "Other",
+        "timezone": "Africa/Lagos",
+        "last_login_time": "2025-04-01T06:32:15+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/4_iJT1_I8d8",
+        "video_pic_url": "https://img.youtube.com/vi/4_iJT1_I8d8/0.jpg",
+        "intro": "Hello! My name is Iniobong, and I\u2019m an experienced and passionate English teacher based in Nigeria. I have 5 years of teaching experience and hold a degree in Statistics. As a fully certified TEFL teacher, I specialize in helping students improve their English skills for exams, business communication, and everyday conversations.",
+        "short_signature": "Certified English Tutor | Specializing in IELTS, Business English & Exam prep.",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2024-12-23T16:43:56Z",
+        "session_count": 0,
+        "pro_rating": "0.0",
+        "tutor_rating": "0.0",
+        "overall_rating": "0.0",
+        "qiniu_video_url": "https://v.italki.cn/F8DCAE4B-9DE7-47E6-BFFB-98E6E6DF0813.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/4_iJT1_I8d8.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello! My name is Iniobong, and I\u2019m an experienced and passionate English teacher based in Nigeria. I have 5 years of teaching experience and hold a degree in Statistics. As a fully certified TEFL teacher, I specialize in helping students improve their English skills for exams, business communication, and everyday conversations.",
+        "about_teacher": "As a teacher, I focus on creating personalized lessons tailored to each student\u2019s needs and goals. Whether you\u2019re preparing for IELTS, AP English, or just want to speak English confidently, I use engaging methods, real-life examples, and interactive activities to make learning enjoyable and effective. My goal is to inspire my students and help them achieve success in their language-learning journey.",
+        "teaching_style": "My lessons are designed to meet your specific needs and goals. Whether you're preparing for exams like IELTS or AP English, improving your Business English, or building confidence in everyday conversations, I tailor my teaching approach to suit you. I focus on practical, real-world applications of English, using interactive activities, discussions, and engaging materials to make learning enjoyable and effective.\n\nMy teaching style is student-centered, encouraging active participation and open communication. I believe in fostering a supportive and positive environment where mistakes are part of the learning process, and every student feels confident to express themselves. Let\u2019s work together",
+        "is_student_full": 0,
+        "student_count": 0,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2024-12-23T16:43:56+00:00",
+        "exp_info": [
+          {
+            "industry": "business",
+            "country": "NG",
+            "city": "Lagos",
+            "company": "Godrej Nigeria Ltd.",
+            "job": "Sales Operation Officer",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2015,
+            "end_year": 2019,
+            "status": 1,
+            "create_time": "2024-12-16T22:06:36Z",
+            "exp_id": 157954
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Federal Polytechnic Nekede, Owerri. Imo State",
+            "major": "Statistics",
+            "level": 1,
+            "description": "As a statistician, the focus of my studies involves the collection, analysis, interpretation, presentation, and organization of data to solve real-world problems.\r\nMy  knowledge of statistics brings a practical, real-world perspective to my teaching, especially in areas like Business English and exam preparations.",
+            "start_year": 2007,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2024-12-16T21:05:08Z",
+            "edu_id": "B76B6E53-53F5-4D72-9632-4F2855E472D8"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2024-12-16T21:55:20Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "To earn a TEFL (Teaching English as a Foreign Language) certification, you typically need to complete a structured training program that covers the essential skills and knowledge for teaching English effectively to non-native speakers. \r\n\r\nTEFL qualifies me to teach English to non-native speakers in a variety of settings, such as schools, language centers, private tutoring, or online platforms.",
+            "institution": "TEFL Professional development Institute",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "120 HOUR TEFL",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "491DF529-128D-420E-A0CC-3C4B5406F56F"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "120 HOUR TEFL",
+            "institution": "TEFL Professional development Institute",
+            "end_year": 2023,
+            "status": 1,
+            "description": "To earn a TEFL (Teaching English as a Foreign Language) certification, you typically need to complete a structured training program that covers the essential skills and knowledge for teaching English effectively to non-native speakers. \r\n\r\nTEFL qualifies me to teach English to non-native speakers in a variety of settings, such as schools, language centers, private tutoring, or online platforms.",
+            "type": "TEFL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 14531,
+            "user_id": 25620090,
+            "start_year": 2020,
+            "end_year": 2023,
+            "institution": "Alliant Group of Schools",
+            "institution_type": "private_education_center",
+            "position": "Subject Teacher",
+            "country": "NG",
+            "city": "Lagos",
+            "description": "",
+            "create_at": "2024-12-16T22:02:32Z",
+            "create_by": "25620090",
+            "update_at": "2024-12-16T22:02:32Z",
+            "update_by": "25620090",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1500,
+        "trial_session_count": 0,
+        "trial_description": "Exploring English Together: Setting the Foundation for Growth\nHello, I'm Iniobong, an experienced English tutor with 5 years of teaching students at all levels. In my lessons, we will start by identifying your unique goals and developing a personalized learning plan.\nI adapt my teaching to suit each student\u2019s needs. Here\u2019s how I approach different areas:\n~IELTS/AP English Preparation: Together, we\u2019ll work on your target scores, focusing on the sections you find most challenging.\n~Business English: We will focus on effective workplace communication, including presentations, negotiations, and professional email writing.\n~Conversational English: Our lessons will concentrate on improving fluency, pronunciation, and boosting your confidence in real-life conversations.\n~General English: I\u2019ll design lessons tailored to your personal interests and objectives, helping you develop all four language skills.\nThe main areas of focus are:\n~Exam Preparation: We will practice exam-style questions, refine your strategies, and tackle any weak points.\n~Conversational Skills: You\u2019ll participate in discussions, role-plays, and vocabulary-building activities.\n~Business English: I\u2019ll create lessons on presentations, meetings, and relevant industry terms.\n~General English: We\u2019ll work on listening, speaking, reading, and writing through engaging, hands-on exercises.\nMy Teaching Approach:\n~Communicative Approach: I prioritize student interaction, real-world scenarios, and active participation.\n~Task-Based Learning: I\u2019ll assign practical tasks like writing emails or preparing speeches to improve your skills.\n~Interactive Learning: Expect to engage in fun activities like games, role-plays, and multimedia tools.\nMaterials Used:\n~Textbooks (for exam prep): Cambridge IELTS, AP English guides, and Business English workbooks.\n~Practical Resources: Articles, videos, podcasts, and examples from real life.\n~Custom Worksheets: Exercises tailored to your goals."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 25620090
+      },
+      "pro_course_detail": [
+        {
+          "id": 257506,
+          "teacher_id": 25620090,
+          "language": "english",
+          "title": "Exploring English Together: Setting the Foundation for Growth",
+          "description": "Hello, I'm Iniobong, an experienced English tutor with 5 years of teaching students at all levels. I specialize in Business English, Conversational English, AP English, and IELTS preparation. In my lessons, we will start by identifying your unique goals and developing a personalized learning plan.\nI adapt my teaching to suit each student\u2019s needs. Here\u2019s how I approach different areas:\n~IELTS/AP English Preparation: Together, we\u2019ll work on your target scores, focusing on the sections you find most challenging.\n~Business English: We will focus on effective workplace communication, including presentations, negotiations, and professional email writing.\n~Conversational English: Our lessons will concentrate on improving fluency, pronunciation, and boosting your confidence in real-life conversations.\n~General English: I\u2019ll design lessons tailored to your personal interests and objectives, helping you develop all four language skills.\nThe main areas of focus are:\n~Exam Preparation: We will practice exam-style questions, refine your strategies, and tackle any weak points.\n~Conversational Skills: You\u2019ll participate in discussions, role-plays, and vocabulary-building activities.\n~Business English: I\u2019ll create lessons on presentations, meetings, and relevant industry terms.\n~General English: We\u2019ll work on listening, speaking, reading, and writing through engaging, hands-on exercises.\nMy Teaching Approach:\n~Communicative Approach: I prioritize student interaction, real-world scenarios, and active participation.\n~Task-Based Learning: I\u2019ll assign practical tasks like writing emails or preparing speeches to improve your skills.\n~Interactive Learning: Expect to engage in fun activities like games, role-plays, and multimedia tools.\nMaterials Used:\n~Textbooks (for exam prep): Cambridge IELTS, AP English guides, and Business English workbooks.\n~Practical Resources: Articles, videos, podcasts, and examples from real life.\n~Custom Worksheets: Exercises tailored to your goals.",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-12-22T22:50:44Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 257506,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 692671
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1200,
+              "course_id": 257506,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 692672
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1500,
+              "course_id": 257506,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 692670
+            },
+            {
+              "package_price": 10000,
+              "session_price": 2000,
+              "course_id": 257506,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 692673
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 0,
+        "response_rate": 0,
+        "attendance_rate": 0,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 7438988,
+        "nickname": "Tutor Queen IELTS",
+        "avatar_file_name": "T074389880",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "NG",
+        "origin_city_id": "NG00051",
+        "origin_city_name": "Aba",
+        "living_city_id": "NG00066",
+        "living_city_name": "Oyo",
+        "timezone": "Africa/Lagos",
+        "last_login_time": "2025-04-01T17:47:20+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/2l4qJ4f15jE",
+        "video_pic_url": "https://img.youtube.com/vi/2l4qJ4f15jE/0.jpg",
+        "intro": "Queen is a Certified TOEFL/IELTS Tutor with 12 years of experience in teaching children, teenagers, and adults. From beginners to advanced level. What students love the most about Queen, is her patience and kindness. She is a medical doctor with a passion for teaching. She speaks 7 languages at different levels. Her methods are simple and easy to follow.",
+        "short_signature": "TESOL Certified Native English Tutor With 12 Years Of Teaching Experience. IELTS Tutor.",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "russian",
+            "level": 5
+          },
+          {
+            "language": "italian",
+            "level": 4
+          },
+          {
+            "language": "spanish",
+            "level": 4
+          },
+          {
+            "language": "ukrainian",
+            "level": 4
+          },
+          {
+            "language": "other",
+            "level": 1
+          },
+          {
+            "language": "polish",
+            "level": 1
+          },
+          {
+            "language": "portuguese",
+            "level": 1
+          },
+          {
+            "language": "romanian",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2020-07-14T11:03:54Z",
+        "session_count": 371,
+        "pro_rating": "4.8",
+        "tutor_rating": "4.8",
+        "overall_rating": "4.8",
+        "qiniu_video_url": "https://v.italki.cn/20B8360C-12D3-4CFE-ADBA-DFEAB61F31AA.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/2l4qJ4f15jE.jpg",
+        "teacher_material_list": [
+          1,
+          4,
+          7,
+          10,
+          8,
+          11,
+          5,
+          12,
+          6,
+          9,
+          3,
+          2
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Queen is a Certified TOEFL/IELTS Tutor with 12 years of experience in teaching children, teenagers, and adults. From beginners to advanced level. What students love the most about Queen, is her patience and kindness. She is a medical doctor with a passion for teaching. She speaks 7 languages at different levels. Her methods are simple and easy to follow.",
+        "about_teacher": "Hello, thanks for checking my profile! My name is Queen, a very patient  ESL confidence and fluency guide.\nI am a Native English speaker with 10 plus years of teaching experience.\nI teach English for Kids, Intensive English, English grammar, English pronunciation, Business English, IELTS, etc.\nI believe that each student is unique, and because of this, I will create a special course that is specific to your needs.\nI will help you build your confidence and fluency. \nDon't worry about your level, you only need consistent practice, and together, we can achieve your goals!",
+        "teaching_style": "English for traveling\nIf you're preparing for a trip to an English speaking country and want to be prepared for the vocabulary and expressions you're going to hear, I'm your tutor!\n  \nEnglish job interview prep\nThis is one of my favorite things to do with my students. Especially if you're applying to an American company with an American interviewer, I can help you understand what they expect from you as a potential employee.\n\nGeneral English\nAfter speaking to you for15 minutes, I should have a good enough idea of the things we can work on together. We can set goals that can move you further in your English learning journey.\n\nEnglish homework help\nI have been an au pair and a tutor.",
+        "is_student_full": 0,
+        "student_count": 135,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 2000,
+        "trial_session_count": 0,
+        "trial_description": "We will discuss your goals, time frame to reach the goal, and commitment to reach the goal, after this, I would introduce a personalized lesson plan for you based on our discussion. \nThen we have a simulation class that would follow the same structure for future lessons."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 7438988
+      },
+      "pro_course_detail": [
+        {
+          "id": 121769,
+          "teacher_id": 7438988,
+          "language": "english",
+          "title": "IELTS/ TOEFL/ VEPT/VEPT. ENGLISH FOR KIDS. VOCABULARY. GRAMMAR.",
+          "description": "Over 5000 exam preparation classes taught.\n\u2192 Free, high quality, exam-specific materials.\n\u2192 Self-designed speaking formats to produce structured answers within the time limits.\n\u2192 Diagnostic based classes so we can focus on the exact areas in which you need help.\n\u2192 Academic writing expert.\n\u2192 Self-designed writing formats to produce unique essays and predictable word counts.\n\u2192 Complete grammar feedback and review.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 2500,
+          "student_count": 21,
+          "session_count": 115,
+          "create_time": "2020-07-15T08:26:39Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 2500,
+              "course_id": 121769,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 278795
+            }
+          ]
+        },
+        {
+          "id": 121771,
+          "teacher_id": 7438988,
+          "language": "english",
+          "title": "BUSINESS ENGLISH. JOB INTERVIEWS. MEDICAL ENGLISH.",
+          "description": "STRUCTURED LESSON!\nLearn how to speak in a formal setting. Learn English terms related to your job.\n\nOffering:\n\u2192 Free, high quality, career-specific materials.\n\u2192 We plan your course together, choosing the right mix of materials and activities...\n\u2192 Variety of speaking games and activities to keep classes dynamic and fun.\n\u2192 Detailed performance review after each session.\n\u2192 Grammar recommendations based on performance during each session.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0006"
+          ],
+          "session_price": 2500,
+          "student_count": 13,
+          "session_count": 21,
+          "create_time": "2020-07-15T08:35:07Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 2500,
+              "course_id": 121771,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 278802
+            }
+          ]
+        },
+        {
+          "id": 124294,
+          "teacher_id": 7438988,
+          "language": "english",
+          "title": "Conversation.",
+          "description": "AIM: \nTo improve your confidence and fluency in speaking. \n\nSTRUCTURED LESSON!\nDo you find it hard to understand native speakers? \nMaybe you understand the words, but the sentence does not make sense to you?\n Do you find it hard to express yourself in English? This course is for you! This lesson improves your Speaking, Listening, Grammar, Vocabulary and Pronunciation, Fluency, and Confidence in English Speaking.\n It also improves your vocabulary with single words and phrases.  The phrases include phrasal verbs and idioms. It includes a learning plan as a bonus!  \n\nOffering:\n\u2192 Free, high quality, career-specific materials.\n\u2192 We plan your course together, choosing the right mix of materials and activities...\n\u2192 Variety of speaking games and activities to keep classes dynamic and fun.\n\u2192 Detailed performance review after each session.\n\u2192 Grammar recommendations based on performance during each session.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2000,
+          "student_count": 44,
+          "session_count": 116,
+          "create_time": "2020-08-07T08:23:03Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 124294,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 615346
+            },
+            {
+              "package_price": 10000,
+              "session_price": 2000,
+              "course_id": 124294,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 286234
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 37.0
+          },
+          {
+            "month": 2,
+            "data": 27.0
+          },
+          {
+            "month": 3,
+            "data": 3.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 0.5
+          }
+        ],
+        "finished_session": 371,
+        "response_rate": 0.98,
+        "attendance_rate": 0.98,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 24950973,
+        "nickname": "Grace Enyi",
+        "avatar_file_name": "4T249509730",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "NG",
+        "origin_city_id": "NG00000",
+        "origin_city_name": "Other",
+        "living_city_id": "NG00001",
+        "living_city_name": "Lagos",
+        "timezone": "Africa/Lagos",
+        "last_login_time": "2025-04-01T12:24:30+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/cqwpog1yaG4",
+        "video_pic_url": "https://img.youtube.com/vi/cqwpog1yaG4/0.jpg",
+        "intro": "Hi! My name is Grace and I am an ESL tutor from Nigeria who enjoys helping learners improve their fluency, confidence, and real-world communication skills. I am TESOL-certified and have received 7000+ \u2b50 positive ratings from learners worldwide!\n\nI have worked with students from diverse backgrounds, helping them improve their English and achieve better results with their businesses, examinations, interviews, and social interactions.\n\nI love meeting people and learning about their interests, while helping them overcome their learning challenges.  I am willing to chat about anything, school, art, business, marriage, dating, travel, music, sports and so on.",
+        "short_signature": "TESOL Certified Tutor with 7000+\u2b50 positive reviews",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "nigerianpidgin",
+            "level": 5
+          },
+          {
+            "language": "igbo",
+            "level": 3
+          },
+          {
+            "language": "spanish",
+            "level": 2
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2024-11-19T21:28:03Z",
+        "session_count": 28,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/BCDA054F-9455-43E2-BF25-AD16FAF9D7CC.mp4",
+        "cover_name": "u/24950973/cover/cuge4mul9mg75ba9q2ng.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/cqwpog1yaG4.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi! My name is Grace and I am an ESL tutor from Nigeria who enjoys helping learners improve their fluency, confidence, and real-world communication skills. I am TESOL-certified and have received 7000+ \u2b50 positive ratings from learners worldwide!\n\nI have worked with students from diverse backgrounds, helping them improve their English and achieve better results with their businesses, examinations, interviews, and social interactions.\n\nI love meeting people and learning about their interests, while helping them overcome their learning challenges.  I am willing to chat about anything, school, art, business, marriage, dating, travel, music, sports and so on.",
+        "about_teacher": "I love connecting with people from different backgrounds and making learning an enjoyable experience for each person. My goal is to create an environment where you will feel comfortable expressing yourself, regardless of your level or background.\n\nI have worked with students from diverse backgrounds, helping them improve their English and achieve better results with their businesses, examinations, interviews, and social interactions. My students achieve great results after having regular sessions with me, because I not only help them improve their English, but I help them gain the confidence they need to express themselves fluently, without worrying about mistakes. I can do the same for you!",
+        "teaching_style": "In my lessons, you can expect a relaxed and supportive atmosphere where you are encouraged to take risks and grow at your own pace.\n\nI tailor each session to suit your individual goals, focusing on practical language skills that you can apply in real-life situations. Whether we are working on conversation, grammar or pronunciation, I ensure the lessons are going to be interactive, engaging, and most importantly, fun!\n\nI like to balance structure with flexibility, so while we have clear objectives, there is always room to explore topics that interest you. I am here to make learning English enjoyable and boost your confidence every step of the way.",
+        "is_student_full": 0,
+        "student_count": 6,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2024-11-19T21:28:03+00:00",
+        "exp_info": [
+          {
+            "industry": "business",
+            "country": "NG",
+            "city": "Lagos",
+            "company": "Afrodyssey Music LTD",
+            "job": "Administrative Assistant",
+            "file_ext": "",
+            "file_path": "",
+            "description": "In my role as an administrative assistant, I manage various essential administrative duties that keep my managers and clients organized and efficient. This involves scheduling, organizing digital and physical files, ensuring smooth communication via emails and calls, supporting project timelines, arranging travel for clients and ensuring resources are ready for events and/or collaborations.",
+            "start_year": 2024,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2024-11-11T06:56:28Z",
+            "exp_id": 157237
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University of Lagos",
+            "major": "Business Administration",
+            "level": 1,
+            "start_year": 2018,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2024-10-21T09:42:51Z",
+            "edu_id": "86AECB16-8FE4-4428-BDCD-17930B26A5EC"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [
+          {
+            "id": 13042,
+            "user_id": 24950973,
+            "start_year": 2022,
+            "end_year": 2023,
+            "institution": "Hilokal",
+            "institution_type": "private_education_center",
+            "position": "English Trainer",
+            "country": "KR",
+            "city": "Seoul",
+            "description": "Remote role training English language learners by teaching English classes to help learners improve their command of English and master the art of English communication. Role also involved creating lesson materials and fun game activities to encourage learning and motivate learners.",
+            "create_at": "2024-11-11T06:10:35Z",
+            "create_by": "24950973",
+            "update_at": "2024-11-11T06:10:35Z",
+            "update_by": "24950973",
+            "status": 1
+          },
+          {
+            "id": 13044,
+            "user_id": 24950973,
+            "start_year": 2022,
+            "end_year": 2155,
+            "institution": "Lingbe",
+            "institution_type": "private_education_center",
+            "position": "English Trainer",
+            "country": "ES",
+            "city": "Madrid",
+            "description": "Remote role coaching English language learners by answering native calls and teaching English classes to help learners improve their command of the English and master the art of English communication.",
+            "create_at": "2024-11-11T06:12:57Z",
+            "create_by": "24950973",
+            "update_at": "2024-11-11T06:12:57Z",
+            "update_by": "24950973",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1500,
+        "trial_session_count": 0,
+        "trial_description": "Welcome to my trial English lesson! \n\nIn this session, we will have a friendly, relaxed conversation to get to know each other. I'll listen to how you speak and help you with your English. No matter your level, my goal is to help you feel confident when you speak and support you in reaching your language goals.\n\nI can't wait to meet you in class!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 24950973
+      },
+      "pro_course_detail": [
+        {
+          "id": 255577,
+          "teacher_id": 24950973,
+          "language": "english",
+          "title": "English For Everyday Life: Free Conversation Practice :)",
+          "description": "Hello! \n\nReady for a relaxed and fun conversation? In this lesson, we'll chat like old friends about anything you like- your hobbies, your day, or even your dreams for the future. This is your chance to practice English naturally, build your confidence, and enjoy every minute of it. No pressure, just good vibes and great conversation. \n\nIf you are looking for extra English practice to complement your curriculum or only have time for short lessons, this option is for you. \n\nIf you have any questions about the lesson, feel free to send me a message.\n\nLet's talk and become good friends in the process!",
+          "level_lower_limit": 3,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 2,
+          "session_count": 2,
+          "create_time": "2024-11-19T05:50:14Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4000,
+              "session_price": 800,
+              "course_id": 255577,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 687450
+            },
+            {
+              "package_price": 7700,
+              "session_price": 800,
+              "course_id": 255577,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 700520
+            },
+            {
+              "package_price": 11600,
+              "session_price": 800,
+              "course_id": 255577,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 700521
+            },
+            {
+              "package_price": 15500,
+              "session_price": 800,
+              "course_id": 255577,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 700522
+            },
+            {
+              "package_price": 6500,
+              "session_price": 1300,
+              "course_id": 255577,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 700517
+            },
+            {
+              "package_price": 12500,
+              "session_price": 1300,
+              "course_id": 255577,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 700523
+            },
+            {
+              "package_price": 18800,
+              "session_price": 1300,
+              "course_id": 255577,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 792172
+            },
+            {
+              "package_price": 25000,
+              "session_price": 1300,
+              "course_id": 255577,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 792173
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1500,
+              "course_id": 255577,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 700519
+            },
+            {
+              "package_price": 14400,
+              "session_price": 1500,
+              "course_id": 255577,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 700518
+            },
+            {
+              "package_price": 21600,
+              "session_price": 1500,
+              "course_id": 255577,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 792177
+            },
+            {
+              "package_price": 28800,
+              "session_price": 1500,
+              "course_id": 255577,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 792178
+            },
+            {
+              "package_price": 10000,
+              "session_price": 2000,
+              "course_id": 255577,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 700524
+            },
+            {
+              "package_price": 19300,
+              "session_price": 2000,
+              "course_id": 255577,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 792174
+            },
+            {
+              "package_price": 29000,
+              "session_price": 2000,
+              "course_id": 255577,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 792175
+            },
+            {
+              "package_price": 38400,
+              "session_price": 2000,
+              "course_id": 255577,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 792176
+            }
+          ]
+        },
+        {
+          "id": 256004,
+          "teacher_id": 24950973,
+          "language": "english",
+          "title": "English for Everyday Life: Structured Conversation Practice",
+          "description": "Welcome to my classroom!\n\nIn my conversation lessons, we will focus on real-life topics to help you have wonderful conversations in English on any topic of your choice. No boring textbooks here- just fun, engaging conversations tailored to your interests and goals! \n\nYou can choose from exciting topics like:\n-talking about your daily life and routines\n-exploring travel, food and cultural traditions\n- sharing your hobbies and dreams\n-practicing small talk, workplace conversations, or story telling\n-deep and introspective conversations\n-and so much more!\n\nEach session is also designed so you can practice without stress while improving your vocabulary, grammar, and pronunciation. \n\nHow it works:\nWhen you select a topic, I will come up with a list of question prompts to guide the conversation during the class. This way, you will learn to form opinions about each topic we discuss, and express these opinions confidently in English.\n\nReady? Book now, let me help you navigate conversations confidently in English!\n\nIf you have any questions about this class, kindly send me a message.\n\nSee you in class!",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 4,
+          "session_count": 25,
+          "create_time": "2024-11-26T07:40:47Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4000,
+              "session_price": 800,
+              "course_id": 256004,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 700500
+            },
+            {
+              "package_price": 7700,
+              "session_price": 800,
+              "course_id": 256004,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 687455
+            },
+            {
+              "package_price": 11600,
+              "session_price": 800,
+              "course_id": 256004,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 700499
+            },
+            {
+              "package_price": 15500,
+              "session_price": 800,
+              "course_id": 256004,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 700498
+            },
+            {
+              "package_price": 6500,
+              "session_price": 1300,
+              "course_id": 256004,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 687456
+            },
+            {
+              "package_price": 12500,
+              "session_price": 1300,
+              "course_id": 256004,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 700501
+            },
+            {
+              "package_price": 18800,
+              "session_price": 1300,
+              "course_id": 256004,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 792181
+            },
+            {
+              "package_price": 25000,
+              "session_price": 1300,
+              "course_id": 256004,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 792182
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1500,
+              "course_id": 256004,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 687454
+            },
+            {
+              "package_price": 14400,
+              "session_price": 1500,
+              "course_id": 256004,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 700502
+            },
+            {
+              "package_price": 21600,
+              "session_price": 1500,
+              "course_id": 256004,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 792179
+            },
+            {
+              "package_price": 28800,
+              "session_price": 1500,
+              "course_id": 256004,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 792180
+            },
+            {
+              "package_price": 10000,
+              "session_price": 2000,
+              "course_id": 256004,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 687457
+            },
+            {
+              "package_price": 19300,
+              "session_price": 2000,
+              "course_id": 256004,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 792183
+            },
+            {
+              "package_price": 29000,
+              "session_price": 2000,
+              "course_id": 256004,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 792184
+            },
+            {
+              "package_price": 38400,
+              "session_price": 2000,
+              "course_id": 256004,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 792185
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 6.0
+          },
+          {
+            "month": 2,
+            "data": 6.0
+          },
+          {
+            "month": 3,
+            "data": 4.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 27,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 13544450,
+        "nickname": "Irene",
+        "avatar_file_name": "10T135444500",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 1,
+        "living_country_id": "NG",
+        "origin_city_id": "NG00026",
+        "origin_city_name": "Port Harcourt",
+        "living_city_id": "NG00026",
+        "living_city_name": "Port Harcourt",
+        "timezone": "Africa/Lagos",
+        "last_login_time": "2025-04-01T20:45:00+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/UF7MFc1UfsI",
+        "video_pic_url": "https://img.youtube.com/vi/UF7MFc1UfsI/0.jpg",
+        "intro": "Hi everyone!  Thank you so much for visiting my profile.\n\nI am a very enthusiastic and dynamic language teacher here on iTalki.  I have been teaching online for more than 3 years and I absolutely love it.  My students are the greatest and I am passionate about helping them achieve their English learning goals.  Whether it's for the IELTS, your job, a mid-term exam, or simply improving your conversation skills, I can provide English learning solutions for you!",
+        "short_signature": "English teacher with 10+ years of experience specializing in vocabulary, grammar, and pronunciation.",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2022-05-03T22:04:27Z",
+        "session_count": 692,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/A490B260-CCF8-4138-9E2C-803DBE4BF277.mp4",
+        "cover_name": "u/13544450/cover/cmaq842t2am6vkbsb53g.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/UF7MFc1UfsI.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi everyone!  Thank you so much for visiting my profile.\n\nI am a very enthusiastic and dynamic language teacher here on iTalki.  I have been teaching online for more than 3 years and I absolutely love it.  My students are the greatest and I am passionate about helping them achieve their English learning goals.  Whether it's for the IELTS, your job, a mid-term exam, or simply improving your conversation skills, I can provide English learning solutions for you!",
+        "about_teacher": "It has always been a priority of mine that the people I interact with are comfortable and relaxed. Our lessons will be casual and FUN. When you enjoy a lesson, you can be sure that the information will be retained better.\nWith my background, I am always down to speaking to people. I just love it. \nI will always be interested in talking to you no matter what your level is! Sharing stories and experiences will not only develop your English skills but will also broaden both of our horizons.\nWith English, I like to pay special attention to pronunciation, so you will be learning NEW WORDS and mastering the American way of pronouncing them.",
+        "teaching_style": "My lessons are fun but efficient. When you try speaking a language you are learning, it might be intimidating and maybe even a little uncomfortable for you. But with the right techniques, I will make sure that you push yourself outside of that comfort zone and grow to really enjoy conversing. You can think of our lessons as an opportunity for you to experiment: make mistakes, try new words, and sharpen up your pronunciation skills. Trust me, after each lesson, you will feel that sense of achievement, joy, and excitement for more classes. You will be hungry and pumped for more conversations. I use songs, movies, and other media to teach you words and to immerse you in the language.",
+        "is_student_full": 0,
+        "student_count": 264,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-05-03T22:04:27+00:00",
+        "exp_info": [
+          {
+            "country": "JP",
+            "city": "Tokyo",
+            "company": "Native Camp",
+            "job": "Online Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "The best part of been an online teacher is  making every interaction a positive experience, even from a distance. When students know they have a dedicated and supportive teacher, they\u2019re empowered to try new things, inspired to ask questions, and comfortable seeking help when they need it.",
+            "start_year": 2019,
+            "end_year": 2022,
+            "status": 1,
+            "create_time": "2022-06-25T10:35:50Z",
+            "exp_id": 142558
+          },
+          {
+            "country": "NG",
+            "city": "Port-Harcourt",
+            "company": "International Preparatory School",
+            "job": "Classroom Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "As a  classroom teacher, I made every interaction a positive experience, even from a distance and one on one . When students know they have a dedicated and supportive teacher, they're empowered to try new things, inspired to ask questions, and comfortable seeking help when they need it.",
+            "start_year": 2018,
+            "end_year": 2019,
+            "status": 1,
+            "create_time": "2022-06-25T11:21:28Z",
+            "exp_id": 142559
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University Of PortHarcourt",
+            "major": "Microbiology",
+            "level": 1,
+            "description": "The discipline focuses on the structure, function, and classification of these organisms and looks for ways to exploit and control their activities.",
+            "start_year": 2005,
+            "end_year": 2010,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2022-06-25T10:14:01Z",
+            "edu_id": "8A7E1A6B-1633-4E69-B9A4-11062E789EED"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2022-06-25T11:08:15Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "description": "A legitimate and recognized TEFL class must have a minimum of 100 hours of coursework, 6-20+ hours of live practice teaching with non-native English learners, it must be accredited by a recognized body within the field. TEFL stands for Teaching English as a Foreign Language, and a certificate in TEFL is simply a qualification that enables me to do just this \u2013 Teach English as a Foreign Language. In other words, it enables me to teach English to people whose first language is not English",
+            "institution": "TEFL",
+            "end_year": 2019,
+            "status": 1,
+            "certificate": "TEFL Certificate",
+            "cert_id": "FA9F4E12-3214-47D2-B483-3254BD44070D"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "Teacher Record",
+            "type": "CA003",
+            "type_text_code": "TEST",
+            "certificate": "TEFL",
+            "description": "To get the TEFL Teacher Record certificate, I needed to complete a TEFL course (typically 120+ hours), pass assessments, and possibly participate in teaching practice. As a TEFL-certified test preparation online teacher, I help students prepare for exams like IELTS or TOEFL by creating targeted lessons, practicing test skills, providing feedback, and teaching test-taking strategies. My goal is to improve their performance on English proficiency exams.",
+            "end_year": 2023,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/B66DECE5-A5E2-4540-8530-8A48CC5D8E32.jpg",
+            "create_time": "2024-09-14T04:46:38Z",
+            "update_time": "2024-09-14T04:46:38Z",
+            "approve_time": "2024-09-19T07:56:06Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "TEFL",
+            "institution": "Teacher Record",
+            "end_year": 2023,
+            "status": 1,
+            "description": "To get the TEFL Teacher Record certificate, I needed to complete a TEFL course (typically 120+ hours), pass assessments, and possibly participate in teaching practice. As a TEFL-certified test preparation online teacher, I help students prepare for exams like IELTS or TOEFL by creating targeted lessons, practicing test skills, providing feedback, and teaching test-taking strategies. My goal is to improve their performance on English proficiency exams.",
+            "type": "CA003"
+          },
+          {
+            "certificate": "TEFL Certificate",
+            "institution": "TEFL",
+            "end_year": 2019,
+            "status": 1,
+            "description": "A legitimate and recognized TEFL class must have a minimum of 100 hours of coursework, 6-20+ hours of live practice teaching with non-native English learners, it must be accredited by a recognized body within the field. TEFL stands for Teaching English as a Foreign Language, and a certificate in TEFL is simply a qualification that enables me to do just this \u2013 Teach English as a Foreign Language. In other words, it enables me to teach English to people whose first language is not English",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 700,
+        "trial_session_count": 0,
+        "trial_description": "A general conversation based trial class. Let us meet each other and see how I can help you - with building confidence, conversation, pronunciation, grammar... or whatever else you may need. I am here to help!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 13544450
+      },
+      "pro_course_detail": [
+        {
+          "id": 223146,
+          "teacher_id": 13544450,
+          "language": "english",
+          "title": "Growing Through Conservation:  Beginner, Intermediate, and Advanced",
+          "description": "In this class we will focus on speaking by discussing topics that are interesting to you.\n\nThere is no homework given for this class; however, we will use Google Docs to keep a record of notes for your benefit.\n\nThis class is appropriate for all English levels (CEFR A1-C1)",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 700,
+          "student_count": 117,
+          "session_count": 408,
+          "create_time": "2022-05-02T15:36:19Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 223146,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 745041
+            },
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 223146,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 573700
+            },
+            {
+              "package_price": 7500,
+              "session_price": 500,
+              "course_id": 223146,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 745042
+            },
+            {
+              "package_price": 10000,
+              "session_price": 500,
+              "course_id": 223146,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 745043
+            },
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 223146,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 745044
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 223146,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 577176
+            },
+            {
+              "package_price": 8500,
+              "session_price": 600,
+              "course_id": 223146,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 745045
+            },
+            {
+              "package_price": 11500,
+              "session_price": 600,
+              "course_id": 223146,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 745046
+            },
+            {
+              "package_price": 3000,
+              "session_price": 700,
+              "course_id": 223146,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 745038
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 223146,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 573699
+            },
+            {
+              "package_price": 10000,
+              "session_price": 700,
+              "course_id": 223146,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 745039
+            },
+            {
+              "package_price": 13500,
+              "session_price": 700,
+              "course_id": 223146,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 745040
+            }
+          ]
+        },
+        {
+          "id": 223366,
+          "teacher_id": 13544450,
+          "language": "english",
+          "title": "Business Conversations: Speak English with Confidence\"",
+          "description": "This is a teaching material that allows you to learn the business intensive, business communication, Negotiation, English for IT, English for doctors, Medical English, English for Lawyers, Building and construction  necessary to be active in a global society.",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 24,
+          "session_count": 41,
+          "create_time": "2022-05-04T21:53:46Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 223366,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 574395
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 223366,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 577197
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 223366,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 574394
+            }
+          ]
+        },
+        {
+          "id": 223637,
+          "teacher_id": 13544450,
+          "language": "english",
+          "title": "IELTS",
+          "description": "The course is designed for students who want to prepare for IELTS exam and come out with an excellent result.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA003",
+          "course_tags": [
+            "T0050"
+          ],
+          "session_price": 700,
+          "student_count": 42,
+          "session_count": 114,
+          "create_time": "2022-05-07T15:54:59Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 223637,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 575179
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 223637,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 577178
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 223637,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 575178
+            }
+          ]
+        },
+        {
+          "id": 251881,
+          "teacher_id": 13544450,
+          "language": "english",
+          "title": "Boost Up Your Confidence By Speaking And Mastering Conversation English With Ease",
+          "description": "Boost Up Your Confidence By Speaking And Mastering Conversation English With Ease is designed to help you improve your conversational English skills while building confidence. Through real-life practice, role-playing, and interactive exercises, you'll learn to speak more fluently and naturally, allowing you to engage in conversations effortlessly in any situation.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 5,
+          "session_count": 11,
+          "create_time": "2024-09-22T16:52:21Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 251881,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 675484
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 251881,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 675485
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 251881,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 675483
+            },
+            {
+              "package_price": 8500,
+              "session_price": 1000,
+              "course_id": 251881,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 675486
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 25.0
+          },
+          {
+            "month": 1,
+            "data": 19.0
+          },
+          {
+            "month": 2,
+            "data": 20.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.93
+          },
+          {
+            "month": 1,
+            "data": 0.9
+          },
+          {
+            "month": 2,
+            "data": 0.92
+          }
+        ],
+        "finished_session": 692,
+        "response_rate": 1,
+        "attendance_rate": 0.98,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 10349624,
+        "nickname": "Amoji Uche",
+        "avatar_file_name": "T103496240",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "NG",
+        "origin_city_id": "NG00051",
+        "origin_city_name": "Aba",
+        "living_city_id": "NG00261",
+        "living_city_name": "Abuja",
+        "timezone": "Africa/Lagos",
+        "last_login_time": "2025-03-24T13:27:13+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/A3ZGtdYpeOc",
+        "video_pic_url": "https://img.youtube.com/vi/A3ZGtdYpeOc/0.jpg",
+        "intro": "Hello, my name is Uche. I am a native English speaker from Nigeria. I am an easygoing person and I love to make friends. I love performing arts, I have been acting ever since I was in high school, I am an avid reader and also a big movie buff.\n\nI participated in a community development project in the rural part of my country encouraging reading culture among children, organized quiz competitions, and held free tutoring sessions.",
+        "short_signature": "TESOL/TEFL Certified tutor with 3 years experience",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-10-28T17:02:10Z",
+        "session_count": 9,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/7D75C18B-D456-428F-9857-FD39DA20A1AA.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/A3ZGtdYpeOc.jpg",
+        "teacher_material_list": [
+          6,
+          12,
+          8
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello, my name is Uche. I am a native English speaker from Nigeria. I am an easygoing person and I love to make friends. I love performing arts, I have been acting ever since I was in high school, I am an avid reader and also a big movie buff.\n\nI participated in a community development project in the rural part of my country encouraging reading culture among children, organized quiz competitions, and held free tutoring sessions.",
+        "about_teacher": "I am a TESOL/TEFL certified tutor. I have been teaching the English language for 3 years, 1 year as a high school teacher, and 2 years as an online ESL tutor, teaching over 1000 students. I love to meet new people, learn about new cultures and also have the opportunity to teach people about my own culture. I am very passionate about teaching, I am patient and friendly, and generally fun to learn with. I love to create a fun, relaxed, and interesting learning environment, where my students are free to express",
+        "teaching_style": "I adopt a personalized teaching method, tailoring the lesson to meet my student's specific needs because I believe that the learning process isn't one-size-fits-all. I have had reviews from students I have taught on how PATIENT and KIND I am and how my classes are always FUN and EASY. Our lessons will include basic conversation practice focusing on grammar, pronunciation, and vocabulary while seeking to improve your general speaking skills and boosting your confidence in speaking in no time. I would love to be part of your learning journey helping you gain mastery in English. Book a lesson with me and let's learn together.",
+        "is_student_full": 0,
+        "student_count": 1,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-11-11T07:56:57+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Abia State University",
+            "major": "Economics",
+            "level": 1,
+            "start_year": 2013,
+            "end_year": 2016,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2023-03-15T13:24:42Z",
+            "edu_id": "076BD664-628A-4697-9F76-32B0387F0B45"
+          },
+          {
+            "institution": "Abia State University",
+            "major": "Economics",
+            "level": 1,
+            "start_year": 2012,
+            "end_year": 2016,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2023-03-15T13:32:10Z",
+            "edu_id": "B48AEA87-9E15-4025-85F3-7277C6317551"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1200,
+        "trial_session_count": 0,
+        "trial_description": "Our lessons will include basic conversation practice focusing on grammar, pronunciation, and vocabulary while seeking to improve your general speaking skills and boost your confidence in speaking in no time."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 10349624
+      },
+      "pro_course_detail": [
+        {
+          "id": 194814,
+          "teacher_id": 10349624,
+          "language": "english",
+          "title": "Conversation",
+          "description": "Our lessons will include basic conversation practice focusing on grammar, pronunciation, and vocabulary while seeking to improve your general speaking skills and boost your confidence in speaking.",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 1,
+          "session_count": 9,
+          "create_time": "2021-11-11T07:56:57Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2700,
+              "session_price": 600,
+              "course_id": 194814,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 491500
+            },
+            {
+              "package_price": 4700,
+              "session_price": 1000,
+              "course_id": 194814,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 491501
+            },
+            {
+              "package_price": 5700,
+              "session_price": 1200,
+              "course_id": 194814,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 491499
+            }
+          ]
+        },
+        {
+          "id": 240981,
+          "teacher_id": 10349624,
+          "language": "english",
+          "title": "Basic English for Beginners",
+          "description": "In this lesson, we will learn the basics of speaking the English language and some basic English grammar and how to use it in everyday conversation.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 1400,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2023-09-23T11:09:49Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3200,
+              "session_price": 700,
+              "course_id": 240981,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 638457
+            },
+            {
+              "package_price": 4900,
+              "session_price": 1050,
+              "course_id": 240981,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 638458
+            },
+            {
+              "package_price": 6700,
+              "session_price": 1400,
+              "course_id": 240981,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 638456
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 9,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 10741361,
+        "nickname": "Angelica Omeogah",
+        "avatar_file_name": "1T107413610",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "PH",
+        "origin_city_id": "NG00061",
+        "origin_city_name": "Enugu",
+        "living_city_id": "PH00051",
+        "living_city_name": "Cagayan de Oro",
+        "timezone": "Asia/Manila",
+        "last_login_time": "2025-03-26T21:32:31+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/EuYprSBwHD4",
+        "video_pic_url": "https://img.youtube.com/vi/EuYprSBwHD4/0.jpg",
+        "intro": "My name is Angelica Omeogah and I am a graduate of Communications Studies. I am also currently pursuing my Masters study in Technology Communication Management.\n\nI have always loved the English language and have always prided myself in being able to use it fluently.\nSince I was a little girl, I had always been everyone's go-to person for help with communicating in English, whether it was written or spoken English.\nI began to formalize this practice when I discovered online platforms for teaching English as a foreign language. It was a welcome way for me to share my passion for communicating in English, while helping people around the world achieve their aims around studying English.",
+        "short_signature": "Experienced English Conversations and Exams Tutor",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-10-08T20:39:55Z",
+        "session_count": 80,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/A5ADD550-4883-464B-9E58-3147A68A87AA.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/EuYprSBwHD4.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          5,
+          8,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "My name is Angelica Omeogah and I am a graduate of Communications Studies. I am also currently pursuing my Masters study in Technology Communication Management.\n\nI have always loved the English language and have always prided myself in being able to use it fluently.\nSince I was a little girl, I had always been everyone's go-to person for help with communicating in English, whether it was written or spoken English.\nI began to formalize this practice when I discovered online platforms for teaching English as a foreign language. It was a welcome way for me to share my passion for communicating in English, while helping people around the world achieve their aims around studying English.",
+        "about_teacher": "I have been able to help many of my students prepare for standardized tests, business meetings, as well as improve their general conversation skills.\n\nPersonally, I have written 2 standardized English proficiency exams and scored top scores, which serves to bolster my confidence and reassures me of my mastery of the language.\n\nTo improve my teaching practice, I took a professional TEFL (Teaching English as a Foreign Language) course, for which I got certified by a TEFL Professional Institute.\n\nI like it when English language is used appropriately to achieve effective communication; so, I do my part here and there to ensure the proliferation of proper English use for communication.",
+        "teaching_style": "My lessons incorporate conversations that will engage the students speaking ability, confidence and expression of ideas using English words and sentences.\n\nI like to get my students to relax and just speak to me, because at the end of the day, this language is being learned to increase one's capacity for communication.\n\nIn some classes, we will read articles and learn enunciations and other factors that have to with tone for clearer communication.",
+        "is_student_full": 0,
+        "student_count": 39,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-10-09T10:54:23+00:00",
+        "exp_info": [
+          {
+            "industry": "art_humanities",
+            "company": "Blake & Harper Integrated Communications",
+            "job": "Content Writer/Researcher",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2016,
+            "end_year": 2017,
+            "status": 1,
+            "create_time": "2024-03-05T11:36:17Z",
+            "exp_id": 151656
+          },
+          {
+            "industry": "language_literature",
+            "company": "Idios Creatives",
+            "job": "Projects Coordinator",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2018,
+            "end_year": 2019,
+            "status": 1,
+            "create_time": "2024-03-05T11:37:32Z",
+            "exp_id": 151657
+          },
+          {
+            "industry": "technology_engineering",
+            "company": "Interra Networks",
+            "job": "Sales Officer",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2017,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2024-03-05T11:38:57Z",
+            "exp_id": 151658
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "NAU",
+            "major": "Mass Communication",
+            "level": 1,
+            "description": "This 4-year degree was focused on the tenets of communication. It covered different kinds of communication: interpersonal communication, speech communication, mass media communication.\r\nWe also focused on English for Mass Communication; how to best use the English language to communicate clearly and effectively.",
+            "start_year": 2012,
+            "end_year": 2016,
+            "status": 1,
+            "create_time": "2024-03-05T11:30:35Z",
+            "edu_id": "00002D88-C209-40E9-9337-2B743F868B0E"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2024-06-09T14:04:21Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "Teacher Record",
+            "end_year": 2024,
+            "status": 1,
+            "certificate": "Teaching English as a Foreign Language",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "B1601CCA-7E6C-4148-B594-4174DC711FEC"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Teaching English as a Foreign Language",
+            "institution": "Teacher Record",
+            "end_year": 2024,
+            "status": 1,
+            "description": "",
+            "type": "TEFL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 677,
+            "user_id": 10741361,
+            "start_year": 2018,
+            "end_year": 2020,
+            "institution": "Native Camp",
+            "institution_type": "self_employed_online",
+            "position": "English Tutor",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-03-05T11:33:14Z",
+            "create_by": "10741361",
+            "update_at": "2024-03-05T11:33:14Z",
+            "update_by": "10741361",
+            "status": 1
+          },
+          {
+            "id": 679,
+            "user_id": 10741361,
+            "start_year": 2021,
+            "end_year": 2024,
+            "institution": "italki",
+            "institution_type": "self_employed_online",
+            "position": "English Tutor",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-03-05T11:34:02Z",
+            "create_by": "10741361",
+            "update_at": "2024-03-05T11:34:02Z",
+            "update_by": "10741361",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 1
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 600,
+        "min_price": 1100,
+        "trial_session_count": 0,
+        "trial_description": "The trial lesson will focus on establishing the student's language level and discussing the student's goals, while creating a road map for further study and helping the student begin to develop in their area of need."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 10741361
+      },
+      "pro_course_detail": [
+        {
+          "id": 187865,
+          "teacher_id": 10741361,
+          "language": "english",
+          "title": "English language practice for Test Preparation (IELTS/TOEFL)",
+          "description": "This lesson focuses on engaging students in practical work towards preparing for standardized tests.\nWith my experience in tutoring individuals ahead of standardized tests and watching them attain great results, as well as getting a great result myself, the aim of this lesson is to help students focus on core testing areas and improve their abilities in those.\nThe lesson will feature simulations of real life standardized tests as well as some assignments.",
+          "level_lower_limit": 4,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1500,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2021-10-09T10:23:04Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 9000,
+              "session_price": 1000,
+              "course_id": 187865,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 470423
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 187865,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 470422
+            }
+          ]
+        },
+        {
+          "id": 187866,
+          "teacher_id": 10741361,
+          "language": "english",
+          "title": "English language for Day-to-Day use",
+          "description": "This lesson focuses on teaching students to use the English language for conversations and general expression of ideas and opinions.\nFor this lesson, students will be engaged in regular conversation practice on different areas, depending on their learning aim.",
+          "level_lower_limit": 2,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1100,
+          "student_count": 12,
+          "session_count": 46,
+          "create_time": "2021-10-09T10:35:53Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 700,
+              "course_id": 187866,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 470430
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1100,
+              "course_id": 187866,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 470431
+            }
+          ]
+        },
+        {
+          "id": 187867,
+          "teacher_id": 10741361,
+          "language": "english",
+          "title": "English language Vocabulary Improvement for Meetings and Interview Preparations",
+          "description": "This lesson focuses on helping students prepare for using the English language to operate in the world of business, for whatever purpose - meetings, interviews, pitches, presentations, and so on.\nDepending on the student's goals, the lesson specifics would be tailored to match and simulate the relevant scenario. \nWe would engage in building vocabulary and expressions to suit the business category.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0006"
+          ],
+          "session_price": 2000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2021-10-09T10:44:28Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7000,
+              "session_price": 1500,
+              "course_id": 187867,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 470434
+            },
+            {
+              "package_price": 9000,
+              "session_price": 2000,
+              "course_id": 187867,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 470433
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 80,
+        "response_rate": 1,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 26538982,
+        "nickname": "Maureen",
+        "avatar_file_name": "T265389820",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "NG",
+        "origin_city_id": "NG00000",
+        "origin_city_name": "Other",
+        "living_city_id": "NG00001",
+        "living_city_name": "Lagos",
+        "timezone": "Africa/Lagos",
+        "last_login_time": "2025-03-31T22:06:32+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/cT47m0LAaew",
+        "video_pic_url": "https://img.youtube.com/vi/cT47m0LAaew/0.jpg",
+        "intro": "Hi, I\u2019m Maureen and I\u2019m thrilled to join and help you on your English learning journey! I\u2019ve been teaching international students on various platforms for a while now, and I\u2019ve seen incredible progress in my students. I believe language opens doors to new opportunities, and I\u2019m here to make that process enjoyable and rewarding. Whether you\u2019re working on speaking, writing, or simply building your confidence, I\u2019ll provide lessons tailored just for you. Let\u2019s make learning English fun and exciting together!",
+        "short_signature": "Learn Smarter, Not Harder!...I promise it's fun\ud83d\ude09",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2025-03-12T18:09:04Z",
+        "session_count": 0,
+        "pro_rating": "0.0",
+        "tutor_rating": "0.0",
+        "overall_rating": "0.0",
+        "qiniu_video_url": "https://v.italki.cn/EBC9BA4B-1EDE-4D92-817B-B3F626552AEE.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/cT47m0LAaew.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          8,
+          9,
+          12
+        ],
+        "is_new": 1,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi, I\u2019m Maureen and I\u2019m thrilled to join and help you on your English learning journey! I\u2019ve been teaching international students on various platforms for a while now, and I\u2019ve seen incredible progress in my students. I believe language opens doors to new opportunities, and I\u2019m here to make that process enjoyable and rewarding. Whether you\u2019re working on speaking, writing, or simply building your confidence, I\u2019ll provide lessons tailored just for you. Let\u2019s make learning English fun and exciting together!",
+        "about_teacher": "Hi there! I\u2019m Tutor Maureen and I\u2019m passionate about helping students like you unlock their full potential in the English language. With experience teaching international students across various platforms, I\u2019ve seen firsthand how personalized lessons can lead to amazing progress. Whether you're looking to speak confidently, improve your writing, or simply connect better in English, I\u2019ll tailor each lesson to your needs. Let's work together to make your learning journey fun, engaging, and effective\u2014book a lesson today and let\u2019s get started!",
+        "teaching_style": "In my lessons, learning English is never boring! I create an exciting, interactive space where you\u2019ll engage in real conversations, fun challenges, and activities that make English come alive. I focus on what 'you' need to succeed\u2014whether it\u2019s boosting your confidence, refining your skills, or making learning feel like an adventure. With personalized lessons and a supportive approach, you\u2019ll see progress and have fun doing it! Let\u2019s make every lesson a step closer to your goals.",
+        "is_student_full": 0,
+        "student_count": 0,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2025-03-12T18:09:04+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Obafemi Awolowo University",
+            "major": "Demography and Social Statistics",
+            "level": 1,
+            "start_year": 2013,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2025-03-03T07:42:04Z",
+            "edu_id": "B4866F49-85B1-44E6-BA0B-A98979A3017B"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [
+          {
+            "id": 18293,
+            "user_id": 26538982,
+            "start_year": 2020,
+            "end_year": 2022,
+            "institution": "Explore Academy",
+            "institution_type": "private_education_center",
+            "position": "Pre-School Teacher",
+            "country": "NG",
+            "city": "",
+            "description": "As a preschool teacher, I had the privilege of guiding young children through their early learning journey. I created a warm, safe space where they could explore, ask questions, and develop foundational skills like socializing and problem-solving. Building strong relationships with each child allowed me to tailor learning to their unique needs, helping them gain confidence and a love for learning. It\u2019s incredibly rewarding to see them grow and know I\u2019ve played a part in shaping their future.",
+            "create_at": "2025-03-03T07:47:52Z",
+            "create_by": "26538982",
+            "update_at": "2025-03-03T07:47:52Z",
+            "update_by": "26538982",
+            "status": 1
+          },
+          {
+            "id": 18294,
+            "user_id": 26538982,
+            "start_year": 2022,
+            "end_year": 2024,
+            "institution": "Cherub Academy",
+            "institution_type": "private_education_center",
+            "position": "Pre-School Teacher",
+            "country": "NG",
+            "city": "",
+            "description": "It was a privilege to guide young children through their early learning journey as a preschool teacher. By creating a warm, safe environment, I helped them explore, ask questions, and develop essential skills like socializing and problem-solving. Through building strong relationships, I tailor learning to each child\u2019s unique needs, fostering their confidence and love for learning. Watching them grow and knowing I\u2019ve played a part in shaping their future is truly rewarding.",
+            "create_at": "2025-03-03T07:51:39Z",
+            "create_by": "26538982",
+            "update_at": "2025-03-03T07:51:39Z",
+            "update_by": "26538982",
+            "status": 1
+          },
+          {
+            "id": 18298,
+            "user_id": 26538982,
+            "start_year": 2024,
+            "end_year": 2155,
+            "institution": "Preply",
+            "institution_type": "self_employed_online",
+            "position": "Online English Language Tutor",
+            "country": "",
+            "city": "",
+            "description": "As an online tutor, I have the privilege of working with students from all over the world, each with their own learning styles and proficiency levels. Whether teaching beginners or advanced learners, I tailor my approach to meet their unique needs. The diversity in age and backgrounds makes every session rewarding, as I not only help them achieve their goals but also learn from their perspectives. Watching students grow in confidence and skill is incredibly fulfilling for me.",
+            "create_at": "2025-03-03T07:58:26Z",
+            "create_by": "26538982",
+            "update_at": "2025-03-03T07:58:26Z",
+            "update_by": "26538982",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 20
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1300,
+        "trial_session_count": 0,
+        "trial_description": "Are you ready to take the next step in your learning journey? Book a trial lesson with me today!\ud83d\ude0a\nIn this personalized session, we\u2019ll start by discussing your goals; whether you\u2019re looking to improve a specific skill, explore a new subject, or gain more confidence. I'll assess your current level, tailor the lesson to your needs, and ensure we work through challenges in an engaging and interactive way. By the end of our trial lesson, you'll have a clear roadmap for how we can achieve your learning goals together. \nLet\u2019s make learning exciting and productive\u2014book your trial now and see how we can work together to make progress! See you soon\ud83d\udc4d"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 26538982
+      },
+      "pro_course_detail": [
+        {
+          "id": 263271,
+          "teacher_id": 26538982,
+          "language": "english",
+          "title": "Adventure Awaits: Let\u2019s Discover English Together!\ud83d\udc83",
+          "description": "Learning English can be an exciting and fulfilling journey, and I\u2019m here to guide you every step of the way! Whether you're a beginner or looking to refine your skills, this is your chance to explore the language in a fun and engaging way. In our lessons, we\u2019ll dive into real-world conversations, interactive activities, and practical exercises that will boost your speaking, listening, reading, and writing skills. \n\nBut this isn\u2019t just about memorizing rules and vocabulary\u2014it\u2019s about discovering how English can open doors to new opportunities, connections, and experiences. Each lesson will be tailored to your goals and interests, making the process enjoyable and meaningful for you. \n\nLet\u2019s work together to build your confidence, enhance your communication skills, and make learning English feel like an exciting adventure. Book your first lesson now, and let\u2019s begin this journey to mastering the language!",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1300,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-12T15:54:08Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3325,
+              "session_price": 700,
+              "course_id": 263271,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 828328
+            },
+            {
+              "package_price": 6300,
+              "session_price": 700,
+              "course_id": 263271,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 828334
+            },
+            {
+              "package_price": 8925,
+              "session_price": 700,
+              "course_id": 263271,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 828335
+            },
+            {
+              "package_price": 11200,
+              "session_price": 700,
+              "course_id": 263271,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 828336
+            },
+            {
+              "package_price": 4750,
+              "session_price": 1000,
+              "course_id": 263271,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 828329
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1000,
+              "course_id": 263271,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 828337
+            },
+            {
+              "package_price": 12750,
+              "session_price": 1000,
+              "course_id": 263271,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 828339
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1000,
+              "course_id": 263271,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 828338
+            },
+            {
+              "package_price": 6175,
+              "session_price": 1300,
+              "course_id": 263271,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 828327
+            },
+            {
+              "package_price": 11700,
+              "session_price": 1300,
+              "course_id": 263271,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 828331
+            },
+            {
+              "package_price": 16575,
+              "session_price": 1300,
+              "course_id": 263271,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 828332
+            },
+            {
+              "package_price": 20800,
+              "session_price": 1300,
+              "course_id": 263271,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 828333
+            },
+            {
+              "package_price": 8550,
+              "session_price": 1800,
+              "course_id": 263271,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 828330
+            },
+            {
+              "package_price": 16200,
+              "session_price": 1800,
+              "course_id": 263271,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 828340
+            },
+            {
+              "package_price": 22950,
+              "session_price": 1800,
+              "course_id": 263271,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 828341
+            },
+            {
+              "package_price": 28800,
+              "session_price": 1800,
+              "course_id": 263271,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 828342
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 0,
+        "response_rate": 0,
+        "attendance_rate": 0,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 10096076,
+        "nickname": "Ruby",
+        "avatar_file_name": "2T100960760",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "ES",
+        "origin_city_id": "NG00071",
+        "origin_city_name": "Warri",
+        "living_city_id": "ES00011",
+        "living_city_name": "Valencia",
+        "timezone": "Europe/Paris",
+        "last_login_time": "2025-03-30T17:09:54+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/oRo6yDKkP9c",
+        "video_pic_url": "https://img.youtube.com/vi/oRo6yDKkP9c/0.jpg",
+        "intro": "** What do i like? **\nWell, when I\u2019m not interacting with my students, you can find me playing the violin, reading a good book, doing pottery, or something artsy (I recently started trying my hand at painting). I also love the world of adventure and wine (they absolutely must go together, or is life worth living?).\n\nReady to start learning with me?\nWhether you're looking to improve your skills, prepare for an exam, or simply explore a new interest, I'm here to help you achieve your goals. Let's embark on this learning adventure together!",
+        "short_signature": "Welcome to Your Next Learning Adventure! \ud83d\ude0a",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 4
+          },
+          {
+            "language": "russian",
+            "level": 2
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-08-13T16:44:01Z",
+        "session_count": 26,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/14F6DD01-55B8-492C-BE3B-8D4385328D05.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/oRo6yDKkP9c.jpg",
+        "teacher_material_list": [
+          12,
+          6,
+          2,
+          5,
+          8,
+          10,
+          7,
+          4,
+          1,
+          9,
+          3
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "** What do i like? **\nWell, when I\u2019m not interacting with my students, you can find me playing the violin, reading a good book, doing pottery, or something artsy (I recently started trying my hand at painting). I also love the world of adventure and wine (they absolutely must go together, or is life worth living?).\n\nReady to start learning with me?\nWhether you're looking to improve your skills, prepare for an exam, or simply explore a new interest, I'm here to help you achieve your goals. Let's embark on this learning adventure together!",
+        "about_teacher": "Hello there! I'm glad you are here, because we are about to have a wonderful time.\n\n**Why should i be your tutor?**\nWell, if not me, then who \ud83d\ude0a? \n\t1. Our classes are 'ENGAGING' and 'FUN'. I love engaging my students\u2019 curiosities, and using those interests to help them express their passions in another language.\n\t2.  I am a GREAT listener. I take the time to listen and adapt my teaching methods to ensure you feel supported, and that you learning goals are precisely met\n3.  I create a learning environemt that is unique to each of my  students. Learning should be a positive experience, where you feel comfortable to ask questions and make mistakes. \n4. I understand you. Trust me!",
+        "teaching_style": "My lessons are student-Oriented, and are a mix of Reading, Writing, Listening and Speaking with a focus on Conversations and Discussions. Since I mostly offer Conversational lessons, I plan sessions by topic. On the first lesson. we introduce ourselves, and set our goals and Motivations for the class, this helps us to manage our expectations and time better in subsequent lessons. In our lessons, we'll use different resources like textbooks or flashcards, and I'll give verbal feedback at 10-15 mins interval, so as to let you express yourself fully.\nIf you're interested in tracking your progress on an academic level, I can arrange to assess you using the IELTS marking scheme.",
+        "is_student_full": 0,
+        "student_count": 9,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-08-15T09:56:06+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 12
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1200,
+        "trial_session_count": 0,
+        "trial_description": "I hope to see you as my Next Student. Book a Lesson now, and let's get started on this Journey together."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 10096076
+      },
+      "pro_course_detail": [
+        {
+          "id": 173721,
+          "teacher_id": 10096076,
+          "language": "english",
+          "title": "Conversational English with Integrated Vocabulary",
+          "description": "Students and teacher will be able to use a combination of these 4 skills (Listening, Writing, Speaking and Reading) to create a situation which is much similar to one they might come across in the real world. Integrating these skills together can help students transfer skills, so they become familiar with the structure and content of a particular activity or register. It is also a very engaging and motivating activity, as the more you speak, the more you remember, and the more you can easily use these new vocabulary when called upon",
+          "level_lower_limit": 3,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 5,
+          "session_count": 16,
+          "create_time": "2021-08-15T09:18:42Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 700,
+              "session_price": 700,
+              "course_id": 173721,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 453486
+            },
+            {
+              "package_price": 1200,
+              "session_price": 1200,
+              "course_id": 173721,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 453487
+            },
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 173721,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 429215
+            },
+            {
+              "package_price": 2000,
+              "session_price": 2000,
+              "course_id": 173721,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 453488
+            }
+          ]
+        },
+        {
+          "id": 173725,
+          "teacher_id": 10096076,
+          "language": "english",
+          "title": "English for Travel",
+          "description": "Students will be able to use a combination of these 4 skills (Listening, Writing, Speaking and Reading) to create a situation which is much similar to one they might come across in the real world, when they travel. If you're planning a trip, and would like to learn/practice common English phrases used by travelers, this class exercises will assist you in a wide variety of possible travel-related situations. This class and its associated exercises are very engaging and motivating, as the more you speak, the more you remember, and the more you can easily use these new vocabulary when called upon.",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0001"
+          ],
+          "session_price": 1200,
+          "student_count": 2,
+          "session_count": 4,
+          "create_time": "2021-08-15T09:35:56Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 600,
+              "session_price": 600,
+              "course_id": 173725,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 453492
+            },
+            {
+              "package_price": 900,
+              "session_price": 900,
+              "course_id": 173725,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 453493
+            },
+            {
+              "package_price": 1200,
+              "session_price": 1200,
+              "course_id": 173725,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 429223
+            },
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 173725,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 453494
+            }
+          ]
+        },
+        {
+          "id": 182167,
+          "teacher_id": 10096076,
+          "language": "english",
+          "title": "Art and English Literature",
+          "description": "In this Lesson, we may:\n\n- Choose to study Classic or Modern poetry, Mid-century plays or even Children's books\n- Give different Opinions on a creative work and share ideas.\n\nWhatever your choice, there'll be lot of opportunities to express viewpoints and Ideas. It is an exciting way for students of all levels to improve their speaking skills and tactful conversational skills.",
+          "level_lower_limit": 3,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2021-09-15T15:53:39Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 500,
+              "session_price": 500,
+              "course_id": 182167,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 453534
+            },
+            {
+              "package_price": 800,
+              "session_price": 800,
+              "course_id": 182167,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 453535
+            },
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 182167,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 453533
+            },
+            {
+              "package_price": 1200,
+              "session_price": 1200,
+              "course_id": 182167,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 453536
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 4.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 26,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 25512505,
+        "nickname": "Bitrus R. Medugu",
+        "avatar_file_name": "T255125050",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "NG",
+        "origin_city_id": "NG00000",
+        "origin_city_name": "Other",
+        "living_city_id": "NG00000",
+        "living_city_name": "Other",
+        "timezone": "Africa/Lagos",
+        "last_login_time": "2025-03-20T16:14:58+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/wTI5OpSR3yc",
+        "video_pic_url": "https://img.youtube.com/vi/wTI5OpSR3yc/0.jpg",
+        "intro": "I am a very calm, respectful and hard-working person. I am a teacher by profession and a cleric by calling. I come from northeastern Nigeria. I am a people-oriented kind of a person, who loves to meet new friends, travel and interact with different cultures and peoples. I accept all peoples irrespective of their, color, race or religion, establishing my ground on the fact that, anthropologically human beings are relational by identity. Therefore, we all need one another. \n\nLa mia passione e aiutare le persone a raggiungere i loro obiettivi nella vita. Credo che ognuno sia una stella e possa brillare se gli viene dato l'ambiente neccesario. Coraggio, sono qui per te. Ti aspetto.",
+        "short_signature": "Certified TESOL teacher with over a decade of experience.",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "italian",
+            "level": 5
+          },
+          {
+            "language": "french",
+            "level": 4
+          },
+          {
+            "language": "german",
+            "level": 3
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2024-12-24T12:38:00Z",
+        "session_count": 0,
+        "pro_rating": "0.0",
+        "tutor_rating": "0.0",
+        "overall_rating": "0.0",
+        "qiniu_video_url": "https://v.italki.cn/44F4578A-B0B1-44DF-8F49-D9628C6AC602.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/wTI5OpSR3yc.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I am a very calm, respectful and hard-working person. I am a teacher by profession and a cleric by calling. I come from northeastern Nigeria. I am a people-oriented kind of a person, who loves to meet new friends, travel and interact with different cultures and peoples. I accept all peoples irrespective of their, color, race or religion, establishing my ground on the fact that, anthropologically human beings are relational by identity. Therefore, we all need one another. \n\nLa mia passione e aiutare le persone a raggiungere i loro obiettivi nella vita. Credo che ognuno sia una stella e possa brillare se gli viene dato l'ambiente neccesario. Coraggio, sono qui per te. Ti aspetto.",
+        "about_teacher": "As a teacher, I believe that every learner is pregnant with knowledge and simply needs a midwife to deliver him/her of that knowledge. As such, all my students are valuable to me. I hold them in high esteem; their happiness is my motivation. Everyone could be a star and shine if given the opportunity. Therefore, as a teacher I aim at bringing out the best in my students.\n\nMa passion en tant qu\u2019enseignante est d\u2019aider les gens \u00e0 atteindre leurs objectifs dans la vie autant que possible. Je crois que chaque personne est une \u00e9toile et peut briller si on lui donne l\u2019environnement n\u00e9cessaire. Allez, je suis l\u00e0 pour vous. Il suffit de r\u00e9server une le\u00e7on d\u2019essai et vous verrez \u00e0 quel point vous \u00eate",
+        "teaching_style": "My lessons, are usually very engaging an impacting in nature  allowing student to practice and learn, grammar, pronunciation and articulation with ease. My student's priority is key to my success. As such, I set my class in such a way that I create the safe-space needed by student to make all the possible grammatical errors involved in the learning process and together, we overcome the difficulties and celebrate the successes. Therefore, my teaching style is usually student -centered; making sure the learning goals of my students are met. I make learning not just successful but also fun-filled.",
+        "is_student_full": 0,
+        "student_count": 0,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2024-12-24T12:38:00+00:00",
+        "exp_info": [
+          {
+            "industry": "public_social_service",
+            "company": "Nigerian Police Force",
+            "job": "Community Policing Officer",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2019,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2024-12-16T20:23:53Z",
+            "exp_id": 157938
+          },
+          {
+            "industry": "business",
+            "company": "Online Services",
+            "job": "Freelancer",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2020,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2024-12-16T20:25:47Z",
+            "exp_id": 157941
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Pontifical Urban University, Rome, Italy",
+            "major": "Bachelor of Philosophy",
+            "level": 1,
+            "start_year": 1994,
+            "end_year": 2007,
+            "status": 1,
+            "create_time": "2024-12-16T20:12:53Z",
+            "edu_id": "97F47FFE-47E5-407D-925D-2463034633F0"
+          },
+          {
+            "institution": "University of Jos, Nigeria",
+            "major": "Bachelors of Theology",
+            "level": 1,
+            "start_year": 1998,
+            "end_year": 2002,
+            "status": 1,
+            "create_time": "2024-12-16T20:11:10Z",
+            "edu_id": "F2EBD1BC-1101-42BD-9096-8D18E14CE75F"
+          },
+          {
+            "institution": "Doctoral Studies",
+            "major": "Systematic Theology",
+            "level": 3,
+            "description": "In the field of theology, systematic theology, concerns itself with the studies of the deposit of faith and its corresponding truths, systematically organized for a coherent understanding.",
+            "start_year": 2013,
+            "end_year": 2019,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2024-12-16T20:02:45Z",
+            "edu_id": "FBD50FDE-EC3A-483F-B67D-B382AF741EDD"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2024-12-16T17:25:37Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "World Academy",
+            "end_year": 2024,
+            "status": 1,
+            "certificate": "Bitrus Raphael Medugu",
+            "language": "english",
+            "type": "TESOL",
+            "type_text_code": "TA563",
+            "cert_id": "D7548AC3-9581-4394-89E5-659EC14275D3"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Bitrus Raphael Medugu",
+            "institution": "World Academy",
+            "end_year": 2024,
+            "status": 1,
+            "description": "",
+            "type": "TESOL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 14498,
+            "user_id": 25512505,
+            "start_year": 2019,
+            "end_year": 2155,
+            "institution": "St. Augustine's Major Seminary",
+            "institution_type": "public_education",
+            "position": "Head of Department",
+            "country": "NG",
+            "city": "",
+            "description": "",
+            "create_at": "2024-12-16T20:16:50Z",
+            "create_by": "25512505",
+            "update_at": "2024-12-16T20:16:50Z",
+            "update_by": "25512505",
+            "status": 1
+          },
+          {
+            "id": 14501,
+            "user_id": 25512505,
+            "start_year": 2021,
+            "end_year": 2024,
+            "institution": "Preply",
+            "institution_type": "self_employed_online",
+            "position": "English  Language Teacher",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-12-16T20:19:26Z",
+            "create_by": "25512505",
+            "update_at": "2024-12-16T20:19:26Z",
+            "update_by": "25512505",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 2
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 3,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1000,
+        "trial_session_count": 0,
+        "trial_description": "My trial lesson focuses on the knowing my student and his learning needs. I would subject the student to some few exercises, like, grammar, test, reading, speaking or some conversation, depending on his/her level. This will enable us to plan his/her scheme of work together as his/her specific needs requires."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 25512505
+      },
+      "pro_course_detail": [
+        {
+          "id": 258550,
+          "teacher_id": 25512505,
+          "language": "english",
+          "title": "Basic English for survival and everyday communication",
+          "description": "Key Skills to be Developed:\n\nUnderstanding and using common expressions and basic phrases.\nIntroducing oneself and others, asking and answering simple personal questions.\nBasic reading and writing, such as filling out forms or writing short sentences.\n\nActivities:\nVocabulary building: days, numbers, greetings, and common objects.\nRole-plays for simple interactions like shopping or asking for directions.\nListening exercises with slow, clear audio for recognition of basic words and phrases.\n\nGrammar:\nPresent simple tense.\nArticles, pronouns, and basic prepositions.",
+          "level_lower_limit": 1,
+          "level_up_limit": 1,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-07T06:49:42Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 258550,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 743968
+            }
+          ]
+        },
+        {
+          "id": 258551,
+          "teacher_id": 25512505,
+          "language": "english",
+          "title": "Expanding communication skills and understanding simple dialogues.",
+          "description": "Key Skills to be Developed:\n\nCommunicating in familiar situations, such as ordering food or making appointments.\nReading short texts like advertisements, menus, or basic emails.\nWriting simple paragraphs or messages.\n\nActivities:\nVocabulary for common topics: food, family, work, and hobbies.\nListening exercises for identifying details in short conversations.\nSpeaking drills for basic sentences and short dialogues.\n\nGrammar:\nPresent continuous and past simple tenses.\nQuestions (yes/no, WH-questions) and modal verbs (can, must)",
+          "level_lower_limit": 2,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0005",
+            "T0083"
+          ],
+          "session_price": 1000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-07T06:52:26Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 258551,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 743969
+            }
+          ]
+        },
+        {
+          "id": 258552,
+          "teacher_id": 25512505,
+          "language": "english",
+          "title": "Expanding communication skills and understanding simple dialogues",
+          "description": "Key Skills to be Developed:\n\nDescribing events, experiences, and ambitions in detail.\nUnderstanding the main points of clear, standard speech on familiar topics.\nWriting connected sentences to form paragraphs.\n\nActivities:\nVocabulary for travel, technology, health, and education.\nRole-playing more complex scenarios, such as giving instructions or resolving problems.\nShort presentations or discussions on familiar topics.\n\nGrammar:\nFuture forms (will, going to).\nComparatives, superlatives, and conditional sentences (Type 1)..",
+          "level_lower_limit": 3,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0003",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-07T06:54:09Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 258552,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 743970
+            }
+          ]
+        },
+        {
+          "id": 258553,
+          "teacher_id": 25512505,
+          "language": "english",
+          "title": "Confidently handling varied language tasks in personal and professional settings.",
+          "description": "Key Skills to be Developed:\n\nExpressing opinions, arguments, and ideas fluently on familiar and some unfamiliar topics.\nUnderstanding the main ideas of complex texts, including technical articles.\nWriting detailed essays, reports, and emails.\n\nActivities:\nVocabulary for business, social issues, and culture.\nGroup discussions or debates on current events.\nListening to interviews, podcasts, or lectures and summarizing them.\n\nGrammar:\nPassive voice reported speech.\nConditional sentences (Types 2 and 3), relative clauses.",
+          "level_lower_limit": 4,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-07T06:57:15Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 258553,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 743971
+            }
+          ]
+        },
+        {
+          "id": 258554,
+          "teacher_id": 25512505,
+          "language": "english",
+          "title": "Mastery of nuanced and complex language structures.",
+          "description": "Key Skills to be Developed:\n\nCommunicating with fluency and spontaneity in diverse situations.\nUnderstanding implicit meanings in both spoken and written texts.\nWriting clear, well-structured texts in a range of styles.\n\nActivities:\nVocabulary for academic, technical, and specialized fields.\nWriting formal letters, research essays, or professional reports.\nPracticing pronunciation and intonation for advanced fluency.\n\nGrammar:\nAdvanced verb structures (perfect forms, subjunctive mood).\nCollocations, idiomatic expressions, and phrasal verbs.",
+          "level_lower_limit": 5,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-07T07:00:17Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 258554,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 743973
+            }
+          ]
+        },
+        {
+          "id": 258555,
+          "teacher_id": 25512505,
+          "language": "english",
+          "title": "Near-native proficiency for academic, professional, or personal purposes.",
+          "description": "Key Skills to be Developed:\n\nUnderstanding virtually everything heard or read with ease.\nExpressing complex ideas fluently and precisely.\nWriting sophisticated, nuanced texts like research papers or creative pieces.\n\nActivities:\nAnalyzing literature, technical documents, and academic works.\nEngaging in high-level discussions and presentations.\nPracticing advanced writing and editing techniques.\n\nGrammar:\nNuances of tense, mood, and voice.\nRefining grammar for stylistic effect and precision.",
+          "level_lower_limit": 6,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-07T07:04:44Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 258555,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 743976
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 0,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 6964877,
+        "nickname": "Mr innocent",
+        "avatar_file_name": "9T069648770",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "NG",
+        "origin_city_id": "NG00261",
+        "origin_city_name": "Abuja",
+        "living_city_id": "NG00261",
+        "living_city_name": "Abuja",
+        "timezone": "Africa/Lagos",
+        "last_login_time": "2025-03-29T08:03:02+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/WeAQBV2Gyqg",
+        "video_pic_url": "https://img.youtube.com/vi/WeAQBV2Gyqg/0.jpg",
+        "intro": "Hi, My name is Innocent. I am a graduate of Economics and Humanities. I work in the media world, and I also teach the English language. I have been an English teacher for the past 8 years.",
+        "short_signature": "Conversationalist  and proofreading master with years of experience..",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "arabic",
+            "level": 1
+          },
+          {
+            "language": "chinese",
+            "level": 1
+          },
+          {
+            "language": "other",
+            "level": 1
+          },
+          {
+            "language": "russian",
+            "level": 1
+          },
+          {
+            "language": "spanish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2020-01-29T08:08:20Z",
+        "session_count": 84,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/7AF89A36-417A-4CDC-8D5F-B66D1A431AFD.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/WeAQBV2Gyqg.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          8,
+          3,
+          12,
+          11,
+          10
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi, My name is Innocent. I am a graduate of Economics and Humanities. I work in the media world, and I also teach the English language. I have been an English teacher for the past 8 years.",
+        "about_teacher": "I have taught English in both offline and online settings, and I have developed a lot of patience with people generally. With my experience, I'm able to help you improve your English by correcting your mistakes and telling you better ways and more natural ways of saying things..",
+        "teaching_style": "My teaching style is mainly interactive because I have come across a lot of people of different social and cultural backgrounds, and I've discovered that this is a very effective method of teaching and learning a new language. No matter your level of English we can find a topic that suits you and together we can discuss it and see ways of improving your English.",
+        "is_student_full": 0,
+        "student_count": 26,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "I am not getting any students.",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "I am not getting any students.",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 700,
+        "trial_session_count": 0,
+        "trial_description": "Trial lessons are offered to determine how compatible my lesson will be to you. If you are uncertain or hesistant about booking an hour long lesson , then go ahead and book a trial and we can start from here."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 6964877
+      },
+      "pro_course_detail": [
+        {
+          "id": 98302,
+          "teacher_id": 6964877,
+          "language": "english",
+          "title": "Conversational English ( Speaking practice )",
+          "description": "This lesson is highly interactive and conversation focused, we'll speak about various topics of your interest. This is really an effective way of activating your passive vocabulary and making you more confident while speaking English language.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 20,
+          "session_count": 77,
+          "create_time": "2020-01-29T12:23:42Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 98302,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 689351
+            },
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 98302,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 213892
+            }
+          ]
+        },
+        {
+          "id": 141726,
+          "teacher_id": 6964877,
+          "language": "english",
+          "title": "Proofreading and text Editing",
+          "description": "This is where we correct and proofread your text, essays and other write-ups . Feel free to contact me concerning the duration needed depending on how lengthy your text is .",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0003",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 700,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2021-04-22T15:35:29Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 141726,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 340484
+            },
+            {
+              "package_price": 600,
+              "session_price": 600,
+              "course_id": 141726,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 689352
+            },
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 141726,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 340482
+            }
+          ]
+        },
+        {
+          "id": 189776,
+          "teacher_id": 6964877,
+          "language": "english",
+          "title": "General English, Grammar , Speaking and listening",
+          "description": "This lesson encompasses the four cardinal points, which includes but not limited to ; Speaking , Listening , Reading and Writing. We will cover areas like Grammar as well . This lesson is suited for both beginners and advanced learners.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 800,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2021-10-17T12:46:45Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 189776,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 476283
+            },
+            {
+              "package_price": 3500,
+              "session_price": 800,
+              "course_id": 189776,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 476282
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 84,
+        "response_rate": 1,
+        "attendance_rate": 0.97,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 12823291,
+        "nickname": "Bibi (KIDS\ud83c\udf1e-ADULTS)",
+        "avatar_file_name": "4T128232910",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "US",
+        "origin_city_id": "NG00261",
+        "origin_city_name": "Abuja",
+        "living_city_id": "US00201",
+        "living_city_name": "Charlotte",
+        "timezone": "America/New_York",
+        "last_login_time": "2025-04-01T13:47:06+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/CsGKk6lKv1M",
+        "video_pic_url": "https://img.youtube.com/vi/CsGKk6lKv1M/0.jpg",
+        "intro": "Hello, my name is Bibi. I am a certified/native English language tutor. I have been a contact teacher for over ten years now and I have been teaching English online for the past four years.\nI am an excellent communicator as I have over 4 years of work experience as a call center agent and customer service representative on an English help desk. As a customer service professional I love to serve people, by listening, understanding, solving their issues, and educating them on the solutions.\n\n My classes offer a variety of ways to help you improve your English and build confidence! Call me and let's have fun learning English. I can't wait to meet you.",
+        "short_signature": "Conversation expert, Interview prep, Kids expert. PS: My classes are fun and exciting\ud83e\udd17\ud83d\ude42",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "french",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2022-02-28T01:13:34Z",
+        "session_count": 580,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/2A2E2CFD-6F7A-4291-872C-E8D301387A56.mp4",
+        "cover_name": "u/12823291/cover/cmlm07lck8ka9qljmj80.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/CsGKk6lKv1M.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello, my name is Bibi. I am a certified/native English language tutor. I have been a contact teacher for over ten years now and I have been teaching English online for the past four years.\nI am an excellent communicator as I have over 4 years of work experience as a call center agent and customer service representative on an English help desk. As a customer service professional I love to serve people, by listening, understanding, solving their issues, and educating them on the solutions.\n\n My classes offer a variety of ways to help you improve your English and build confidence! Call me and let's have fun learning English. I can't wait to meet you.",
+        "about_teacher": "I am an energetic, fun, friendly, and patient tutor, Since the beginning of my career as a teacher, I have been passionate in my commitment to three things: maximizing individual student performance, inspiring students\u2019 interest in English/science, and instilling a sense of self-worth among all students. I'm keen on teaching the English language to students from any background. Whether it's for career advancement, a job interview, preparing for an exam, moving to an English-speaking country, or whatever your English language goals are I can assure you that I'm ready and capable of helping you achieve them.",
+        "teaching_style": "I am a kind, fun, friendly and patient tutor who offers a variety of classes tailored towards each learners' needs to help improve speaking, listening, pronunciation and grammar. I use loads of TPR, Visual aids, and beautiful rewards to create an exciting learning environment depending on the needs of the learner. \n\nMy classroom is a safe space devoid of all forms of discrimination or bias. I'm very easy to talk to and always eager to listen and answer all of your questions.\n \nI am great at what I do and look forward to teaching and also learning with you! I work fine with learners from ages 4 up to 60 years old.",
+        "is_student_full": 0,
+        "student_count": 112,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-02-28T01:13:34+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [
+          {
+            "create_time": "2024-03-21T06:51:13Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "description": "Teaching Advanced English Grammar",
+            "institution": "Premier Tefl",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "TEFL Certificate",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "A5302BA7-28B5-413D-9798-31AF779BA8B8"
+          },
+          {
+            "create_time": "2024-03-21T06:54:23Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Post graduate Diploma in Education",
+            "institution": "College of Education",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "PGDE",
+            "language": "english",
+            "type": "Masters in Education",
+            "type_text_code": "TA553",
+            "cert_id": "A555D9E7-9B08-41BB-B260-B309CD50FB51"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "PGDE",
+            "institution": "College of Education",
+            "end_year": 2021,
+            "status": 1,
+            "description": "Post graduate Diploma in Education",
+            "type": "Masters in Education"
+          },
+          {
+            "certificate": "TEFL Certificate",
+            "institution": "Premier Tefl",
+            "end_year": 2020,
+            "status": 1,
+            "description": "Teaching Advanced English Grammar",
+            "type": "TEFL"
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          },
+          {
+            "name": "quiz",
+            "created_count": 36
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1500,
+        "trial_session_count": 0,
+        "trial_description": "Basic English for beginners. lesson is designed to meet learners' needs with more emphasis on pronunciation, grammar and articulation. I use loads of TPR, visual aids and beautiful rewards to create an exciting learning environment, especially for young learners.  book a trial class with me today and lets learn English the fun way."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 12823291
+      },
+      "pro_course_detail": [
+        {
+          "id": 214289,
+          "teacher_id": 12823291,
+          "language": "english",
+          "title": "Basic English for beginners.",
+          "description": "In this lesson, we are going to learn how to sound each letter of the English alphabet, learn word formation with the letters , and practice them by making simple sentences. I use TPR, visual aids and beautiful rewards to create and exciting, fun and relaxed learning environment, especially for younger learners.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 1500,
+          "student_count": 9,
+          "session_count": 49,
+          "create_time": "2022-02-28T00:13:19Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 9000,
+              "session_price": 1000,
+              "course_id": 214289,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 547759
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1300,
+              "course_id": 214289,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 550843
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 214289,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 547758
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1800,
+              "course_id": 214289,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 550844
+            }
+          ]
+        },
+        {
+          "id": 214517,
+          "teacher_id": 12823291,
+          "language": "english",
+          "title": "Conversational English",
+          "description": "Welcome to my conversational English lesson! \n\nThis lesson is perfect for students who want to reinforce the knowledge that they already have of English. Here we will focus on improving your natural speech.\n\nSo, how is this class any different from the general lessons?\n\nWell, for starters it is less formal. We will use more talking points and dialogue as opposed to exercises. Further, we'll focus more on expanding your vocabulary instead of exposure to grammar structures and new conjunctions through fun, meaningful and exciting conversations. \n\n If you have ANY grammar-related questions - or questions related to anything - I am happy to help. This is your time, so feel free to use it as you wish.\n\nFor every class, we'll have a topic and focus area, except you have a particular topic in mind, I will  provide at least three topics and you may choose the topic of conversation for the lesson. We'll incorporate idioms, connectors, phrasal verbs, pronunciation techniques and more to improve your conversational English. \n\n Also, I give homework for every class.\n\nSee you in class!",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 24,
+          "session_count": 403,
+          "create_time": "2022-03-01T07:24:52Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 9000,
+              "session_price": 1000,
+              "course_id": 214517,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 548406
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1300,
+              "course_id": 214517,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 548407
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 214517,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 548405
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1800,
+              "course_id": 214517,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 548408
+            }
+          ]
+        },
+        {
+          "id": 214519,
+          "teacher_id": 12823291,
+          "language": "english",
+          "title": "Kids Fun Time.",
+          "description": "This lesson provides kids from 2 to 13 years old the opportunity to learn English with fun and exciting classroom activities. The activities are designed to teach Grammar, Pronunciation/Speaking, Reading/writing and general fluency.",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1500,
+          "student_count": 7,
+          "session_count": 29,
+          "create_time": "2022-03-01T07:35:30Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 18000,
+              "session_price": 1000,
+              "course_id": 214519,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 548416
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1300,
+              "course_id": 214519,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 548415
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 214519,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 548413
+            },
+            {
+              "package_price": 8500,
+              "session_price": 1800,
+              "course_id": 214519,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 548414
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 10.0
+          },
+          {
+            "month": 2,
+            "data": 7.0
+          },
+          {
+            "month": 3,
+            "data": 10.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 580,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 1301734,
+        "nickname": "Daniel Ekpo-Bassey",
+        "avatar_file_name": "1T013017340",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NG",
+        "is_online": 0,
+        "living_country_id": "UA",
+        "origin_city_id": "NG00096",
+        "origin_city_name": "Calabar",
+        "living_city_id": "UA00001",
+        "living_city_name": "Kyiv",
+        "timezone": "Europe/Kiev",
+        "last_login_time": "2025-04-01T19:42:22+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/uYiiAZfOkQk",
+        "video_pic_url": "https://img.youtube.com/vi/uYiiAZfOkQk/0.jpg",
+        "intro": "My name is Daniel, and I am from Nigeria.\nI currently live in Kyiv, Ukraine. I enjoy communication; it is the best way to broaden your horizons while living on a small part of this big planet. I have not travelled a lot, but I have been so fortunate to learn about so many places as I help students here improve their speaking ability. My appreciation for culture and nuance in life experiences has increased greatly cos I have communicated with people from different parts of the world with different opinions, and I have learned a great deal from them. I ask a lot of questions and answer as well. Asking questions is really the only way to learn something new.",
+        "short_signature": "TESOL/TEFL certified English Teacher with vast experience, specialised in conversation practice.",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "russian",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2018-07-16T09:35:42Z",
+        "session_count": 12609,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/15CE01E9-CA8C-4333-B884-D17DA03157A5.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/uYiiAZfOkQk.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          8,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "My name is Daniel, and I am from Nigeria.\nI currently live in Kyiv, Ukraine. I enjoy communication; it is the best way to broaden your horizons while living on a small part of this big planet. I have not travelled a lot, but I have been so fortunate to learn about so many places as I help students here improve their speaking ability. My appreciation for culture and nuance in life experiences has increased greatly cos I have communicated with people from different parts of the world with different opinions, and I have learned a great deal from them. I ask a lot of questions and answer as well. Asking questions is really the only way to learn something new.",
+        "about_teacher": "I have been teaching for about eight years. I have led speaking clubs and had individual/group lessons in English. I currently teach people of all levels. My mother is also a teacher, and growing up, I watched her a lot and observed how good she felt when a student got better. I always want that feeling. It's a rewarding feeling. Teaching is also a way to expose myself to other cultures and lifestyles. I have been teaching in my city for a while, and I have put in work to be good at what I do. I think I'm also a lot of fun. I can provide you with different materials for the lessons and recommendations that could help you improve a lot beyond the classroom.",
+        "teaching_style": "My lessons are catered to meet the needs of each student. I am capable of teaching grammar with necessary materials if that's what you need. I particularly enjoy speaking and conversations because it helps fluency and accuracy. I try to get my students comfortable so they feel free to discuss anything and ask any questions. My main goal is for you to see me as a pal and not someone judging your language skill, instead as someone helping you reach your goal, so i guess Guru is the right word :). I want you to be able to have a conversation without any feeling of pressure. I like our lessons to feel like friends meeting for drinks or coffee where one gets paid (that was a joke)",
+        "is_student_full": 0,
+        "student_count": 925,
+        "teacher_tag": [
+          1,
+          3
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "There is a war in my country",
+        "apply_status": 9,
+        "first_complete_time": "2022-03-11T10:29:50+00:00",
+        "exp_info": [
+          {
+            "industry": "education",
+            "country": "UA",
+            "city": "KYIV",
+            "company": "VARIOUS ORGANISATIONS",
+            "job": "FREELANCE TEACHER",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2017,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2023-10-10T10:36:56Z",
+            "update_time": "2024-03-13T11:43:00Z",
+            "exp_id": 150200
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "V.N Karazin University",
+            "major": "Public Health",
+            "level": 1,
+            "start_year": 2011,
+            "end_year": 2017,
+            "status": 1,
+            "create_time": "2024-11-18T13:22:38Z",
+            "edu_id": "50D82124-2571-4FB0-8EDB-9E410E5E207B"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2023-09-27T18:42:15Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "World TESOL Academy",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "120-hour TEFL/TESOL course",
+            "cert_id": "9928B2CE-13E8-4C46-B30E-E269A952BE8E"
+          },
+          {
+            "create_time": "2024-11-11T06:18:02Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "World TESOL Academy",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "120-Hour TESOL/TEFL Certificate",
+            "language": "english",
+            "type": "TESOL",
+            "type_text_code": "TA563",
+            "cert_id": "B438300A-F006-4FFE-A788-82214C3721E8"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "120-hour TEFL/TESOL course",
+            "institution": "World TESOL Academy",
+            "end_year": 2023,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "120-Hour TESOL/TEFL Certificate",
+            "institution": "World TESOL Academy",
+            "end_year": 2023,
+            "status": 1,
+            "description": "",
+            "type": "TESOL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 13043,
+            "user_id": 1301734,
+            "start_year": 2018,
+            "end_year": 2155,
+            "institution": "Italki",
+            "institution_type": "self_employed_online",
+            "position": "English Teacher",
+            "country": "UA",
+            "city": "",
+            "description": "",
+            "create_at": "2024-11-11T06:12:50Z",
+            "create_by": "1301734",
+            "update_at": "2024-11-11T06:12:50Z",
+            "update_by": "1301734",
+            "status": 1
+          },
+          {
+            "id": 13045,
+            "user_id": 1301734,
+            "start_year": 2019,
+            "end_year": 2020,
+            "institution": "Owlet's English",
+            "institution_type": "private_education_center",
+            "position": "English Teacher",
+            "country": "UA",
+            "city": "",
+            "description": "",
+            "create_at": "2024-11-11T06:18:56Z",
+            "create_by": "1301734",
+            "update_at": "2024-11-11T06:18:56Z",
+            "update_by": "1301734",
+            "status": 1
+          }
+        ],
+        "offline_reason": "There is a war in my country",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          },
+          {
+            "name": "podcast",
+            "created_count": 2
+          },
+          {
+            "name": "quiz",
+            "created_count": 18
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1400,
+        "trial_session_count": 0,
+        "trial_description": "An introductory lesson to find out how our lessons will go, what is best for you, and to get to know each other."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 1301734
+      },
+      "pro_course_detail": [
+        {
+          "id": 69423,
+          "teacher_id": 1301734,
+          "language": "english",
+          "title": "Language Practice Tutor",
+          "description": "A great opportunity for you to practice and improve your language skill. We talk, share experiences and help you feel more confident in yourself when speaking. Also I correct your pronunciation and explain some vocabulary to you. We can also discuss stories and articles.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1400,
+          "student_count": 568,
+          "session_count": 8934,
+          "create_time": "2018-07-17T09:07:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4500,
+              "session_price": 1000,
+              "course_id": 69423,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 137384
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1200,
+              "course_id": 69423,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 137385
+            },
+            {
+              "package_price": 6000,
+              "session_price": 1400,
+              "course_id": 69423,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 137386
+            },
+            {
+              "package_price": 8000,
+              "session_price": 2000,
+              "course_id": 69423,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 137387
+            }
+          ]
+        },
+        {
+          "id": 86709,
+          "teacher_id": 1301734,
+          "language": "english",
+          "title": "English Grammar Lessons",
+          "description": "These lessons are for grammar practice.  We discuss grammar in general and answer specific questions you have. I will provide exercises and materials, to help your study.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1400,
+          "student_count": 92,
+          "session_count": 1251,
+          "create_time": "2019-07-25T10:56:44Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 16000,
+              "session_price": 1000,
+              "course_id": 86709,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 253092
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1000,
+              "course_id": 86709,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 253091
+            },
+            {
+              "package_price": 6000,
+              "session_price": 1400,
+              "course_id": 86709,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 181613
+            },
+            {
+              "package_price": 6500,
+              "session_price": 1500,
+              "course_id": 86709,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 181614
+            }
+          ]
+        },
+        {
+          "id": 95359,
+          "teacher_id": 1301734,
+          "language": "english",
+          "title": "Business English/ English For Work/ Preparation for job interviews/IELTS or any exam prep",
+          "description": "We practice conversation and Vocabulary that is most suited for formal situations. I will help you be more confident when you speak to Foreign clients. We can go through your resume, and practice work related questions.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1400,
+          "student_count": 144,
+          "session_count": 1881,
+          "create_time": "2019-12-11T07:06:34Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4000,
+              "session_price": 900,
+              "course_id": 95359,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 227257
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1200,
+              "course_id": 95359,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 227258
+            },
+            {
+              "package_price": 6000,
+              "session_price": 1400,
+              "course_id": 95359,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 205542
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1700,
+              "course_id": 95359,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 227259
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 132.0
+          },
+          {
+            "month": 2,
+            "data": 139.0
+          },
+          {
+            "month": 3,
+            "data": 153.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.99
+          },
+          {
+            "month": 2,
+            "data": 0.99
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 12607,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 53,
+    "price_list": [
+      0,
+      2,
+      1,
+      8,
+      5,
+      2,
+      38,
+      8,
+      13,
+      14,
+      18,
+      30,
+      4,
+      7,
+      1,
+      5,
+      8,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-90-4607-88d7-5dcd53d7cc1b-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 53
+  },
+  "paging": {
+    "page": 3,
+    "page_size": 20,
+    "total": 53,
+    "has_next": 0
+  }
+}

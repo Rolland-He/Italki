@@ -1,0 +1,1203 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 3977202,
+        "nickname": "Anas Badi",
+        "avatar_file_name": "2T039772024",
+        "is_tutor": 1,
+        "is_pro": 1,
+        "origin_country_id": "LY",
+        "is_online": 0,
+        "living_country_id": "LY",
+        "origin_city_id": "LY00001",
+        "origin_city_name": "Tripoli",
+        "living_city_id": "LY00001",
+        "living_city_name": "Tripoli",
+        "timezone": "Africa/Tripoli",
+        "last_login_time": "2025-03-31T23:05:32+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/NcfuBgaHLV8",
+        "video_pic_url": "https://img.youtube.com/vi/NcfuBgaHLV8/0.jpg",
+        "intro": "I'm a CELTA certified English teacher and a native Arabic speaker and teacher.\nI've been teaching students of all ages for about 12 years and it's something I enjoy and every lesson is different and tailored to the student's needs and interests. Language is about communication, so learning how to communicate in your specific daily needs is something everyone should start with when learning a language, I have my own way which I tested on myself first and then other students and it works well.\nI like languages and I'm always interested in finding new ways to approach learning and teaching them. I'm also interested in other cultures and how things work around the world.",
+        "short_signature": "CELTA certified professional teacher with 11 years of experience teaching languages to all ages!",
+        "teach_language": [
+          {
+            "language": "arabic",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "german",
+            "level": 3
+          },
+          {
+            "language": "turkish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2017-03-07T17:02:55Z",
+        "session_count": 578,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/25F5C2F2-5C47-4F29-8383-99E2A232D240.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/NcfuBgaHLV8.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          6,
+          9,
+          12,
+          8,
+          5,
+          4,
+          10,
+          11,
+          7
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "I've been teaching for about 5 years in many places in Libya, throughout my career I thought all age groups from the age of 8 to 60. I've taught English for specific purposes as well as general English to people who just enjoyed learning a new language which opens the door to many opportunities and possibilities. I like using technology, whether it's applications or programs that help understand a certain part of speech or how to say something to the simple auto correct available on most modern browsers, to me, every single application or program is a chance to improve the target language. I always try to find new ways to integrate the language I'm trying to teach or learn into my daily life, even if it's simple as changing the language on my mobile to whatever I'm trying to learn, my rule is \"Everything helps!\" I'm planning to teach all age groups, different generation require different teaching styles and different material, for instance a 15 year old's interests may not be the same of another person who's 25, although I don't really believe it's always related to age but for the sake of the general stereotype let's just assume it is.",
+        "about_me": "I'm a CELTA certified English teacher and a native Arabic speaker and teacher.\nI've been teaching students of all ages for about 12 years and it's something I enjoy and every lesson is different and tailored to the student's needs and interests. Language is about communication, so learning how to communicate in your specific daily needs is something everyone should start with when learning a language, I have my own way which I tested on myself first and then other students and it works well.\nI like languages and I'm always interested in finding new ways to approach learning and teaching them. I'm also interested in other cultures and how things work around the world.",
+        "about_teacher": "As a teacher, I'm pretty patient, flexible and adaptive. I don't believe there's only way to learn something, each person is different, so I try to find out how things work with different people so I can help in the best way possible.",
+        "teaching_style": "My teaching style depends on the student.\nThere are, of course, a set of rules that we all teachers use while teaching, but there are things that teachers should be flexible about, try to be patient and as supportive as possible.\nTo me, language learning takes time and practice. The amount of time needed depends on how much you practice which means any goals no matter how high are perfectly achievable with the right guided practice.",
+        "is_student_full": 0,
+        "student_count": 150,
+        "teacher_tag": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "teacher_child_tag_id_list": [
+          1,
+          21,
+          23,
+          26
+        ],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "Al-Dahra Legal translation office",
+            "job": "Translator",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Office manager/translator",
+            "start_year": 2007,
+            "end_year": 2007,
+            "status": 1,
+            "create_time": "2017-03-01T13:45:42Z",
+            "exp_id": 19831
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "IRC (International Rescue Committee)",
+            "job": "Interpeter and translator",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Being able to instantly translate words can help me convey meaning easier and faster.",
+            "start_year": 2011,
+            "end_year": 2011,
+            "status": 1,
+            "create_time": "2017-03-01T13:47:52Z",
+            "exp_id": 19832
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "TALENT English Center",
+            "job": "ESOL instructor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2013,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2017-03-01T13:48:20Z",
+            "exp_id": 19834
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "Al-Dahra Training Center",
+            "job": "ESOL Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2017,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2017-03-01T13:48:44Z",
+            "exp_id": 19835
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "Private English tutor",
+            "job": "ESOL Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2013,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2017-03-01T13:49:07Z",
+            "exp_id": 19836
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "Ramada English training center",
+            "job": "ESOL Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2014,
+            "end_year": 2014,
+            "status": 1,
+            "create_time": "2017-03-01T13:49:29Z",
+            "exp_id": 19837
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "Alumna Executive Business Center",
+            "job": "ESOL Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2013,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2017-03-01T13:49:58Z",
+            "exp_id": 19838
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "British Council, Libya",
+            "job": "ESOL Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2014,
+            "end_year": 2014,
+            "status": 1,
+            "create_time": "2017-03-01T13:50:19Z",
+            "exp_id": 19839
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "Libyan Academy for higher studies",
+            "job": "ESOL Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2015,
+            "end_year": 2015,
+            "status": 1,
+            "create_time": "2017-03-01T13:50:47Z",
+            "exp_id": 19840
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "American University of Libya",
+            "job": "ESOL Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2015,
+            "end_year": 2016,
+            "status": 1,
+            "create_time": "2017-03-01T13:51:11Z",
+            "exp_id": 19841
+          },
+          {
+            "country": "LY",
+            "city": "Tripoli",
+            "company": "Aramex",
+            "job": "Customer Service Executive",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Helped my colleagues in the Customer Service  department with formal emails and English communication, since they had a degree of fluency it helped me know how to build on what people already know especially in such field since we use specific vocabulary.",
+            "start_year": 2016,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2017-03-01T13:53:46Z",
+            "exp_id": 19842
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "High School",
+            "major": "Engineering",
+            "level": 5,
+            "description": "Diploma",
+            "start_year": 2008,
+            "end_year": 2011,
+            "status": 1,
+            "create_time": "2017-03-01T13:43:08Z",
+            "edu_id": "2AE6797F-5D82-4781-A1B3-A232E8D4018E"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2017-03-01T13:59:19Z",
+            "file_ext": "jpg",
+            "description": "At least C2 proficiency in the language is required in order to get this certificate, it taught me how to get more out of my lessons and how to enable the students to get more speaking time in order to practice new information presented in the class.",
+            "institution": "British Council",
+            "end_year": 2014,
+            "status": 1,
+            "certificate": "CELTA",
+            "cert_id": "325DA2BC-7AC8-4E0C-8B11-4622121FE374"
+          },
+          {
+            "create_time": "2024-06-21T10:30:55Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "institution": "World Learning",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "PCELT",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "353BC630-F5F8-43C1-9B26-62EE43AA8200"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "PCELT",
+            "institution": "World Learning",
+            "end_year": 2023,
+            "status": 1,
+            "description": "",
+            "type": "TEFL"
+          },
+          {
+            "certificate": "CELTA",
+            "institution": "British Council",
+            "end_year": 2014,
+            "status": 1,
+            "description": "At least C2 proficiency in the language is required in order to get this certificate, it taught me how to get more out of my lessons and how to enable the students to get more speaking time in order to practice new information presented in the class.",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [
+          {
+            "tag_name": "IELTS",
+            "full_name": "International English Language Testing System",
+            "language": "english"
+          },
+          {
+            "tag_name": "FCE",
+            "full_name": "First Certificate in English",
+            "language": "english"
+          },
+          {
+            "tag_name": "PET",
+            "full_name": "Preliminary English Test (PET)",
+            "language": "english"
+          },
+          {
+            "tag_name": "KET",
+            "full_name": "Cambridge English Language Asessment - Key",
+            "language": "english"
+          }
+        ],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1250,
+        "trial_session_count": 0,
+        "trial_description": "In a Trial Lesson, we could talk about your goals with the language you're learning. Whether your goal is academic or conversational and then based on that, I can recommend the frequency of lessons each week.\nIn a Trial Lesson, you also get to experience what the lessons are like and the techniques that will be used throughout your lingutsic journey with me."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 3977202
+      },
+      "pro_course_detail": [
+        {
+          "id": 51791,
+          "teacher_id": 3977202,
+          "language": "english",
+          "title": "IELTS preparation (Academic and General Training)",
+          "description": "Are you a graduate or postgraduate planning to study abroad and need to improve your overall band score or looking to immigrate to the UK?\nWhether you need 6+ in the Academic module or 4.5 in General Training, you've come to the right place!\nThis course will provide you with the essentials and tips and tricks on time management, skimming and scanning and other techniques.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "",
+          "course_tags": [],
+          "session_price": 2000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2017-03-09T13:00:14Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 45000,
+              "session_price": 2000,
+              "course_id": 51791,
+              "package_length": 30,
+              "session_length": 4,
+              "course_price_id": 94071
+            }
+          ]
+        },
+        {
+          "id": 51792,
+          "teacher_id": 3977202,
+          "language": "english",
+          "title": "Converstation course (A2+)",
+          "description": "This course is for learners of English who have already mastered the basics (finished beginner level) and looking to improve their speaking skills and pronunciation.\nFor students who are Elementary (A2) or above, this course will teach you situational English in everyday life scenarios, whether it is on the street, at school or at the supermarket.\nYou'll have an opportunity to learn a wide variety of expressions and idioms which are difficult to translate into other languages, and be able to say your ideas in a more confident manner.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 10,
+          "session_count": 26,
+          "create_time": "2017-03-09T13:01:59Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 51792,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 94072
+            },
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 51792,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 94073
+            },
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 51792,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 94074
+            }
+          ]
+        },
+        {
+          "id": 51793,
+          "teacher_id": 3977202,
+          "language": "english",
+          "title": "Wollen sie deine Englisch verbessern? Damit kann ich dir helfen!",
+          "description": "Hallo! Wollen sie deine Englische Aussprache und allgemeine Englisch verbessern? Einfach! Ich habe mich Deutsch selber beigebracht deshalb wei\u00df ich wie Deutsch anders ist als Englisch und ich kann damit sicherlich helfen! Einfach und Lustig.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1250,
+          "student_count": 4,
+          "session_count": 9,
+          "create_time": "2017-03-09T13:13:50Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 20000,
+              "session_price": 1000,
+              "course_id": 51793,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 94075
+            },
+            {
+              "package_price": 20000,
+              "session_price": 1000,
+              "course_id": 51793,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 94076
+            },
+            {
+              "package_price": 25000,
+              "session_price": 1250,
+              "course_id": 51793,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 94077
+            }
+          ]
+        },
+        {
+          "id": 51795,
+          "teacher_id": 3977202,
+          "language": "arabic",
+          "title": "Introduction to Arabic",
+          "description": "Marhaba!\nThis course is for beginners who are interested in learning Arabic, and haven't studied it before.\nThis course will show you the basics, some of the major differences in writing and pronunciation between Arabic and other languages such as English and German , and also many of the common words found in modern German which have Arabic roots.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1250,
+          "student_count": 28,
+          "session_count": 102,
+          "create_time": "2017-03-09T13:18:32Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1250,
+              "course_id": 51795,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 94079
+            }
+          ]
+        },
+        {
+          "id": 51796,
+          "teacher_id": 3977202,
+          "language": "english",
+          "title": "General English for Beginners to Advanced(A1-C2)",
+          "description": "This is a complete ESL course which includes listening, reading, writing and speaking, with focus on grammar and vocabulary.\nYou'll start with a placement test (assessment test) which will help determine your suitable level and the course will include unit tests and a wide variety of exercises.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 2,
+          "session_count": 3,
+          "create_time": "2017-03-09T13:19:59Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 40000,
+              "session_price": 1500,
+              "course_id": 51796,
+              "package_length": 40,
+              "session_length": 4,
+              "course_price_id": 94080
+            }
+          ]
+        },
+        {
+          "id": 51797,
+          "teacher_id": 3977202,
+          "language": "arabic",
+          "title": "Basic Arabic writing course",
+          "description": "This course is for beginners or students who have good oral skills and can communicate but need to improve their Arabic reading and writing.\nyou will learn how the Arabic letters are written and connected, you will learn the basic rules in addition to the pronunciation which will help you with your reading.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0003",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1250,
+          "student_count": 1,
+          "session_count": 3,
+          "create_time": "2017-03-09T13:20:59Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 20000,
+              "session_price": 1250,
+              "course_id": 51797,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 94081
+            }
+          ]
+        },
+        {
+          "id": 51798,
+          "teacher_id": 3977202,
+          "language": "english",
+          "title": "Informal Tutoring",
+          "description": "Informal speaking practice both for beginners and advanced learners.\nUsing this option guarantees that all we do is speaking - which means no writing, no reading and most importantly, no books!\nWe may, however, role-play and use scripts if needed.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 12,
+          "session_count": 35,
+          "create_time": "2017-03-09T13:21:36Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7000,
+              "session_price": 1500,
+              "course_id": 51798,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 94082
+            }
+          ]
+        },
+        {
+          "id": 51799,
+          "teacher_id": 3977202,
+          "language": "arabic",
+          "title": "Informal Tutoring",
+          "description": "",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 45,
+          "session_count": 152,
+          "create_time": "2017-03-09T13:21:46Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 51799,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 94083
+            }
+          ]
+        },
+        {
+          "id": 51802,
+          "teacher_id": 3977202,
+          "language": "english",
+          "title": "Duolingo-assisted English course",
+          "description": "I love technology and the best thing I found so far was Duolingo, a fun and easy way to learn a language where you can build your language skills effortlessly and in a fun way.\nBy joining this classroom you'll be invited to join my classroom where I could keep track of your progress and lessons will be scheduled according to your progress, there will be a review lesson every week where we can look back and discuss some of the things you didn't/would like to understand.\nThere will also be an option where you can schedule an extra lesson during the week if you need it.\nStudents will only be charges for the review lesson which may last up to an hour.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 2,
+          "session_count": 3,
+          "create_time": "2017-03-09T13:40:36Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 51802,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 94090
+            }
+          ]
+        },
+        {
+          "id": 53863,
+          "teacher_id": 3977202,
+          "language": "arabic",
+          "title": "Conversation course (Standard or Middle Eastern dialects)",
+          "description": "A course mainly focused on conversation whether it's standard Arabic or a certain Dialect. Here we'll mainly focus on pronunciation, fluency in speaking and expressing ideas clearly.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 32,
+          "session_count": 177,
+          "create_time": "2017-05-16T11:46:55Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7000,
+              "session_price": 1500,
+              "course_id": 53863,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 99001
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 2.0
+          },
+          {
+            "month": 1,
+            "data": 10.0
+          },
+          {
+            "month": 2,
+            "data": 9.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 0.91
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 578,
+        "response_rate": 0.95,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 20128015,
+        "nickname": "Feras Fadil",
+        "avatar_file_name": "T201280150",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "LY",
+        "is_online": 0,
+        "living_country_id": "ES",
+        "origin_city_id": "LY00006",
+        "origin_city_name": "Benghazi",
+        "living_city_id": "ES00006",
+        "living_city_name": "Barcelona",
+        "timezone": "Africa/Tunis",
+        "last_login_time": "2025-03-28T11:43:51+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/3WdAbGmwbRM",
+        "video_pic_url": "https://img.youtube.com/vi/3WdAbGmwbRM/0.jpg",
+        "intro": "Hello! I'm Feras, a passionate language teacher from Libya currently studying International Relations in the vibrant city of Barcelona. My love for traveling and exploring different cultures has fueled my enthusiasm for languages, leading me to become fluent in Arabic, English, Spanish and Catalan. As someone who thrives on social interactions, I bring a friendly and welcoming energy to all my lessons, ensuring a positive and engaging learning environment for my students.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "spanish",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "arabic",
+            "level": 7
+          },
+          {
+            "language": "arabic(maghrebi)",
+            "level": 7
+          },
+          {
+            "language": "catalan",
+            "level": 6
+          },
+          {
+            "language": "french",
+            "level": 4
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2024-07-19T00:32:17Z",
+        "session_count": 69,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/CADDA887-A70B-42C2-A5EC-F98F696DCD1E.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/3WdAbGmwbRM.jpg",
+        "teacher_material_list": [
+          8,
+          1,
+          6,
+          4
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello! I'm Feras, a passionate language teacher from Libya currently studying International Relations in the vibrant city of Barcelona. My love for traveling and exploring different cultures has fueled my enthusiasm for languages, leading me to become fluent in Arabic, English, Spanish and Catalan. As someone who thrives on social interactions, I bring a friendly and welcoming energy to all my lessons, ensuring a positive and engaging learning environment for my students.",
+        "about_teacher": "As a teacher, my primary goal is to create a comfortable and dynamic space where students feel encouraged to speak and express themselves freely. I believe in the power of conversation and interactive learning, utilizing a variety of materials such as videos, music, and real-life scenarios to help students grasp how native speakers communicate. My flexible teaching style allows me to adapt to each student\u2019s unique needs and pace, making sure everyone enjoys their learning journey.",
+        "teaching_style": "My lessons are designed to be fun and engaging, focusing on real-life communication and practical usage of the language. I encourage students to set their own learning objectives, and together, we work towards achieving them through tailored sessions that incorporate diverse materials. Whether we\u2019re watching a short film, listening to local music, or discussing everyday topics, my aim is to make each lesson enjoyable and effective, helping you to speak English or Spanish like a native. Join me for a fun, interactive, and personalized language learning experience!",
+        "is_student_full": 0,
+        "student_count": 35,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2024-07-19T00:32:17+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Universitat Aut\u00f2noma de Barcelona",
+            "major": "International relations",
+            "level": 1,
+            "description": "The bachelor's degree in International Relations is designed for those interested in understanding the international world and taking part in it, in all of its different manifestations, whether political, diplomatic, socioeconomic, environmental or security, all closely interrelated in such a globalised world.",
+            "start_year": 2023,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2024-07-11T11:53:26Z",
+            "edu_id": "73B05D24-1E3B-4D52-853E-E3EB452A1160"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 700,
+        "trial_session_count": 3,
+        "trial_description": "In trial lesson, we will discuss and set your goals and I will get to know more about you and your preferred learning styles. we will try to set a plan that suits your goals and your availability."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 20128015
+      },
+      "pro_course_detail": [
+        {
+          "id": 248850,
+          "teacher_id": 20128015,
+          "language": "english",
+          "title": "General English Conversation class",
+          "description": "Fun and interactive English conversation class designed for all levels! Engage in lively discussions, role-plays, and activities that make learning enjoyable, using a variety of multimedia materials like videos, podcasts, and games to enhance the experience. Explore different cultures through themed discussions and practice everyday conversation with practical applications and useful phrases. This class is perfect for improving fluency and building confidence in a personalized, one-on-one setting!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 24,
+          "session_count": 53,
+          "create_time": "2024-07-18T15:56:14Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 248850,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 665969
+            },
+            {
+              "package_price": 2500,
+              "session_price": 550,
+              "course_id": 248850,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 665970
+            },
+            {
+              "package_price": 5000,
+              "session_price": 550,
+              "course_id": 248850,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 803340
+            },
+            {
+              "package_price": 3300,
+              "session_price": 700,
+              "course_id": 248850,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 665968
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 248850,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 803339
+            }
+          ]
+        },
+        {
+          "id": 255888,
+          "teacher_id": 20128015,
+          "language": "english",
+          "title": "Conversation class for kids",
+          "description": "More tailored conversation classes for children to practice speaking in English. With very interactive methods.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 800,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2024-11-23T19:18:32Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 255888,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 687097
+            },
+            {
+              "package_price": 3400,
+              "session_price": 700,
+              "course_id": 255888,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 687098
+            },
+            {
+              "package_price": 3900,
+              "session_price": 800,
+              "course_id": 255888,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 687096
+            },
+            {
+              "package_price": 5800,
+              "session_price": 1200,
+              "course_id": 255888,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 687099
+            }
+          ]
+        },
+        {
+          "id": 256824,
+          "teacher_id": 20128015,
+          "language": "spanish",
+          "title": "Clase de Conversaci\u00f3n en Espa\u00f1ol - Conversation Class in Spanish",
+          "description": "\u00bfQuieres mejorar tus habilidades para hablar espa\u00f1ol? Mi clase de conversaci\u00f3n es perfecta para practicar situaciones reales, mejorar tu fluidez y ganar confianza en tu espa\u00f1ol. Ya sea que seas principiante o tengas un nivel avanzado, adaptar\u00e9 nuestras conversaciones a tu nivel e intereses. Hablemos de viajes, cultura, la vida cotidiana o cualquier tema que te apasione. \u00a1Reserva una sesi\u00f3n y comencemos a hablar espa\u00f1ol juntos!\n-\nAre you looking to improve your Spanish speaking skills? My conversation class is perfect for practicing real-life situations, improving your fluency, and gaining confidence in your Spanish. Whether you're a beginner or advanced learner, I will tailor our conversations to your level and interests. Let\u2019s talk about travel, culture, daily life, or any topic you\u2019re passionate about. Book a session, and let\u2019s start speaking Spanish together!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 3,
+          "session_count": 7,
+          "create_time": "2024-12-10T15:26:29Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 256824,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 689704
+            },
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 256824,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 803338
+            },
+            {
+              "package_price": 2500,
+              "session_price": 550,
+              "course_id": 256824,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 803335
+            },
+            {
+              "package_price": 5000,
+              "session_price": 550,
+              "course_id": 256824,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 803337
+            },
+            {
+              "package_price": 3300,
+              "session_price": 700,
+              "course_id": 256824,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 689703
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 256824,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 803336
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 7.0
+          },
+          {
+            "month": 1,
+            "data": 4.0
+          },
+          {
+            "month": 2,
+            "data": 7.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.8
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.62
+          },
+          {
+            "month": 1,
+            "data": 0.6
+          },
+          {
+            "month": 2,
+            "data": 0.73
+          }
+        ],
+        "finished_session": 69,
+        "response_rate": 0.96,
+        "attendance_rate": 0.78,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 2,
+    "price_list": [
+      0,
+      0,
+      0,
+      2,
+      1,
+      0,
+      1,
+      0,
+      3,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-e6-4768-834e-b0e1a7486eca-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 2
+  },
+  "paging": {
+    "page": 1,
+    "page_size": 20,
+    "total": 2,
+    "has_next": 0
+  }
+}

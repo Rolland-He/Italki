@@ -1,0 +1,2033 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 10344315,
+        "nickname": "Nathalie",
+        "avatar_file_name": "T103443150",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "UY",
+        "is_online": 0,
+        "living_country_id": "UY",
+        "origin_city_id": "UY00001",
+        "origin_city_name": "Montevideo",
+        "living_city_id": "UY00001",
+        "living_city_name": "Montevideo",
+        "timezone": "America/Montevideo",
+        "last_login_time": "2025-03-30T18:45:07+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/nPhIC2rUlLQ",
+        "video_pic_url": "https://img.youtube.com/vi/nPhIC2rUlLQ/0.jpg",
+        "intro": "Me llamo Nathalie, soy de Uruguay, un peque\u00f1o pa\u00eds de Latinoam\u00e9rica. Tengo 24 a\u00f1os y soy Qu\u00edmica farmac\u00e9utica, me interesan mucho las ciencias en general. Hablo espa\u00f1ol nativo, e ingl\u00e9s con nivel C2. Tamb\u00e9m um pouco de portugu\u00eas, mas n\u00e3o lembro muito. Soy vegana, practico pole sport y juego al Handball. Tambi\u00e9n disfruto mucho de dibujar cuando tengo tiempo libre.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "portuguese",
+            "level": 2
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-08-25T16:41:50Z",
+        "session_count": 269,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/082DB39A-5153-4D3F-A893-FEC671992B59.mp4",
+        "cover_name": "u/10344315/cover/c4jrole11683l3a945ng.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/nPhIC2rUlLQ.jpg",
+        "teacher_material_list": [
+          8,
+          10
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Me llamo Nathalie, soy de Uruguay, un peque\u00f1o pa\u00eds de Latinoam\u00e9rica. Tengo 24 a\u00f1os y soy Qu\u00edmica farmac\u00e9utica, me interesan mucho las ciencias en general. Hablo espa\u00f1ol nativo, e ingl\u00e9s con nivel C2. Tamb\u00e9m um pouco de portugu\u00eas, mas n\u00e3o lembro muito. Soy vegana, practico pole sport y juego al Handball. Tambi\u00e9n disfruto mucho de dibujar cuando tengo tiempo libre.",
+        "about_teacher": "Personalmente adoro conocer nuevas culturas y hablar con gente extranjera, me considero una persona amable y paciente. Las clases se adaptaran a tus necesidades, seg\u00fan el idioma que quieras aprender y de que forma prefieras aprender. Pero tratar\u00e9 de hablarte casi exclusivamente en el idioma que desees aprender conmigo, para que tu aprendizaje sea \u00f3ptimo.",
+        "teaching_style": "Con mis clases apunto a lograr un ambiente agradable y que te transmita seguridad para que puedas soltarte a hablar sin miedo a errores.",
+        "is_student_full": 0,
+        "student_count": 72,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-08-26T15:37:05+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1590,
+        "trial_session_count": 0,
+        "trial_description": "Dentro de las distintas clases que ofrezco, planifico y adapto la clase de prueba a tus intereses y necesidades previo al inicio de la clase. De esta forma aprovechamos al m\u00e1ximo el tiempo."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 10344315
+      },
+      "pro_course_detail": [
+        {
+          "id": 176820,
+          "teacher_id": 10344315,
+          "language": "spanish",
+          "title": "comienza a familiarizarte con el idioma",
+          "description": "Estas clases est\u00e1n apuntadas a personas que reci\u00e9n comienzan con el idioma. La clase es de conversaci\u00f3n, pero a diferencia de las clases m\u00e1s avanzadas puedo hablarte algo de ingl\u00e9s para poder entendernos mejor y que no te resulte demasiado frustrante la clase. De todas formas, si no lo deseas as\u00ed, h\u00e1zmelo saber y nos comunicamos exclusivamente en Espa\u00f1ol.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1290,
+          "student_count": 26,
+          "session_count": 83,
+          "create_time": "2021-08-26T14:10:12Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4000,
+              "session_price": 890,
+              "course_id": 176820,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 440782
+            },
+            {
+              "package_price": 5800,
+              "session_price": 1290,
+              "course_id": 176820,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 438139
+            }
+          ]
+        },
+        {
+          "id": 176826,
+          "teacher_id": 10344315,
+          "language": "spanish",
+          "title": "Clases avanzadas e intermedias",
+          "description": "En estas clases tratar\u00e9 de sacarte de tu zona de confort. No hablaremos otro idioma que no sea Espa\u00f1ol. Me har\u00e9 entender mediante gestos, con descripciones o sin\u00f3nimos, todo dentro del mismo idioma. Esto te har\u00e1 avanzar mucho m\u00e1s r\u00e1pido y no te permitir\u00e1 traducir textualmente a tu idioma nativo, lo cual es muy beneficioso. Pueden haber excepciones, si as\u00ed lo deseas y de ser realmente necesario, pero no es lo que yo recomiendo.",
+          "level_lower_limit": 4,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1290,
+          "student_count": 21,
+          "session_count": 105,
+          "create_time": "2021-08-26T14:27:05Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4000,
+              "session_price": 890,
+              "course_id": 176826,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 440783
+            },
+            {
+              "package_price": 5800,
+              "session_price": 1290,
+              "course_id": 176826,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 438157
+            }
+          ]
+        },
+        {
+          "id": 176832,
+          "teacher_id": 10344315,
+          "language": "spanish",
+          "title": "Aprende terminolog\u00eda local (Uruguay)",
+          "description": "Esta clase esta dirigida principalmente a personas que deseen visitar Uruguay a futuro. Esta clase te ayudara a entender mejor a la gente local, para que no tengas ning\u00fan malentendido en tu viaje. Tambi\u00e9n existen algunas diferencias con pa\u00edses con los que hablamos de forma muy similar como Argentina. Por ejemplo, sabias que en Argentina le llaman \"pileta\" a lo que aqu\u00ed le llamamos \"piscina\" (water pool)? \nDem\u00e1s esta decir que tambi\u00e9n puedo recomendarte lugares para visitar, y hablar de la cultura Uruguaya.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1290,
+          "student_count": 9,
+          "session_count": 26,
+          "create_time": "2021-08-26T14:38:36Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4000,
+              "session_price": 890,
+              "course_id": 176832,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 440784
+            },
+            {
+              "package_price": 5800,
+              "session_price": 1290,
+              "course_id": 176832,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 438171
+            }
+          ]
+        },
+        {
+          "id": 176844,
+          "teacher_id": 10344315,
+          "language": "english",
+          "title": "Basic conversation practise",
+          "description": "These classes are intended for people who are just starting and would like to practise what they have already learnt. And learn more while sepaking. The idea is to attune your ear, and to keep familiarizing with the language.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1590,
+          "student_count": 7,
+          "session_count": 28,
+          "create_time": "2021-08-26T15:00:43Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4200,
+              "session_price": 890,
+              "course_id": 176844,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 441860
+            },
+            {
+              "package_price": 7800,
+              "session_price": 1590,
+              "course_id": 176844,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 438200
+            }
+          ]
+        },
+        {
+          "id": 176852,
+          "teacher_id": 10344315,
+          "language": "english",
+          "title": "Advanced conversation class",
+          "description": "As this class is intended for more advanced students, the idea is to have an enriching conversation of a topic you choose. \nOf course, there's also the possibility to have a relax informal conversation.",
+          "level_lower_limit": 3,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1590,
+          "student_count": 2,
+          "session_count": 3,
+          "create_time": "2021-08-26T15:26:18Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4200,
+              "session_price": 890,
+              "course_id": 176852,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 441866
+            },
+            {
+              "package_price": 7800,
+              "session_price": 1590,
+              "course_id": 176852,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 438221
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 5.0
+          },
+          {
+            "month": 1,
+            "data": 5.0
+          },
+          {
+            "month": 2,
+            "data": 3.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.75
+          }
+        ],
+        "finished_session": 269,
+        "response_rate": 0.96,
+        "attendance_rate": 0.98,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 2700949,
+        "nickname": "Miguel M\u00e9ndez",
+        "avatar_file_name": "8T027009490",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "VE",
+        "is_online": 0,
+        "living_country_id": "VE",
+        "origin_city_id": "VE00001",
+        "origin_city_name": "Caracas",
+        "living_city_id": "VE00086",
+        "living_city_name": "Baruta",
+        "timezone": "America/Caracas",
+        "last_login_time": "2025-04-01T19:45:37+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/-QryIV71sg8",
+        "video_pic_url": "https://img.youtube.com/vi/-QryIV71sg8/0.jpg",
+        "intro": "I am a 31 years old Venezuelan. I like culture, music and arts. I play the venezuelan national instrument, the cuatro and I am very sensitive to folk and traditional music. I am a native Spanish speaker, I can speak English, Portuguese and a little bit of Italian and Japanese. I am always looking to improve the languages I speak. I am a friendly, easygoing and patient person, open to discuss any subject.  \n\nSou Venezuelano e tenho 30 anos. Gosto muito da cultura, m\u00fasica e as artes. Toco o instrumento nacional venezuelano, o quatro e tamb\u00e9m gosto da m\u00fasica tradicional e do folclor. Sou falante nativo do espanhol, posso falar ingl\u00eas, portugu\u00eas e um pouco de italiano e japon\u00eas.",
+        "short_signature": "Spanish Teacher with 3 years of Experience.",
+        "teach_language": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "portuguese",
+            "level": 6
+          },
+          {
+            "language": "italian",
+            "level": 4
+          },
+          {
+            "language": "japanese",
+            "level": 2
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-05-24T18:37:44Z",
+        "session_count": 943,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/A8584C15-CDE9-44B2-B1F1-8996B28C4CDE.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/-QryIV71sg8.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          8,
+          10,
+          11,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I am a 31 years old Venezuelan. I like culture, music and arts. I play the venezuelan national instrument, the cuatro and I am very sensitive to folk and traditional music. I am a native Spanish speaker, I can speak English, Portuguese and a little bit of Italian and Japanese. I am always looking to improve the languages I speak. I am a friendly, easygoing and patient person, open to discuss any subject.  \n\nSou Venezuelano e tenho 30 anos. Gosto muito da cultura, m\u00fasica e as artes. Toco o instrumento nacional venezuelano, o quatro e tamb\u00e9m gosto da m\u00fasica tradicional e do folclor. Sou falante nativo do espanhol, posso falar ingl\u00eas, portugu\u00eas e um pouco de italiano e japon\u00eas.",
+        "about_teacher": "I have been teaching Spanish for three years as a private teacher. I try to explain difficult aspects of Spanish using the native language of my student whenever I can. I try to focus on the aspects the students need to improve the most and I always try to compare my student's native language with the language they are learning.\n\nTenho ensinado espanhol por mais de dois anos como professor particular. Tento explicar os aspeitos difici\u00e9s do espanhol usando a l\u00edngua nativa do meu estudante qada vez que eu posso. Tento focar-me nos aspeitos que meu estudante precisar melhorar mais e sempre tento comparar a l\u00edngua nativa do estudante com minha l\u00edngua para facilitar o aprendizado.",
+        "teaching_style": "My lessons are PDFs files with content I create upon request of the student or I just prepare myself in advance to discuss about a particular subject the student may be interested in. The lessons contains exercises, grammar content and role-plays. I try that the student learns by comparison of his/her native language with the target language, rather than just repeating and memorizing.\n\nMinas aulas consistem em PDFs com cont\u00e9udo que eu posso preparar se o estudante assim pedir ou simplesmente preparo-me com antela\u00e7\u00e3o para discutir sobre algum tema particular no qual o estudante estiver interessado. As li\u00e7\u00f5es cont\u00e9m ex\u00e9rcisos, cont\u00e9udo de gram\u00e1tica e encena\u00e7\u00e3o.",
+        "is_student_full": 0,
+        "student_count": 138,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-05-25T10:33:16+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 11
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 800,
+        "min_price": 1300,
+        "trial_session_count": 0,
+        "trial_description": "Let's practice your Spanish skills. Practice your vocabulary, pronunciation and grammar. \nVamos praticar o seu Espanhol. Pratiquemos seu vocabul\u00e1rio, pron\u00fancia e gram\u00e1tica."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 2700949
+      },
+      "pro_course_detail": [
+        {
+          "id": 148115,
+          "teacher_id": 2700949,
+          "language": "spanish",
+          "title": "Reading & Writing - Leitura & Escrita - Lettura & Scrittura",
+          "description": "Learn to read and write properly in Spanish. Aprenda ler e escrever apropriadamente em Espanhol. Impare a leggere e a scrivere correttamente in Spagnolo.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1400,
+          "student_count": 86,
+          "session_count": 618,
+          "create_time": "2021-05-25T10:10:11Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4800,
+              "session_price": 1000,
+              "course_id": 148115,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 358296
+            },
+            {
+              "package_price": 9800,
+              "session_price": 1000,
+              "course_id": 148115,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 704391
+            },
+            {
+              "package_price": 14700,
+              "session_price": 1000,
+              "course_id": 148115,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 704392
+            },
+            {
+              "package_price": 19500,
+              "session_price": 1000,
+              "course_id": 148115,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 704393
+            },
+            {
+              "package_price": 5800,
+              "session_price": 1200,
+              "course_id": 148115,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 704394
+            },
+            {
+              "package_price": 11500,
+              "session_price": 1200,
+              "course_id": 148115,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 358297
+            },
+            {
+              "package_price": 17800,
+              "session_price": 1200,
+              "course_id": 148115,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 704395
+            },
+            {
+              "package_price": 23500,
+              "session_price": 1200,
+              "course_id": 148115,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 704396
+            },
+            {
+              "package_price": 6800,
+              "session_price": 1400,
+              "course_id": 148115,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 704388
+            },
+            {
+              "package_price": 13800,
+              "session_price": 1400,
+              "course_id": 148115,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 704389
+            },
+            {
+              "package_price": 20500,
+              "session_price": 1400,
+              "course_id": 148115,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 704390
+            },
+            {
+              "package_price": 27500,
+              "session_price": 1400,
+              "course_id": 148115,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 358295
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1600,
+              "course_id": 148115,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 601880
+            },
+            {
+              "package_price": 15800,
+              "session_price": 1600,
+              "course_id": 148115,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 704397
+            },
+            {
+              "package_price": 23800,
+              "session_price": 1600,
+              "course_id": 148115,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 704398
+            },
+            {
+              "package_price": 31500,
+              "session_price": 1600,
+              "course_id": 148115,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 704399
+            }
+          ]
+        },
+        {
+          "id": 148119,
+          "teacher_id": 2700949,
+          "language": "spanish",
+          "title": "Spanish Grammar - Gram\u00e1tica do Espanhol",
+          "description": "Learn Spanish from zero. Learn verbal tenses, vocabulary and pronunciation. Achieve more fluency and confidence when speaking Spanish.\n\nAprenda espanhol desde zero. Aprenda os tempos verbais, vocabu\u00e1rio e pron\u00fancia. Obtenha uma melhor flu\u00eancia e confian\u00e7a na hora de falar.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1500,
+          "student_count": 19,
+          "session_count": 227,
+          "create_time": "2021-05-25T10:28:09Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4800,
+              "session_price": 1000,
+              "course_id": 148119,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 358313
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1250,
+              "course_id": 148119,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 358314
+            },
+            {
+              "package_price": 29500,
+              "session_price": 1500,
+              "course_id": 148119,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 358312
+            },
+            {
+              "package_price": 8500,
+              "session_price": 1800,
+              "course_id": 148119,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 601881
+            }
+          ]
+        },
+        {
+          "id": 148122,
+          "teacher_id": 2700949,
+          "language": "spanish",
+          "title": "Free Talk - Conversa Livre - Conversazione Libre",
+          "description": "Unstructured lessons. Yet, if you want to have some structure, you can send before hand an article or video about a certain subject and we can discuss it in class. Li\u00e7\u00f5es sem estrutura. Mas se voc\u00ea quiser ter estrutura, pode mandar antes um artigo ou v\u00eddeo sobre algum tema e podemos discuti-lo na aula. Lezioni senza struttura. Per\u00f2, se tu vuo\u00ec avere struttura, tu puo\u00ec mandare di prima un articolo o un video su alcuno argumento per discutere nella lezione.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1300,
+          "student_count": 18,
+          "session_count": 56,
+          "create_time": "2021-05-25T10:31:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 148122,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 358320
+            },
+            {
+              "package_price": 11900,
+              "session_price": 1200,
+              "course_id": 148122,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 358321
+            },
+            {
+              "package_price": 26000,
+              "session_price": 1300,
+              "course_id": 148122,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 358319
+            },
+            {
+              "package_price": 7300,
+              "session_price": 1500,
+              "course_id": 148122,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 602034
+            }
+          ]
+        },
+        {
+          "id": 253438,
+          "teacher_id": 2700949,
+          "language": "english",
+          "title": "\ud83c\uddfb\ud83c\uddea\ud83c\udde8\ud83c\uddf4Lecciones Conversacionales - Conversational English \ud83c\uddea\ud83c\uddf8\ud83c\udde7\ud83c\uddf4",
+          "description": "En este tipo de lecci\u00f3n te ayudar\u00e9 a practicar tu conversaci\u00f3n. Ya que tengo conocimiento sobre la gram\u00e1tica del espa\u00f1ol y del ingl\u00e9s, puedo ayudarte con cualquier pregunta que tengas sobre el tema. Podemos tener una conversaci\u00f3n libre o una m\u00e1s estructurada si provees un art\u00edculo o v\u00eddeo de antemano sobre el cual podamos conversar.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1300,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-10-17T14:14:11Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 253438,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 680193
+            },
+            {
+              "package_price": 11900,
+              "session_price": 1200,
+              "course_id": 253438,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 680194
+            },
+            {
+              "package_price": 26000,
+              "session_price": 1300,
+              "course_id": 253438,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 680192
+            },
+            {
+              "package_price": 7300,
+              "session_price": 1500,
+              "course_id": 253438,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 680195
+            }
+          ]
+        },
+        {
+          "id": 253442,
+          "teacher_id": 2700949,
+          "language": "english",
+          "title": "\ud83c\udde7\ud83c\uddf7\ud83c\uddf5\ud83c\uddf9Li\u00e7\u00f5es conversionais - \ud83c\uddf5\ud83c\uddf9\ud83c\udde7\ud83c\uddf7",
+          "description": "\ud83c\udde7\ud83c\uddf7\ud83c\uddf5\ud83c\uddf9\n\nNeste tipo de li\u00e7\u00f5es n\u00f3s poderemos praticar sua conversa. Eu tenho bom conhecimento da gram\u00e1tica do portugu\u00eas e posso explicar qualquer d\u00favida que voc\u00ea tiver em rela\u00e7\u00e3o com a gram\u00e1tica do portugu\u00eas. Podemos ter uma conversa livre ou se voc\u00ea quiser, pode trazer com antecipa\u00e7\u00e3o um artigo ou um v\u00eddeo sobre algum tema em espec\u00edfico e falarmos sobre ele.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1300,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-10-17T15:14:24Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 253442,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 680201
+            },
+            {
+              "package_price": 11900,
+              "session_price": 1200,
+              "course_id": 253442,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 680202
+            },
+            {
+              "package_price": 26000,
+              "session_price": 1300,
+              "course_id": 253442,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 680200
+            },
+            {
+              "package_price": 7300,
+              "session_price": 1500,
+              "course_id": 253442,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 680203
+            }
+          ]
+        },
+        {
+          "id": 253444,
+          "teacher_id": 2700949,
+          "language": "english",
+          "title": "\ud83c\uddef\ud83c\uddf5\u65e5\u672c\u8a9e\u8a71\u8005\u306e\u305f\u3081\u306e\u4f1a\u8a71\u30ec\u30c3\u30b9\u30f3\ud83c\uddef\ud83c\uddf5",
+          "description": "\u3053\u306e\u30bf\u30a4\u30d7\u306e\u30ec\u30c3\u30b9\u30f3\u3067\u306f\u3001\u65e5\u672c\u4eba\u306b\u5411\u3051\u3066\u82f1\u8a9e\u3092\u4e0a\u9054\u3055\u305b\u308b\u304a\u624b\u4f1d\u3044\u3092\u3057\u305f\u3044\u3068\u601d\u3063\u3066\u3044\u307e\u3059\u3002\u3053\u308c\u306f\u4f1a\u8a71\u30af\u30e9\u30b9\u3067\u3042\u308b\u305f\u3081\u3001\u5c11\u306a\u304f\u3068\u3082\u4e2d\u7d1a\u30ec\u30d9\u30eb\u304c\u5fc5\u8981\u3067\u3042\u308b\u3053\u3068\u3092\u899a\u3048\u3066\u304a\u3044\u3066\u304f\u3060\u3055\u3044\u3002\u30d5\u30ea\u30fc\u30c8\u30fc\u30af\u3082\u53ef\u80fd\u3067\u3059\u3057\u3001\u4e8b\u524d\u306b\u8a18\u4e8b\u3084\u52d5\u753b\u3092\u63d0\u4f9b\u3057\u3066\u3044\u305f\u3060\u3051\u308c\u3070\u3001\u3088\u308a\u4f53\u7cfb\u7684\u306a\u4f1a\u8a71\u3082\u53ef\u80fd\u3067\u3059\u3002\u6b21\u306e\u30af\u30e9\u30b9\u3067\u304a\u4f1a\u3044\u3067\u304d\u308b\u3053\u3068\u3092\u697d\u3057\u307f\u306b\u3057\u3066\u3044\u307e\u3059\u3002",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1300,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-10-17T15:22:42Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 253444,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 680208
+            },
+            {
+              "package_price": 11900,
+              "session_price": 1200,
+              "course_id": 253444,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 680209
+            },
+            {
+              "package_price": 26000,
+              "session_price": 1300,
+              "course_id": 253444,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 680207
+            },
+            {
+              "package_price": 7300,
+              "session_price": 1500,
+              "course_id": 253444,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 680210
+            }
+          ]
+        },
+        {
+          "id": 253445,
+          "teacher_id": 2700949,
+          "language": "english",
+          "title": "\ud83c\uddee\ud83c\uddf9 Lezioni  di conversazione\ud83c\uddee\ud83c\uddf9",
+          "description": "\ud83c\uddee\ud83c\uddf9 In questo tipo di lezioni possiamo esercitarci nella conversazione. Se Lei parla italiano, posso aiutarti con le diverse domande che ha sull'inglese. Possiamo avere una conversazione libre o, se desidera una conversazione leggermente pi\u00f9 strutturata, pu\u00f2 inviare un articolo o un video in anticipo per parlare",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1300,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-10-17T15:24:24Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 253445,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 680212
+            },
+            {
+              "package_price": 11900,
+              "session_price": 1200,
+              "course_id": 253445,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 680213
+            },
+            {
+              "package_price": 26000,
+              "session_price": 1300,
+              "course_id": 253445,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 680211
+            },
+            {
+              "package_price": 7300,
+              "session_price": 1500,
+              "course_id": 253445,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 680214
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 17.0
+          },
+          {
+            "month": 2,
+            "data": 19.0
+          },
+          {
+            "month": 3,
+            "data": 15.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.94
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 943,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 3196089,
+        "nickname": "Yosmel Mendez",
+        "avatar_file_name": "10T031960890",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "VE",
+        "is_online": 0,
+        "living_country_id": "CL",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "CL00001",
+        "living_city_name": "Santiago",
+        "timezone": "America/Santiago",
+        "last_login_time": "2025-04-01T19:21:27+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/IudxBebTrOY",
+        "video_pic_url": "https://img.youtube.com/vi/IudxBebTrOY/0.jpg",
+        "intro": "Hi, my name is Yosmel, I'm from Venezuela but I moved to Chile 6 years ago, I like to learn about new cultures, and it's always interesting to meet new people from all over the world.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "german",
+            "level": 1
+          },
+          {
+            "language": "portuguese",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2016-10-03T09:53:05Z",
+        "session_count": 339,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/D4278567-A2CA-4083-8845-D6C905A9B00F.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/IudxBebTrOY.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "Hello! I have been teaching a friend in my city informally for the last year. That's why I decided to become a comunity tutor on Italki. I have experience teaching spanish and english grammer to beginners students, and intermediate students and also i can have fluent conversation with advanced students who only want to practice their spanish or english knowledge. I also speak english so if you are beginner and you're not sure because you don't know enough spanish to have a conversation, we can talk in english whenever you are not sure about how to say something, or if you want me to explain everything in english i'm able to do it. The best way to learn a language is by reading what you hear at the same time that way you can create associations, i can offer you methods to do it. I would like to help you to improve your spanish or english. We can talk about your favorite topic, or grammer, i will accommodate my class for you to make it easy. I'm a pacient person so you will feel comfortable if you make mistakes, because when we are learning something new we always make mistakes, it's a normal proccess. I hope to see you soon!\n\nHola! he estado ense\u00f1ando un amigo en mi ciudad informalmente por el ultimo a\u00f1o. Por eso decid\u00ed convertirme en tutor de la comunidad en italki. Tengo experiencia ense\u00f1ando espa\u00f1ol e ingles a estudiantes principiantes, intermedios y a los estudiantes avanzados les puedo ofrecer conversaciones fluidas sobre cualquier tema del que deseen hablar. Tambi\u00e9n hablo ingles as\u00ed que si eres principiante y no estas seguro de tomar una lecci\u00f3n porque no sabes el suficiente espa\u00f1ol para comunicarte, podemos hablar ingles cuando no sepas como decir algo o si quieres que te explique todo en ingles tambi\u00e9n puedo hacerlo. La mejor manera de aprender un idioma es leyendo lo que escuchas al mismo tiempo y de esta manera puedes crear asociaciones. Me gustar\u00eda ayudarte a mejorar tu ingles o espa\u00f1ol. Soy una persona paciente as\u00ed que estar\u00e9 feliz de ayudarlos!",
+        "about_me": "Hi, my name is Yosmel, I'm from Venezuela but I moved to Chile 6 years ago, I like to learn about new cultures, and it's always interesting to meet new people from all over the world.",
+        "about_teacher": "I became a Tutor 7 years ago, it's been such a great experience to meet people from so many different countries. I like to share my culture and help other people learn languages in a fun and more dinamic way where you're able to use the things you know and learn what you need.",
+        "teaching_style": "About my lessons, they're mostly based on your interests and needs. If you feel like you need more conversational lessons or more grammar based lessons because you feel you lack of vocabulary or the order of how you should say things, I can help you with that as well. Since learning English myself I know how challenging it can be and how much fun you can have while doing so.",
+        "is_student_full": 0,
+        "student_count": 146,
+        "teacher_tag": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1200,
+        "trial_session_count": 0,
+        "trial_description": "En la leccion de prueba podemos conversar sobre tus intereses en aprender un idioma y cuales son tus preferencias para aprender,"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 3196089
+      },
+      "pro_course_detail": [
+        {
+          "id": 46581,
+          "teacher_id": 3196089,
+          "language": "spanish",
+          "title": "Informal Tutoring",
+          "description": "En las clases menos formales podemos hablar de cosas que sean de tu inter\u00e9s igual como de la gram\u00e1tica que puede ser un poco mas confusa para ti.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 52,
+          "session_count": 201,
+          "create_time": "2016-10-03T17:37:37Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2550,
+              "session_price": 700,
+              "course_id": 46581,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 81618
+            },
+            {
+              "package_price": 3187,
+              "session_price": 750,
+              "course_id": 46581,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 83521
+            },
+            {
+              "package_price": 4250,
+              "session_price": 1000,
+              "course_id": 46581,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 83534
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1300,
+              "course_id": 46581,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 83535
+            }
+          ]
+        },
+        {
+          "id": 143424,
+          "teacher_id": 3196089,
+          "language": "english",
+          "title": "Conversation Practice",
+          "description": "We can talk about anything that is interesting to you, such as, music, movies, hobbies, videogames or anything else that comes to your mind i'm a very open minded person.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 7,
+          "session_count": 9,
+          "create_time": "2021-05-04T17:48:25Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3400,
+              "session_price": 800,
+              "course_id": 143424,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 637605
+            },
+            {
+              "package_price": 3800,
+              "session_price": 900,
+              "course_id": 143424,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 637606
+            },
+            {
+              "package_price": 5100,
+              "session_price": 1200,
+              "course_id": 143424,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 345247
+            },
+            {
+              "package_price": 6300,
+              "session_price": 1500,
+              "course_id": 143424,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 637607
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 339,
+        "response_rate": 0.99,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 9933984,
+        "nickname": "Abril",
+        "avatar_file_name": "3T099339840",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "VE",
+        "is_online": 0,
+        "living_country_id": "VE",
+        "origin_city_id": "VE00001",
+        "origin_city_name": "Caracas",
+        "living_city_id": "VE00001",
+        "living_city_name": "Caracas",
+        "timezone": "America/Caracas",
+        "last_login_time": "2025-04-01T02:53:06+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/GdNHPjpHhq0",
+        "video_pic_url": "https://img.youtube.com/vi/GdNHPjpHhq0/0.jpg",
+        "intro": "Hey there! My name is Abril! I'm Currently 23 years old (My ultimate goal is to live 100 more). I like cinema (even more if the piece is animated) I enjoy learning about palmistry, psychology, biology, history, music, basically everything but economy (I just can't fathom how that works)\nI'm a graphic designer, a pharmacy student and a burden to my family. Jk.\nIn my free time I like to paint, cook, read, and play fall guys.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "italian",
+            "level": 3
+          },
+          {
+            "language": "french",
+            "level": 2
+          },
+          {
+            "language": "korean",
+            "level": 1
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-08-12T16:37:36Z",
+        "session_count": 830,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/C0334E60-5961-4AD6-8E4D-C173F34103E6.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/GdNHPjpHhq0.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hey there! My name is Abril! I'm Currently 23 years old (My ultimate goal is to live 100 more). I like cinema (even more if the piece is animated) I enjoy learning about palmistry, psychology, biology, history, music, basically everything but economy (I just can't fathom how that works)\nI'm a graphic designer, a pharmacy student and a burden to my family. Jk.\nIn my free time I like to paint, cook, read, and play fall guys.",
+        "about_teacher": "As a teacher I like to challenge my students. \nLet them see how far they've come, and push them to get better after every lesson.\nHonesty is my way. This means that I will be completely honest with you as a student.\nIf your vocabulary has improved, I will make sure you're aware of this to boost your confidence. On the other hand,  if you're having trouble with pronunciation, I will also point that out so we can fix that.",
+        "teaching_style": "My lessons will be highly interactive, full of challenging activities so you can engage and stay interested in every lesson.\nThese activities can seem fun but actually demand analyzing, reading, listening, debating and writing, since these are important efficiency parameters.\nBeware, we will talk a lot.\nBut not everything can be fun. In between every lesson we will have a \"study section\" here we\u2019ll discuss grammar, vocabulary, pronunciation, doubts you may have, basically anything that's needed for you to speak accurately and improve faster.",
+        "is_student_full": 0,
+        "student_count": 133,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "estoy de vacaciones!",
+        "apply_status": 9,
+        "first_complete_time": "2021-08-13T05:35:37+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "estoy de vacaciones!",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1050,
+        "trial_session_count": 0,
+        "trial_description": "\u00a1Hola, Me llamo Abril y me encantar\u00eda ayudarte con tu espa\u00f1ol!\n\nEn esta breve clase vamos a identificar cual es tu nivel y c\u00f3mo podemos mejorarlo!\nPor lo tanto esta ser\u00e1 una clase mixta, algo de conversaci\u00f3n, lectura, escritura, pronunciaci\u00f3n, etc\u2026\n\nConversaremos de tus objetivos personales con el espa\u00f1ol y de tus intereses en general para as\u00ed poder planear clases que sean ideales PARA TI."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 9933984
+      },
+      "pro_course_detail": [
+        {
+          "id": 173126,
+          "teacher_id": 9933984,
+          "language": "spanish",
+          "title": "\u00a1Hablando y anotando!",
+          "description": "En esta clase prep\u00e1rate para hablar, conversar, charlar, discutir, argumentar, consultar, compartir y ser t\u00fa mismo! \nSi, ser\u00e1 algo muy tranquilo, pero no te olvides de tener tu cuaderno cerca porque te aseguro que al terminar habr\u00e1s aprendido algo nuevo!",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1050,
+          "student_count": 55,
+          "session_count": 438,
+          "create_time": "2021-08-13T05:01:25Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2700,
+              "session_price": 600,
+              "course_id": 173126,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 427462
+            },
+            {
+              "package_price": 3600,
+              "session_price": 800,
+              "course_id": 173126,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 427461
+            },
+            {
+              "package_price": 4800,
+              "session_price": 1050,
+              "course_id": 173126,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 427460
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1600,
+              "course_id": 173126,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 481405
+            }
+          ]
+        },
+        {
+          "id": 173132,
+          "teacher_id": 9933984,
+          "language": "spanish",
+          "title": "\u00bfTe gusta leer?",
+          "description": "Si te gusta leer \u00a1esta es tu clase!\nSi en realidad leer no es de tus actividades favoritas, \u00a1tranquilo! te aseguro que ser\u00e1 entretenido.\n\nPodemos leer art\u00edculos, noticias o libros (cortos preferiblemente, NADA DE GOT, \u00bfok?)\n\nMi abuelo siempre dice que leer es vida, como profesora, yo pienso algo similar; Leer es VITAL. \nSi quieres aprender un idioma bien, leer es indispensable.\nAs\u00ed que.....\n\u00a1Calienta tus cuerdas vocales y ve a buscar tus lentes, vamos a leer!",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0003",
+            "T0004"
+          ],
+          "session_price": 1050,
+          "student_count": 7,
+          "session_count": 31,
+          "create_time": "2021-08-13T05:18:54Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2700,
+              "session_price": 600,
+              "course_id": 173132,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 427478
+            },
+            {
+              "package_price": 3600,
+              "session_price": 800,
+              "course_id": 173132,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 427479
+            },
+            {
+              "package_price": 4800,
+              "session_price": 1050,
+              "course_id": 173132,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 427477
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1600,
+              "course_id": 173132,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 537814
+            }
+          ]
+        },
+        {
+          "id": 177918,
+          "teacher_id": 9933984,
+          "language": "english",
+          "title": "Conversation is coming...",
+          "description": "Conversation is coming but don't worry, this won't kill you! I swear!\nIt'll be fun, you'll get to test your knowledge and in the meantime you'll gain even more! Get ready to expand your vocabulary and boost your confidence when speaking.\nDon't forget your notebook and pen though!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1050,
+          "student_count": 53,
+          "session_count": 289,
+          "create_time": "2021-08-31T01:11:11Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2700,
+              "session_price": 600,
+              "course_id": 177918,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 441406
+            },
+            {
+              "package_price": 3600,
+              "session_price": 800,
+              "course_id": 177918,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 468713
+            },
+            {
+              "package_price": 4800,
+              "session_price": 1050,
+              "course_id": 177918,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 441405
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1600,
+              "course_id": 177918,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 537815
+            }
+          ]
+        },
+        {
+          "id": 177920,
+          "teacher_id": 9933984,
+          "language": "english",
+          "title": "Shall we practice your reading?",
+          "description": "If you like to read, this is your class! And if not, well\u2026 you still need this so don't leave, please! I assure you it will be entertaining.\n\nWe can read articles, news or books (preferably short, NO GOT, ok?)\n\nRemember that reading is an essential part of any language\nso.....\nWarm up your vocal cords and go get your glasses, let's read!",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0003",
+            "T0004"
+          ],
+          "session_price": 1050,
+          "student_count": 11,
+          "session_count": 30,
+          "create_time": "2021-08-31T01:32:06Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2700,
+              "session_price": 600,
+              "course_id": 177920,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 441412
+            },
+            {
+              "package_price": 3600,
+              "session_price": 800,
+              "course_id": 177920,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 468714
+            },
+            {
+              "package_price": 4800,
+              "session_price": 1050,
+              "course_id": 177920,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 441411
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1600,
+              "course_id": 177920,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 537817
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 20.0
+          },
+          {
+            "month": 1,
+            "data": 23.0
+          },
+          {
+            "month": 2,
+            "data": 21.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.92
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.95
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 830,
+        "response_rate": 0.98,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 5471556,
+        "nickname": "Marijo",
+        "avatar_file_name": "21T054715560",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "VE",
+        "is_online": 1,
+        "living_country_id": "VE",
+        "origin_city_id": "VE00081",
+        "origin_city_name": "Merida",
+        "living_city_id": "VE00081",
+        "living_city_name": "Merida",
+        "timezone": "America/Caracas",
+        "last_login_time": "2025-04-01T20:24:59+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/umGZz4M_B-A",
+        "video_pic_url": "https://img.youtube.com/vi/umGZz4M_B-A/0.jpg",
+        "intro": "Hi, there! I'm a Venezuelan girl who loves helping people achieve their language learning goals. I enjoy spending time meeting new people, new cultures, and life experiences. I'm also a linguistics lover, I have a Bachelor's Degree in Modern Languagues, so we can discuss together any question you have about grammar or phonetics.  And if you're a beginner, don't worry! I'm patient and kind so learning Spanish or English isn't a nightmare for you.\n\nI'll help you succeeding in that desired fluency.",
+        "short_signature": "Bachelor's Degree in Modern Languagues! Quite grammar nerd, but very friendly and real native!",
+        "teach_language": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "french",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2018-10-01T11:01:51Z",
+        "session_count": 2868,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/BC5F128A-9663-47DF-AF29-1F1B737DC42C.mp4",
+        "cover_name": "u/5471556/cover/c4dtdoq810k5jso5lflg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/umGZz4M_B-A.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          6,
+          7,
+          8,
+          10,
+          5
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi, there! I'm a Venezuelan girl who loves helping people achieve their language learning goals. I enjoy spending time meeting new people, new cultures, and life experiences. I'm also a linguistics lover, I have a Bachelor's Degree in Modern Languagues, so we can discuss together any question you have about grammar or phonetics.  And if you're a beginner, don't worry! I'm patient and kind so learning Spanish or English isn't a nightmare for you.\n\nI'll help you succeeding in that desired fluency.",
+        "about_teacher": "I have a B. D. in Modern Languages, so I have an expert knowledge about language, its culture, grammar and phonetics. Besides, I love teaching, sharing my knowledge, and helping others achieve their learning goals. Time ago, I was a beginner like you, so believe me: I understand all insecurities and difficulties you might have in this process. Beginner or intermediate, we can work together and make fluent speaking and writing real.",
+        "teaching_style": "I teach every single subject which is useful for your improvement in speaking and writing a new language.\n\nMy teaching method is the PPU: presentation-practice-use. BUT, if you have, already know or desire a different method, I can adjust to your needs!\n\nI like using some games and conversation cards about lifestyles, culture, travel, nature, music, health, or whatever topic you are interested in. \n\nI promise students that here learning languages is much comfortable, focused, annnd FUN!\n\nThe only thing I require students is responsibility and goodwill to learn.",
+        "is_student_full": 0,
+        "student_count": 190,
+        "teacher_tag": [
+          1,
+          3
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 8
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 800,
+        "min_price": 1050,
+        "trial_session_count": 0,
+        "trial_description": "Why don't we meet each other and talk about your goals with the language?\n\n\u00a1Vamos a conocernos! Y hablemos de tus metas con el idioma."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 5471556
+      },
+      "pro_course_detail": [
+        {
+          "id": 72546,
+          "teacher_id": 5471556,
+          "language": "spanish",
+          "title": "Tutor\u00eda libre de estr\u00e9s y complejos",
+          "description": "\u00a1Hola amigo o amiga! En esta tutor\u00eda te sentir\u00e1s libre de estr\u00e9s y de complejos. Conmigo practicar\u00e1s el espa\u00f1ol desde un ambiente de confianza. Soy muy paciente y entiendo todos los problemas que puedan presentarse, pues tambi\u00e9n fui una aprendiz.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 1050,
+          "student_count": 100,
+          "session_count": 1658,
+          "create_time": "2018-10-01T22:50:23Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4250,
+              "session_price": 850,
+              "course_id": 72546,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 540650
+            },
+            {
+              "package_price": 4750,
+              "session_price": 950,
+              "course_id": 72546,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 591433
+            },
+            {
+              "package_price": 5250,
+              "session_price": 1050,
+              "course_id": 72546,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 144849
+            },
+            {
+              "package_price": 17500,
+              "session_price": 1750,
+              "course_id": 72546,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 610759
+            }
+          ]
+        },
+        {
+          "id": 72547,
+          "teacher_id": 5471556,
+          "language": "english",
+          "title": "Tutoring free of stress and insecurities",
+          "description": "Hi, there! What I mean with tutorings free of stress and insecurities is that during the lesson time you will feel free of insecurities or stress of asking, practicing, learning the language  because I am really patient and I was a beginner as you, so I understand all problems you can have. \nDon't hesitate to contact me!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 1050,
+          "student_count": 75,
+          "session_count": 992,
+          "create_time": "2018-10-01T22:51:22Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4250,
+              "session_price": 850,
+              "course_id": 72547,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 589980
+            },
+            {
+              "package_price": 4750,
+              "session_price": 950,
+              "course_id": 72547,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 591434
+            },
+            {
+              "package_price": 5250,
+              "session_price": 1050,
+              "course_id": 72547,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 144850
+            },
+            {
+              "package_price": 8750,
+              "session_price": 1750,
+              "course_id": 72547,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 610760
+            }
+          ]
+        },
+        {
+          "id": 210347,
+          "teacher_id": 5471556,
+          "language": "english",
+          "title": "Conversation Lessons",
+          "description": "In this lessons, we can have some general speaking practice about different topics depending on your level. I'll share some material and activities so we can always keep the conversation going... Come on! You'll enjoy it!",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1050,
+          "student_count": 11,
+          "session_count": 154,
+          "create_time": "2022-02-02T16:17:52Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4250,
+              "session_price": 850,
+              "course_id": 210347,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 540644
+            },
+            {
+              "package_price": 5250,
+              "session_price": 1050,
+              "course_id": 210347,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 535996
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 46.0
+          },
+          {
+            "month": 2,
+            "data": 49.0
+          },
+          {
+            "month": 3,
+            "data": 50.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 2868,
+        "response_rate": 1,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 45,
+    "price_list": [
+      0,
+      0,
+      4,
+      0,
+      0,
+      2,
+      15,
+      0,
+      19,
+      14,
+      9,
+      29,
+      20,
+      14,
+      8,
+      2,
+      13,
+      7,
+      5,
+      8,
+      2,
+      12,
+      0,
+      1,
+      0,
+      4,
+      10,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-f0-474d-a02e-9d4b4e133b44-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 45
+  },
+  "paging": {
+    "page": 3,
+    "page_size": 20,
+    "total": 45,
+    "has_next": 0
+  }
+}

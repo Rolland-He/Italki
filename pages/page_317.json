@@ -1,0 +1,2670 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 7129795,
+        "nickname": "Ana Carolina",
+        "avatar_file_name": "3T071297950",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "EC",
+        "is_online": 0,
+        "living_country_id": "EC",
+        "origin_city_id": "EC00006",
+        "origin_city_name": "Quito",
+        "living_city_id": "EC00006",
+        "living_city_name": "Quito",
+        "timezone": "America/Bogota",
+        "last_login_time": "2025-04-01T17:01:14+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/5FRmAbxd_hE",
+        "video_pic_url": "https://img.youtube.com/vi/5FRmAbxd_hE/0.jpg",
+        "intro": "He ense\u00f1ado idiomas desde los 18 a\u00f1os y lo hago profesionalmente desde el 2010. A trav\u00e9s de la maternidad, ense\u00f1ar se convirti\u00f3 en una de mis grandes pasiones y la posibilidad de hacerlo en l\u00ednea me abre a un nuevo mundo de oportunidades como educadora y como madre que educa a su hijo en casa. Mis otras dos pasiones son las artes y los idiomas. Tengo una maestr\u00eda en direcci\u00f3n de documentales, se tocar piano y guitarra, amo la actuaci\u00f3n, el clown y la cocina. Soy alegre, entusiasta y muy disciplinada.\n\nPlease check out my video for an English description of me and my work!",
+        "short_signature": "I'm an expert creating immersive language experiences for children and their families",
+        "teach_language": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "chinese",
+            "level": 5
+          },
+          {
+            "language": "french",
+            "level": 4
+          },
+          {
+            "language": "italian",
+            "level": 4
+          },
+          {
+            "language": "portuguese",
+            "level": 4
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2020-04-14T03:05:56Z",
+        "session_count": 2602,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/A9F97DED-47DD-4EE7-A5CE-EBB97BF66F31.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/5FRmAbxd_hE.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "He ense\u00f1ado idiomas desde los 18 a\u00f1os y lo hago profesionalmente desde el 2010. A trav\u00e9s de la maternidad, ense\u00f1ar se convirti\u00f3 en una de mis grandes pasiones y la posibilidad de hacerlo en l\u00ednea me abre a un nuevo mundo de oportunidades como educadora y como madre que educa a su hijo en casa. Mis otras dos pasiones son las artes y los idiomas. Tengo una maestr\u00eda en direcci\u00f3n de documentales, se tocar piano y guitarra, amo la actuaci\u00f3n, el clown y la cocina. Soy alegre, entusiasta y muy disciplinada.\n\nPlease check out my video for an English description of me and my work!",
+        "about_teacher": "Creo que la mejor manera de aprender es siguiendo nuestras pasiones y haci\u00e9ndolo divertido. Por esta raz\u00f3n es muy importante para mi conectar emocional e intelectualmente con mis alumnos, ya sea que tengan 1 o 100 a\u00f1os. Solo de esta manera puedo proponer actividades l\u00fadicas acorde a sus intereses.  He ense\u00f1ado tanto espa\u00f1ol como ingl\u00e9s a alumnos desde 6 meses de edad hasta 60 a\u00f1os. \n\nDesde el 2018 me he dedicado principalmente a promover el aprendizaje en familia, donde padres e hijos interact\u00faan a trav\u00e9s del juego y las actividades propuestas apoy\u00e1ndose m\u00fatuamente. Mis clases son una gu\u00eda para que gran parte del aprendizaje suceda en casa, respetando los intereses y el ritmo de cada uno.",
+        "teaching_style": "Mi gran aliado al momento de ense\u00f1ar es el arte. Utilizo canciones, cuentos y juegos tradicionales para ni\u00f1os. Con adultos me gusta apoyarme en la buena literatura y el cine de calidad para incitar una conversaci\u00f3n o ejercicios funcionales de gram\u00e1tica, vocabulario, convenciones, etc. Me apoyo en materiales audiovisuales, m\u00fasica y tradici\u00f3n oral para presentar los temas que surgen de los intereses personales de cada alumno. Se realizan actividades l\u00fadicas que promuevan la interacci\u00f3n y el disfrute. Finalmente se proponen proyectos que ayuden a introducir un nuevo tema o a hacer seguimiento de lo aprendido",
+        "is_student_full": 0,
+        "student_count": 157,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "CN",
+            "city": "Shenzhen",
+            "company": "IBOBI",
+            "job": "English Drama Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Estimulaci\u00f3n temprana a trav\u00e9s de la m\u00fasica, el movimiento e historias para ni\u00f1os de 6 meses a 6 a\u00f1os. En IBOBI adquir\u00ed una serie de recursos y expertise que me permiti\u00f3 crear mi propio programa de aprendizaje en familia a trav\u00e9s del arte y la experiencia.\n\nSensorial and language stimulation through music, movement and story telling Ages 6 months to 6 years old. In IBOBI I acquired series of resources and expertise that allowed me to create my own program of family learning.",
+            "start_year": 2017,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2020-03-25T21:11:04Z",
+            "exp_id": 68177
+          },
+          {
+            "country": "CN",
+            "city": "Shanghai",
+            "company": "Amber Montessori School of Shanghai",
+            "job": "Language teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "English circle and presentation of language materials in an Infant Community classroom (18 months to 3 years old))",
+            "start_year": 2016,
+            "end_year": 2017,
+            "status": 1,
+            "create_time": "2020-03-25T21:15:32Z",
+            "exp_id": 68178
+          },
+          {
+            "country": "EC",
+            "city": "Quito",
+            "company": "Instituto Confucio USFQ",
+            "job": "Profesora de espa\u00f1ol",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Programa de espa\u00f1ol para familias chinas en Ecuador\nSpanish teaching program for Chinese expats",
+            "start_year": 2014,
+            "end_year": 2015,
+            "status": 1,
+            "create_time": "2020-03-25T21:19:09Z",
+            "exp_id": 68179
+          },
+          {
+            "country": "CN",
+            "city": "Beijing",
+            "company": "Pearson Longman Schools - Beijing",
+            "job": "Lead teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Longman children curriculum",
+            "start_year": 2011,
+            "end_year": 2014,
+            "status": 1,
+            "create_time": "2020-03-25T21:26:18Z",
+            "exp_id": 68180
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Boston College",
+            "major": "University exchange",
+            "level": 1,
+            "description": "28 credits earned GPA: 3.55",
+            "start_year": 2006,
+            "end_year": 2007,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2020-03-25T21:43:19Z",
+            "edu_id": "4A3B2910-2374-4D93-8B3E-8A96033A7906"
+          },
+          {
+            "institution": "Universidad San Francisco de Quito",
+            "major": "Baccalareus Artium",
+            "level": 1,
+            "description": "Licenciada en Cine y Video Cum Laude\r\nBaccalareus Artium in Cinema and Video Cum Laude",
+            "start_year": 2004,
+            "end_year": 2010,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2020-03-25T21:04:52Z",
+            "edu_id": "994EFA9B-F4AC-42F5-84A7-EB8A2D181D73"
+          },
+          {
+            "institution": "Beijing Film Academy",
+            "major": "Documentary Film Making",
+            "level": 2,
+            "description": "MFA in Documentary Film Making\r\nTema de investigaci\u00f3n: colaboraci\u00f3n art\u00edstica entre diferentes plataformas\r\nResearch topic: cross platform artistic collaborations",
+            "start_year": 2011,
+            "end_year": 2014,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2020-03-25T20:58:02Z",
+            "edu_id": "CEC865C9-855D-4EC2-ADA8-381E21E536BA"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2020-03-25T20:37:15Z",
+            "update_time": "2020-03-25T20:37:15Z",
+            "file_ext": "jpg",
+            "description": "Certificate in Teaching English to Speakers of Other Languages",
+            "institution": "ITT",
+            "end_year": 2016,
+            "status": 1,
+            "certificate": "TELF / TESOL",
+            "cert_id": "65DA6A5D-27D1-43A4-8A4F-2547734A1903"
+          },
+          {
+            "create_time": "2020-03-25T20:41:47Z",
+            "update_time": "2020-03-25T20:41:47Z",
+            "file_ext": "pdf",
+            "description": "\u5728\u5384\u74dc\u591a\u5c14\u57fa\u591a\u5723\u5f17\u6717\u897f\u65af\u79d1\u5927\u5b66\u5b54\u5b50\u5b66\u9662\u4e3e\u529e\u7684\u5916\u56fd\u6c49\u8bed\u6559\u5e08\u57f9\u8bad",
+            "institution": "\u5b54\u5b50\u5b66\u9662\u603b\u90e8 / \u56fd\u5bb6\u6c49\u529e",
+            "end_year": 2015,
+            "status": 1,
+            "certificate": "\u5916\u56fd\u6c49\u8bed\u6559\u5e08",
+            "cert_id": "A038B406-AEAC-4E16-B83E-809CEBFA2A34"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "Longman Schools Beijing",
+            "type": "CA004",
+            "type_text_code": "KIDS",
+            "certificate": "Recomendation letter",
+            "description": "Since 2011 until 2014 worked with children form 3 years old to 12 years old",
+            "end_year": 2014,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/FBAE10B8-51DF-4032-AEC9-6AD6E02432D0.pdf",
+            "create_time": "2024-08-14T19:35:01Z",
+            "update_time": "2024-08-14T19:35:01Z",
+            "approve_time": "2024-08-16T08:35:06Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "TELF / TESOL",
+            "institution": "ITT",
+            "end_year": 2016,
+            "status": 1,
+            "description": "Certificate in Teaching English to Speakers of Other Languages",
+            "type": ""
+          },
+          {
+            "certificate": "\u5916\u56fd\u6c49\u8bed\u6559\u5e08",
+            "institution": "\u5b54\u5b50\u5b66\u9662\u603b\u90e8 / \u56fd\u5bb6\u6c49\u529e",
+            "end_year": 2015,
+            "status": 1,
+            "description": "\u5728\u5384\u74dc\u591a\u5c14\u57fa\u591a\u5723\u5f17\u6717\u897f\u65af\u79d1\u5927\u5b66\u5b54\u5b50\u5b66\u9662\u4e3e\u529e\u7684\u5916\u56fd\u6c49\u8bed\u6559\u5e08\u57f9\u8bad",
+            "type": ""
+          },
+          {
+            "certificate": "Recomendation letter",
+            "institution": "Longman Schools Beijing",
+            "end_year": 2014,
+            "status": 1,
+            "description": "Since 2011 until 2014 worked with children form 3 years old to 12 years old",
+            "type": "CA004"
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1900,
+        "min_price": 3500,
+        "trial_session_count": 0,
+        "trial_description": "When you book a trial lesson, please provide information about yourself or your child/children and your learning requirements. That way I will be able to serve you better and guide you in the pursue of your goals. Pease keep in mind that we might want to have materials available such as food, toys or printables to make the lesson more interactive and fun for your kids. Adult learners might want to prepare in advance in order to take full advantage of this lesson."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 7129795
+      },
+      "pro_course_detail": [
+        {
+          "id": 108105,
+          "teacher_id": 7129795,
+          "language": "spanish",
+          "title": "Espa\u00f1ol a la carta",
+          "description": "Juntos dise\u00f1aremos tus lecciones de acuerdo a tus necesidades e intereses. He trabajado con estudiantes desde 6 meses hasta 60 a\u00f1os en todos los niveles y tengo varios idiomas de apoyo para facilitar la comunicaci\u00f3n incluso si no hablas una palabra de espa\u00f1ol. Tengo una fuerte inclinaci\u00f3n por las letras y artes y formaci\u00f3n en administraci\u00f3n de empresas.\n\nLet's design your lessons together, based on your personal needs and interests. I have worked with students across all levels, from 6 months old to 60 years old. And I have knowledge in several other languages to support your learning even if you don't speak a word of Spanish. I have a strong interest in arts and literature, plus training in Management and Administration.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 3500,
+          "student_count": 34,
+          "session_count": 160,
+          "create_time": "2020-04-15T00:50:31Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 48000,
+              "session_price": 2500,
+              "course_id": 108105,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 823752
+            },
+            {
+              "package_price": 3000,
+              "session_price": 3000,
+              "course_id": 108105,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 240243
+            },
+            {
+              "package_price": 3500,
+              "session_price": 3500,
+              "course_id": 108105,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 240226
+            }
+          ]
+        },
+        {
+          "id": 108109,
+          "teacher_id": 7129795,
+          "language": "english",
+          "title": "English for families",
+          "description": "Welcome to my immersive English program for families with kids from 2 years old. I promise lots of fun, music, games, hands on projects to create the right environment for family learning. Regardless of your English level as an adult, what matters is that you can connect with your children and share your knowledge or the experience of learning and playing.\nOnce you have booked a lesson, I will send you a list of possible topics for your child to choose from. Depending on that decision and on the things your child likes to do (I might ask you a few questions), I will send you materials such as songs or stories to help everyone prepare vocabulary or simply connect with the topic at an emotional level prior to the class.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA004",
+          "course_tags": [
+            "MHP111",
+            "MHP112"
+          ],
+          "session_price": 3500,
+          "student_count": 15,
+          "session_count": 125,
+          "create_time": "2020-04-15T01:22:56Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 24500,
+              "session_price": 2500,
+              "course_id": 108109,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 240234
+            },
+            {
+              "package_price": 48000,
+              "session_price": 2500,
+              "course_id": 108109,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 823753
+            },
+            {
+              "package_price": 3000,
+              "session_price": 3000,
+              "course_id": 108109,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 240236
+            },
+            {
+              "package_price": 3500,
+              "session_price": 3500,
+              "course_id": 108109,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 240235
+            }
+          ]
+        },
+        {
+          "id": 108110,
+          "teacher_id": 7129795,
+          "language": "spanish",
+          "title": "Espa\u00f1ol para familias (Spanish for small children and their families)",
+          "description": "Welcome to my immersive Spanish program for families with children from 2 to 7 years old. We'll have lots of fun, music, games, art projects and science to create the perfect family learning environment.\n\nBienvenidos a mi programa inmersivo de espa\u00f1ol para familias con ni\u00f1os de 2 a 7 a\u00f1os. Tendremos mucha diversi\u00f3n, m\u00fasica, juegos, proyectos de arte y ciencia, para crear el espacio perfecto de aprendizaje en familia.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA004",
+          "course_tags": [
+            "MHP111"
+          ],
+          "session_price": 3000,
+          "student_count": 54,
+          "session_count": 1087,
+          "create_time": "2020-04-15T01:27:11Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 24500,
+              "session_price": 2500,
+              "course_id": 108110,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 240241
+            },
+            {
+              "package_price": 48000,
+              "session_price": 2500,
+              "course_id": 108110,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 823754
+            },
+            {
+              "package_price": 3000,
+              "session_price": 3000,
+              "course_id": 108110,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 240240
+            }
+          ]
+        },
+        {
+          "id": 117125,
+          "teacher_id": 7129795,
+          "language": "spanish",
+          "title": "Espa\u00f1ol para ni\u00f1os grandes (Spanish for children aged 7-13)",
+          "description": "Pre-teens are a very special age group. Their brains still have some of the plasticity of smaller children, which supports them to learn from the environment. And at the same time, they are ready for more systematical and logical ways of learning, as well as literacy exercises. My lessons are designed to respond to their specific ways of leaning as well as their interests and psychological needs (pre-teen are very self aware ;). On these lessons, you can expect some games, cooking, science experiments, singing, dancing, crafts and research, depending on your child's interests and level.\n\nLos pre-adolescentes son un grupo especial. Sus cerebros todav\u00eda conservan mucho de la plasticidad de un ni\u00f1o peque\u00f1o, lo cual es permite absorber conocimiento del medio ambiente, y al mismo tiempo est\u00e1n listos para aprender de una manera l\u00f3gica/sistem\u00e1tica y trabajar su lecto-escritura. Mis lecciones est\u00e1n dise\u00f1adas para responder a estas maneras de aprender, al igual que a sus intereses y necesidades psicol\u00f3gicas (los preadolescente son extremadamente conscientes de su imagen). Trabajaremos con juegos, cocinando, haciendo experimentos y manualidades, cantando, bailando, investigando, todo de acuerdo a los intereses y nivel de tu ni\u00f1o.",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA004",
+          "course_tags": [
+            "MHP112"
+          ],
+          "session_price": 3500,
+          "student_count": 39,
+          "session_count": 1049,
+          "create_time": "2020-05-31T17:14:24Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 23500,
+              "session_price": 2400,
+              "course_id": 117125,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 264449
+            },
+            {
+              "package_price": 47500,
+              "session_price": 2400,
+              "course_id": 117125,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 823755
+            },
+            {
+              "package_price": 3000,
+              "session_price": 3000,
+              "course_id": 117125,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 264450
+            },
+            {
+              "package_price": 3500,
+              "session_price": 3500,
+              "course_id": 117125,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 264448
+            }
+          ]
+        },
+        {
+          "id": 234346,
+          "teacher_id": 7129795,
+          "language": "english",
+          "title": "English for everyone",
+          "description": "I will tailor an individualized lessons plan for each student, depending on their level and interests. What all lessons have in common is the use of creativity and play as the gate of entry to the student's best potential.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 3500,
+          "student_count": 3,
+          "session_count": 84,
+          "create_time": "2023-02-08T15:54:34Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 24500,
+              "session_price": 2500,
+              "course_id": 234346,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 614792
+            },
+            {
+              "package_price": 48000,
+              "session_price": 2500,
+              "course_id": 234346,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 823756
+            },
+            {
+              "package_price": 3000,
+              "session_price": 3000,
+              "course_id": 234346,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 617171
+            },
+            {
+              "package_price": 3500,
+              "session_price": 3500,
+              "course_id": 234346,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 614791
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 24.0
+          },
+          {
+            "month": 2,
+            "data": 34.0
+          },
+          {
+            "month": 3,
+            "data": 46.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 2602,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 8552214,
+        "nickname": "Daniel Silva Ramos",
+        "avatar_file_name": "3T085522140",
+        "is_tutor": 1,
+        "is_pro": 1,
+        "origin_country_id": "EC",
+        "is_online": 0,
+        "living_country_id": "EC",
+        "origin_city_id": "EC00001",
+        "origin_city_name": "Guayaquil",
+        "living_city_id": "EC00006",
+        "living_city_name": "Quito",
+        "timezone": "America/Guayaquil",
+        "last_login_time": "2025-04-01T19:24:34+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/VJxZ6PDIgdg",
+        "video_pic_url": "https://img.youtube.com/vi/VJxZ6PDIgdg/0.jpg",
+        "intro": "Hello, my name is Daniel Silva. I have a degree in environmental engineering and a master's degree in linguistic revitalization and climate change I'm a Spanish teacher at Cervantes Institute, a Quechua teacher- Academia Mayor de la Lengua Quechua - Qosqo, Professional English teacher. I have worked as a university professor of Quechua and Environmental Science in the US and Ecuador since 2012. \nLearning objectives: \nImprove language skills in children, young people, and adults.\n\nSoy Daniel profesor universitario de idiomas y ciencias ambientales, , MSc. en revitalizaci\u00f2n lingu\u00edstica y Cambio clim\u00e1tico, con grados profesionales en ense\u00f1anza de Espa\u00f1ol, Quechua,e Ingl\u00e9s aprendamos juntos!",
+        "short_signature": "Spanish and English teacher with Master in Quechua linguistic revitalization and climate change,13yE",
+        "teach_language": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          },
+          {
+            "language": "quichua",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "french",
+            "level": 2
+          },
+          {
+            "language": "italian",
+            "level": 2
+          },
+          {
+            "language": "portuguese",
+            "level": 2
+          },
+          {
+            "language": "german",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-03-15T03:56:13Z",
+        "session_count": 1891,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/EAB79FD3-7615-4DAC-82B4-3DD09053AB13.mp4",
+        "cover_name": "u/8552214/cover/cuk3rqduovfho7bkfu80.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/VJxZ6PDIgdg.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello, my name is Daniel Silva. I have a degree in environmental engineering and a master's degree in linguistic revitalization and climate change I'm a Spanish teacher at Cervantes Institute, a Quechua teacher- Academia Mayor de la Lengua Quechua - Qosqo, Professional English teacher. I have worked as a university professor of Quechua and Environmental Science in the US and Ecuador since 2012. \nLearning objectives: \nImprove language skills in children, young people, and adults.\n\nSoy Daniel profesor universitario de idiomas y ciencias ambientales, , MSc. en revitalizaci\u00f2n lingu\u00edstica y Cambio clim\u00e1tico, con grados profesionales en ense\u00f1anza de Espa\u00f1ol, Quechua,e Ingl\u00e9s aprendamos juntos!",
+        "about_teacher": "I am a university teacher, I use dynamic resources related to meaningful learning, I want you to learn Quechua, Spanish, or English in a relaxed and professional way. I also teach environmental science at a master's degree level.\nLearning objective: Generate intercultural learning spaces with the students with philosophical principles of the  Indigenous communities of Abya-Yala \n\nSoy profesor universitario de ciencias ambientales e idiomas, en las clases  utilizo recursos din\u00e1micos relacionados a un aprendizaje significativo de los estudiantes, quiero que aprendas espa\u00f1ol, quechua o ingl\u00e9s de una forma natural y profesional; tambi\u00e9n,  trabajo en universidades de U.S.A y Ecuador.",
+        "teaching_style": "My classes are designed according to your needs for specific skills or to help you speak more fluently.\nThe communicative approach and the tasks approach allow me to include the grammatical dimension including the cultural and social variables of each language. My class is focused on the communicative approach including the meaning, form, pronunciation, and the Andean ethical approach.\n\nMis clases se dise\u00f1an en funci\u00f3n de tus necesidades para reforzar una habilidad en espec\u00edfica o para ayudarte a hablar de forma m\u00e1s fluida. Incluyo la dimensi\u00f3n gramatical, el enfoque comunicativo y la pertinencia sociocultural, me aproximo al significado, forma y pronunciaci\u00f3n de una lengua.",
+        "is_student_full": 0,
+        "student_count": 434,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-03-15T05:17:39+00:00",
+        "exp_info": [
+          {
+            "country": "EC",
+            "city": "Quito",
+            "company": "Escuela Polit\u00e9cnica Nacional",
+            "job": "Docente",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Docente Universitario de las siguientes c\u00e1tedras: \nSalud y seguridad \nTopograf\u00eda\nTratamiento de aguas servidas \nDisposici\u00f3n de residuos s\u00f3lidos \nEcolog\u00eda y medio ambiente \nEducaci\u00f3n ambiental y calidad de vida \nC\u00e1lculo diferencial e integral \nDibujo t\u00e9cnico \nF\u00edsica",
+            "start_year": 2014,
+            "end_year": 2017,
+            "status": 1,
+            "create_time": "2021-03-17T19:12:17Z",
+            "update_time": "2022-03-27T03:01:10Z",
+            "exp_id": 103050
+          },
+          {
+            "country": "EC",
+            "city": "Sangolqui",
+            "company": "Unidad Educativa Madre de la Divina Gracia",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "C\u00e1tedra de ingl\u00e9s para 6to A\r\nC\u00e1tedra de ingles para 9no, 10mo paralelos B\r\nC\u00e1tedra de ingles para 1BGU, 2BGU, 3BGU paralelos B",
+            "start_year": 2021,
+            "end_year": 2022,
+            "status": 1,
+            "create_time": "2022-02-24T03:45:46Z",
+            "update_time": "2022-07-01T06:30:46Z",
+            "exp_id": 136359
+          },
+          {
+            "country": "ES",
+            "city": "Salamanca",
+            "company": "Instituto Cervantes",
+            "job": "EXPERTO EN ENSE\u00d1ANZA DE ESPA\u00d1OL (ELE)",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Certificado de profesor de Espa\u00f1ol emitido por el Instituto Cervantes y la Universidad de las Am\u00e9ricas",
+            "start_year": 2021,
+            "end_year": 2022,
+            "status": 1,
+            "create_time": "2022-03-24T23:24:36Z",
+            "exp_id": 139035
+          },
+          {
+            "country": "EC",
+            "city": "Quito",
+            "company": "Escuela Polit\u00e9cnica Nacional",
+            "job": "Docente universitario",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Profesor de las siguientes c\u00e1tedras: \nEducaci\u00f3n comunitaria \nGesti\u00f3n ambiental \nEcolog\u00eda y Ambiente\nFundamentos de microbiolog\u00eda",
+            "start_year": 2019,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2022-03-27T03:04:00Z",
+            "exp_id": 139180
+          },
+          {
+            "country": "EC",
+            "city": "Quito",
+            "company": "Ministerio del Ambiente",
+            "job": "T\u00e9cnico en cambio clim\u00e1tico",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Realizaci\u00f3n de informes para el seguimiento de los proyectos registrados ante la autoridad nacional del mecanismo de desarrollo limpio y otros mecanismos de mitigaci\u00f3n.\t\n\nT\u00e9cnico de apoyo en la presentaci\u00f3n de la Estrategia Nacional de Cambio Clim\u00e1tico 2012-2025\nCoordinador de programa nacional carbono neutro mediante un sistema de gesti\u00f3n de la calidad ISO 9001",
+            "start_year": 2012,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2022-03-27T03:05:47Z",
+            "exp_id": 139181
+          },
+          {
+            "country": "EC",
+            "city": "Quito",
+            "company": "Ministerio del Ambiente",
+            "job": "Especialista en Cambio Clim\u00e1tico",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Parte del equipo t\u00e9cnico del reglamento del C\u00f3digo Org\u00e1nico Ambiental del libro de Cambio Clim\u00e1tico.\n\nAsesor t\u00e9cnico al proyecto de ciudades intermedias sostenibles (CIS) de la Agencia de Cooperaci\u00f3n Alemana BMZ-GIZ, en el laboratorio urbano de residuos y movilidad sostenible.\nDelegado oficial del Ministerio a comit\u00e9s del servicio ecuatoriano de normalizaci\u00f3n INEN (comit\u00e9 t\u00e9cnico de normalizaci\u00f3n sistemas de gesti\u00f3n integral y el comit\u00e9 t\u00e9cnico de normalizaci\u00f3n INEN de calidad total)\nNDC",
+            "start_year": 2017,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2022-03-27T03:07:15Z",
+            "update_time": "2022-05-09T01:52:33Z",
+            "exp_id": 139182
+          },
+          {
+            "country": "EC",
+            "city": "Quito",
+            "company": "Ministry of Education",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Profesor de Ingl\u00e9s CELTA, primaria, secundaria, proyectos medio ambientales\r\nUnidad Educativa Bicentenario D7- Colegio del Milenio",
+            "start_year": 2022,
+            "end_year": 2022,
+            "status": 1,
+            "create_time": "2022-07-01T06:30:06Z",
+            "update_time": "2022-07-12T14:16:51Z",
+            "exp_id": 142656
+          },
+          {
+            "country": "EC",
+            "city": "Quito",
+            "company": "Ministry of Educacion",
+            "job": "Quechua and English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Centro Educativo Comunitario Intercultural Bilingue Sumak Kawsay",
+            "start_year": 2022,
+            "end_year": 2022,
+            "status": 1,
+            "create_time": "2022-07-12T14:15:24Z",
+            "exp_id": 142859
+          },
+          {
+            "country": "EC",
+            "city": "Quito",
+            "company": "Fondo de Poblaci\u00f3n de Naciones Unidas",
+            "job": "Traducci\u00f3n kichwa",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Traducci\u00f3n oficial del Censo de Poblaci\u00f3n del Ecuador a la lengua Kichwa",
+            "start_year": 2023,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2023-05-09T16:06:55Z",
+            "exp_id": 146934
+          },
+          {
+            "industry": "education",
+            "country": "US",
+            "city": "Kansas",
+            "company": "Kansas University",
+            "job": "University teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Quechua teacher",
+            "start_year": 2023,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2024-03-12T02:41:24Z",
+            "exp_id": 152203
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Ministerio de Educaci\u00f3n de Ecuador",
+            "major": "Kichwa bilingualism",
+            "level": 1,
+            "description": "Certificate of Bilingualism granted by the Secretary of the Intercultural Bilingual Education System SESEIB as the highest recognition of the domain of the Kichwa language in Ecuador\r\nNumber: 7370",
+            "start_year": 2020,
+            "end_year": 2022,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2022-02-24T03:12:36Z",
+            "edu_id": "390F9A5A-52C9-41C2-95CF-043FFABE76AD"
+          },
+          {
+            "institution": "Escuela Polit\u00e9cnica Nacional",
+            "major": "Medio Ambiente / Cambio Clim\u00e1tico",
+            "level": 1,
+            "description": "Ingeniero Ambiental con especializaci\u00f3n en Cambio Clim\u00e1tico",
+            "start_year": 2007,
+            "end_year": 2012,
+            "status": 1,
+            "file_ext": "jpeg",
+            "create_time": "2021-03-17T19:10:13Z",
+            "edu_id": "689DD742-1594-4064-B13A-AD0ECF0D851D"
+          },
+          {
+            "institution": "Universidad Intercultural de las Nacionalidades y Pueblos Indigenas Amawtaywasi",
+            "major": "Diplomatura en Revitalizaci\u00f3n Ling\u00fc\u00edstica",
+            "level": 1,
+            "description": "330 horas de entrenamiento en ense\u00f1anza de lenguas ind\u00edgenas grado de diplomado experto",
+            "start_year": 2021,
+            "end_year": 2022,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2023-05-15T03:18:18Z",
+            "edu_id": "75C56B5F-3DB4-4428-9705-EA4F7E6EF14E"
+          },
+          {
+            "institution": "Academia Mayor de la Lengua Quechua Cuzco",
+            "major": "Programa profesional de Quechua-Per\u00fa",
+            "level": 1,
+            "description": "Fundada como Academia Peruana de la Lengua Quechua por Ley No.13059 del 08 de noviembre de 1953 y promovida al rango de ACADEMIA MAYOR DE LA LENGUA QUECHUA por Ley No.25260 del 19 de junio de 1990.\r\n\r\n Diploma \u201cSamillita\u201d de\r\n520 horas a nombre de la Academia Mayor de la Lengua Quechua, asi como\r\nuna certificacion de nivel avanzado, los mismos que ser\u00e1n entregados luego\r\nde sustentar un trabajo acad\u00e9mico que demuestre la capacitacion y dominio\r\ndel idioma quechua.",
+            "start_year": 2020,
+            "end_year": 2023,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2023-12-14T17:27:08Z",
+            "edu_id": "BB5B634C-6A59-4B41-8926-A5B13FCD89E4"
+          },
+          {
+            "institution": "Universidad Andia Sim\u00f3n Bol\u00edvar",
+            "major": "Cambio Clim\u00e1tico",
+            "level": 2,
+            "description": "MAGISTER EN CAMBIO CLIMATICO Y NEGOCIACION AMBIENTAL\r\nMSc. in Climate Change and Environmental Negotiation",
+            "start_year": 2014,
+            "end_year": 2016,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2022-08-10T20:59:14Z",
+            "update_time": "2022-08-10T22:07:28Z",
+            "edu_id": "CB6E76C7-887B-4907-BE6E-77045E6AF3AB"
+          },
+          {
+            "institution": "Instituto Cervantes",
+            "major": "Tutor oficial Cervantes",
+            "level": 1,
+            "description": "Tutor oficial del Instituto Cervantes en la plataforma AVE Global",
+            "start_year": 2023,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2024-03-12T02:42:56Z",
+            "edu_id": "D31B5A52-3CF0-406F-942A-51630022C7FF"
+          },
+          {
+            "institution": "Universidad de las Am\u00e9ricas- UDLA",
+            "major": "EXPERTO EN ENSE\u00d1ANZA DE ESPA\u00d1OL (ELE)",
+            "level": 1,
+            "description": "Diplomado internacional: \u201cEXPERTO EN ENSE\u00d1ANZA DE ESPA\u00d1OL COMO LENGUA EXTRANJERA\r\n(ELE)\u201d",
+            "start_year": 2021,
+            "end_year": 2022,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2022-03-24T23:22:17Z",
+            "update_time": "2022-05-09T01:52:01Z",
+            "edu_id": "FEA76C8C-0F85-4AD7-9AB4-069F644C6D9F"
+          },
+          {
+            "institution": "Tinkunakuy",
+            "major": "Quechua profesional",
+            "level": 1,
+            "description": "Graduado en la Academia Tinkunakuy certificado en la ciudad de Quito-Ecuador \r\n Diploma de 288 horas a nombre de tinkunakuy  certificaci\u00f3n de nivel avanzado, entregado luego de sustentar un trabajo acad\u00e9mico que demuestra la capacitaci\u00f3n y dominio del idioma kichwa.",
+            "start_year": 2021,
+            "end_year": 2023,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2023-10-03T04:37:38Z",
+            "edu_id": "FFC8A441-4651-4F2A-8DDF-139B3EFC53BC"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2021-06-24T00:50:23Z",
+            "update_time": "2021-06-24T00:50:23Z",
+            "file_ext": "pdf",
+            "institution": "TANDEM",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "Fluent English (C1)",
+            "cert_id": "401DA3B6-FB13-4DAD-9B23-D864C0B41605"
+          },
+          {
+            "create_time": "2021-03-17T19:36:18Z",
+            "update_time": "2021-03-17T19:36:18Z",
+            "file_ext": "pdf",
+            "description": "Curso de actualizaci\u00f3n",
+            "institution": "KINGS COLLEGE LONDON",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "SPANISH FOR GLOBAL COMMUNICATION",
+            "cert_id": "4568C3D3-487C-4298-917F-700EC43ADB33"
+          },
+          {
+            "create_time": "2021-03-17T19:15:35Z",
+            "update_time": "2021-03-17T19:15:35Z",
+            "file_ext": "pdf",
+            "description": "Quechua, Spanish, English teacher",
+            "institution": "EPN",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "certificate EN ES QU",
+            "cert_id": "469F7DD7-3C9B-4431-A425-4843E8264F7A"
+          },
+          {
+            "create_time": "2021-03-17T19:25:57Z",
+            "update_time": "2021-03-17T19:25:57Z",
+            "file_ext": "jpeg",
+            "description": "Curso de lengua y cultura Quechua",
+            "institution": "Universidad Andina Sim\u00f3n Bol\u00edvar",
+            "end_year": 2014,
+            "status": 1,
+            "certificate": "Quechua cultural",
+            "cert_id": "4D47D84D-3D2F-409E-BDE0-DC72696F69B4"
+          },
+          {
+            "create_time": "2023-10-03T04:24:28Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Licencia para docencia de la lengua Quechua del Ministerio de Educaci\u00f3n del Ecuador hasta el 18-08-2028",
+            "institution": "Ministerio de Educaci\u00f3n del Ecuador",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "Bilinguismo Quechua",
+            "cert_id": "543C80C5-BADD-40F7-9374-DE7C15503E92"
+          },
+          {
+            "create_time": "2023-05-09T15:58:43Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Es un entrenamiento avanzado en lengua Aymara otorgado a nivel universitario para la ense\u00f1anza y uso laboral de la lengua Aimara\r\nEmitido en la ciudad de la Paz 2023, Bolivia",
+            "institution": "Universidad P\u00fablica del Alto",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "Curso avanzado de Aimara",
+            "cert_id": "5AB726D1-4920-458D-9915-FB14107AD824"
+          },
+          {
+            "create_time": "2021-06-24T00:08:18Z",
+            "update_time": "2021-06-24T00:08:18Z",
+            "file_ext": "pdf",
+            "description": "This online course prepared teachers to teach English online by exploring the tools and teaching skills\nneeded to develop learners\u2019 language skills in both one-to-one and group online lessons.",
+            "institution": "CAMBRIDGE ASSESSMENT ENGLISH",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "Teaching english online",
+            "cert_id": "6608F393-D3AA-4DB5-A493-F2F162D4A027"
+          },
+          {
+            "create_time": "2021-03-17T19:14:34Z",
+            "update_time": "2021-03-17T19:14:34Z",
+            "file_ext": "pdf",
+            "description": "Ense\u00f1anza universitaria de idiomas Quechua, Espa\u00f1ol e Ingles",
+            "institution": "EPN",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "Certificado docente  espa\u00f1ol",
+            "cert_id": "8A3199F2-2CA5-43B3-A819-69EE803F473C"
+          },
+          {
+            "create_time": "2021-03-17T19:34:16Z",
+            "update_time": "2021-03-17T19:34:16Z",
+            "file_ext": "jpg",
+            "description": "Escuela profesional de Quechua",
+            "institution": "Runayachay",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "Quechua 2",
+            "cert_id": "8AF66A5A-82D6-4690-B6B8-7B7BDA492097"
+          },
+          {
+            "create_time": "2022-03-28T19:53:45Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "T\u00edtulo con QR propio de la Universidad de las Am\u00e9ricas como experto en la ense\u00f1anza de lengua  Espa\u00f1ola",
+            "institution": "Universidad de las Am\u00e9ricas",
+            "end_year": 2022,
+            "status": 1,
+            "certificate": "Experto en la ense\u00f1anza de Espa\u00f1ol con c\u00f3digo QR",
+            "cert_id": "91EBEFE9-070D-4C30-8888-ECEE2BCD3B9C"
+          },
+          {
+            "create_time": "2021-11-14T15:28:06Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Equiparable a las competencias del Nivel B1 del Marco Com\u00fan Europeo de Referencia Para las\nLenguas (MCER)\nNota: En caso este documento sea presentado a un tercero y \u00e9ste requiera una validaci\u00f3n de la\ninformaci\u00f3n consignada, dirigir su solicitud a idiomas.sanmiguel@pucp.edu.pe",
+            "institution": "Pontificia Universidad Cat\u00f3lica del Per\u00fa,",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "Programa de Quechua como lengua Peruana",
+            "cert_id": "9832774A-C41D-40E1-8ED8-732D26B5D774"
+          },
+          {
+            "create_time": "2021-03-17T19:27:33Z",
+            "update_time": "2021-03-17T19:27:33Z",
+            "file_ext": "jpeg",
+            "description": "Quechua profesional",
+            "institution": "Universidad Andina Sim\u00f3n Bol\u00edvar",
+            "end_year": 2014,
+            "status": 1,
+            "certificate": "Quechua profesional",
+            "cert_id": "9D52B137-A041-4509-A081-E47ACF865EE1"
+          },
+          {
+            "create_time": "2024-01-05T16:40:07Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Ha realizado el curso $FUHGLWDFLyQGHWXWRUHV$9(*OREDOHQOtQHDorganizado\r\npor el Instituto Cervantes y celebrado del 16 de octubre al 13 de diciembre de\r\n2023. 30 horas.",
+            "institution": "Instituto Cervantes",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "Acreditaci\u00f3n de tutores",
+            "cert_id": "AC0000A6-4166-4E71-9966-7A9031D2A83C"
+          },
+          {
+            "create_time": "2021-03-17T19:24:56Z",
+            "update_time": "2021-03-17T19:24:56Z",
+            "file_ext": "jpeg",
+            "description": "Ingl\u00e9s acad\u00e9mico",
+            "institution": "EPN",
+            "end_year": 2015,
+            "status": 1,
+            "certificate": "Academic english",
+            "cert_id": "CE61FD17-C7E9-40CA-B1E6-3108427E3D46"
+          },
+          {
+            "create_time": "2022-04-18T05:20:49Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "This course looked at the Speaking part of the\r\nIELTS test and suggested ways of improving\r\nperformance in English language tests.",
+            "institution": "BRITISH COUNCIL",
+            "end_year": 2022,
+            "status": 1,
+            "certificate": "UNDERSTANDING IELTS: SPEAKING",
+            "cert_id": "D06592A2-2403-4725-9728-FBC92945FC65"
+          },
+          {
+            "create_time": "2021-03-17T19:33:40Z",
+            "update_time": "2021-03-17T19:33:40Z",
+            "file_ext": "jpg",
+            "description": "Escuela profesional de Quechua",
+            "institution": "Runayachay",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "Quechua 1",
+            "cert_id": "E08342AD-F4B6-47F2-B102-65F188A8BE7B"
+          },
+          {
+            "create_time": "2021-03-24T13:26:09Z",
+            "update_time": "2021-03-24T13:26:09Z",
+            "file_ext": "pdf",
+            "description": ". The TOEFL iBT\u00ae test is the world's most accepted English-language test for study, work and immigration. It is preferred by more universities and institutions, so you can be confident you\u2019ll stand out to admissions officers where it counts.",
+            "institution": "TOEFL IBT",
+            "end_year": 2018,
+            "status": 1,
+            "certificate": "TOEFL ibt",
+            "cert_id": "E9D39CA8-07E0-4455-A964-BAF331013CB3"
+          },
+          {
+            "create_time": "2021-03-17T19:24:04Z",
+            "update_time": "2021-03-17T19:24:04Z",
+            "file_ext": "jpeg",
+            "description": "Docencia universitaria",
+            "institution": "EPN-UASB",
+            "end_year": 2015,
+            "status": 1,
+            "certificate": "University teaching",
+            "cert_id": "EAD4903B-ED41-4E7E-BE88-B811C542B54C"
+          },
+          {
+            "create_time": "2021-03-17T19:13:36Z",
+            "update_time": "2021-03-17T19:13:36Z",
+            "file_ext": "pdf",
+            "description": "Certificado de recursos humanos",
+            "institution": "EPN",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "Experiencia docente",
+            "cert_id": "F43D8CF6-EF63-47A0-9582-D6C5F16BE37F"
+          },
+          {
+            "create_time": "2023-05-09T16:03:36Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Entrenamiento intensivo en la variante boliviana del Quechua, valido para la ense\u00f1anza y uso profesional de la lengua Quechua",
+            "institution": "Universidad P\u00fablica de El Alto",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "Idioma originario Quechua",
+            "cert_id": "F45D7683-CECB-468D-AA11-3DC19FE05A8A"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Bilinguismo Quechua",
+            "institution": "Ministerio de Educaci\u00f3n del Ecuador",
+            "end_year": 2023,
+            "status": 1,
+            "description": "Licencia para docencia de la lengua Quechua del Ministerio de Educaci\u00f3n del Ecuador hasta el 18-08-2028",
+            "type": ""
+          },
+          {
+            "certificate": "Curso avanzado de Aimara",
+            "institution": "Universidad P\u00fablica del Alto",
+            "end_year": 2023,
+            "status": 1,
+            "description": "Es un entrenamiento avanzado en lengua Aymara otorgado a nivel universitario para la ense\u00f1anza y uso laboral de la lengua Aimara\r\nEmitido en la ciudad de la Paz 2023, Bolivia",
+            "type": ""
+          },
+          {
+            "certificate": "Acreditaci\u00f3n de tutores",
+            "institution": "Instituto Cervantes",
+            "end_year": 2023,
+            "status": 1,
+            "description": "Ha realizado el curso $FUHGLWDFLyQGHWXWRUHV$9(*OREDOHQOtQHDorganizado\r\npor el Instituto Cervantes y celebrado del 16 de octubre al 13 de diciembre de\r\n2023. 30 horas.",
+            "type": ""
+          },
+          {
+            "certificate": "Idioma originario Quechua",
+            "institution": "Universidad P\u00fablica de El Alto",
+            "end_year": 2023,
+            "status": 1,
+            "description": "Entrenamiento intensivo en la variante boliviana del Quechua, valido para la ense\u00f1anza y uso profesional de la lengua Quechua",
+            "type": ""
+          },
+          {
+            "certificate": "Experto en la ense\u00f1anza de Espa\u00f1ol con c\u00f3digo QR",
+            "institution": "Universidad de las Am\u00e9ricas",
+            "end_year": 2022,
+            "status": 1,
+            "description": "T\u00edtulo con QR propio de la Universidad de las Am\u00e9ricas como experto en la ense\u00f1anza de lengua  Espa\u00f1ola",
+            "type": ""
+          },
+          {
+            "certificate": "UNDERSTANDING IELTS: SPEAKING",
+            "institution": "BRITISH COUNCIL",
+            "end_year": 2022,
+            "status": 1,
+            "description": "This course looked at the Speaking part of the\r\nIELTS test and suggested ways of improving\r\nperformance in English language tests.",
+            "type": ""
+          },
+          {
+            "certificate": "Fluent English (C1)",
+            "institution": "TANDEM",
+            "end_year": 2021,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "SPANISH FOR GLOBAL COMMUNICATION",
+            "institution": "KINGS COLLEGE LONDON",
+            "end_year": 2021,
+            "status": 1,
+            "description": "Curso de actualizaci\u00f3n",
+            "type": ""
+          },
+          {
+            "certificate": "certificate EN ES QU",
+            "institution": "EPN",
+            "end_year": 2021,
+            "status": 1,
+            "description": "Quechua, Spanish, English teacher",
+            "type": ""
+          },
+          {
+            "certificate": "Teaching english online",
+            "institution": "CAMBRIDGE ASSESSMENT ENGLISH",
+            "end_year": 2021,
+            "status": 1,
+            "description": "This online course prepared teachers to teach English online by exploring the tools and teaching skills\nneeded to develop learners\u2019 language skills in both one-to-one and group online lessons.",
+            "type": ""
+          },
+          {
+            "certificate": "Certificado docente  espa\u00f1ol",
+            "institution": "EPN",
+            "end_year": 2021,
+            "status": 1,
+            "description": "Ense\u00f1anza universitaria de idiomas Quechua, Espa\u00f1ol e Ingles",
+            "type": ""
+          },
+          {
+            "certificate": "Programa de Quechua como lengua Peruana",
+            "institution": "Pontificia Universidad Cat\u00f3lica del Per\u00fa,",
+            "end_year": 2021,
+            "status": 1,
+            "description": "Equiparable a las competencias del Nivel B1 del Marco Com\u00fan Europeo de Referencia Para las\nLenguas (MCER)\nNota: En caso este documento sea presentado a un tercero y \u00e9ste requiera una validaci\u00f3n de la\ninformaci\u00f3n consignada, dirigir su solicitud a idiomas.sanmiguel@pucp.edu.pe",
+            "type": ""
+          },
+          {
+            "certificate": "Experiencia docente",
+            "institution": "EPN",
+            "end_year": 2021,
+            "status": 1,
+            "description": "Certificado de recursos humanos",
+            "type": ""
+          },
+          {
+            "certificate": "Quechua 2",
+            "institution": "Runayachay",
+            "end_year": 2020,
+            "status": 1,
+            "description": "Escuela profesional de Quechua",
+            "type": ""
+          },
+          {
+            "certificate": "Quechua 1",
+            "institution": "Runayachay",
+            "end_year": 2020,
+            "status": 1,
+            "description": "Escuela profesional de Quechua",
+            "type": ""
+          },
+          {
+            "certificate": "TOEFL ibt",
+            "institution": "TOEFL IBT",
+            "end_year": 2018,
+            "status": 1,
+            "description": ". The TOEFL iBT\u00ae test is the world's most accepted English-language test for study, work and immigration. It is preferred by more universities and institutions, so you can be confident you\u2019ll stand out to admissions officers where it counts.",
+            "type": ""
+          },
+          {
+            "certificate": "Academic english",
+            "institution": "EPN",
+            "end_year": 2015,
+            "status": 1,
+            "description": "Ingl\u00e9s acad\u00e9mico",
+            "type": ""
+          },
+          {
+            "certificate": "University teaching",
+            "institution": "EPN-UASB",
+            "end_year": 2015,
+            "status": 1,
+            "description": "Docencia universitaria",
+            "type": ""
+          },
+          {
+            "certificate": "Quechua cultural",
+            "institution": "Universidad Andina Sim\u00f3n Bol\u00edvar",
+            "end_year": 2014,
+            "status": 1,
+            "description": "Curso de lengua y cultura Quechua",
+            "type": ""
+          },
+          {
+            "certificate": "Quechua profesional",
+            "institution": "Universidad Andina Sim\u00f3n Bol\u00edvar",
+            "end_year": 2014,
+            "status": 1,
+            "description": "Quechua profesional",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          },
+          {
+            "name": "podcast",
+            "created_count": 10
+          },
+          {
+            "name": "quiz",
+            "created_count": 12
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 4,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1550,
+        "trial_session_count": 282,
+        "trial_description": "Daniel works as a teacher at US and Ecuadorian Universities, is a Consultant for Environmental projects, a professional Spanish teacher (DELE-ELE), an English teacher and a Quechua teacher (Ecuador, Per\u00fa, Bolivia, Argentina, Chile, Colombia)  in international language schools, colleges, and other language institutes in Ecuador.\nIf you have specific requirements in your learning, such as a focus on grammar or pronunciation, mention your aims in your initial classes.\nBienvenido, welcome, alli shamushka kay, Tinkunakama \n\nSi necesitas ayuda con tu aprendizaje de Ingl\u00e9s, Espa\u00f1ol o Quechua puedes comentar el dialecto del idioma Quechua que deseas aprender, ser\u00e1 un gusto aprender juntos\nGracias por tu confianza."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 21573,
+        "exam_type": 0,
+        "level": "C1",
+        "score": "88.00",
+        "show_badge": 1,
+        "show_score": 1,
+        "url_id": 7528336945,
+        "user_id": 8552214
+      },
+      "pro_course_detail": [
+        {
+          "id": 138239,
+          "teacher_id": 8552214,
+          "language": "quichua",
+          "title": "Introduction to Quichua (Kichwa) of Ecuador / Introducci\u00f3n al Quechua (Kichwa) de Ecuador",
+          "description": "This class is designed so that you understand the basic structure of Quechua from Ecuador, you will be able to greet, say goodbye and form simple sentences, express your thoughts and recognize how Quechua is connected with nature and therefore with all human beings on the planet welcome.   \n\nYou can take this class with a family member or with your partner, the price is the same we would like you to apply your learning to your daily life\nEsta clase esta dise\u00f1ada para que comprendas la estructura b\u00e1sica del quechua del Ecuador, podr\u00e1s saludar, despedirte y formar oraciones simples, expresar tus pensamientos y reconocer como el quechua esta conectado con la naturaleza y por lo tanto con todos los seres humanos del planeta bienvenidos.\nPuedes tomar esta clase con un familiar o con tu pareja, el precio es el mismo nos gustaria que tu aprendizaje lo apliques a tu vida diaria",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 1530,
+          "student_count": 74,
+          "session_count": 396,
+          "create_time": "2021-03-15T05:11:19Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6750,
+              "session_price": 1360,
+              "course_id": 138239,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 623577
+            },
+            {
+              "package_price": 7559,
+              "session_price": 1530,
+              "course_id": 138239,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 330091
+            }
+          ]
+        },
+        {
+          "id": 157703,
+          "teacher_id": 8552214,
+          "language": "english",
+          "title": "General English for all Levels: Beginner to Advanced",
+          "description": "Learn basic English for everyday situations and improve your listening skills with this online English language course.\nDaniel works as a professional teacher of English, Spanish and Quechua in international language schools, colleges and institutes in Ecuador.\nIf you have specific requirements in your learning, such as a focus on grammar or pronunciation, mention it in your initial classes.\n\nDaniel has a degree in environmental engineering and a master's degree in climate change if you are interested in deepening environmental issues it is possible to hold talks related to sustainable development, climate change, solid waste disposal, water quality, environmental negotiation.",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1550,
+          "student_count": 12,
+          "session_count": 107,
+          "create_time": "2021-06-25T16:38:38Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6450,
+              "session_price": 1350,
+              "course_id": 157703,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 760913
+            },
+            {
+              "package_price": 7650,
+              "session_price": 1550,
+              "course_id": 157703,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 384084
+            }
+          ]
+        },
+        {
+          "id": 163401,
+          "teacher_id": 8552214,
+          "language": "quichua",
+          "title": "Introduction to Quechua from Qosqo, Quechua Chanca, Quechua Santiague\u00f1o, Quechua Boliviano",
+          "description": "The teaching method is based on the Quechua teaching methodology of the  Cornell University, Pontificia Universidad Cat\u00f3lica de Lima, Universidad de Buenos Aires, Academia Mayor de la Lengua Quechua de Cuzco.\n\nThis representation system is equivalent to the official dialects of Peru, Ecuador, Colombia, Argentina and Bolivia, which use the Latin alphabet in their unified systems.\n\nFor the optimal representation of the sounds of Quechua, we make use of case studies in various communities of the countries that were mentioned.\n\n\nEste sistema de representaci\u00f3n tiene equivalencias con los dialectos oficiales de Per\u00fa, Ecuador, Colombia, Argentina y Bolivia, los cuales usan el alfabeto latino en sus sistemas unificados.\n\nPara la \u00f3ptima representaci\u00f3n de los sonidos del quechua, hacemos uso de estudios de caso en diversas comunidades",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 1800,
+          "student_count": 32,
+          "session_count": 106,
+          "create_time": "2021-07-13T18:02:20Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6900,
+              "session_price": 1450,
+              "course_id": 163401,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 760923
+            },
+            {
+              "package_price": 7593,
+              "session_price": 1620,
+              "course_id": 163401,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 649138
+            },
+            {
+              "package_price": 8790,
+              "session_price": 1800,
+              "course_id": 163401,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 760924
+            },
+            {
+              "package_price": 17730,
+              "session_price": 1800,
+              "course_id": 163401,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 399818
+            }
+          ]
+        },
+        {
+          "id": 218937,
+          "teacher_id": 8552214,
+          "language": "spanish",
+          "title": "Espa\u00f1ol para todos / Spanish for everybody (A1-C2)-CELU/DELE",
+          "description": "DESCRIPCI\u00d3N\n\u2705 Briefly tell me your study plan when booking \n\u2705 Do you need a placement test?\n\u2705 Would you like to study a specific dialect?\n\n\n\u00ab\u00ab-------------------------\u00bb\u00bb\n\ud83d\udd37\u3000COURSES\u3000\ud83d\udd36\n\u3000\u2460 Daily conversation\n\u3000\u2461 Business\n\u3000\u2462 DELE/CELU\n\n\u00ab\u00ab------------------------\u00bb\u00bb\n\n\n================================================\n   DAILY CONVERSATION \n\n\ud83d\udd18 Beginner \u3000\u3000Contenidos A1-A2  Libro Aula internacional plus 1-5\n\ud83d\udd18 Intermediate  Tutor\u00eda con contenidos del Instituto Cervantes. Cursos Ave Global \n\ud83d\udd18 Advanced\u3000\u3000Entrenamiento para certificaciones internacionales DELE y CELU\n\ud83d\udd18 Travel\u3000\u3000\u3000    Learn survival Spanish depending on your needs. \n\nExplained in English for beginners\ud83d\udc25\nConversation practice without textbooks is also welcome\n\n================================================\n\n \ud83d\udc54  BUSINESS \ud83d\udc54\n\n\ud83d\udd18 Textbooks\u3000Profesionales de los Negocios, Serie de libros Socios, libro expertos\n\ud83d\udd18 Contents\u3000  La empresa, relaciones laborales, negocios internacionales,\n                             comunicaci\u00f3n empresarial, recursos humanos, comercio, medio ambiente \n\nI'm an environmental negotiator so I could help you with terminology and negotiations techniques  \n\n================================================\n\n\ud83e\udd47 DELE \ud83e\udd47\n\n\ud83d\udd18 Textbooks\u3000  Materiales oficiales del Instituto Cervantes, manuales oficiales\n\ud83d\udd18 DELE A1\uff1a\u3000 Ex\u00e1menes oficiales, programas de entrenamiento digital audio, video\n\ud83d\udd18 DELE A2\uff1a     casos de estudio en base a ex\u00e1menes reales.\n\ud83d\udd18 DELE B1\uff1a\u3000\u3000 \u3000\u3000\n\ud83d\udd18 DELE B2\uff1a\u3000\n\n================================================\n       \n\ud83c\udfe0  Homework  \ud83c\udfe0\n\n\ud83d\udd18 Se personaliza a partir de la segunda clase \n\n================================================\n\n\ud83d\udea8 IMPORTANT NOTICE \ud83d\udea8\n\n\n\ud83d\udd18 I can share textbooks on my screen but I do not send PDFs/ \n\u3000\u3000Please buy textbooks if you need them. I could share extra materials with you.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1620,
+          "student_count": 97,
+          "session_count": 643,
+          "create_time": "2022-03-31T11:39:10Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6150,
+              "session_price": 1350,
+              "course_id": 218937,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 688893
+            },
+            {
+              "package_price": 12500,
+              "session_price": 1350,
+              "course_id": 218937,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 760943
+            },
+            {
+              "package_price": 7700,
+              "session_price": 1620,
+              "course_id": 218937,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 561338
+            },
+            {
+              "package_price": 15500,
+              "session_price": 1620,
+              "course_id": 218937,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 760942
+            }
+          ]
+        },
+        {
+          "id": 219046,
+          "teacher_id": 8552214,
+          "language": "spanish",
+          "title": "Let's talk in Spanish / Conversaciones",
+          "description": "In this space we develop your communication skills to develop various topics, you could propose them and we build them together, additionally, you can choose to better understand the dialects of Spain and Latin America. \nHablemos acerca de la navidad, fiestas, canciones populares, ciencia, tecnolog\u00eda, medio ambiente,medicina, deportes.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2000,
+          "student_count": 29,
+          "session_count": 107,
+          "create_time": "2022-04-01T01:50:32Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6570,
+              "session_price": 1500,
+              "course_id": 219046,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 622219
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2000,
+              "course_id": 219046,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 561643
+            }
+          ]
+        },
+        {
+          "id": 232464,
+          "teacher_id": 8552214,
+          "language": "quichua",
+          "title": "Quechua-Kichwa classes for high school, college, university and technological institute students up to bachelor's level, not for master's level",
+          "description": "The class is designed just for students of various levels in universities and colleges globally.\nAdditionally, if you want to practice if you took classes with me and for various reasons you were unable to take more classes\nYou can develop classes of Kichwa from Ecuador, Quechua Ancashino, Quechua Cusque\u00f1o, Chanca, Santiague\u00f1o",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1550,
+          "student_count": 9,
+          "session_count": 57,
+          "create_time": "2022-12-06T01:11:04Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6800,
+              "session_price": 1400,
+              "course_id": 232464,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 688894
+            },
+            {
+              "package_price": 7540,
+              "session_price": 1550,
+              "course_id": 232464,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 607588
+            }
+          ]
+        },
+        {
+          "id": 232611,
+          "teacher_id": 8552214,
+          "language": "spanish",
+          "title": "Clase de espa\u00f1ol -classes for high school, college, university and technological institute students up to bachelor's level, not for master's level",
+          "description": "The class is designed for students of various levels in universities and colleges globally.\nAdditionally, if you want to practice if you took classes with me and for various reasons you were unable to take more classes",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1550,
+          "student_count": 10,
+          "session_count": 116,
+          "create_time": "2022-12-11T02:02:09Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1350,
+              "session_price": 1350,
+              "course_id": 232611,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 760947
+            },
+            {
+              "package_price": 7570,
+              "session_price": 1550,
+              "course_id": 232611,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 608175
+            }
+          ]
+        },
+        {
+          "id": 242722,
+          "teacher_id": 8552214,
+          "language": "english",
+          "title": "English course  for students classes for high school, college, university and technological institute students up to bachelor's level, not for master's level",
+          "description": "If you are a college or university student, you can opt for this class where you will review your oral and written comprehension and expression of the English language. \nWe have official methods determined by the English government for the teaching of languages. \nWe have classic teaching methods with Cambridge materials and other methodologies that can help you improve your language skills.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0003",
+            "T0005"
+          ],
+          "session_price": 1550,
+          "student_count": 2,
+          "session_count": 2,
+          "create_time": "2023-12-05T12:45:51Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6650,
+              "session_price": 1350,
+              "course_id": 242722,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 760948
+            },
+            {
+              "package_price": 7630,
+              "session_price": 1550,
+              "course_id": 242722,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 644723
+            }
+          ]
+        },
+        {
+          "id": 260705,
+          "teacher_id": 8552214,
+          "language": "quichua",
+          "title": "Kichwa - Ecuadorian dialects A1-C1",
+          "description": "DESCRIPTION\n\u2705 Briefly tell me your study plan when booking \n\u2705 Do you need a placement test of Kichwa?\n\u2705 Would you like to study a specific dialect, Amazonian, Otavalo, Ca\u00f1ar?\n\n\n\u00ab\u00ab-------------------------\u00bb\u00bb\n\ud83d\udd37\u3000COURSES\u3000\ud83d\udd36\n\u3000\u2460 Daily conversation\n\u3000\u2461 Grammatical approach, task-based communicative approach\n\u3000\u2462 Kichwa bilingualism endorsed by the Ministry of Education, official certificate of Ecuador. \n\n\u00ab\u00ab------------------------\u00bb\u00bb\n\n\n================================================\n   DAILY CONVERSATION \n\n\ud83d\udd18 Beginner Contents A1-A2 Project Sapikuna-Sisariy\n\ud83d\udd18 Intermediate Tutoring with content from the Catholic University of Ecuador.\n\ud83d\udd18 Advanced Training for international certifications Kichwa bilingualism.\n\ud83d\udd18 Travel Learn survival Kichwa depending on your needs. \n\nExplained in English for beginners\ud83d\udc25\nConversation practice without textbooks is also welcome\n\n================================================\n\n \ud83d\udc54  BUSINESS \ud83d\udc54\n\n\ud83d\udd18 Textbooks Kichwa Spanish, two languages in contact\n\ud83d\udd18 Contents Thematic focus. \n                             business communication, human resources, trade, environment.\nI'm an environmental negotiator so I could help you with terminology and negotiations techniques  in Kichwa\n\n================================================\n\n\ud83e\udd47 Official certification \ud83e\udd47\n\n\ud83d\udd18 Official SW Textbooks\n\ud83d\udd18 A1\uff1a Official exams, digital audio, video training programs.\n\ud83d\udd18 A2\uff1a case studies based on real exams.\n\ud83d\udd18 B1\uff1a Salesian Polytechnic University Materials.\u3000\u3000 \u3000\u3000\n\ud83d\udd18 B2\uff1a Universidad Infigena Amawtaywasi - Ecuador \n================================================\n       \n\ud83c\udfe0  Homework  \ud83c\udfe0\n\n\ud83d\udd18 Customized from the second class onwards. \n\n================================================\n\n\ud83d\udea8 IMPORTANT NOTICE \ud83d\udea8\n\n\n\ud83d\udd18 I can share textbooks on my screen but I do not send PDFs/ \n\u3000\u3000Please buy textbooks if you need them. I could share extra materials with you.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0005",
+            "T0083"
+          ],
+          "session_price": 1620,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-02-05T04:43:01Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6350,
+              "session_price": 1350,
+              "course_id": 260705,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 795679
+            },
+            {
+              "package_price": 7740,
+              "session_price": 1620,
+              "course_id": 260705,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 795678
+            }
+          ]
+        },
+        {
+          "id": 261041,
+          "teacher_id": 8552214,
+          "language": "spanish",
+          "title": "Preparaci\u00f3n al DELE A1-C2",
+          "description": "Si est\u00e1s buscando capacitaci\u00f3n para las secciones de las pruebas oficiales DELE del Instituto Cervantes, te puedo ayudar con el estudio de manuales, Software especializado. \nSoy examinador del DELE  B1-B2 ante el instituto, estoy acreditado para tomar las pruebas de Expresi\u00f3n e interacci\u00f3n orales oficiales del Instituto Cervantes. \nEstoy actualizando mi acreditaci\u00f3n para los niveles, A1-A2, C1 y C2 sin embargo conozco todos los lineamientos de los ex\u00e1menes y puedo prepararte para tomar los ex\u00e1menes oficiales.\nUn abrazo\nDaniel Silva \nExaminador oficial DELE B1-B2\nTutor oficial del SW AVE GLOBAL del Instituto Cervantes.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0005",
+            "T0083"
+          ],
+          "session_price": 1700,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-02-10T04:33:02Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8055,
+              "session_price": 1700,
+              "course_id": 261041,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 801296
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 58.0
+          },
+          {
+            "month": 2,
+            "data": 49.0
+          },
+          {
+            "month": 3,
+            "data": 57.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 1891,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 9796579,
+        "nickname": "Louis \u8001\u5e08\ud83c\udf0f\ud83e\udde7",
+        "avatar_file_name": "10T097965790",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "EC",
+        "is_online": 0,
+        "living_country_id": "CN",
+        "origin_city_id": "EC00006",
+        "origin_city_name": "Quito",
+        "living_city_id": "CN00000",
+        "living_city_name": "Other",
+        "timezone": "Asia/Shanghai",
+        "last_login_time": "2025-04-01T03:57:25+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/9IYW89gwEgI",
+        "video_pic_url": "https://img.youtube.com/vi/9IYW89gwEgI/0.jpg",
+        "intro": "\u5927\u5bb6\u597d\uff0c \u6211\u5f88\u9ad8\u5174\u8ba4\u8bc6\u4f60\uff01Welcome to my profile! I am a teacher living in Asia for over 9 years. As a language tutor in my spare time, I'm here to improve your conversational skills, and make your Spanish\ud83c\uddea\ud83c\udde8/English\ud83c\uddfa\ud83c\uddf2 language learning a fruitful and practical experience! i enjoy hiking and cycling. Most recent achievement? 14 days hike to Mount Everest \u73e0\u7a46\u6717\u739b\u5cf0 \u26f0\ufe0f\n\nIn March 2023 I was accredited as TESOL/TEFL certified teacher by the World TESOL Academy. \n\nI offer lessons in:\n\u2705 General conversations, One-on-one focus conversations\n\u2705 Business ENGLISH/ SPANISH\n\u2705 Academic paper revision, homework revision\n\n\u2757\ufe0f\u2753\u975e\u5e38\u91cd\u8981\u7684: \u7b2c\u4e00\u4e2a-\u5982\u679c\u4f60\u4f4f\u5728\u4e2d\u56fd\uff0c\u6211\u7528ZOOM\u5728\u6211\u4eec\u7684\u8bfe\u7a0b\u3002\u7b2c\u4e8c\u4e2a-\u5bf9\u4e0d\u8d77\uff0c\u6211\u6ca1\u6709\u6559\u513f\u7ae5\u548c\u9752\u5c11\u5e74\uff081 - 17\u5c81\uff09\u7684\u7ecf\u9a8c\u3002\u3002",
+        "short_signature": "\u5317\u4eac\u5927\u5b66\u6821\u53cb\uff0c\u82f1\u8bed\u548c\u897f\u73ed\u7259\u8bed\u6559\u5e08\uff0c\u5546\u52a1\u8bdd\u9898 Eng/ Spa teacher, business topics",
+        "teach_language": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "chinese",
+            "level": 6
+          },
+          {
+            "language": "korean",
+            "level": 2
+          },
+          {
+            "language": "japanese",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-07-28T20:26:19Z",
+        "session_count": 2816,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/66CE22A7-5B24-47B1-BE28-E3069A3CF57A.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/9IYW89gwEgI.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          6,
+          8,
+          11
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "\u5927\u5bb6\u597d\uff0c \u6211\u5f88\u9ad8\u5174\u8ba4\u8bc6\u4f60\uff01Welcome to my profile! I am a teacher living in Asia for over 9 years. As a language tutor in my spare time, I'm here to improve your conversational skills, and make your Spanish\ud83c\uddea\ud83c\udde8/English\ud83c\uddfa\ud83c\uddf2 language learning a fruitful and practical experience! i enjoy hiking and cycling. Most recent achievement? 14 days hike to Mount Everest \u73e0\u7a46\u6717\u739b\u5cf0 \u26f0\ufe0f\n\nIn March 2023 I was accredited as TESOL/TEFL certified teacher by the World TESOL Academy. \n\nI offer lessons in:\n\u2705 General conversations, One-on-one focus conversations\n\u2705 Business ENGLISH/ SPANISH\n\u2705 Academic paper revision, homework revision\n\n\u2757\ufe0f\u2753\u975e\u5e38\u91cd\u8981\u7684: \u7b2c\u4e00\u4e2a-\u5982\u679c\u4f60\u4f4f\u5728\u4e2d\u56fd\uff0c\u6211\u7528ZOOM\u5728\u6211\u4eec\u7684\u8bfe\u7a0b\u3002\u7b2c\u4e8c\u4e2a-\u5bf9\u4e0d\u8d77\uff0c\u6211\u6ca1\u6709\u6559\u513f\u7ae5\u548c\u9752\u5c11\u5e74\uff081 - 17\u5c81\uff09\u7684\u7ecf\u9a8c\u3002\u3002",
+        "about_teacher": "\ud83d\udd1dI started my journey as a part-time language tutor during my university years. I believe that in order to understand a different culture and set of mind in a globalized world we must immerse ourselves in languages, a language is part of a country's journey and soul. I have noticed that language teaching can be a gate for understanding different cultures and I'm 100% committed to your success!\n\n\ud83d\udd0eOrganized, outgoing, well-structured lessons that will guarantee improvement in your language skills.\n\n\u2049\ufe0f\u975e\u5e38\u91cd\u8981\u7684: \u7b2c\u4e00\u4e2a-\u5982\u679c\u4f60\u4f4f\u5728\u4e2d\u56fd\uff0c\u6211\u7528 ZOOM\u5728\u6211\u4eec\u7684\u8bfe\u7a0b\u3002\u7b2c\u4e8c\u4e2a-\u5bf9\u4e0d\u8d77\uff0c\u6211\u4e0d\u6559\u5b69\u5b50\u4eec\u3002",
+        "teaching_style": "\ud83d\udcdaOnce I evaluate your language skills during our first class I will create a personalized teaching plan that will include speaking, listening, and grammar lessons based on your current level. For our lessons, I shall also include real case scenarios and practical English/Spanish for you to succeed in your daily/business conversations.\n\nPLEASE NOTE: \u274c I do not specialize in TOEFL, IELTS, or DELE (Spanish) proficiency exams.\n\n\u2049\ufe0f\u975e\u5e38\u91cd\u8981\u7684: \u7b2c\u4e00\u4e2a-\u5982\u679c\u4f60\u4f4f\u5728\u4e2d\u56fd\uff0c\u6211\u7528ZOOM\u5728\u6211\u4eec\u7684\u8bfe\u7a0b\u3002\u7b2c\u4e8c\u4e2a-\u5bf9\u4e0d\u8d77\uff0c\u6211\u4e0d\u6559\u5b69\u5b50\u4eec\u3002",
+        "is_student_full": 0,
+        "student_count": 495,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "On vacation from October 1st to October 23",
+        "apply_status": 9,
+        "first_complete_time": "2021-07-29T15:00:53+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [
+          {
+            "create_time": "2023-03-20T14:20:31Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "description": "March 2023 i was accredited as TESOL/TEFL certified teacher by the World TESOL Academy.",
+            "institution": "World TESOL Academy.",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "120 hours TESOL/TEFL",
+            "cert_id": "6C8D4BCC-1485-482E-B939-9935B29E450B"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "MIT Sloan School of Management",
+            "type": "CA002",
+            "type_text_code": "BUSINESS",
+            "certificate": "Executive Program- Artificial Intelligence",
+            "description": "EXECUTIVE PROGRAM Artificial Intelligence: Implications for Business Strategy- January 2020- Ma- Massachusetts Institute of Technology MIT Sloan School of Management",
+            "end_year": 2020,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/B48DE0D6-5DB9-42CF-8E8B-C8CF80199D82.jpeg",
+            "create_time": "2024-08-14T06:56:32Z",
+            "update_time": "2024-08-14T07:03:22Z",
+            "approve_time": "2024-08-14T07:29:29Z"
+          },
+          {
+            "institution": "WORLD TESOL ACADEMY",
+            "type": "CA003",
+            "type_text_code": "TEST",
+            "certificate": "120 HOUR TESOL ACERTIFICATE",
+            "description": "This certificate has been issued upon completion of an accredited training course.\r\nThe bearer has successfully completed a course focusing on a complete range of topics surrounding the teaching of the English language to non-native students, both in an overseas and online classroom environment.\r\nAccredited by ACCREDITAT & The CPD Certifcation ServiceUK Registered Learning Provider (UKRLP:10087431)",
+            "end_year": 2023,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/09054DC6-12E2-43EA-9993-4CF61B21F974.pdf",
+            "create_time": "2024-08-14T06:58:51Z",
+            "update_time": "2024-08-14T07:03:50Z",
+            "approve_time": "2024-08-14T07:29:25Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "120 hours TESOL/TEFL",
+            "institution": "World TESOL Academy.",
+            "end_year": 2023,
+            "status": 1,
+            "description": "March 2023 i was accredited as TESOL/TEFL certified teacher by the World TESOL Academy.",
+            "type": ""
+          },
+          {
+            "certificate": "120 HOUR TESOL ACERTIFICATE",
+            "institution": "WORLD TESOL ACADEMY",
+            "end_year": 2023,
+            "status": 1,
+            "description": "This certificate has been issued upon completion of an accredited training course.\r\nThe bearer has successfully completed a course focusing on a complete range of topics surrounding the teaching of the English language to non-native students, both in an overseas and online classroom environment.\r\nAccredited by ACCREDITAT & The CPD Certifcation ServiceUK Registered Learning Provider (UKRLP:10087431)",
+            "type": "CA003"
+          },
+          {
+            "certificate": "Executive Program- Artificial Intelligence",
+            "institution": "MIT Sloan School of Management",
+            "end_year": 2020,
+            "status": 1,
+            "description": "EXECUTIVE PROGRAM Artificial Intelligence: Implications for Business Strategy- January 2020- Ma- Massachusetts Institute of Technology MIT Sloan School of Management",
+            "type": "CA002"
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "On vacation from October 1st to October 23",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 1600,
+        "trial_session_count": 0,
+        "trial_description": "This is a 30-minute conversational trial class where we will meet each other, find out more about your Spanish or English language level, and define your goals for the following classes. Hope to see you in my classes! A personalized program/evaluation will be sent to you after the lesson.\n--\nClase de prueba conversacional de 30 minutos donde podremos conocernos, ver tu nivel de espa\u00f1ol o ingl\u00e9s y definir tus objetivos para las siguientes clases. \u00a1Espero verte en mis clases! Se enviar\u00e1 la evaluaci\u00f3n y programa personalizado despu\u00e9s de esta lecci\u00f3n."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 9796579
+      },
+      "pro_course_detail": [
+        {
+          "id": 168553,
+          "teacher_id": 9796579,
+          "language": "english",
+          "title": "One-on-one English Language Tutoring from Basic to Advanced",
+          "description": "Learn English in a personalized environment! This class is for students with a basic to advanced level, we will be using different materials to make the classes more entertaining and practical!\n\nPosible topics for advanced students: Business English- Conversations and etiquette in Asia and Latin America-have acquire experience in doing business in Asia and Latin America for over 9 years. When doing businesses, there are many pointers in etiquette that you should learn, they can be a huge difference in landing a deal or failing in your entrepreneurship. Let me help you in this journey!\n\nPLEASE NOTE= i am not certified to prepare for English proficiency exams (IELTS, TOEFL)\n\n\u2049\ufe0f\u975e\u5e38\u91cd\u8981\u7684: \u7b2c\u4e00\u4e2a-\u5982\u679c\u4f60\u4f4f\u5728\u4e2d\u56fd\uff0c\u6211\u7528ZOOM\u5728\u6211\u4eec\u7684\u8bfe\u7a0b\u3002\u7b2c\u4e8c\u4e2a-\u5bf9\u4e0d\u8d77\uff0c\u6211\u6ca1\u6709\u6559\u513f\u7ae5\u548c\u9752\u5c11\u5e74\uff081 - 17\u5c81\uff09\u7684\u7ecf\u9a8c\u3002",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0008",
+            "T0010",
+            "T0011",
+            "T0048"
+          ],
+          "session_price": 1600,
+          "student_count": 246,
+          "session_count": 1690,
+          "create_time": "2021-07-29T14:39:21Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12000,
+              "session_price": 1200,
+              "course_id": 168553,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 471148
+            },
+            {
+              "package_price": 13500,
+              "session_price": 1400,
+              "course_id": 168553,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 529053
+            },
+            {
+              "package_price": 15500,
+              "session_price": 1600,
+              "course_id": 168553,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 414298
+            },
+            {
+              "package_price": 18800,
+              "session_price": 1900,
+              "course_id": 168553,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 770883
+            }
+          ]
+        },
+        {
+          "id": 168557,
+          "teacher_id": 9796579,
+          "language": "english",
+          "title": "Academic/ Work/ School Papers- Writing, Revision and Corrections",
+          "description": "Are you struggling with an English paper you have to turn in as soon as possible but you are unsure if your paper is well written? Whether you need help correcting a cover letter, academic writings, assignments, or work-related writings, we can go over them together and explain the mistakes and corrections necessary for a better composition or editing!\n\nPLEASE NOTE= the fees on this class DO NOT include translations to ENGLISH, CHINESE nor SPANISH.\n\n\u2049\ufe0f\u975e\u5e38\u91cd\u8981\u7684: \u7b2c\u4e00\u4e2a-\u5982\u679c\u4f60\u4f4f\u5728\u4e2d\u56fd\uff0c\u6211\u7528ZOOM\u5728\u6211\u4eec\u7684\u8bfe\u7a0b\u3002\u7b2c\u4e8c\u4e2a-\u5bf9\u4e0d\u8d77\uff0c\u6211\u4e0d\u6559\u5b69\u5b50\u4eec\u3002",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA003",
+          "course_tags": [
+            "T0050",
+            "T0051"
+          ],
+          "session_price": 1600,
+          "student_count": 15,
+          "session_count": 30,
+          "create_time": "2021-07-29T14:45:55Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7500,
+              "session_price": 1600,
+              "course_id": 168557,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 414307
+            }
+          ]
+        },
+        {
+          "id": 171975,
+          "teacher_id": 9796579,
+          "language": "spanish",
+          "title": "Tutor\u00eda individual de espa\u00f1ol de b\u00e1sico a avanzado",
+          "description": "\u00a1Aprende espa\u00f1ol en un ambiente personalizado! Esta clase es para estudiantes con un nivel b\u00e1sico a avanzado.\n\nPosible t\u00f3pico para estudiantes avanzados: Espa\u00f1ol de negocios: conversaciones y etiqueta en Asia y Am\u00e9rica Latina-He adquirido experiencia en negocios en Asia y Am\u00e9rica Latina durante m\u00e1s de 9 a\u00f1os. En negocios, hay muchos consejos de etiqueta y protocolo que debes aprender, pueden ser una gran diferencia entre el \u00e9xito o el fracaso de tu trato empresarial. \u00a1D\u00e9jame ayudarte en este viaje!\n\nTENER EN CUENTA = no estoy calificado para preparar para los ex\u00e1menes DELE de dominio del espa\u00f1ol\n\n\u2049\ufe0f\u975e\u5e38\u91cd\u8981\u7684: \u7b2c\u4e00\u4e2a-\u5982\u679c\u4f60\u4f4f\u5728\u4e2d\u56fd\uff0c\u6211\u7528ZOOM\u5728\u6211\u4eec\u7684\u8bfe\u7a0b\u3002\u7b2c\u4e8c\u4e2a-\u5bf9\u4e0d\u8d77\uff0c\u6211\u6ca1\u6709\u6559\u513f\u7ae5\u548c\u9752\u5c11\u5e74\uff081 - 17\u5c81\uff09\u7684\u7ecf\u9a8c\u3002",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 1600,
+          "student_count": 119,
+          "session_count": 817,
+          "create_time": "2021-08-09T14:38:52Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12000,
+              "session_price": 1200,
+              "course_id": 171975,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 494353
+            },
+            {
+              "package_price": 13500,
+              "session_price": 1400,
+              "course_id": 171975,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 529054
+            },
+            {
+              "package_price": 15500,
+              "session_price": 1600,
+              "course_id": 171975,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 424193
+            },
+            {
+              "package_price": 18800,
+              "session_price": 1900,
+              "course_id": 171975,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 770884
+            }
+          ]
+        },
+        {
+          "id": 171976,
+          "teacher_id": 9796579,
+          "language": "spanish",
+          "title": "Revisi\u00f3n y correcciones de escritos acad\u00e9micos/colegio o de trabajo",
+          "description": "\u00bfTiene problemas con un trabajo en espa\u00f1ol que necesitas entregar lo antes posible pero no est\u00e1s seguro/a de que est\u00e9 bien escrito? Ya sea que necesites ayuda para corregir una carta de presentaci\u00f3n, escritos acad\u00e9micos, asignaciones o escritos relacionados con el trabajo, \u00a1podemos repasarlos juntos y explicarte los errores y correcciones necesarios para una mejor composici\u00f3n y edici\u00f3n!\n\nTENGA EN CUENTA = las tarifas de esta clase NO incluyen las traducciones al INGL\u00c9S, CHINO o ESPA\u00d1OL.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA003",
+          "course_tags": [
+            "T0066"
+          ],
+          "session_price": 1600,
+          "student_count": 6,
+          "session_count": 22,
+          "create_time": "2021-08-09T14:42:08Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7500,
+              "session_price": 1600,
+              "course_id": 171976,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 424194
+            }
+          ]
+        },
+        {
+          "id": 259832,
+          "teacher_id": 9796579,
+          "language": "english",
+          "title": "BUSINESS/ SALES/ INTERNATIONAL TRADE English- Adults",
+          "description": "Business English for Adults is a specialized language course designed to enhance professional communication skills in English-speaking business environments. This program focuses on developing practical language competencies essential for workplace success, including:\n\nFormal and informal business correspondence\nPresentation and public speaking skills\nNegotiation and meeting facilitation techniques\nIndustry-specific vocabulary and terminology\nCross-cultural communication strategies\n\nParticipants learn to navigate complex business scenarios, draft reports, analyze financial data, and engage in effective networking. The course emphasizes real-world applications through role-playing exercises, case studies, and simulations of business situations. It also covers digital communication tools and etiquette for global business interactions. Tailored for working professionals or those preparing to enter the business world, this program aims to boost confidence and proficiency in English for career advancement and international business opportunities.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0007",
+            "T0010",
+            "T0012",
+            "T0048"
+          ],
+          "session_price": 2000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-26T02:51:15Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 19600,
+              "session_price": 2000,
+              "course_id": 259832,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 770885
+            },
+            {
+              "package_price": 24700,
+              "session_price": 2500,
+              "course_id": 259832,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 828651
+            }
+          ]
+        },
+        {
+          "id": 259833,
+          "teacher_id": 9796579,
+          "language": "spanish",
+          "title": "NEGOCIOS/ VENTAS/ COMERCIO INTERNACIONAL- Espa\u00f1ol- Adultos",
+          "description": "Espa\u00f1ol de Negocios para Adultos es un curso de idiomas especializado dise\u00f1ado para mejorar las habilidades de comunicaci\u00f3n profesional en entornos empresariales de habla espa\u00f1ola. Este programa se centra en desarrollar competencias ling\u00fc\u00edsticas pr\u00e1cticas esenciales para el \u00e9xito en el lugar de trabajo, incluyendo:\n\nCorrespondencia empresarial formal e informal\nHabilidades de presentaci\u00f3n y habla en p\u00fablico\nT\u00e9cnicas de negociaci\u00f3n y facilitaci\u00f3n de reuniones\nVocabulario y terminolog\u00eda espec\u00edficos de la industria\nEstrategias de comunicaci\u00f3n intercultural\n\nLos participantes aprenden a navegar por escenarios empresariales complejos, redactar informes, analizar datos financieros y participar en networking efectivo. El curso enfatiza aplicaciones del mundo real a trav\u00e9s de ejercicios de juego de roles, estudios de casos y simulaciones de situaciones empresariales. Tambi\u00e9n cubre herramientas de comunicaci\u00f3n digital y etiqueta para interacciones empresariales globales. Dise\u00f1ado para profesionales en activo o aquellos que se preparan para entrar en el mundo de los negocios, este programa tiene como objetivo aumentar la confianza y la competencia en espa\u00f1ol para el avance profesional y las oportunidades de negocios internacionales.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0007",
+            "T0010",
+            "T0012",
+            "T0048"
+          ],
+          "session_price": 2000,
+          "student_count": 2,
+          "session_count": 5,
+          "create_time": "2025-01-26T02:53:11Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 19500,
+              "session_price": 2000,
+              "course_id": 259833,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 770890
+            },
+            {
+              "package_price": 24600,
+              "session_price": 2500,
+              "course_id": 259833,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 828652
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 18.0
+          },
+          {
+            "month": 2,
+            "data": 17.0
+          },
+          {
+            "month": 3,
+            "data": 16.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.97
+          },
+          {
+            "month": 2,
+            "data": 0.95
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.88
+          },
+          {
+            "month": 2,
+            "data": 0.94
+          },
+          {
+            "month": 3,
+            "data": 0.93
+          }
+        ],
+        "finished_session": 2816,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 26348605,
+        "nickname": "Michel Quiroz",
+        "avatar_file_name": "3T263486050",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "EC",
+        "is_online": 0,
+        "living_country_id": "EC",
+        "origin_city_id": "EC00011",
+        "origin_city_name": "Cuenca",
+        "living_city_id": "EC00011",
+        "living_city_name": "Cuenca",
+        "timezone": "America/Guayaquil",
+        "last_login_time": "2025-03-31T21:07:24+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/XcDVwu5Jwk8",
+        "video_pic_url": "https://img.youtube.com/vi/XcDVwu5Jwk8/0.jpg",
+        "intro": "I grew up speaking both Spanish and English, which has given me a deep understanding of both languages. This bilingual background allows me to teach English effectively, helping students bridge language gaps with confidence. I am passionate about education and committed to creating engaging learning experiences.",
+        "short_signature": "Certified Cambridge Teacher | University-Trained in Pedagogy | Bilingual Educator.",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "portuguese",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2025-03-30T19:09:50Z",
+        "session_count": 0,
+        "pro_rating": "0.0",
+        "tutor_rating": "0.0",
+        "overall_rating": "0.0",
+        "qiniu_video_url": "https://v.italki.cn/CACE85F7-4F18-41CF-AB82-BC6EB7095D83.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/XcDVwu5Jwk8.jpg",
+        "teacher_material_list": [
+          8,
+          9,
+          3,
+          7,
+          1,
+          4
+        ],
+        "is_new": 1,
+        "free_trial": 0,
+        "has_trial": 0,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I grew up speaking both Spanish and English, which has given me a deep understanding of both languages. This bilingual background allows me to teach English effectively, helping students bridge language gaps with confidence. I am passionate about education and committed to creating engaging learning experiences.",
+        "about_teacher": "As a teacher, I strive to create a supportive and engaging learning environment, I prioritize clear communication and interactive lessons. My bilingual background allows me to understand the challenges of language acquisition and adapt my teaching methods to meet the needs of each student.",
+        "teaching_style": "My lessons are interactive, engaging, and tailored to each student's needs. I focus on practical language use, encouraging students to develop confidence in speaking, listening, reading, and writing. I incorporate real-life scenarios, dynamic activities, and cultural elements to make learning both effective and enjoyable.",
+        "is_student_full": 0,
+        "student_count": 0,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2025-03-30T19:09:50+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Universidad Tenica Particular Catolica de Loja",
+            "major": "Pedagog\u00eda",
+            "level": 1,
+            "start_year": 2022,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2025-02-13T01:17:52Z",
+            "edu_id": "126B907A-3333-4811-A776-1169863231D8"
+          },
+          {
+            "institution": "Universidad Estatal de Cuenca",
+            "major": "English language",
+            "level": 1,
+            "start_year": 2020,
+            "end_year": 2022,
+            "status": 1,
+            "create_time": "2025-02-13T01:17:10Z",
+            "edu_id": "26B395F7-9447-4BB7-889D-E6895B511DE5"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [
+          {
+            "institution": "Universidad Tecnica Particular Catolica de Loja",
+            "type": "CA067",
+            "type_text_code": "MEDICAL",
+            "certificate": "Necesidades Especiales",
+            "end_year": 2024,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/49151EB2-4F0B-4B14-A085-1F47BD59A725.jpeg",
+            "create_time": "2025-02-13T01:20:45Z",
+            "update_time": "2025-02-13T01:20:45Z",
+            "approve_time": "2025-03-31T03:16:07Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "Necesidades Especiales",
+            "institution": "Universidad Tecnica Particular Catolica de Loja",
+            "end_year": 2024,
+            "status": 1,
+            "description": "",
+            "type": "CA067"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 17313,
+            "user_id": 26348605,
+            "start_year": 2023,
+            "end_year": 2155,
+            "institution": "Abraham Lincoln Institute",
+            "institution_type": "private_education_center",
+            "position": "Teacher",
+            "country": "EC",
+            "city": "Cuenca",
+            "description": "",
+            "create_at": "2025-02-13T01:18:33Z",
+            "create_by": "26348605",
+            "update_at": "2025-02-13T01:18:33Z",
+            "update_by": "26348605",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 0,
+        "trial_price": 500,
+        "min_price": 1300,
+        "trial_session_count": 0,
+        "trial_description": "In this trial lesson, we will focus on improving your spoken English through interactive practice. We will work on pronunciation, fluency, and confidence in real-life conversations. The session will include personalized feedback and practical exercises tailored to your level and goals."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 26348605
+      },
+      "pro_course_detail": [
+        {
+          "id": 261979,
+          "teacher_id": 26348605,
+          "language": "english",
+          "title": "Speaking classes",
+          "description": "We will focus on pronunciation, fluency, and confidence, using real-life scenarios to make learning natural and effective. You will receive personalized feedback.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1300,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-02-23T22:17:42Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5500,
+              "session_price": 1300,
+              "course_id": 261979,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 813529
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1300,
+              "course_id": 261979,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 813530
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 0,
+        "response_rate": 0,
+        "attendance_rate": 0,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 4,
+    "price_list": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      5,
+      6,
+      1,
+      1,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-df-4297-9fc5-1b2842f15499-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 4
+  },
+  "paging": {
+    "page": 1,
+    "page_size": 20,
+    "total": 4,
+    "has_next": 0
+  }
+}

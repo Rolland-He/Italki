@@ -1,0 +1,3644 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 3550903,
+        "nickname": "Mohamed ( Simo )",
+        "avatar_file_name": "4T035509030",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "MA",
+        "is_online": 0,
+        "living_country_id": "MA",
+        "origin_city_id": "MA00021",
+        "origin_city_name": "Agadir",
+        "living_city_id": "MA00021",
+        "living_city_name": "Agadir",
+        "timezone": "Africa/Casablanca",
+        "last_login_time": "2025-04-01T20:35:50+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/MpbPSic0nzw",
+        "video_pic_url": "https://img.youtube.com/vi/MpbPSic0nzw/0.jpg",
+        "intro": "I am a graduate engineering student at Arizona State University, energetic and love to work in teams solving problems together. My points of strength other than in-depth analysis and technical competencies are the abilities to convince and persuade.",
+        "short_signature": "5 years experience teaching Arabic/Moroccan Arabic Online",
+        "teach_language": [
+          {
+            "language": "arabic",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "french",
+            "level": 5
+          }
+        ],
+        "first_valid_time": "2016-10-27T07:26:31Z",
+        "session_count": 312,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/italki10001067.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/MpbPSic0nzw.jpg",
+        "teacher_material_list": [
+          3,
+          9,
+          12,
+          1,
+          2,
+          5,
+          8,
+          4,
+          10,
+          6
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "I am an engineering student at the national school of applied sciences . My native language is Arabic ( also Moroccan dialect). and I also speak French and English. I have been learning English for more than 11 years .I was a former student at the american language center . I can give formal and informal lessons , speaking practice and subjects. So if you are interested just send me a message ! Thank you,",
+        "about_me": "I am a graduate engineering student at Arizona State University, energetic and love to work in teams solving problems together. My points of strength other than in-depth analysis and technical competencies are the abilities to convince and persuade.",
+        "about_teacher": "I teach Moroccan Arabic online with more than 4 years experience and a lot of successful stories. I want to share my knowledge and expertise with you and help you tackle all the problems that you will face learning new skills and shorten your road to success .",
+        "teaching_style": "My teaching style is the learning style of the student. We can't achieve results unless the student is happy with their time with me and eager to attend every class. Patience is also very important and results are usually noticed within two weeks of studying with me.",
+        "is_student_full": 0,
+        "student_count": 49,
+        "teacher_tag": [
+          1,
+          3
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 700,
+        "trial_session_count": 0,
+        "trial_description": "Trial lessons do not reflect the quality of the teaching. Trial lessons are designed to gather in formations about the student's needs and goals and creating custom plans that meet student's satisfaction while maintaining the highest possible teaching quality."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 3550903
+      },
+      "pro_course_detail": [
+        {
+          "id": 47289,
+          "teacher_id": 3550903,
+          "language": "arabic",
+          "title": "Moroccan Arabic Course Darija",
+          "description": "You will learn how to speak Moroccan Arabic from a native speaker with a sound pronunciation and correct sentence making. If you are traveling to Morocco and want the intensive and concise course for travellers then please select the 1 hour, 10 lessons package for a special course dedicated only to travelers.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0003",
+            "T0004"
+          ],
+          "session_price": 1000,
+          "student_count": 29,
+          "session_count": 192,
+          "create_time": "2016-10-27T10:33:12Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 500,
+              "session_price": 500,
+              "course_id": 47289,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 83381
+            },
+            {
+              "package_price": 8000,
+              "session_price": 800,
+              "course_id": 47289,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 83382
+            },
+            {
+              "package_price": 9800,
+              "session_price": 1000,
+              "course_id": 47289,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 83469
+            },
+            {
+              "package_price": 6500,
+              "session_price": 1400,
+              "course_id": 47289,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 83470
+            }
+          ]
+        },
+        {
+          "id": 118468,
+          "teacher_id": 3550903,
+          "language": "arabic",
+          "title": "Arabic MSA - Beginner lvl",
+          "description": "I teach absolute beginner's course how to read and write correctly. I give introductory classes on how to hold simple conversations with natives.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 900,
+          "student_count": 6,
+          "session_count": 78,
+          "create_time": "2020-06-10T20:11:45Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 118468,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 298170
+            },
+            {
+              "package_price": 4300,
+              "session_price": 900,
+              "course_id": 118468,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 268499
+            }
+          ]
+        },
+        {
+          "id": 118469,
+          "teacher_id": 3550903,
+          "language": "arabic",
+          "title": "Arabic MSA - Intermediate lvl",
+          "description": "In this level , we will go more into grammar lessons (naHow) and we will also learn more vocabulary.",
+          "level_lower_limit": 3,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0001",
+            "T0003"
+          ],
+          "session_price": 1100,
+          "student_count": 2,
+          "session_count": 23,
+          "create_time": "2020-06-10T20:21:35Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 600,
+              "session_price": 600,
+              "course_id": 118469,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 268501
+            },
+            {
+              "package_price": 700,
+              "session_price": 700,
+              "course_id": 118469,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 268502
+            },
+            {
+              "package_price": 5200,
+              "session_price": 1100,
+              "course_id": 118469,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 268500
+            }
+          ]
+        },
+        {
+          "id": 120044,
+          "teacher_id": 3550903,
+          "language": "english",
+          "title": "Professional & Academic English Communication Skills",
+          "description": "You will be surprised how many times my English communication skills have saved me from embarassing situations!\nThis course helps you improve your professional communication in English for successful business interactions. You will learn how to write emails, speak at meetings and interviews, give presentations, and network online. In the second part of the course, you will understand the tips and tricks to establish a strong & charismatic personal presence. We will discuss salesman techniques and \"pitch\" fluency mastering in depth. When you complete this part of the course, you will be able to change how you speak English,i mprove your pronunciation and fluency, increase your English vocabulary, identify how culture influences your speech, use culture to help you speak correctly, demonstrate the best body language for different cultural settings, and know statements, questions and responses for different settings and situations. At the end of the course, I will teach how to have a strong online presence and show you proof of how companies are reaching out to me to sign e-learning contracts with me. I will teach you how to write a summary about yourself & write a tweet to get a job. The last part of this course will be dedicated to advanced assessment of cultural situations, identify ways to improve communication and decrease misunderstanding. You will complete this capstone part by establishing long term communication strategies for building lasting work/business relationships.\n\nFor a better deal, I advice you to buy the total packages:\n- First and second part of the course : 2 hours per week for 10 weeks.\n- Last two parts of the course : 3 hours per week for 8 weeks.\n\nYou may cancel your packages at anytime.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0006",
+            "T0005",
+            "T0004"
+          ],
+          "session_price": 800,
+          "student_count": 2,
+          "session_count": 2,
+          "create_time": "2020-06-27T13:28:12Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 15000,
+              "session_price": 800,
+              "course_id": 120044,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 273582
+            },
+            {
+              "package_price": 20500,
+              "session_price": 1200,
+              "course_id": 120044,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 273583
+            }
+          ]
+        },
+        {
+          "id": 120053,
+          "teacher_id": 3550903,
+          "language": "english",
+          "title": "Academic English Writing",
+          "description": "This course package will empower you to succeed in any college-level course or professional field. You will learn to conduct advanced academic research and to express your ideas clearly in an academic format. The first month course will be an English grammar review for good writing and this will turn up as very useful in the future.  After completing this course, you will be able to: - create effective thesis statements for your essays - plan and write compare/contrast, cause/effect, and argument essays. In the last parts, we will learn advanced writing by raising the level of academic writing and academic research. The final part which is a projet based course project lets you apply everything you\u2019ve learned and gives you the practice you need for college classes by having you write a research paper.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0006",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 700,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2020-06-27T15:33:08Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12000,
+              "session_price": 700,
+              "course_id": 120053,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 273605
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1000,
+              "course_id": 120053,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 273606
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 3.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 4.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 312,
+        "response_rate": 0.99,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 1668204,
+        "nickname": "Vladana Ulama",
+        "avatar_file_name": "6T016682040",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "ME",
+        "is_online": 0,
+        "living_country_id": "IT",
+        "origin_city_id": "ME00026",
+        "origin_city_name": "Bar",
+        "living_city_id": "IT00071",
+        "living_city_name": "Trieste",
+        "timezone": "Europe/Berlin",
+        "last_login_time": "2025-03-30T19:28:01+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/l5MTjancZDA",
+        "video_pic_url": "https://img.youtube.com/vi/l5MTjancZDA/0.jpg",
+        "intro": "Hello! My name is Vladana. I'm 23 years old. Currently I'm living in Italy, but I'm from Montenegro and I come from the beautiful small city called Bar. I'm a student of Pharmaceutical Chemistry and Technology. Also, I'm doing boxe which is my new passion. Besides chemistry and biology, I like spending my time in nature, making new friendships, drawing, cooking and I really adore design and make up. I love meeting people from other countries and I can easily switch topics, so we can talk about many different things. I hope you will enjoy my lessons!",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "bosnian",
+            "level": 7
+          },
+          {
+            "language": "croatian",
+            "level": 7
+          },
+          {
+            "language": "montenegrin",
+            "level": 7
+          },
+          {
+            "language": "serbian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          },
+          {
+            "language": "italian",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2020-07-27T08:15:28Z",
+        "session_count": 902,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/12D2B21D-486A-4C26-AA75-F88C866D6438.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/l5MTjancZDA.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello! My name is Vladana. I'm 23 years old. Currently I'm living in Italy, but I'm from Montenegro and I come from the beautiful small city called Bar. I'm a student of Pharmaceutical Chemistry and Technology. Also, I'm doing boxe which is my new passion. Besides chemistry and biology, I like spending my time in nature, making new friendships, drawing, cooking and I really adore design and make up. I love meeting people from other countries and I can easily switch topics, so we can talk about many different things. I hope you will enjoy my lessons!",
+        "about_teacher": "I'm Montenegrin native speaker. I've been studying English since I was 9 years old and Italian since I was 11 years old. If somebody wants to learn and practise one of these languages I can help.",
+        "teaching_style": "My lesson will last 1 hour. I will prepare material before. We will practise conversation and grammar also. I will make a presentation or find some text and that way a person can improve reading skills. All that dipends what a person wants. I will try to adapt.",
+        "is_student_full": 0,
+        "student_count": 215,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 600,
+        "min_price": 1000,
+        "trial_session_count": 0,
+        "trial_description": "It's a 30 minute lesson. You have opportunity to talk, to choose what is best for you and to see how this platform works. Every student have ability to try 3 trial lesson."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 1668204
+      },
+      "pro_course_detail": [
+        {
+          "id": 123395,
+          "teacher_id": 1668204,
+          "language": "serbian",
+          "title": "Serbian Lessons",
+          "description": "On these lessons you will learn how to speak, write and read Serbian language. We can also practise conversation and talk about different things. I hope you will enjoy.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 1000,
+          "student_count": 33,
+          "session_count": 102,
+          "create_time": "2020-07-28T13:38:11Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 123395,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 329602
+            },
+            {
+              "package_price": 6500,
+              "session_price": 800,
+              "course_id": 123395,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 372114
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1000,
+              "course_id": 123395,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 283445
+            }
+          ]
+        },
+        {
+          "id": 123400,
+          "teacher_id": 1668204,
+          "language": "bosnian",
+          "title": "Bosnian Lessons",
+          "description": "On these lessons you will learn how to speak, write and read Bosnian language. We can also practise conversation. I hope you will enjoy.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0001"
+          ],
+          "session_price": 1000,
+          "student_count": 25,
+          "session_count": 245,
+          "create_time": "2020-07-28T13:56:47Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 123400,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 329603
+            },
+            {
+              "package_price": 6500,
+              "session_price": 800,
+              "course_id": 123400,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 372115
+            },
+            {
+              "package_price": 8500,
+              "session_price": 1000,
+              "course_id": 123400,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 283463
+            }
+          ]
+        },
+        {
+          "id": 123401,
+          "teacher_id": 1668204,
+          "language": "croatian",
+          "title": "Croatian Lessons",
+          "description": "On these lessons you will learn how to speak, write and read Croatian language. We can also practise conversation. I hope you will enjoy.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0001",
+            "T0002"
+          ],
+          "session_price": 1000,
+          "student_count": 27,
+          "session_count": 98,
+          "create_time": "2020-07-28T13:57:34Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 123401,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 329604
+            },
+            {
+              "package_price": 6500,
+              "session_price": 800,
+              "course_id": 123401,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 372116
+            },
+            {
+              "package_price": 8500,
+              "session_price": 1000,
+              "course_id": 123401,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 283464
+            }
+          ]
+        },
+        {
+          "id": 138087,
+          "teacher_id": 1668204,
+          "language": "montenegrin",
+          "title": "Grammar lessons",
+          "description": "I'm Montenegrin native speaker so I can teach you how to write correctly and and I can help you learn or improve grammar. We will practice reading, writing and grammar. I hope you will enjoy!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0006",
+            "T0004"
+          ],
+          "session_price": 1100,
+          "student_count": 19,
+          "session_count": 53,
+          "create_time": "2021-03-12T12:10:45Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6000,
+              "session_price": 700,
+              "course_id": 138087,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 329606
+            },
+            {
+              "package_price": 7500,
+              "session_price": 900,
+              "course_id": 138087,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 329922
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1100,
+              "course_id": 138087,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 329605
+            }
+          ]
+        },
+        {
+          "id": 187539,
+          "teacher_id": 1668204,
+          "language": "english",
+          "title": "Conversational practice in English",
+          "description": "Hello! We are going to talk about different topics that are particular of your interest. You will get the chance to express your thoughts, opinions and ideas. I will make sure to be a patient listener and to encourage you on your language learning path. I am looking forward to our classes!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 57,
+          "session_count": 233,
+          "create_time": "2021-10-07T13:31:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 187539,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 469432
+            },
+            {
+              "package_price": 3500,
+              "session_price": 800,
+              "course_id": 187539,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 469433
+            },
+            {
+              "package_price": 4000,
+              "session_price": 1000,
+              "course_id": 187539,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 469434
+            }
+          ]
+        },
+        {
+          "id": 240652,
+          "teacher_id": 1668204,
+          "language": "montenegrin",
+          "title": "Conversational Montenegrin Practice",
+          "description": "These are the classes where you can improve your vocabulary, as well as speaking. We can talk about different topics. This is my native language so I am able to teach you a lot of typical montenegrin expresions.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0003",
+            "T0004"
+          ],
+          "session_price": 1000,
+          "student_count": 7,
+          "session_count": 33,
+          "create_time": "2023-09-09T14:20:17Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 240652,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 637212
+            },
+            {
+              "package_price": 6500,
+              "session_price": 800,
+              "course_id": 240652,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 637213
+            },
+            {
+              "package_price": 8500,
+              "session_price": 1000,
+              "course_id": 240652,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 637211
+            }
+          ]
+        },
+        {
+          "id": 240653,
+          "teacher_id": 1668204,
+          "language": "english",
+          "title": "Grammar lessons",
+          "description": "I'm glad to help you with english grammar. Book my class and you will see how learning new language can be easy and fun in the same time! I hope you will enjoy.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0006",
+            "T0004",
+            "T0002"
+          ],
+          "session_price": 1100,
+          "student_count": 3,
+          "session_count": 12,
+          "create_time": "2023-09-09T14:39:29Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6000,
+              "session_price": 700,
+              "course_id": 240653,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 637215
+            },
+            {
+              "package_price": 7500,
+              "session_price": 900,
+              "course_id": 240653,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 637216
+            },
+            {
+              "package_price": 8500,
+              "session_price": 1100,
+              "course_id": 240653,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 637214
+            }
+          ]
+        },
+        {
+          "id": 240654,
+          "teacher_id": 1668204,
+          "language": "italian",
+          "title": "Conversation Practice",
+          "description": "In our conversational classes we can talk about any topic you're interested in. I live in Italy for 5 years so I'm glad to talk with other about italian lifestyle, food and culture. I'm looking forward to see you on my class!",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 900,
+          "student_count": 15,
+          "session_count": 51,
+          "create_time": "2023-09-09T14:49:13Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 240654,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 637221
+            },
+            {
+              "package_price": 6000,
+              "session_price": 700,
+              "course_id": 240654,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 637220
+            },
+            {
+              "package_price": 7500,
+              "session_price": 900,
+              "course_id": 240654,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 637219
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 12.0
+          },
+          {
+            "month": 1,
+            "data": 9.0
+          },
+          {
+            "month": 2,
+            "data": 9.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.93
+          },
+          {
+            "month": 1,
+            "data": 0.78
+          },
+          {
+            "month": 2,
+            "data": 0.92
+          }
+        ],
+        "finished_session": 902,
+        "response_rate": 0.99,
+        "attendance_rate": 0.97,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 12652639,
+        "nickname": "Tatiana",
+        "avatar_file_name": "2T126526390",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "MD",
+        "is_online": 0,
+        "living_country_id": "BG",
+        "origin_city_id": "MD00001",
+        "origin_city_name": "Chisinau",
+        "living_city_id": "BG00001",
+        "living_city_name": "Sofia",
+        "timezone": "Europe/Chisinau",
+        "last_login_time": "2025-04-01T18:10:00+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/35_upZnQz_A",
+        "video_pic_url": "https://img.youtube.com/vi/35_upZnQz_A/0.jpg",
+        "intro": "My name is Tatiana. I speak English, Bulgarian, Romanian, Russian and a bit of Spanish. I am an international teacher. I have a wide range of hobbies such as dancing, sport and reading.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "bulgarian",
+            "level": 7
+          },
+          {
+            "language": "romanian",
+            "level": 7
+          },
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          },
+          {
+            "language": "turkish",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2022-08-29T21:11:00Z",
+        "session_count": 806,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/75EF174D-4FC5-4720-B95A-54B23B2F3F5C.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/35_upZnQz_A.jpg",
+        "teacher_material_list": [
+          5,
+          9,
+          1,
+          3,
+          7,
+          8,
+          4,
+          2,
+          6
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "My name is Tatiana. I speak English, Bulgarian, Romanian, Russian and a bit of Spanish. I am an international teacher. I have a wide range of hobbies such as dancing, sport and reading.",
+        "about_teacher": "I have been teaching different languages for more than 15 years. My experience will help you get the results fast and easy! I am creative, and I have an individual approach to every student!",
+        "teaching_style": "My lessons \u0131nclude d\u0131fferent act\u0131v\u0131t\u0131es that w\u0131ll help you develop s\u0131multaneously speak\u0131ng, reading, writing and listening skills! I use dialogues, songs and games that make learning easy and fun! I enjoy what I do and always find new ways to make lessons interesting!",
+        "is_student_full": 0,
+        "student_count": 123,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-08-29T21:11:00+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 15
+          },
+          {
+            "name": "podcast",
+            "created_count": 21
+          },
+          {
+            "name": "quiz",
+            "created_count": 78
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 1600,
+        "trial_session_count": 0,
+        "trial_description": "At the trial lesson I will get a possibility to see your language level and find out your learning needs"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 12652639
+      },
+      "pro_course_detail": [
+        {
+          "id": 229086,
+          "teacher_id": 12652639,
+          "language": "bulgarian",
+          "title": "Conversation lesson",
+          "description": "At this lesson you will improve your speaking skills by discussing different topics. We will also cover some vocabulary to make your speech sound more advanced.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1900,
+          "student_count": 40,
+          "session_count": 394,
+          "create_time": "2022-08-29T18:04:32Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 229086,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 594865
+            },
+            {
+              "package_price": 9900,
+              "session_price": 1000,
+              "course_id": 229086,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 818091
+            },
+            {
+              "package_price": 8400,
+              "session_price": 1700,
+              "course_id": 229086,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 594866
+            },
+            {
+              "package_price": 16900,
+              "session_price": 1700,
+              "course_id": 229086,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 818722
+            },
+            {
+              "package_price": 9400,
+              "session_price": 1900,
+              "course_id": 229086,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 594864
+            },
+            {
+              "package_price": 18900,
+              "session_price": 1900,
+              "course_id": 229086,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 818716
+            },
+            {
+              "package_price": 12900,
+              "session_price": 2600,
+              "course_id": 229086,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 594867
+            },
+            {
+              "package_price": 25900,
+              "session_price": 2600,
+              "course_id": 229086,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 818723
+            }
+          ]
+        },
+        {
+          "id": 229107,
+          "teacher_id": 12652639,
+          "language": "bulgarian",
+          "title": "General",
+          "description": "These lessons will help you develop your reading, writing, listening and speaking skills simultaneously",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 1900,
+          "student_count": 28,
+          "session_count": 239,
+          "create_time": "2022-08-30T06:19:47Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 229107,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 594938
+            },
+            {
+              "package_price": 9900,
+              "session_price": 1000,
+              "course_id": 229107,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 818092
+            },
+            {
+              "package_price": 8400,
+              "session_price": 1700,
+              "course_id": 229107,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 594939
+            },
+            {
+              "package_price": 16900,
+              "session_price": 1700,
+              "course_id": 229107,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 818724
+            },
+            {
+              "package_price": 9400,
+              "session_price": 1900,
+              "course_id": 229107,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 594937
+            },
+            {
+              "package_price": 18900,
+              "session_price": 1900,
+              "course_id": 229107,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 818717
+            },
+            {
+              "package_price": 12900,
+              "session_price": 2600,
+              "course_id": 229107,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 594940
+            },
+            {
+              "package_price": 25900,
+              "session_price": 2600,
+              "course_id": 229107,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 818725
+            }
+          ]
+        },
+        {
+          "id": 229108,
+          "teacher_id": 12652639,
+          "language": "bulgarian",
+          "title": "Grammar focus",
+          "description": "At these lessons we will focus on grammar topics you struggle with, practising by doing different exercises that will help you polish your skills",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002"
+          ],
+          "session_price": 1900,
+          "student_count": 2,
+          "session_count": 5,
+          "create_time": "2022-08-30T06:23:30Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 229108,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 594942
+            },
+            {
+              "package_price": 9900,
+              "session_price": 1000,
+              "course_id": 229108,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 818093
+            },
+            {
+              "package_price": 8400,
+              "session_price": 1700,
+              "course_id": 229108,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 594943
+            },
+            {
+              "package_price": 16900,
+              "session_price": 1700,
+              "course_id": 229108,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 818727
+            },
+            {
+              "package_price": 9400,
+              "session_price": 1900,
+              "course_id": 229108,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 594941
+            },
+            {
+              "package_price": 18900,
+              "session_price": 1900,
+              "course_id": 229108,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 818726
+            },
+            {
+              "package_price": 11900,
+              "session_price": 2600,
+              "course_id": 229108,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 594944
+            },
+            {
+              "package_price": 24000,
+              "session_price": 2600,
+              "course_id": 229108,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 818728
+            }
+          ]
+        },
+        {
+          "id": 229295,
+          "teacher_id": 12652639,
+          "language": "romanian",
+          "title": "Conversation lesson Level A2",
+          "description": "At this lesson you will improve your speaking skills by discussing different topics. We will also cover some vocabulary to make your speech sound more advanced.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2100,
+          "student_count": 18,
+          "session_count": 44,
+          "create_time": "2022-09-03T05:38:31Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 229295,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 595592
+            },
+            {
+              "package_price": 9900,
+              "session_price": 1000,
+              "course_id": 229295,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 837909
+            },
+            {
+              "package_price": 8900,
+              "session_price": 1900,
+              "course_id": 229295,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 595593
+            },
+            {
+              "package_price": 18900,
+              "session_price": 1900,
+              "course_id": 229295,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 837910
+            },
+            {
+              "package_price": 10400,
+              "session_price": 2100,
+              "course_id": 229295,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 595591
+            },
+            {
+              "package_price": 20900,
+              "session_price": 2100,
+              "course_id": 229295,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 837908
+            },
+            {
+              "package_price": 14400,
+              "session_price": 3000,
+              "course_id": 229295,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 595594
+            },
+            {
+              "package_price": 29900,
+              "session_price": 3000,
+              "course_id": 229295,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 837911
+            }
+          ]
+        },
+        {
+          "id": 229297,
+          "teacher_id": 12652639,
+          "language": "romanian",
+          "title": "General Romanian for Beginners A1",
+          "description": "These lessons will help you develop your reading, writing, listening and speaking skills simultaneously",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 2100,
+          "student_count": 12,
+          "session_count": 50,
+          "create_time": "2022-09-03T05:41:09Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 229297,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 595598
+            },
+            {
+              "package_price": 9900,
+              "session_price": 1000,
+              "course_id": 229297,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 818719
+            },
+            {
+              "package_price": 9400,
+              "session_price": 1900,
+              "course_id": 229297,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 595599
+            },
+            {
+              "package_price": 18900,
+              "session_price": 1900,
+              "course_id": 229297,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 818720
+            },
+            {
+              "package_price": 10400,
+              "session_price": 2100,
+              "course_id": 229297,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 595597
+            },
+            {
+              "package_price": 20900,
+              "session_price": 2100,
+              "course_id": 229297,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 818718
+            },
+            {
+              "package_price": 14900,
+              "session_price": 3000,
+              "course_id": 229297,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 595600
+            },
+            {
+              "package_price": 29900,
+              "session_price": 3000,
+              "course_id": 229297,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 818721
+            }
+          ]
+        },
+        {
+          "id": 229298,
+          "teacher_id": 12652639,
+          "language": "romanian",
+          "title": "Grammar focus A1 - A2",
+          "description": "At these lessons we will focus on grammar topics you struggle with, practising by doing different exercises that will help you polish your skills",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 2100,
+          "student_count": 1,
+          "session_count": 4,
+          "create_time": "2022-09-03T05:43:23Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 229298,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 595602
+            },
+            {
+              "package_price": 9900,
+              "session_price": 1000,
+              "course_id": 229298,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 837918
+            },
+            {
+              "package_price": 9400,
+              "session_price": 1900,
+              "course_id": 229298,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 595603
+            },
+            {
+              "package_price": 18900,
+              "session_price": 1900,
+              "course_id": 229298,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 837917
+            },
+            {
+              "package_price": 9900,
+              "session_price": 2100,
+              "course_id": 229298,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 595601
+            },
+            {
+              "package_price": 20900,
+              "session_price": 2100,
+              "course_id": 229298,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 837919
+            },
+            {
+              "package_price": 14900,
+              "session_price": 3000,
+              "course_id": 229298,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 595604
+            },
+            {
+              "package_price": 29900,
+              "session_price": 3000,
+              "course_id": 229298,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 837916
+            }
+          ]
+        },
+        {
+          "id": 249619,
+          "teacher_id": 12652639,
+          "language": "russian",
+          "title": "Russian conversation lesson",
+          "description": "At this lesson you will improve your speaking skills by discussing different topics. We will also cover some vocabulary to make your speech sound more advanced.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1800,
+          "student_count": 4,
+          "session_count": 6,
+          "create_time": "2024-08-05T09:28:55Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 249619,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 668365
+            },
+            {
+              "package_price": 9900,
+              "session_price": 1000,
+              "course_id": 249619,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 840156
+            },
+            {
+              "package_price": 7400,
+              "session_price": 1500,
+              "course_id": 249619,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 668366
+            },
+            {
+              "package_price": 14900,
+              "session_price": 1500,
+              "course_id": 249619,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 840157
+            },
+            {
+              "package_price": 8900,
+              "session_price": 1800,
+              "course_id": 249619,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 668364
+            },
+            {
+              "package_price": 17900,
+              "session_price": 1800,
+              "course_id": 249619,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 840155
+            },
+            {
+              "package_price": 12900,
+              "session_price": 2600,
+              "course_id": 249619,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 668367
+            },
+            {
+              "package_price": 25900,
+              "session_price": 2600,
+              "course_id": 249619,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 840158
+            }
+          ]
+        },
+        {
+          "id": 249629,
+          "teacher_id": 12652639,
+          "language": "russian",
+          "title": "General Russian",
+          "description": "These lessons will help you develop your reading, writing, listening and speaking skills simultaneously",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1800,
+          "student_count": 4,
+          "session_count": 8,
+          "create_time": "2024-08-05T13:48:55Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 249629,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 668416
+            },
+            {
+              "package_price": 9900,
+              "session_price": 1000,
+              "course_id": 249629,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 819029
+            },
+            {
+              "package_price": 7900,
+              "session_price": 1600,
+              "course_id": 249629,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 668417
+            },
+            {
+              "package_price": 15900,
+              "session_price": 1600,
+              "course_id": 249629,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 840167
+            },
+            {
+              "package_price": 8900,
+              "session_price": 1800,
+              "course_id": 249629,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 668415
+            },
+            {
+              "package_price": 17900,
+              "session_price": 1800,
+              "course_id": 249629,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 819028
+            },
+            {
+              "package_price": 12900,
+              "session_price": 2600,
+              "course_id": 249629,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 668418
+            },
+            {
+              "package_price": 25900,
+              "session_price": 2600,
+              "course_id": 249629,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 819030
+            }
+          ]
+        },
+        {
+          "id": 258008,
+          "teacher_id": 12652639,
+          "language": "turkish",
+          "title": "Turkish for children A1",
+          "description": "At this lessons child will learn the basics of Turkish language. We will build vocabulary and have introduction into Turkish grammar. We will also learn general phrases, form example, how to introduce yourself in Turkish.",
+          "level_lower_limit": 1,
+          "level_up_limit": 1,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0083"
+          ],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-12-30T11:01:58Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4400,
+              "session_price": 900,
+              "course_id": 258008,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 710306
+            },
+            {
+              "package_price": 9000,
+              "session_price": 900,
+              "course_id": 258008,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 819025
+            },
+            {
+              "package_price": 7900,
+              "session_price": 1600,
+              "course_id": 258008,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 710307
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1600,
+              "course_id": 258008,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 819026
+            },
+            {
+              "package_price": 8900,
+              "session_price": 1800,
+              "course_id": 258008,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 710305
+            },
+            {
+              "package_price": 18000,
+              "session_price": 1800,
+              "course_id": 258008,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 819024
+            },
+            {
+              "package_price": 12900,
+              "session_price": 2600,
+              "course_id": 258008,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 710308
+            },
+            {
+              "package_price": 26000,
+              "session_price": 2600,
+              "course_id": 258008,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 819027
+            }
+          ]
+        },
+        {
+          "id": 259454,
+          "teacher_id": 12652639,
+          "language": "english",
+          "title": "General English",
+          "description": "At this lesson you will learn grammar, enlarge your vocabulary, speak and do listening and video activities.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 1600,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-21T17:02:05Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4400,
+              "session_price": 900,
+              "course_id": 259454,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 762717
+            },
+            {
+              "package_price": 9000,
+              "session_price": 900,
+              "course_id": 259454,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 819021
+            },
+            {
+              "package_price": 6900,
+              "session_price": 1400,
+              "course_id": 259454,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 762718
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1400,
+              "course_id": 259454,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 819022
+            },
+            {
+              "package_price": 7900,
+              "session_price": 1600,
+              "course_id": 259454,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 762716
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1600,
+              "course_id": 259454,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 819020
+            },
+            {
+              "package_price": 12400,
+              "session_price": 2500,
+              "course_id": 259454,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 762719
+            },
+            {
+              "package_price": 25000,
+              "session_price": 2500,
+              "course_id": 259454,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 819023
+            }
+          ]
+        },
+        {
+          "id": 259520,
+          "teacher_id": 12652639,
+          "language": "english",
+          "title": "Enlglish conversation",
+          "description": "At this lesson you will improve your speaking skills by discussing different topics. We will also cover some vocabulary to make your speech sound more advanced.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1600,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-22T10:55:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4400,
+              "session_price": 900,
+              "course_id": 259520,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 763948
+            },
+            {
+              "package_price": 9000,
+              "session_price": 900,
+              "course_id": 259520,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 819017
+            },
+            {
+              "package_price": 6900,
+              "session_price": 1400,
+              "course_id": 259520,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 763949
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1400,
+              "course_id": 259520,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 819018
+            },
+            {
+              "package_price": 7900,
+              "session_price": 1600,
+              "course_id": 259520,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 763947
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1600,
+              "course_id": 259520,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 819016
+            },
+            {
+              "package_price": 12400,
+              "session_price": 2500,
+              "course_id": 259520,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 763950
+            },
+            {
+              "package_price": 25000,
+              "session_price": 2500,
+              "course_id": 259520,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 819019
+            }
+          ]
+        },
+        {
+          "id": 259521,
+          "teacher_id": 12652639,
+          "language": "english",
+          "title": "English grammar focus",
+          "description": "At these lessons we will focus on grammar topics you struggle with, practising by doing different exercises that will help you polish your skills",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0003",
+            "T0006"
+          ],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-01-22T10:57:34Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4900,
+              "session_price": 1000,
+              "course_id": 259521,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 763964
+            },
+            {
+              "package_price": 9900,
+              "session_price": 1000,
+              "course_id": 259521,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 818731
+            },
+            {
+              "package_price": 7900,
+              "session_price": 1600,
+              "course_id": 259521,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 763965
+            },
+            {
+              "package_price": 15900,
+              "session_price": 1600,
+              "course_id": 259521,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 818732
+            },
+            {
+              "package_price": 8900,
+              "session_price": 1800,
+              "course_id": 259521,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 818729
+            },
+            {
+              "package_price": 17900,
+              "session_price": 1800,
+              "course_id": 259521,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 818730
+            },
+            {
+              "package_price": 12900,
+              "session_price": 2600,
+              "course_id": 259521,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 763963
+            },
+            {
+              "package_price": 24900,
+              "session_price": 2600,
+              "course_id": 259521,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 818733
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 17.0
+          },
+          {
+            "month": 2,
+            "data": 21.0
+          },
+          {
+            "month": 3,
+            "data": 28.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.96
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 805,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 23209976,
+        "nickname": "Effortless English",
+        "avatar_file_name": "2T232099760",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "MA",
+        "is_online": 0,
+        "living_country_id": "MA",
+        "origin_city_id": "MA00041",
+        "origin_city_name": "Kenitra",
+        "living_city_id": "MA00041",
+        "living_city_name": "Kenitra",
+        "timezone": "Europe/Paris",
+        "last_login_time": "2025-04-01T14:28:27+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/lIUqulGROhk",
+        "video_pic_url": "https://img.youtube.com/vi/lIUqulGROhk/0.jpg",
+        "intro": "Hello, my name is Khadija. I am from Morocco, and Arabic is my mother tongue. English is my second language, and I speak it fluently as I studied it at Ibn Tofail University in Morocco. I also have a TESOL certification.\n\nI have always enjoyed teaching English because I love learning and teaching languages. I started teaching English in 2022 after earning my bachelor's degree. Since I love learning languages, I am eager to help you overcome your struggles and barriers. I can assist you with speaking, grammar, writing, and vocabulary building.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "arabic",
+            "level": 7
+          }
+        ],
+        "first_valid_time": "2025-03-09T05:50:55Z",
+        "session_count": 0,
+        "pro_rating": "0.0",
+        "tutor_rating": "0.0",
+        "overall_rating": "0.0",
+        "qiniu_video_url": "https://v.italki.cn/12E3B501-C9A7-44E7-A013-810FBFE6EABC.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/lIUqulGROhk.jpg",
+        "teacher_material_list": [
+          2,
+          7,
+          9,
+          6,
+          8,
+          1
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello, my name is Khadija. I am from Morocco, and Arabic is my mother tongue. English is my second language, and I speak it fluently as I studied it at Ibn Tofail University in Morocco. I also have a TESOL certification.\n\nI have always enjoyed teaching English because I love learning and teaching languages. I started teaching English in 2022 after earning my bachelor's degree. Since I love learning languages, I am eager to help you overcome your struggles and barriers. I can assist you with speaking, grammar, writing, and vocabulary building.",
+        "about_teacher": "I am patient and understanding. Learning a language can be difficult and challenging, but I want to assist you in speaking English effortlessly and confidently. I use different teaching styles, especially for speaking and grammar. I incorporate stories to help my students speak quickly, effortlessly, and, more importantly, with confidence.\n\nI teach both teenagers and kids.",
+        "teaching_style": "My lessons will be tailored to your needs. Our first class will focus on getting to know your hopes, goals, and other important aspects. Please feel free to message me whenever you need a class.  \n\nI love assisting people in achieving their goals, especially when it comes to learning English. I use my own teaching style, incorporating stories and other engaging methods to help students feel at ease and learn in an enjoyable way. This ensures that they never forget what they have learned.",
+        "is_student_full": 0,
+        "student_count": 0,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2025-03-09T05:50:54+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Ibn Tofail University",
+            "major": "English studies",
+            "level": 1,
+            "start_year": 2017,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2024-07-16T10:54:18Z",
+            "edu_id": "6EF37DE3-C556-4FB4-8A79-4C3EAEB33E4A"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1000,
+        "trial_session_count": 0,
+        "trial_description": "Welcome to your first step in improving your English! My 30-minute trial lesson is designed to help me understand your learning goals, assess your current level, and give you a taste of my teaching style.  \n\n\ud83d\udd39 What to Expect? \n\u2705 A warm and friendly introduction to help you feel comfortable.  \n\u2705 A short conversation to assess your English level.  \n\u2705 A mini-lesson tailored to your needs (speaking, grammar, vocabulary, etc.).  \n\u2705 Feedback on your strengths and areas for improvement.  \n\u2705 A discussion about how we can work together to achieve your goals.  \n\nBy the end of the trial, you\u2019ll have a clear idea of how my lessons work and how I can help you improve. Book your trial now, and let\u2019s start your language journey together! \ud83d\ude80\ud83d\ude0a"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 23209976
+      },
+      "pro_course_detail": [
+        {
+          "id": 262926,
+          "teacher_id": 23209976,
+          "language": "english",
+          "title": "English basics for beginners and intermediates",
+          "description": "In my lessons, students can expect to improve their speaking, listening, reading, and writing skills in an engaging and interactive way. Whether you are a beginner looking to build a strong foundation in English or a low -intermediate learner aiming for fluency and accuracy, my lessons are tailored to meet your needs. Instead of following a single textbook, I use a variety of authentic materials , including articles, videos, conversation exercises, and customized worksheets, to create a dynamic and effective learning experience. My approach is communicative and practical, focusing on real-life conversations, role-plays, grammar practice, and vocabulary building  to help students gain confidence and improve naturally. Beginners will focus on  basic communication skills, pronunciation, and essential vocabulary, while low-intermediate learners will work on fluency, advanced grammar, and natural expressions . I also provide listening activities, reading tasks, and structured exercises  to ensure a well-rounded learning journey. Each lesson is personalized to help you achieve your goals in a fun and supportive environment.",
+          "level_lower_limit": 2,
+          "level_up_limit": 3,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-08T17:26:15Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 262926,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 824819
+            },
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 262926,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 824820
+            },
+            {
+              "package_price": 7500,
+              "session_price": 500,
+              "course_id": 262926,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 824821
+            },
+            {
+              "package_price": 10000,
+              "session_price": 500,
+              "course_id": 262926,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 824822
+            },
+            {
+              "package_price": 4500,
+              "session_price": 1000,
+              "course_id": 262926,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 824815
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1000,
+              "course_id": 262926,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 824816
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1000,
+              "course_id": 262926,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 824817
+            },
+            {
+              "package_price": 18000,
+              "session_price": 1000,
+              "course_id": 262926,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 824818
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 0,
+        "response_rate": 0,
+        "attendance_rate": 0,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 9377391,
+        "nickname": "Dasha \ud83c\udf93",
+        "avatar_file_name": "9T093773910",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "MD",
+        "is_online": 1,
+        "living_country_id": "IT",
+        "origin_city_id": "MD00001",
+        "origin_city_name": "Chisinau",
+        "living_city_id": "IT00051",
+        "living_city_name": "Venice",
+        "timezone": "Europe/Chisinau",
+        "last_login_time": "2025-04-01T20:54:48+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/992xGOOVMJw",
+        "video_pic_url": "https://img.youtube.com/vi/992xGOOVMJw/0.jpg",
+        "intro": "Hi, I'm Daria! I'm a multilingual teacher, translator and interpreter fluent in Romanian, Russian, English, Italian, with working knowledge of German and French. I have a degree in Philosophy, International, and Economic Studies from Ca' Foscari University of Venice. \ud83c\udf93 I wrote my final dissertation on the ethics of organ transplant. I've worked on academic, business, and cultural projects, providing both translation and consecutive interpretation for international NGOs and other organizations. \ud83d\udd17 I love travelling and I visited 13 countries in Europe and America. \ud83c\udf0d Beside my academic interest in philosophy and passion for languages I am an artist and I love dedicating my time to painting.",
+        "short_signature": "multilingual specialist with over 5 years of experience, BA in Philosophy and Politics in Italy",
+        "teach_language": [
+          {
+            "language": "romanian",
+            "level": 7
+          },
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "italian",
+            "level": 5
+          },
+          {
+            "language": "german",
+            "level": 2
+          },
+          {
+            "language": "french",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-07-01T18:22:01Z",
+        "session_count": 545,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/4331CD1D-C5BA-4422-8BB1-B57375910B39.mp4",
+        "cover_name": "u/9377391/cover/cv623djjcobru6937kr0.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/992xGOOVMJw.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi, I'm Daria! I'm a multilingual teacher, translator and interpreter fluent in Romanian, Russian, English, Italian, with working knowledge of German and French. I have a degree in Philosophy, International, and Economic Studies from Ca' Foscari University of Venice. \ud83c\udf93 I wrote my final dissertation on the ethics of organ transplant. I've worked on academic, business, and cultural projects, providing both translation and consecutive interpretation for international NGOs and other organizations. \ud83d\udd17 I love travelling and I visited 13 countries in Europe and America. \ud83c\udf0d Beside my academic interest in philosophy and passion for languages I am an artist and I love dedicating my time to painting.",
+        "about_teacher": "\u2714\ufe0f Not only will we learn the language, but also - how to actually use it!\n\u2714\ufe0f I aim to create a supportive and engaging learning environment tailored to each student\u2019s needs. My experience as a multilingual translator and interpreter has given me deep insight into the challenges of language learning, which helps me guide students effectively. \n\u2714\ufe0f I focus on practical communication skills while also improving grammar, vocabulary, and cultural understanding. I am highly adaptable and I am open to teaching students of any age and language level. Don't worry to be spontaneous and ask questions during the class - we can switch the topic and lesson plan!",
+        "teaching_style": "The content of the lesson varies by the type of lesson you choose:\n\u2714\ufe0f Conversation practice lessons focus largely on speaking and maintaining a natural flow of conversation in the language that you are learning. We can spontaneously choose different topics for discussion or talk about a text or article chosen in advance. Feel free to ask me to do job interview preparation.\n\u2714\ufe0f Grammar, writing and vocabulary classes are more structured and are focused on a systematic approach to grammar rules and vocabulary lists. You can also tell me in advance if you would like us to focus on specific grammar topics of your choice. Or I will prepare something  general for your level.",
+        "is_student_full": 0,
+        "student_count": 161,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-07-01T20:29:26+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "\"Ca'Foscari\" Univesrity of Venice",
+            "major": "Philosophy, International and Economic Studies",
+            "level": 1,
+            "start_year": 2022,
+            "end_year": 2025,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2023-02-21T20:43:57Z",
+            "edu_id": "B36DFEA3-D1C0-4B2B-8E1C-71D023E05A0C"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 600,
+        "min_price": 1100,
+        "trial_session_count": 0,
+        "trial_description": "If you haven't made up your mind yet whether I'm the suitable tutor for you, or you just want us to get to know each other before starting the actual classes, a trial lesson is the perfect option for you. We can use this class for introducing ourselves, for discussing the further study plan and choosing a learning strategy."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 9377391
+      },
+      "pro_course_detail": [
+        {
+          "id": 159792,
+          "teacher_id": 9377391,
+          "language": "russian",
+          "title": "Russian conversation practice with native speaker",
+          "description": "In this class, we will focus on improving your conversational skills in a relaxed yet productive setting. Here's what to expect:\n\n\u2714\ufe0f Flexible Topics:\n\u2022 Discuss topics of your interest.\n\u2022 Engage in natural, free-flowing conversations.\n\n\u2714\ufe0f Feedback and Improvement:\n\u2022 Upon request, I can point out grammar and pronunciation mistakes.\n\u2022 I\u2019ll help you expand your vocabulary with new words and useful phrases.\n\n\u2714\ufe0f Supportive Environment:\n\u2022 Relaxed and encouraging atmosphere.\n\u2022 Focus on building confidence in speaking.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1100,
+          "student_count": 40,
+          "session_count": 171,
+          "create_time": "2021-07-01T19:29:51Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 159792,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 389721
+            },
+            {
+              "package_price": 4000,
+              "session_price": 800,
+              "course_id": 159792,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 389722
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1100,
+              "course_id": 159792,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 389719
+            },
+            {
+              "package_price": 7000,
+              "session_price": 1400,
+              "course_id": 159792,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 389720
+            }
+          ]
+        },
+        {
+          "id": 162569,
+          "teacher_id": 9377391,
+          "language": "romanian",
+          "title": "Romanian grammar, reading and writing practice",
+          "description": "This class focuses on improving your grammar and writing skills in Romanian. Here's what to expect:\n\n\u2714\ufe0f Grammar and Writing Focus:\n\u2022 Analyze and revise key grammar rules.\n\u2022 Practice writing to reinforce understanding.\n\n\u2714\ufe0f Learning Materials:\n\u2022 Homework assignments to support your progress.\n\u2022 Additional resources and support materials provided.\n\n\u2714\ufe0f Personalized Support:\n\u2022 Guidance tailored to your learning pace and needs.\n\u2022 Opportunity to ask questions and clarify doubts.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0006"
+          ],
+          "session_price": 1500,
+          "student_count": 17,
+          "session_count": 29,
+          "create_time": "2021-07-10T07:52:45Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 162569,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 397443
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 162569,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 397444
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1500,
+              "course_id": 162569,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 397442
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1800,
+              "course_id": 162569,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 397445
+            }
+          ]
+        },
+        {
+          "id": 162570,
+          "teacher_id": 9377391,
+          "language": "english",
+          "title": "English conversation practice",
+          "description": "This class is designed to improve your conversational skills in English through engaging and productive discussions. Here's what to expect:\n\n\u2714\ufe0f Structured yet Flexible:\n\u2022 Choose a discussion topic or a series of questions before the class.\n\u2022 Engage in a natural, free-flowing conversation.\n\n\u2714\ufe0f Feedback and Improvement:\n\u2022 I correct your mistakes and provide guidance on grammar and pronunciation.\n\u2022 Learn new vocabulary and useful expressions during the conversation.\n\n\u2714\ufe0f Supportive Atmosphere:\n\u2022 Relaxed and encouraging environment.\n\u2022 Focus on building fluency and confidence in speaking.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1100,
+          "student_count": 56,
+          "session_count": 183,
+          "create_time": "2021-07-10T07:58:28Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6000,
+              "session_price": 600,
+              "course_id": 162570,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 397449
+            },
+            {
+              "package_price": 3320,
+              "session_price": 800,
+              "course_id": 162570,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 397450
+            },
+            {
+              "package_price": 11000,
+              "session_price": 1100,
+              "course_id": 162570,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 397448
+            },
+            {
+              "package_price": 7000,
+              "session_price": 1400,
+              "course_id": 162570,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 397451
+            }
+          ]
+        },
+        {
+          "id": 171453,
+          "teacher_id": 9377391,
+          "language": "english",
+          "title": "English grammar, reading and writing.",
+          "description": "This class focuses on improving your grammar, reading, and writing skills in English. Here's what to expect:\n\n\u2714\ufe0f Grammar and Writing Practice:\n\u2022 Learn and apply key grammar rules.\n\u2022 Develop your writing skills through targeted exercises.\n\n\u2714\ufe0f Reading Improvement:\n\u2022 Practice reading for better comprehension and vocabulary building.\n\u2022 Discuss and analyze texts to deepen understanding.\n\n\u2714\ufe0f Learning Materials:\n\u2022 Support materials provided during the lesson.\n\u2022 Homework assignments to reinforce learning.\n\n\u2714\ufe0f Personalized Guidance:\n\u2022 Tailored feedback and support to meet your learning goals.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1500,
+          "student_count": 3,
+          "session_count": 21,
+          "create_time": "2021-08-07T08:07:19Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 171453,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 422611
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 171453,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 422612
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1500,
+              "course_id": 171453,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 422610
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1800,
+              "course_id": 171453,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 422613
+            }
+          ]
+        },
+        {
+          "id": 234632,
+          "teacher_id": 9377391,
+          "language": "romanian",
+          "title": "Romanian conversation practice with native speaker",
+          "description": "Improve your Romanian speaking skills through engaging and natural conversations with a native speaker. Here's what to expect:\n\n\u2714\ufe0fFlexible Topics:\n\u2022 Discuss topics of your interest.\n\u2022 Engage in natural, free-flowing conversations.\n\n\u2714\ufe0f Feedback and Improvement:\n\u2022 Upon request, I can correct grammar and pronunciation mistakes.\n\u2022 I\u2019ll help you learn new vocabulary and useful expressions.\n\n\u2714\ufe0f Supportive Environment:\n\u2022 Relaxed and encouraging atmosphere.\n\u2022 Focus on building fluency and confidence in speaking.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1100,
+          "student_count": 15,
+          "session_count": 63,
+          "create_time": "2023-02-18T21:52:29Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 234632,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 615922
+            },
+            {
+              "package_price": 4000,
+              "session_price": 800,
+              "course_id": 234632,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 615923
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1100,
+              "course_id": 234632,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 615921
+            },
+            {
+              "package_price": 7000,
+              "session_price": 1400,
+              "course_id": 234632,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 615924
+            }
+          ]
+        },
+        {
+          "id": 248840,
+          "teacher_id": 9377391,
+          "language": "russian",
+          "title": "Russian grammar and reading",
+          "description": "This class combines conversation practice with targeted grammar and language learning. Here's what to expect:\n\n\u2714\ufe0f Grammar and Language Focus:\n\u2022 Practice speaking Russian in a natural conversation.\n\u2022 Focus on specific grammar topics and language structures.\n\n\u2714\ufe0f Flexible Topics:\n\u2022 The student can choose topics or ask specific questions.\n\u2022 If no preferences are given, I will suggest suitable topics based on the student\u2019s level and interests.\n\n\u2714\ufe0f Reading Practice:\n\u2022 Improve reading comprehension and vocabulary.\n\u2022 Discuss and analyze texts to reinforce understanding.\n\n\u2714\ufe0f Personalized Support:\n\u2022 Tailored guidance to strengthen your language skills.\n\u2022 Feedback on grammar, pronunciation, and vocabulary.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0003",
+            "T0006"
+          ],
+          "session_price": 1500,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-07-18T13:26:57Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 248840,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 665946
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 248840,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 665945
+            },
+            {
+              "package_price": 7000,
+              "session_price": 1500,
+              "course_id": 248840,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 665943
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1800,
+              "course_id": 248840,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 665944
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 11.0
+          },
+          {
+            "month": 2,
+            "data": 37.0
+          },
+          {
+            "month": 3,
+            "data": 80.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.93
+          },
+          {
+            "month": 2,
+            "data": 0.95
+          },
+          {
+            "month": 3,
+            "data": 0.98
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 545,
+        "response_rate": 0.97,
+        "attendance_rate": 0.98,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 11799904,
+        "nickname": "Valeria Budden",
+        "avatar_file_name": "7T117999040",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "MD",
+        "is_online": 0,
+        "living_country_id": "MD",
+        "origin_city_id": "MD00001",
+        "origin_city_name": "Chisinau",
+        "living_city_id": "MD00001",
+        "living_city_name": "Chisinau",
+        "timezone": "Europe/Amsterdam",
+        "last_login_time": "2025-04-01T14:23:54+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/c15eduFRSeQ",
+        "video_pic_url": "https://img.youtube.com/vi/c15eduFRSeQ/0.jpg",
+        "intro": "English\nHello, my name is Valeria. I am fluent in Russian, my native language, and English, which I mastered to an advanced level. I love traveling, meeting new people, and learning about diverse cultures and traditions. I also enjoy reading books and watching series and movies, so I\u2019m confident we\u2019ll have plenty of shared interests to make our lessons enjoyable and engaging.\n\nRussian\n\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435, \u043c\u0435\u043d\u044f \u0437\u043e\u0432\u0443\u0442 \u0412\u0430\u043b\u0435\u0440\u0438\u044f. \u041c\u043e\u0439 \u0440\u043e\u0434\u043d\u043e\u0439 \u044f\u0437\u044b\u043a \u2014 \u0440\u0443\u0441\u0441\u043a\u0438\u0439, \u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u044f \u0432\u044b\u0443\u0447\u0438\u043b\u0430 \u0434\u043e \u0432\u044b\u0441\u043e\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f. \u042f \u043b\u044e\u0431\u043b\u044e \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u044c\u0441\u044f \u0441 \u043d\u043e\u0432\u044b\u043c\u0438 \u043b\u044e\u0434\u044c\u043c\u0438, \u0443\u0437\u043d\u0430\u0432\u0430\u0442\u044c \u043e \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430\u0445 \u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u044f\u0445. \u0422\u0430\u043a\u0436\u0435 \u044f \u043b\u044e\u0431\u043b\u044e \u0447\u0438\u0442\u0430\u0442\u044c \u043a\u043d\u0438\u0433\u0438 \u0438 \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u0435\u0440\u0438\u0430\u043b\u044b, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043d\u0430\u0448\u0438 \u0443\u0440\u043e\u043a\u0438 \u0442\u043e\u0447\u043d\u043e \u0431\u0443\u0434\u0443\u0442 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u043c\u0438 \u0438 \u043f\u043e\u0437\u043d\u0430\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "romanian",
+            "level": 4
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-12-10T14:34:59Z",
+        "session_count": 595,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/478BB7F1-7FAD-4958-9F40-4D5B267468EC.mp4",
+        "cover_name": "u/11799904/cover/cu35cv85sj2piqepc7sg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/c15eduFRSeQ.jpg",
+        "teacher_material_list": [
+          8,
+          4,
+          5,
+          6
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "English\nHello, my name is Valeria. I am fluent in Russian, my native language, and English, which I mastered to an advanced level. I love traveling, meeting new people, and learning about diverse cultures and traditions. I also enjoy reading books and watching series and movies, so I\u2019m confident we\u2019ll have plenty of shared interests to make our lessons enjoyable and engaging.\n\nRussian\n\u0417\u0434\u0440\u0430\u0432\u0441\u0442\u0432\u0443\u0439\u0442\u0435, \u043c\u0435\u043d\u044f \u0437\u043e\u0432\u0443\u0442 \u0412\u0430\u043b\u0435\u0440\u0438\u044f. \u041c\u043e\u0439 \u0440\u043e\u0434\u043d\u043e\u0439 \u044f\u0437\u044b\u043a \u2014 \u0440\u0443\u0441\u0441\u043a\u0438\u0439, \u0430 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u044f \u0432\u044b\u0443\u0447\u0438\u043b\u0430 \u0434\u043e \u0432\u044b\u0441\u043e\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f. \u042f \u043b\u044e\u0431\u043b\u044e \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u044c\u0441\u044f \u0441 \u043d\u043e\u0432\u044b\u043c\u0438 \u043b\u044e\u0434\u044c\u043c\u0438, \u0443\u0437\u043d\u0430\u0432\u0430\u0442\u044c \u043e \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0430\u0445 \u0438 \u0442\u0440\u0430\u0434\u0438\u0446\u0438\u044f\u0445. \u0422\u0430\u043a\u0436\u0435 \u044f \u043b\u044e\u0431\u043b\u044e \u0447\u0438\u0442\u0430\u0442\u044c \u043a\u043d\u0438\u0433\u0438 \u0438 \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u0435\u0440\u0438\u0430\u043b\u044b, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043d\u0430\u0448\u0438 \u0443\u0440\u043e\u043a\u0438 \u0442\u043e\u0447\u043d\u043e \u0431\u0443\u0434\u0443\u0442 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u043c\u0438 \u0438 \u043f\u043e\u0437\u043d\u0430\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u043c\u0438.",
+        "about_teacher": "I\u2019m not a professional teacher, but I learned English on my own, so I truly understand the exciting yet challenging journey of mastering a new language. I\u2019ll be happy to share my favorite study techniques and support you every step of the way. My teaching approach focuses on constant practice, as I believe speaking is the best way to learn. During our lessons, we\u2019ll talk a lot\u2014don\u2019t worry about the size of your vocabulary, we\u2019ll build it together while having fun and meaningful conversations!",
+        "teaching_style": "English\nI\u2019m excited to work with people from all over the world! In our lessons, we\u2019ll improve your English and Russian speaking skills through engaging conversations. We\u2019ll organize our sessions in a way that\u2019s enjoyable for both of us, and you\u2019ll have the freedom to choose the topics that interest you most. Let\u2019s start speaking and have fun together!\n\nRussian\n\u042f \u0440\u0430\u0434\u0430 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0441 \u043b\u044e\u0434\u044c\u043c\u0438 \u0440\u0430\u0437\u043d\u044b\u0445 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0435\u0439 \u0441\u043e \u0432\u0441\u0435\u0433\u043e \u043c\u0438\u0440\u0430! \u041d\u0430 \u0443\u0440\u043e\u043a\u0430\u0445 \u043c\u044b \u0431\u0443\u0434\u0435\u043c \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0442\u044c \u0412\u0430\u0448\u0438 \u043d\u0430\u0432\u044b\u043a\u0438 \u043e\u0431\u0449\u0435\u043d\u0438\u044f \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u0438 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0430\u0445 \u0447\u0435\u0440\u0435\u0437 \u0443\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0431\u0435\u0441\u0435\u0434\u044b. \u041c\u044b \u0441\u0434\u0435\u043b\u0430\u0435\u043c \u0437\u0430\u043d\u044f\u0442\u0438\u044f \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u043c\u0438 \u0438 \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u044b\u043c\u0438 \u0434\u043b\u044f \u043d\u0430\u0441 \u043e\u0431\u043e\u0438\u0445, \u0438 \u0412\u044b \u0432\u0441\u0435\u0433\u0434\u0430 \u0441\u043c\u043e\u0436\u0435\u0442\u0435 \u0432\u044b\u0431\u0440\u0430\u0442\u044c \u0442\u0435\u043c\u044b \u0434\u043b\u044f \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u044f. \u0414\u0430\u0432\u0430\u0439\u0442\u0435 \u043d\u0430\u0447\u043d\u0451\u043c \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u0438 \u0432\u0435\u0441\u0435\u043b\u043e \u043f\u0440\u043e\u0432\u043e\u0434\u0438\u0442\u044c \u0432\u0440\u0435\u043c\u044f \u0432\u043c\u0435\u0441\u0442\u0435",
+        "is_student_full": 0,
+        "student_count": 123,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-12-10T14:34:59+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 1
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 1400,
+        "trial_session_count": 0,
+        "trial_description": "Hello everyone! If you find Russian or English languages very interesting to learn and speak-  then this lesson is exactly what you need. My main goal is to make our lessons simple, funny and productive at the same time. In this lesson you'll be able to choose your own comfortable way of learning. Any topics you find interesting will be discussed together in very friendly and easy going vibes. I truly believe that one of the best ways of learning a language is speaking as much as possible, and that's exactly what we will do together"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 11799904
+      },
+      "pro_course_detail": [
+        {
+          "id": 200909,
+          "teacher_id": 11799904,
+          "language": "russian",
+          "title": "Improving Russian speaking skills",
+          "description": "On these lessons we will be discussing different topics and learn usefull words for fluent speaking. During our chats we will learn loads of specific phrases and will figure out how to talk like a native Russian speaker",
+          "level_lower_limit": 3,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 25,
+          "session_count": 125,
+          "create_time": "2021-12-10T13:24:17Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 200909,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 508700
+            },
+            {
+              "package_price": 6500,
+              "session_price": 1300,
+              "course_id": 200909,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 508701
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1500,
+              "course_id": 200909,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 508699
+            }
+          ]
+        },
+        {
+          "id": 201075,
+          "teacher_id": 11799904,
+          "language": "english",
+          "title": "Improving English speaking skills",
+          "description": "This lesson will be good for anybody who just wants to talk  and imrove  Englsih speaking skills. We will be discussing different topics, describing pictures and expanding vocabulary",
+          "level_lower_limit": 2,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1400,
+          "student_count": 68,
+          "session_count": 426,
+          "create_time": "2021-12-11T12:47:14Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4500,
+              "session_price": 900,
+              "course_id": 201075,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 509158
+            },
+            {
+              "package_price": 6000,
+              "session_price": 1200,
+              "course_id": 201075,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 588465
+            },
+            {
+              "package_price": 7000,
+              "session_price": 1400,
+              "course_id": 201075,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 509159
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 3.0
+          },
+          {
+            "month": 1,
+            "data": 4.0
+          },
+          {
+            "month": 2,
+            "data": 10.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 0.8
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 595,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 12630912,
+        "nickname": "Vasila \u2728\ufe0f",
+        "avatar_file_name": "1T126309120",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "ME",
+        "is_online": 0,
+        "living_country_id": "ME",
+        "origin_city_id": "ME00031",
+        "origin_city_name": "Herceg Novi",
+        "living_city_id": "ME00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/Belgrade",
+        "last_login_time": "2025-04-01T18:04:48+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/gus1xsMtrUc",
+        "video_pic_url": "https://img.youtube.com/vi/gus1xsMtrUc/0.jpg",
+        "intro": "Hello everyone and welcome to my profile!\nI invite you to check out my profile, where you will find more about lessons I offer with description and price, and an introductory video in each of the languages \u200b\u200bI teach.\n\ud83d\udcab\ud83d\udcab\ud83d\udcabI have conducted over 1000 classes, which is a special honor for me and I am grateful for that opportunity!\ud83d\udcab\ud83d\udcab\ud83d\udcab",
+        "short_signature": "\ud83d\udcab friendly atmosphere and simple teaching style \ud83d\udcab",
+        "teach_language": [
+          {
+            "language": "serbian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          },
+          {
+            "language": "german",
+            "level": 6
+          },
+          {
+            "language": "russian",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2022-02-07T23:15:56Z",
+        "session_count": 1349,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/4B2EEC95-EBCE-476A-A758-97271C371C2A.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/gus1xsMtrUc.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          5,
+          6,
+          8,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello everyone and welcome to my profile!\nI invite you to check out my profile, where you will find more about lessons I offer with description and price, and an introductory video in each of the languages \u200b\u200bI teach.\n\ud83d\udcab\ud83d\udcab\ud83d\udcabI have conducted over 1000 classes, which is a special honor for me and I am grateful for that opportunity!\ud83d\udcab\ud83d\udcab\ud83d\udcab",
+        "about_teacher": "I am delighted to be able to offer my students knowledge and support in their learning process. Helping others is important to me and  I enjoy sharing materials and guidelines I have come up with.\nOn top of everything else, I love working on Italki, when we can learn from each other and as a tourism manager by profession, I find contact with people from other countries motivating. \n\nI will try to do my best to fit your needs according to lesson duration, frequency and your devotion to the task. At the end of a lesson, you are very likely to be given homework to make sure you absorbed all the teaching material.",
+        "teaching_style": "When it comes to my teaching style, I speak intelligibly and this is the main reason I consider myself a good interlocutor, but a skilled and patient listener too. \nIt is my pleasure to see my students asking for help whenever they need it.\nIf you want to know more, message me and I will share with you some basic recommendations, as well as a lesson plan, so that you can see if working with me would suit you. Feel free to schedule a trial lesson, so that we can get to know each other and talk about your wishes when it comes to a foreign language.",
+        "is_student_full": 0,
+        "student_count": 233,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-02-07T23:15:56+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 999,
+        "min_price": 1750,
+        "trial_session_count": 0,
+        "trial_description": "Welcome to my trial lesson!\n\nIn this class, your knowledge will be assessed, and you will get a learning plan made just for you. Whatever needs improving -- be it grammar, vocabulary, or speech -- it can be fixed with patience and persistence and there is no obstacle we can't overcome.\n\nOn the other hand, if there is a concept you can't seem to grasp and you'd like it to be clarified in a trial lesson, please let me know in advance by dropping me a message.\n\nI can't wait to get to know you and I'm sure we'll have lots of fun during your English learning journey!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 12630912
+      },
+      "pro_course_detail": [
+        {
+          "id": 211191,
+          "teacher_id": 12630912,
+          "language": "english",
+          "title": "Conversational English",
+          "description": "Solidify your knowledge and improve your verbal fluency by engaging in spontaneous, real time conversation!\nThese lessons are usually casual and informal. We can decide on a topic beforehand \u2013 or you can leave it up to me to pick an interesting subject for us to talk about.\n\nExpect homework -- but don't worry, it won't be that difficult! Students usually have to write a short essay, or complete an exercise. Homework is not daunting and is of great use to students!",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1750,
+          "student_count": 25,
+          "session_count": 179,
+          "create_time": "2022-02-07T22:06:10Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4999,
+              "session_price": 1099,
+              "course_id": 211191,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 538482
+            },
+            {
+              "package_price": 7498,
+              "session_price": 1599,
+              "course_id": 211191,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 556106
+            },
+            {
+              "package_price": 7998,
+              "session_price": 1750,
+              "course_id": 211191,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 538481
+            }
+          ]
+        },
+        {
+          "id": 211369,
+          "teacher_id": 12630912,
+          "language": "german",
+          "title": "German Grammar, Reading and Writing",
+          "description": "Ein st\u00e4ndiges Lernen wird dir helfen, dich auf Deutsch besser auszudr\u00fccken und die Sprache gut zu verstehen. \nIch biete zwei Stundenarten an-\nGrammatik- wo wir uns auf grammatische Regeln, Aufs\u00e4tze schreiben und Wortschatz konzentrieren,\nund Konversation- wo wir \u00fcber verschiedene Themen aus unserem Buch oder Websites diskutieren. \nDie Hausaufgaben sind, meiner Meinung nach, der wichtigste Teil des Lernens und ohne das k\u00f6nnen wir keinen Fortschritt machen. W\u00f6rterb\u00fccher sind auf jeden Fall nicht nur erlaubt sondern n\u00f6tig.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1798,
+          "student_count": 70,
+          "session_count": 468,
+          "create_time": "2022-02-08T21:57:35Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4999,
+              "session_price": 1099,
+              "course_id": 211369,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 539039
+            },
+            {
+              "package_price": 7498,
+              "session_price": 1599,
+              "course_id": 211369,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 546123
+            },
+            {
+              "package_price": 8399,
+              "session_price": 1798,
+              "course_id": 211369,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 539038
+            }
+          ]
+        },
+        {
+          "id": 211372,
+          "teacher_id": 12630912,
+          "language": "german",
+          "title": "Conversational German",
+          "description": "Ich biete zwei Stundenarten an-\nGrammatik- wo wir uns auf grammatische Regeln, Aufs\u00e4tze schreiben und Wortschatz konzentrieren,\nund Koversation- wo wir \u00fcber verschiedene Themen aus unserem Buch oder Websites diskutieren.  \n\nEgal aus welchem Grund du die deutsche Sprache lernst, Sprechen ist eine der wichtigsten Phasen im Unterricht! :)\n\n*** keine Small-Talk Gespr\u00e4che bei mir",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2199,
+          "student_count": 60,
+          "session_count": 223,
+          "create_time": "2022-02-08T22:02:17Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5899,
+              "session_price": 1299,
+              "course_id": 211372,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 539045
+            },
+            {
+              "package_price": 8199,
+              "session_price": 1798,
+              "course_id": 211372,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 546122
+            },
+            {
+              "package_price": 10199,
+              "session_price": 2199,
+              "course_id": 211372,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 797405
+            }
+          ]
+        },
+        {
+          "id": 212010,
+          "teacher_id": 12630912,
+          "language": "russian",
+          "title": "Conversational Russian- \u041e\u0431\u0449\u0438\u0439 \u0440\u0443\u0441\u0441\u043a\u0438\u0439",
+          "description": "-\u0421\u0430\u043c\u044b\u0435 \u043d\u0443\u0436\u043d\u044b\u0435 \u0444\u0440\u0430\u0437\u044b \u0432 \u043e\u0431\u044b\u0447\u043d\u043e\u0439 \u0436\u0438\u0437\u043d\u0438. \n-\u041a\u0430\u043a \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u0432\u0435\u0441\u0442\u0438 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440.\n-\u0415\u0441\u043b\u0438 \u0445\u043e\u0442\u0438\u0442\u0435 \u043f\u043e\u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u043d\u0430\u0434 \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u0435\u043c \u0438 \u0447\u0442\u0435\u043d\u0438\u0435\u043c.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2199,
+          "student_count": 4,
+          "session_count": 19,
+          "create_time": "2022-02-12T14:00:06Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5899,
+              "session_price": 1299,
+              "course_id": 212010,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 541013
+            },
+            {
+              "package_price": 7698,
+              "session_price": 1698,
+              "course_id": 212010,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 797420
+            },
+            {
+              "package_price": 9999,
+              "session_price": 2199,
+              "course_id": 212010,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 797421
+            }
+          ]
+        },
+        {
+          "id": 226200,
+          "teacher_id": 12630912,
+          "language": "serbian",
+          "title": "Conversational Serbian- \u0447\u0430\u0441\u043e\u0432\u0438 \u043a\u043e\u043d\u0432\u0435\u0440\u0437\u0430\u0446\u0438\u0458\u0435 \u043d\u0430 \u0441\u0440\u043f\u0441\u043a\u043e\u043c",
+          "description": "\u0421 \u043e\u0431\u0437\u0438\u0440\u043e\u043c \u0434\u0430 \u043c\u0438 \u0458\u0435 \u043e\u0432\u043e \u043c\u0430\u0442\u0435\u0440\u045a\u0438 \u0458\u0435\u0437\u0438\u043a, \u0440\u0430\u0434\u043e \u045b\u0443 \u0412\u0430\u043c \u043f\u043e\u043d\u0443\u0434\u0438\u0442\u0438 \u043b\u0435\u043a\u0446\u0438\u0458\u0435 \u043e\u0432\u043e\u0433 \u0442\u0438\u043f\u0430. \n\u0412\u0458\u0435\u0440\u0443\u0458\u0435\u043c \u0434\u0430 \u045b\u0435\u0442\u0435 \u0441\u0435 \u043d\u0430 \u043c\u043e\u0458\u0438\u043c \u0447\u0430\u0441\u043e\u0432\u0438\u043c\u0430 \u043e\u0441\u0458\u0435\u045b\u0430\u0442\u0438 \u043f\u043e\u0434\u0440\u0436\u0430\u043d\u043e \u0438 \u0434\u0430 \u045b\u0435 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440 \u0441\u0430 \u043c\u043d\u043e\u043c \u0431\u0438\u0442\u0438 \u043c\u043e\u0442\u0438\u0432\u0438\u0448\u0443\u045b \u0438 \u0437\u0430\u043d\u0438\u043c\u0459\u0438\u0432.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2199,
+          "student_count": 22,
+          "session_count": 237,
+          "create_time": "2022-06-23T13:16:48Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5700,
+              "session_price": 1199,
+              "course_id": 226200,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 584199
+            },
+            {
+              "package_price": 8400,
+              "session_price": 1798,
+              "course_id": 226200,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 584200
+            },
+            {
+              "package_price": 10400,
+              "session_price": 2199,
+              "course_id": 226200,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 584198
+            }
+          ]
+        },
+        {
+          "id": 226201,
+          "teacher_id": 12630912,
+          "language": "serbian",
+          "title": "Serbian Grammar, Reading and Writing- \u0447\u0430\u0441\u043e\u0432\u0438 \u0433\u0440\u0430\u043c\u0430\u0442\u0438\u043a\u0435 \u043d\u0430 \u0441\u0440\u043f\u0441\u043a\u043e\u043c",
+          "description": "\u0410\u043a\u043e \u043f\u043e\u0441\u0442\u043e\u0458\u0435 \u043d\u0435\u0434\u043e\u0443\u043c\u0438\u0446\u0435 \u043e\u043a\u043e \u0431\u0438\u043b\u043e \u043a\u043e\u0458\u0438\u0445 \u0433\u0440\u0430\u043c\u0430\u0442\u0438\u0447\u043a\u0438\u0445 \u0446\u0458\u0435\u043b\u0438\u043d\u0430 \u0443 \u0441\u0440\u043f\u0441\u043a\u043e\u043c \u0458\u0435\u0437\u0438\u043a\u0443, \u0440\u0430\u0434\u043e \u045b\u0443 \u0412\u0430\u043c \u0438\u0437\u0430\u045b\u0438 \u0443 \u0441\u0443\u0441\u0440\u0435\u0442 \u0438 \u043f\u043e\u043c\u043e\u045b\u0438 \u0434\u0430 \u0441\u0430\u0432\u043b\u0430\u0434\u0430\u0442\u0435 \u0434\u0430\u0442\u0430 \u0458\u0435\u0437\u0438\u0447\u043a\u0430 \u043f\u0440\u0430\u0432\u0438\u043b\u0430.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 2199,
+          "student_count": 18,
+          "session_count": 111,
+          "create_time": "2022-06-23T13:22:08Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5700,
+              "session_price": 1199,
+              "course_id": 226201,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 584202
+            },
+            {
+              "package_price": 8100,
+              "session_price": 1698,
+              "course_id": 226201,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 584203
+            },
+            {
+              "package_price": 10400,
+              "session_price": 2199,
+              "course_id": 226201,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 584201
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 13.0
+          },
+          {
+            "month": 2,
+            "data": 6.0
+          },
+          {
+            "month": 3,
+            "data": 14.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 1348,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 47,
+    "price_list": [
+      0,
+      5,
+      7,
+      13,
+      4,
+      7,
+      22,
+      22,
+      36,
+      12,
+      6,
+      23,
+      27,
+      6,
+      26,
+      7,
+      15,
+      11,
+      1,
+      2,
+      0,
+      13,
+      0,
+      6,
+      2,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-0e-46ad-ba83-b39d0ab2d6cf-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 47
+  },
+  "paging": {
+    "page": 3,
+    "page_size": 20,
+    "total": 47,
+    "has_next": 0
+  }
+}

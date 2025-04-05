@@ -1,0 +1,741 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 3807149,
+        "nickname": "Angelo Matamoros",
+        "avatar_file_name": "2T038071490",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NI",
+        "is_online": 0,
+        "living_country_id": "NI",
+        "origin_city_id": "NI00001",
+        "origin_city_name": "Managua",
+        "living_city_id": "NI00016",
+        "living_city_name": "Masaya",
+        "timezone": "America/Guatemala",
+        "last_login_time": "2025-03-25T21:47:37+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/MLSvTAIj9QU",
+        "video_pic_url": "https://img.youtube.com/vi/MLSvTAIj9QU/0.jpg",
+        "intro": "Hello! My name is Angelo and I am from Nicaragua. I would love to help you to improve your language skills. I love to help people therefore improve their skills. I love to share what i know with others. I'v been teaching English and Spanish for 4 years. If you contact me i will really happy to  help you out. In addition to teaching, I love sports, music.... I am looking forward to sharing some tips to help you become a fluent speaker.",
+        "short_signature": "Profesor con Licenciatura en Ingl\u00e9s como lengua extranjera",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 7
+          },
+          {
+            "language": "french",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-06-29T22:05:58Z",
+        "session_count": 127,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/D2C63DF9-772C-4199-BD5D-2902A8CCC222.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/MLSvTAIj9QU.jpg",
+        "teacher_material_list": [
+          9,
+          1,
+          5,
+          7,
+          3,
+          2,
+          4,
+          6,
+          8
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello! My name is Angelo and I am from Nicaragua. I would love to help you to improve your language skills. I love to help people therefore improve their skills. I love to share what i know with others. I'v been teaching English and Spanish for 4 years. If you contact me i will really happy to  help you out. In addition to teaching, I love sports, music.... I am looking forward to sharing some tips to help you become a fluent speaker.",
+        "about_teacher": "I'm patient and friendly, therefore I can use my experience to help you. I know how it feels to be unmotivated while learning a new language and so I will be able to empathise with you. I have given private conversational lessons to adults. These lessons made me realise the importance of understanding the specific needs of each student.",
+        "teaching_style": "I understand that each student is different and I adjust the lessons based on your preferences. I would like to focus on the conversational aspect of language learning. I understand that speaking is not easy for most students because they are afraid of making mistakes. I would like to help you build your confidence by encouraging you to speak frequently.",
+        "is_student_full": 0,
+        "student_count": 28,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "i'm having a fully and busy job schedule",
+        "apply_status": 9,
+        "first_complete_time": "2021-06-30T02:17:31+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "UCA",
+            "major": "ENGLISH LANGUAGE",
+            "level": 10,
+            "description": "Intensive English learning lessons",
+            "start_year": 2018,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2025-01-20T04:29:19Z",
+            "edu_id": "B80EF74C-5DA7-43E6-BFC1-CB0028BECDCE"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [
+          {
+            "id": 15734,
+            "user_id": 3807149,
+            "start_year": 2020,
+            "end_year": 2023,
+            "institution": "Enamanuel Mongalo Y Rubio",
+            "institution_type": "private_education_center",
+            "position": "English Teacher",
+            "country": "NI",
+            "city": "Masaya",
+            "description": "I was the High school English teacher for a couple of year!",
+            "create_at": "2025-01-20T04:28:35Z",
+            "create_by": "3807149",
+            "update_at": "2025-01-20T04:28:35Z",
+            "update_by": "3807149",
+            "status": 1
+          }
+        ],
+        "offline_reason": "i'm having a fully and busy job schedule",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 600,
+        "min_price": 800,
+        "trial_session_count": 0,
+        "trial_description": "During the trial lesson, we get to know each other and I can answer your questions. We will do a task together for 10-15 minutes to help me get a better understanding of your English or Spanish level. After I will ask you to talk about your specific goals and how I can assist you in your growth as an English or Spanish student."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 3807149
+      },
+      "pro_course_detail": [
+        {
+          "id": 159102,
+          "teacher_id": 3807149,
+          "language": "english",
+          "title": "free conversation",
+          "description": "This is casual conversation class. If you have topic you want to talk with me, i\u2019d be glad to know that before class gets started. Let\u2019s study English by having good conversation! \ud83d\udc9c\n\n1. Obviously i will help you to correct grammar, and pronunciation\n\n2. If you have question feel free to ask me!\n\n*I prefer  zoom for better class circumstance*",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 800,
+          "student_count": 7,
+          "session_count": 21,
+          "create_time": "2021-06-30T02:05:54Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5500,
+              "session_price": 800,
+              "course_id": 159102,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 387864
+            }
+          ]
+        },
+        {
+          "id": 159103,
+          "teacher_id": 3807149,
+          "language": "english",
+          "title": "English Grammar lessons",
+          "description": "In this lesson, you will be able to learn communication, reading, pronunciation skills. It'll help you become more confident in your real life. This lesson offers the following,  \n\n*Grammar \n*Pronunciation \n*Basic Phrases & Expressions \n*Extensive Vocabulary    \n*Formal & Informal Conversation",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 800,
+          "student_count": 3,
+          "session_count": 32,
+          "create_time": "2021-06-30T02:09:20Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6500,
+              "session_price": 800,
+              "course_id": 159103,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 387868
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 127,
+        "response_rate": 0.92,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 11246690,
+        "nickname": "Mitchell",
+        "avatar_file_name": "1T112466900",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "NL",
+        "is_online": 0,
+        "living_country_id": "US",
+        "origin_city_id": "NL00061",
+        "origin_city_name": "Haarlem",
+        "living_city_id": "US00171",
+        "living_city_name": "Cape Coral",
+        "timezone": "America/New_York",
+        "last_login_time": "2025-04-01T20:29:32+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/irXc61PpC1Q",
+        "video_pic_url": "https://img.youtube.com/vi/irXc61PpC1Q/0.jpg",
+        "intro": "I am a native Dutch speaker, but have lived in the USA for over ten years. I gained a lot of experience as a Spanish student on Italki. This experience has been so rewarding that I want to share it with you as a tutor on the Italki platform. As you can see from my profile, I offer two categories of lessons, one is a conversation based lesson, which is intended for intermediate - advanced students. The other lesson is for beginner to intermediate students who don't have much experience with the language and need more guidance and explanation using the lesson materials that I will provide.  I believe in learning through active participation, which means you will be speaking from day one.",
+        "short_signature": "Tutor who is excited about helping students reach their language learning goals",
+        "teach_language": [
+          {
+            "language": "dutch",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          },
+          {
+            "language": "spanish",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "russian",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2024-03-14T20:13:45Z",
+        "session_count": 230,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/C30B7726-F596-403E-8A18-08570AE18EFD.mp4",
+        "cover_name": "u/11246690/cover/cok7b7lr7jhm1n2aqmsg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/irXc61PpC1Q.jpg",
+        "teacher_material_list": [
+          1,
+          7,
+          8,
+          9
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 0,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I am a native Dutch speaker, but have lived in the USA for over ten years. I gained a lot of experience as a Spanish student on Italki. This experience has been so rewarding that I want to share it with you as a tutor on the Italki platform. As you can see from my profile, I offer two categories of lessons, one is a conversation based lesson, which is intended for intermediate - advanced students. The other lesson is for beginner to intermediate students who don't have much experience with the language and need more guidance and explanation using the lesson materials that I will provide.  I believe in learning through active participation, which means you will be speaking from day one.",
+        "about_teacher": "I consider myself as a patient teacher and I try to create an environment where students feel comfortable. It's not a problem if you have never spoken the language or have little experience. I can always switch to Dutch, English or Spanish if you get stuck on a sentence or need more explanation in those languages. I will always find a way to guide you through the process",
+        "teaching_style": "In the conversation classes, the teaching style is relaxed and we will discuss a variety of topics. During this lesson, I will identify and correct any grammar, pronunciation or sentence structure errors. This lesson will focus on increasing vocabulary, making mistakes and becoming more comfortable speaking. The other category of lessons will provide the student with all the tools necessary to speak the language correctly. My lessons are designed to explain grammar in a fun and interactive way where the student applies the concepts by speaking. Using context is very important when teaching something new and I will personalize the lessons based on the needs of the student.",
+        "is_student_full": 0,
+        "student_count": 47,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2024-03-14T20:13:45+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Florida Gulf Coast University",
+            "major": "Finance",
+            "level": 1,
+            "start_year": 2013,
+            "end_year": 2016,
+            "status": 1,
+            "create_time": "2024-03-04T18:19:27Z",
+            "edu_id": "944B83D1-BB70-4BE5-9795-C601FF0F291E"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 0,
+        "trial_price": 1300,
+        "min_price": 2350,
+        "trial_session_count": 0,
+        "trial_description": "During the practice lesson we will go through what you want to improve and how we can do that so that you get the most out of it. Based on your knowledge of the language, I will make recommendations on what we can focus on, but always in consultation with you."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 11246690
+      },
+      "pro_course_detail": [
+        {
+          "id": 244778,
+          "teacher_id": 11246690,
+          "language": "dutch",
+          "title": "Conversational Dutch: Building Fluency Through Conversation",
+          "description": "I think this is the most natural and fun way to improve your language skills. Conversations allow the student to acquire the language both through listening and speaking. We can discuss some topics in particular that are interesting to you or perhaps you prefer that I come up with some topics. During the conversation, I will identify and correct you on any grammar, pronunciation or sentence structure errors. The key for this lesson is to increase vocabulary, make mistakes and become acquainted with the language.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2350,
+          "student_count": 30,
+          "session_count": 93,
+          "create_time": "2024-03-14T19:11:27Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1600,
+              "session_price": 1600,
+              "course_id": 244778,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 653390
+            },
+            {
+              "package_price": 2350,
+              "session_price": 2350,
+              "course_id": 244778,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 652601
+            }
+          ]
+        },
+        {
+          "id": 244779,
+          "teacher_id": 11246690,
+          "language": "dutch",
+          "title": "Start Learning Dutch From Scratch",
+          "description": "This lesson is aimed at students who want to learn Dutch but have little to no experience with the language. I will provide the student with all the tools necessary to speak the language correctly. My lessons are designed to explain grammar in a fun and interactive way where the student applies the concepts by speaking. Using context is very important when teaching something new and I will personalize the lessons based on the needs of the student. The lessons materials that I provide will be in English.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 2350,
+          "student_count": 11,
+          "session_count": 30,
+          "create_time": "2024-03-14T20:28:05Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1600,
+              "session_price": 1600,
+              "course_id": 244779,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 653389
+            },
+            {
+              "package_price": 2350,
+              "session_price": 2350,
+              "course_id": 244779,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 652604
+            }
+          ]
+        },
+        {
+          "id": 245779,
+          "teacher_id": 11246690,
+          "language": "english",
+          "title": "Conversational English: Building Fluency Through Conversation",
+          "description": "In this class,  the teaching style is relaxed and we will discuss a variety of topics. During this lesson, I will identify and correct any grammar, pronunciation or sentence structure errors. The key to this lesson is to increase your vocabulary, make mistakes and become more comfortable speaking the language.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2350,
+          "student_count": 5,
+          "session_count": 6,
+          "create_time": "2024-04-26T12:21:03Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1600,
+              "session_price": 1600,
+              "course_id": 245779,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 656013
+            },
+            {
+              "package_price": 2350,
+              "session_price": 2350,
+              "course_id": 245779,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 656012
+            }
+          ]
+        },
+        {
+          "id": 245798,
+          "teacher_id": 11246690,
+          "language": "spanish",
+          "title": "Engaging Lessons To Learn Spanish From Scratch",
+          "description": "This lesson is for beginner to intermediate students who don't have much experience with the language and need more guidance and explanation using the lesson materials that I will provide. The lesson materials will be in English or Dutch. For these lessons, I believe in learning languages through active participation, which means you will be speaking the language from day one. I have created many lessons that provide the student with all the tools necessary to speak the language correctly. My lessons are designed to explain grammar in a fun and interactive way where the student applies the concepts by speaking. Using context is important when teaching something new and I will personalize the lessons based on the student's needs.",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 2350,
+          "student_count": 4,
+          "session_count": 83,
+          "create_time": "2024-04-26T13:25:24Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1600,
+              "session_price": 1600,
+              "course_id": 245798,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 656077
+            },
+            {
+              "package_price": 2350,
+              "session_price": 2350,
+              "course_id": 245798,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 656076
+            }
+          ]
+        },
+        {
+          "id": 245833,
+          "teacher_id": 11246690,
+          "language": "spanish",
+          "title": "Conversation Practice",
+          "description": "In this lesson, the teaching style is relaxed and we will discuss a variety of topics. During this lesson, I will identify and correct any grammar, pronunciation or sentence structure errors. The key to this lesson is to increase your vocabulary, make mistakes and become more comfortable speaking the language.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2350,
+          "student_count": 2,
+          "session_count": 18,
+          "create_time": "2024-04-26T15:25:25Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1600,
+              "session_price": 1600,
+              "course_id": 245833,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 656162
+            },
+            {
+              "package_price": 2350,
+              "session_price": 2350,
+              "course_id": 245833,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 656161
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 13.0
+          },
+          {
+            "month": 2,
+            "data": 2.0
+          },
+          {
+            "month": 3,
+            "data": 8.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 230,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 22,
+    "price_list": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      3,
+      1,
+      3,
+      9,
+      0,
+      6,
+      1,
+      6,
+      3,
+      0,
+      2,
+      1,
+      0,
+      14,
+      5,
+      4,
+      7,
+      0,
+      5,
+      1,
+      5,
+      0,
+      1,
+      0,
+      0,
+      8,
+      3,
+      1,
+      4,
+      0,
+      2,
+      0,
+      1,
+      6,
+      1,
+      2,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-26-48a8-8b0f-a398e2108f80-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 22
+  },
+  "paging": {
+    "page": 2,
+    "page_size": 20,
+    "total": 22,
+    "has_next": 0
+  }
+}

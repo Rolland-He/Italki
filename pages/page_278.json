@@ -1,0 +1,4445 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 17502811,
+        "nickname": "Joy",
+        "avatar_file_name": "4T175028110",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KE",
+        "is_online": 0,
+        "living_country_id": "QA",
+        "origin_city_id": "KE00001",
+        "origin_city_name": "Nairobi",
+        "living_city_id": "QA00001",
+        "living_city_name": "Doha",
+        "timezone": "Asia/Qatar",
+        "last_login_time": "2025-04-01T20:40:02+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/Dt-PemdRbvw",
+        "video_pic_url": "https://img.youtube.com/vi/Dt-PemdRbvw/0.jpg",
+        "intro": "Hello everyone. My name is Joy and i'm a English and Swahili native speaker and planning to learn Arabic (gulf). \n\nI was born in Kenya, the coastal part of the country and raised in Qatar.  I love travelling, skating and cycling. I also enjoy documentary movies and learning new things everyday. \n\nJambo wanafunzi wa Italki.  Jina langu ni Joy na mimi ni mzungumzaji wa Kiingereza na Kiswahili na ninapanga kujifunza Kiarabu. \n\nNilizaliwa nchini Kenya, sehemu ya pwani ya nchi na nililelewa Qatar. Ninapenda kusafiri, kuteleza na kuendesha baiskeli.\n\nPia ninafurahia filamu za hali halisi na kutegemea mambo mapya kila siku.",
+        "short_signature": "Swahili and English tutor",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "swahili",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "arabic(gulf)",
+            "level": 6
+          }
+        ],
+        "first_valid_time": "2023-03-05T14:03:58Z",
+        "session_count": 81,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/5CEC4FC9-3FEA-4656-ADC4-D0EFC57CE787.mp4",
+        "cover_name": "u/17502811/cover/cgepefqpj1pp6pb26iog.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/Dt-PemdRbvw.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello everyone. My name is Joy and i'm a English and Swahili native speaker and planning to learn Arabic (gulf). \n\nI was born in Kenya, the coastal part of the country and raised in Qatar.  I love travelling, skating and cycling. I also enjoy documentary movies and learning new things everyday. \n\nJambo wanafunzi wa Italki.  Jina langu ni Joy na mimi ni mzungumzaji wa Kiingereza na Kiswahili na ninapanga kujifunza Kiarabu. \n\nNilizaliwa nchini Kenya, sehemu ya pwani ya nchi na nililelewa Qatar. Ninapenda kusafiri, kuteleza na kuendesha baiskeli.\n\nPia ninafurahia filamu za hali halisi na kutegemea mambo mapya kila siku.",
+        "about_teacher": "I am very attentive, willing, understanding and enjoy teaching. I believe that each learner has different ways of learning, so I'm flexible to my learners preferences. I will also make sure that my students have all the support and help they require during my lessons and provide adequate resources and motivation they will need to achieve in learning swahili",
+        "teaching_style": "My lessons will be directly linked to what goals my students want to achieve in learning Swahili language. Therefore before starting the lessons, I will be in contact with my students to know what form of learning they are comfortable in and their learning style. I also offer conversational lessons that will help my students practice their pronunciations, speaking and grammar. I believe Practice makes perfect!",
+        "is_student_full": 0,
+        "student_count": 22,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2023-03-05T14:03:58+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 2
+          },
+          {
+            "name": "quiz",
+            "created_count": 42
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 700,
+        "min_price": 1400,
+        "trial_session_count": 10,
+        "trial_description": "Book a trial lesson with me and learn more about the beautiful language English and Swahili. In my trial lesson, it will be a glance of how my lessons will be conducted. Join in and lets have fun and learn more about English and Swahili. Karibu sana, welcome"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 17502811
+      },
+      "pro_course_detail": [
+        {
+          "id": 234991,
+          "teacher_id": 17502811,
+          "language": "swahili",
+          "title": "Swahili for beginners / Kiswahili kwa wanaoanza",
+          "description": "Join my beginner Swahili class and start speaking from day one. Perfect for travel, work, or fun. Easy lessons, friendly teacher. Sign up now and let's learn together!\n \n* all are welcome :) *",
+          "level_lower_limit": 1,
+          "level_up_limit": 1,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1400,
+          "student_count": 6,
+          "session_count": 18,
+          "create_time": "2023-03-05T12:49:05Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 234991,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 617408
+            },
+            {
+              "package_price": 7000,
+              "session_price": 700,
+              "course_id": 234991,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 773270
+            },
+            {
+              "package_price": 10500,
+              "session_price": 700,
+              "course_id": 234991,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 773271
+            },
+            {
+              "package_price": 14000,
+              "session_price": 700,
+              "course_id": 234991,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 773272
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 234991,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 773273
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 234991,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 773274
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1000,
+              "course_id": 234991,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 773275
+            },
+            {
+              "package_price": 19500,
+              "session_price": 1000,
+              "course_id": 234991,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 620603
+            },
+            {
+              "package_price": 7000,
+              "session_price": 1400,
+              "course_id": 234991,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 773267
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1400,
+              "course_id": 234991,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 617407
+            },
+            {
+              "package_price": 21000,
+              "session_price": 1400,
+              "course_id": 234991,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 773268
+            },
+            {
+              "package_price": 27000,
+              "session_price": 1400,
+              "course_id": 234991,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 773269
+            },
+            {
+              "package_price": 8000,
+              "session_price": 1600,
+              "course_id": 234991,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 773276
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1600,
+              "course_id": 234991,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 634456
+            },
+            {
+              "package_price": 23000,
+              "session_price": 1600,
+              "course_id": 234991,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 773277
+            },
+            {
+              "package_price": 32000,
+              "session_price": 1600,
+              "course_id": 234991,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 773278
+            }
+          ]
+        },
+        {
+          "id": 234996,
+          "teacher_id": 17502811,
+          "language": "swahili",
+          "title": "Conversation practice / Mazungumzo",
+          "description": "In this lesson we\u2019ll practice speaking, improve your skills, and build your confidence. Perfect for beginners or anyone wanting to get better at Swahili.\n\nBook a class today and start speaking Swahili!\n\nKwa madarasa yangu ya mazungumzo ya Kiswahili, tutajifunza kuongea, kuboresha ujuzi wako, na kujenga kujiamini kwako. Yanafaa kwa wanaoanza au yeyote anayetaka kuboresha Kiswahili chake.\n\nWeka darasa leo na anza kuongea Kiswahili!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1400,
+          "student_count": 5,
+          "session_count": 35,
+          "create_time": "2023-03-05T14:27:20Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 234996,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 617426
+            },
+            {
+              "package_price": 7000,
+              "session_price": 700,
+              "course_id": 234996,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 773286
+            },
+            {
+              "package_price": 10500,
+              "session_price": 700,
+              "course_id": 234996,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 773287
+            },
+            {
+              "package_price": 14000,
+              "session_price": 700,
+              "course_id": 234996,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 773288
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 234996,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 620382
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 234996,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 773289
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1000,
+              "course_id": 234996,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 773290
+            },
+            {
+              "package_price": 19500,
+              "session_price": 1000,
+              "course_id": 234996,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 773291
+            },
+            {
+              "package_price": 7000,
+              "session_price": 1400,
+              "course_id": 234996,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 773283
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1400,
+              "course_id": 234996,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 617425
+            },
+            {
+              "package_price": 21000,
+              "session_price": 1400,
+              "course_id": 234996,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 773284
+            },
+            {
+              "package_price": 27000,
+              "session_price": 1400,
+              "course_id": 234996,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 773285
+            },
+            {
+              "package_price": 8000,
+              "session_price": 1600,
+              "course_id": 234996,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 773292
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1600,
+              "course_id": 234996,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 634457
+            },
+            {
+              "package_price": 23000,
+              "session_price": 1600,
+              "course_id": 234996,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 773293
+            },
+            {
+              "package_price": 32000,
+              "session_price": 1600,
+              "course_id": 234996,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 773294
+            }
+          ]
+        },
+        {
+          "id": 259591,
+          "teacher_id": 17502811,
+          "language": "english",
+          "title": "English for Beginners",
+          "description": "Join my beginner English class and start speaking from day one. Perfect for travel, work, or fun. Easy lessons, friendly teacher. Sign up now and let's learn together!\n \n* all are welcome :) *",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0083"
+          ],
+          "session_price": 1400,
+          "student_count": 2,
+          "session_count": 15,
+          "create_time": "2025-01-23T04:08:56Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 259591,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 766357
+            },
+            {
+              "package_price": 7000,
+              "session_price": 700,
+              "course_id": 259591,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 766358
+            },
+            {
+              "package_price": 10500,
+              "session_price": 700,
+              "course_id": 259591,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 766359
+            },
+            {
+              "package_price": 14000,
+              "session_price": 700,
+              "course_id": 259591,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 766360
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 259591,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 766361
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 259591,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 766362
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1000,
+              "course_id": 259591,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 766363
+            },
+            {
+              "package_price": 19500,
+              "session_price": 1000,
+              "course_id": 259591,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 766364
+            },
+            {
+              "package_price": 7000,
+              "session_price": 1400,
+              "course_id": 259591,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 766353
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1400,
+              "course_id": 259591,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 766354
+            },
+            {
+              "package_price": 21000,
+              "session_price": 1400,
+              "course_id": 259591,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 766355
+            },
+            {
+              "package_price": 27000,
+              "session_price": 1400,
+              "course_id": 259591,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 766356
+            },
+            {
+              "package_price": 8000,
+              "session_price": 1600,
+              "course_id": 259591,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 766400
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1600,
+              "course_id": 259591,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 766401
+            },
+            {
+              "package_price": 23000,
+              "session_price": 1600,
+              "course_id": 259591,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 766402
+            },
+            {
+              "package_price": 32000,
+              "session_price": 1600,
+              "course_id": 259591,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 766403
+            }
+          ]
+        },
+        {
+          "id": 259593,
+          "teacher_id": 17502811,
+          "language": "english",
+          "title": "Conversation Practice",
+          "description": "In this lesson we\u2019ll practice speaking, improve your skills, and build your confidence. Perfect for beginners or anyone wanting to get better at English.\n\nBook a class today and start speaking English!",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1400,
+          "student_count": 1,
+          "session_count": 3,
+          "create_time": "2025-01-23T04:17:14Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 259593,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 766388
+            },
+            {
+              "package_price": 7000,
+              "session_price": 700,
+              "course_id": 259593,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 766389
+            },
+            {
+              "package_price": 10500,
+              "session_price": 700,
+              "course_id": 259593,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 766390
+            },
+            {
+              "package_price": 14000,
+              "session_price": 700,
+              "course_id": 259593,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 766391
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 259593,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 766392
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 259593,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 766393
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1000,
+              "course_id": 259593,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 766394
+            },
+            {
+              "package_price": 19500,
+              "session_price": 1000,
+              "course_id": 259593,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 766395
+            },
+            {
+              "package_price": 7000,
+              "session_price": 1400,
+              "course_id": 259593,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 766384
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1400,
+              "course_id": 259593,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 766385
+            },
+            {
+              "package_price": 21000,
+              "session_price": 1400,
+              "course_id": 259593,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 766386
+            },
+            {
+              "package_price": 27000,
+              "session_price": 1400,
+              "course_id": 259593,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 766387
+            },
+            {
+              "package_price": 8000,
+              "session_price": 1600,
+              "course_id": 259593,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 766396
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1600,
+              "course_id": 259593,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 766397
+            },
+            {
+              "package_price": 23000,
+              "session_price": 1600,
+              "course_id": 259593,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 766398
+            },
+            {
+              "package_price": 32000,
+              "session_price": 1600,
+              "course_id": 259593,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 766399
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 14.0
+          },
+          {
+            "month": 3,
+            "data": 13.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 81,
+        "response_rate": 1,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 4967899,
+        "nickname": "zachariah getubo",
+        "avatar_file_name": "1T049678990",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KE",
+        "is_online": 0,
+        "living_country_id": "KE",
+        "origin_city_id": "KE00021",
+        "origin_city_name": "Eldoret",
+        "living_city_id": "KE00001",
+        "living_city_name": "Nairobi",
+        "timezone": "Africa/Nairobi",
+        "last_login_time": "2025-03-29T18:29:51+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/TeqUd4_idfM",
+        "video_pic_url": "https://img.youtube.com/vi/TeqUd4_idfM/0.jpg",
+        "intro": "I grew up loving the Swahili language. From lower primary to secondary schools. I loved the language that it became difficult for my classmates to compete on Swahili class activities with me. I know want to help any learner interested in Swahili to enjoy the language too.",
+        "short_signature": "Certified Swahili and English Teacher with Bachelor of Education Languages",
+        "teach_language": [
+          {
+            "language": "swahili",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 7
+          },
+          {
+            "language": "italian",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2018-03-14T12:56:42Z",
+        "session_count": 163,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/xitalki10006854.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/TeqUd4_idfM.jpg",
+        "teacher_material_list": [
+          2,
+          9,
+          1,
+          4,
+          8,
+          5,
+          6,
+          3
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I grew up loving the Swahili language. From lower primary to secondary schools. I loved the language that it became difficult for my classmates to compete on Swahili class activities with me. I know want to help any learner interested in Swahili to enjoy the language too.",
+        "about_teacher": "After clearing my form four exam I was employed as a Swahili teacher in a local Kenyan high school. I later joined college training as a Swahili teacher. Am inspired to be a teacher as both my parents are teachers. I have also taught a couple of international Swahili students.\nRecently I graduated from college and for the past three months I have been doing my teaching attachment with young children who are starting to speak swahili. I have therefore decided to teach all global students including beginner children and those who want to learn swahili for business issues and to those who want to learn swahili for test preparation. I will be glad to have you as my first global student.",
+        "teaching_style": "My teaching methods are simple for example using charts, questions and referrals I can also provide reading materials as pdf files. Swahili is a wide language it has three major subtopics; that is 'lugha' , 'isimu jamii' and fasihi which is the widest one. I will cover all topics but lying majorly on the 'lugha 'part.\nI can also teach pupils of tender age \nright from uttering swahili letters to words.",
+        "is_student_full": 0,
+        "student_count": 43,
+        "teacher_tag": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "industry": "social_science",
+            "country": "KE",
+            "city": "Nairobi",
+            "company": "Vision Fund Kenya",
+            "job": "Community Development Officer",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2021,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2024-06-17T19:28:21Z",
+            "exp_id": 153962
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Moi University",
+            "major": "Bachelor of Arts In Community Development.",
+            "level": 1,
+            "start_year": 2016,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2024-06-17T19:33:32Z",
+            "edu_id": "FDFC4B97-BC99-4C2A-B3EB-0FBFEB7EF0F3"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2019-11-25T08:57:42Z",
+            "update_time": "2020-03-10T05:44:26Z",
+            "file_ext": "jpg",
+            "institution": "The Kenya National Examinations Council",
+            "end_year": 2016,
+            "status": 1,
+            "certificate": "KCSE (Kenya Certificate of Secondary Education)",
+            "cert_id": "58944079-E4D7-46B2-AEC0-6D67AE9A3BEA"
+          },
+          {
+            "create_time": "2024-06-17T19:30:54Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "Moi University",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "B.A Community Development",
+            "language": "swahili",
+            "type": "Bachelors in Education",
+            "type_text_code": "TA554",
+            "cert_id": "6538041F-B4F6-4008-8748-D9A9B8F2E266"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "B.A Community Development",
+            "institution": "Moi University",
+            "end_year": 2021,
+            "status": 1,
+            "description": "",
+            "type": "Bachelors in Education"
+          },
+          {
+            "certificate": "KCSE (Kenya Certificate of Secondary Education)",
+            "institution": "The Kenya National Examinations Council",
+            "end_year": 2016,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 6074,
+            "user_id": 4967899,
+            "start_year": 2016,
+            "end_year": 2155,
+            "institution": "St Paul's Secondary School Nyacheki",
+            "institution_type": "public_education",
+            "position": "Swahili Teacher",
+            "country": "KE",
+            "city": "",
+            "description": "",
+            "create_at": "2024-06-17T19:32:46Z",
+            "create_by": "4967899",
+            "update_at": "2024-06-17T19:32:46Z",
+            "update_by": "4967899",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 5
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 550,
+        "min_price": 600,
+        "trial_session_count": 0,
+        "trial_description": "Proper and amazing Swahili introduction, which will include knowing the basics of Swahili lugha and a introductory parts of greetings and self introduction."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 4967899
+      },
+      "pro_course_detail": [
+        {
+          "id": 64353,
+          "teacher_id": 4967899,
+          "language": "swahili",
+          "title": "Informal Tutoring",
+          "description": "The student shall learn all Swahili aspects from single letters to making swahili words and eventually sentences and communicating grammatically correct, keeping in line the rules of the language to communicate and interpret the language clearly.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 27,
+          "session_count": 107,
+          "create_time": "2018-03-16T10:19:24Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 64353,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 125055
+            },
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 64353,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 125056
+            },
+            {
+              "package_price": 6000,
+              "session_price": 700,
+              "course_id": 64353,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 125057
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 64353,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 125058
+            }
+          ]
+        },
+        {
+          "id": 84886,
+          "teacher_id": 4967899,
+          "language": "swahili",
+          "title": "swahili 101",
+          "description": "The interesting lesson includes teaching you the 8 parts of speech in Swahili.\nLater we will have to do a very interesting conversation lesson after you have grasped the parts of speech. This will greatly help improve your speaking capabilities. See you then.Thanks.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 2,
+          "session_count": 24,
+          "create_time": "2019-06-21T08:47:11Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 84886,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 176520
+            },
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 84886,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 176521
+            },
+            {
+              "package_price": 7000,
+              "session_price": 700,
+              "course_id": 84886,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 176519
+            },
+            {
+              "package_price": 6000,
+              "session_price": 800,
+              "course_id": 84886,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 176522
+            }
+          ]
+        },
+        {
+          "id": 84932,
+          "teacher_id": 4967899,
+          "language": "swahili",
+          "title": "swahili 102",
+          "description": "Swahili lovers would get to dive deeply into the rich swahili history and get to learn a language in aspects of vitendawili, semi, methali, nahau, isimu jamii, insha, historia and even hadithi.\ud83d\ude09\ud83d\ude09....See you there\ud83d\ude0e",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0001"
+          ],
+          "session_price": 700,
+          "student_count": 1,
+          "session_count": 2,
+          "create_time": "2019-06-21T16:08:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 84932,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 176657
+            },
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 84932,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 176658
+            },
+            {
+              "package_price": 7000,
+              "session_price": 700,
+              "course_id": 84932,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 176656
+            },
+            {
+              "package_price": 7500,
+              "session_price": 800,
+              "course_id": 84932,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 176659
+            }
+          ]
+        },
+        {
+          "id": 177979,
+          "teacher_id": 4967899,
+          "language": "english",
+          "title": "English 101",
+          "description": "All round english from speaking, writing, listening and reading. Involving all parts of speach and language practice.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 600,
+          "student_count": 3,
+          "session_count": 6,
+          "create_time": "2021-08-31T07:51:39Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 177979,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 465529
+            },
+            {
+              "package_price": 5500,
+              "session_price": 550,
+              "course_id": 177979,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 465530
+            },
+            {
+              "package_price": 6000,
+              "session_price": 600,
+              "course_id": 177979,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 441566
+            },
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 177979,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 465531
+            }
+          ]
+        },
+        {
+          "id": 178971,
+          "teacher_id": 4967899,
+          "language": "english",
+          "title": "English point!",
+          "description": "Deep English, enjoying the parts of speech, including sentence practice pronunciation, English activities, literacy and conversational practice",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2021-09-03T06:25:28Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6000,
+              "session_price": 600,
+              "course_id": 178971,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 444270
+            },
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 178971,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 444271
+            },
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 178971,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 444269
+            },
+            {
+              "package_price": 4000,
+              "session_price": 800,
+              "course_id": 178971,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 444272
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 163,
+        "response_rate": 0.97,
+        "attendance_rate": 0.98,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 8801222,
+        "nickname": "Kathy",
+        "avatar_file_name": "3T088012220",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KE",
+        "is_online": 0,
+        "living_country_id": "KE",
+        "origin_city_id": "KE00001",
+        "origin_city_name": "Nairobi",
+        "living_city_id": "KE00001",
+        "living_city_name": "Nairobi",
+        "timezone": "Africa/Nairobi",
+        "last_login_time": "2025-03-27T08:03:12+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/mtDD6j1kGdg",
+        "video_pic_url": "https://img.youtube.com/vi/mtDD6j1kGdg/0.jpg",
+        "intro": "Hello? Habari? I'm Kathy, thank you for taking the time to go through my profile. I am an easy person to talk to, that's how majority of my students describe me. I'm a good listener, I pay attention to detail and I love to teach. I have been teaching on Italki for the last 2.5years can't believe it and It has been one of the most enjoyable experiences ever. I'm also passionate about social and economic impact, a calling that I pursue amongst my community here in Kenya. Lastly, I am so glad that you are joining the community of amazing students that I have been priviledged to interact with here. Join us, and let me help you ace your learning goals. Welcome on board. See you soon!",
+        "short_signature": "Skilled tutor who will elevate you from beginner to pro in record time!",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "swahili",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "gikuyu",
+            "level": 5
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-06-18T18:02:24Z",
+        "session_count": 294,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/DB5F68BA-8BEB-4255-A8E2-2C8CA3663235.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/mtDD6j1kGdg.jpg",
+        "teacher_material_list": [
+          6,
+          1,
+          8,
+          7,
+          5,
+          2,
+          4
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello? Habari? I'm Kathy, thank you for taking the time to go through my profile. I am an easy person to talk to, that's how majority of my students describe me. I'm a good listener, I pay attention to detail and I love to teach. I have been teaching on Italki for the last 2.5years can't believe it and It has been one of the most enjoyable experiences ever. I'm also passionate about social and economic impact, a calling that I pursue amongst my community here in Kenya. Lastly, I am so glad that you are joining the community of amazing students that I have been priviledged to interact with here. Join us, and let me help you ace your learning goals. Welcome on board. See you soon!",
+        "about_teacher": "My students describe me as kind, knowledgeable, conversational, fun and patient. In the 2 years of teaching Swahili on Italki, I have learnt to understand how beautifully different each student I meet is. I tailor make the lesson to match my student's personality, needs and goals. Each lesson looks different for each student. I give lots of encouragement to my students to keep them going because I understand how challenging learning a new language is. I ensure they are comfortable talking with me, including sharing their struggles.",
+        "teaching_style": "I know just how daunting meeting a new tutor online is, and wondering whether they will understand you and what you're looking to achieve. I therefore create a safe environment to make my students learn easily and at ease such that It doesn't even seem as if they're in class.",
+        "is_student_full": 0,
+        "student_count": 40,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-06-21T14:35:40+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 550,
+        "min_price": 1100,
+        "trial_session_count": 0,
+        "trial_description": "Are you looking to learn English or Swahili in an informal setting? (non classroom setting) Are you a beginner just starting out on the language, an intermediate- you have made progress in your learning but haven't gone too far or even an advanced student who is looking to polish up the language? Well, you came to the right place. Welcome on board! I am here to help you learn and achieve your language goals. So good to have you here, looking forward to meeting you!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 8801222
+      },
+      "pro_course_detail": [
+        {
+          "id": 156040,
+          "teacher_id": 8801222,
+          "language": "swahili",
+          "title": "Informal Swahili conversational practice",
+          "description": "Hujambo/Hello? Are you looking to sharpen your Swahili speaking and listening skills through conversations? You are probably not looking to learn tenses or writing, your goal is to retain the Swahili learnt to keep it crisp. Guess what, this the perfect lesson for you. In this lesson, you get to pick the topics that interest you and we get to talk as I correct any mistake I notice and help you polish up the langauge.\nOR\nAre you are a beginner or intermediate looking to learn how to construct sentences in Swahili and speak fluently? Well, you are in the right class. We will focus on the tenses, accuracy, intonation and pronunciation to build you confidence in speaking the Swahili language. Looking forward to meeting you. See you soon!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1165,
+          "student_count": 19,
+          "session_count": 115,
+          "create_time": "2021-06-21T14:35:40Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3550,
+              "session_price": 750,
+              "course_id": 156040,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 384644
+            },
+            {
+              "package_price": 4700,
+              "session_price": 1000,
+              "course_id": 156040,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 384645
+            },
+            {
+              "package_price": 5450,
+              "session_price": 1165,
+              "course_id": 156040,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 379731
+            },
+            {
+              "package_price": 6200,
+              "session_price": 1300,
+              "course_id": 156040,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 415231
+            }
+          ]
+        },
+        {
+          "id": 156061,
+          "teacher_id": 8801222,
+          "language": "swahili",
+          "title": "Informal Beginner Swahili lessons (Learn Swahili from scratch within a short time)",
+          "description": "Habari/Hello? Congratulations on choosing to learn Swahili. I know you might be a little nervous because you don't know what to expect. That's alright, but you don't have to be, Swahili is quite a simple language to learn. I will take you through the learning process patiently from learning the basics like greetings to speaking fluently. I will teach you how to read, write, spell, pronounce and speak Swahili and before you know it, you will be a pro. Looking forward to walking this journey with you. Asante/thank you.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1165,
+          "student_count": 17,
+          "session_count": 155,
+          "create_time": "2021-06-21T16:40:28Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3550,
+              "session_price": 750,
+              "course_id": 156061,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 384637
+            },
+            {
+              "package_price": 4800,
+              "session_price": 1000,
+              "course_id": 156061,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 384638
+            },
+            {
+              "package_price": 5300,
+              "session_price": 1165,
+              "course_id": 156061,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 379785
+            },
+            {
+              "package_price": 6200,
+              "session_price": 1300,
+              "course_id": 156061,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 415232
+            }
+          ]
+        },
+        {
+          "id": 175083,
+          "teacher_id": 8801222,
+          "language": "swahili",
+          "title": "NEW!! Informal Swahili for little Angels (Kids)",
+          "description": "Hello there parent. I know It's hard trusting a stranger online to teach your little Angel. I would to, if I were in your place. However, I want you to know that your little one is safe with me. I will help them learn how to speak Swahili fluently, read correctly and write correctly within a short time. I'm looking forward to meeting them.\n\nI have worked with kids before and I have learnt how to entertain, play, teach and engage them in fun activities to keep their attention as well as make them enjoy learning. In this lesson we will learn reading/writing/pronunciation/spellings/grammar and conversational practice. I'm excited to meet them.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1100,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2021-08-20T07:43:18Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3550,
+              "session_price": 750,
+              "course_id": 175083,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 433189
+            },
+            {
+              "package_price": 4800,
+              "session_price": 1000,
+              "course_id": 175083,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 433190
+            },
+            {
+              "package_price": 5300,
+              "session_price": 1100,
+              "course_id": 175083,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 433188
+            }
+          ]
+        },
+        {
+          "id": 176089,
+          "teacher_id": 8801222,
+          "language": "english",
+          "title": "Informal English Conversational Practice",
+          "description": "Hello. You have already learnt grammar, sentence construction, and are now looking to practice the conversational part of English, learn new vocabularies and speak fluently. Well, you have come to right place. Let's put your knowledge to action. Come let's talk!",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1100,
+          "student_count": 3,
+          "session_count": 6,
+          "create_time": "2021-08-24T09:23:34Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3550,
+              "session_price": 750,
+              "course_id": 176089,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 440645
+            },
+            {
+              "package_price": 4800,
+              "session_price": 1000,
+              "course_id": 176089,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 436128
+            },
+            {
+              "package_price": 5300,
+              "session_price": 1100,
+              "course_id": 176089,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 436127
+            },
+            {
+              "package_price": 6200,
+              "session_price": 1300,
+              "course_id": 176089,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 436129
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 3.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 294,
+        "response_rate": 0.98,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 23889512,
+        "nickname": "Juanna Ndung'u",
+        "avatar_file_name": "T238895120",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KE",
+        "is_online": 0,
+        "living_country_id": "KE",
+        "origin_city_id": "KE00000",
+        "origin_city_name": "Other",
+        "living_city_id": "KE00000",
+        "living_city_name": "Other",
+        "timezone": "Africa/Nairobi",
+        "last_login_time": "2025-03-30T14:52:26+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/fOL9bjfSWjc",
+        "video_pic_url": "https://img.youtube.com/vi/fOL9bjfSWjc/0.jpg",
+        "intro": "Hello! My name is Juanna, and I am from Kenya. I\u2019ve been passionate about the English language since I was young and have studied it extensively throughout my life",
+        "short_signature": "Certified TEFL English Tutor | Psychology Student Dedicated to Your Learning Success",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2025-01-28T15:09:36Z",
+        "session_count": 1,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/0FBEC18C-E2F2-43C6-B47B-FC97787BF9E6.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/fOL9bjfSWjc.jpg",
+        "teacher_material_list": [
+          5,
+          1,
+          2,
+          7
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 0,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello! My name is Juanna, and I am from Kenya. I\u2019ve been passionate about the English language since I was young and have studied it extensively throughout my life",
+        "about_teacher": "I love sharing my knowledge and helping others improve their English skills.",
+        "teaching_style": "Whether you\u2019re looking to enhance your conversational abilities, perfect your grammar, or expand your vocabulary, I\u2019m here to support you on your learning journey. Let\u2019s make learning English an enjoyable and enriching experience together!",
+        "is_student_full": 0,
+        "student_count": 1,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2025-01-28T15:09:35+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Amref international University",
+            "major": "psychology",
+            "level": 11,
+            "start_year": 2025,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2025-01-20T16:19:42Z",
+            "edu_id": "D13D9366-7F27-4EB1-A380-9E2925123CC7"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [
+          {
+            "id": 15955,
+            "user_id": 23889512,
+            "start_year": 2024,
+            "end_year": 2155,
+            "institution": "Grace Academy",
+            "institution_type": "private_education_center",
+            "position": "English teacher",
+            "country": "KE",
+            "city": "",
+            "description": "",
+            "create_at": "2025-01-20T16:33:31Z",
+            "create_by": "23889512",
+            "update_at": "2025-01-20T16:33:31Z",
+            "update_by": "23889512",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 0,
+        "trial_price": 600,
+        "min_price": 500,
+        "trial_session_count": 0,
+        "trial_description": "Hi, my name is Juanna, and I\u2019m an English tutor from Kenya. I specialize in teaching conversational English to help students build confidence and fluency in real-life situations. Whether you're a beginner starting your English journey or someone looking to enhance your speaking skills, I\u2019m here to support you.\n\nIn our lessons, we\u2019ll focus on:\nSpeaking: Improving your fluency, pronunciation, and vocabulary through engaging conversations.\nListening and Understanding: Helping you feel confident when interacting with English speakers in everyday scenarios.\nGrammar and Sentence Structure: Keeping it simple and practical to ensure you can express yourself clearly.\n\nMy teaching approach is friendly and flexible, and I tailor lessons to your unique goals and interests. Whether you want to improve your English for travel, work, or personal growth, I\u2019ll make sure each lesson is fun, interactive, and effective.\n\nBook a lesson with me today, and let\u2019s start your journey to becoming a confident English speaker!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 23889512
+      },
+      "pro_course_detail": [
+        {
+          "id": 259961,
+          "teacher_id": 23889512,
+          "language": "english",
+          "title": "Introduction to Conversational English: Build Confidence and Fluency",
+          "description": "In this lesson, we will focus on building your confidence in speaking English through practical, everyday conversations. You will learn how to introduce yourself, use common phrases, and engage in simple dialogues. The session is designed to be interactive, supportive, and tailored to your current level, helping you improve your fluency and pronunciation in a relaxed environment. This lesson is perfect for beginners or anyone looking to enhance their conversational skills. Let\u2019s make learning English fun and effective!",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 500,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2025-01-27T17:32:29Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 600,
+              "session_price": 600,
+              "course_id": 259961,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 773176
+            },
+            {
+              "package_price": 900,
+              "session_price": 900,
+              "course_id": 259961,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 773177
+            },
+            {
+              "package_price": 500,
+              "session_price": 500,
+              "course_id": 259961,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 773175
+            },
+            {
+              "package_price": 1800,
+              "session_price": 1800,
+              "course_id": 259961,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 773178
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 1,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 8650209,
+        "nickname": "Aliya",
+        "avatar_file_name": "T086502090",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KG",
+        "is_online": 0,
+        "living_country_id": "IT",
+        "origin_city_id": "KG00001",
+        "origin_city_name": "Biskek",
+        "living_city_id": "IT00051",
+        "living_city_name": "Venice",
+        "timezone": "Asia/Bishkek",
+        "last_login_time": "2025-04-01T11:56:21+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/NkmhNZgqEXk",
+        "video_pic_url": "https://img.youtube.com/vi/NkmhNZgqEXk/0.jpg",
+        "intro": "The most surprising fact - I can speak 6 languages! \nEnglish (obviously)\nRussian - \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0435\u0441\u043b\u0438 \u0432\u0430\u043c \u0447\u0442\u043e-\u0442\u043e \u043d\u0435\u043f\u043e\u043d\u044f\u0442\u043d\u043e, \u043c\u044b \u043c\u043e\u0436\u0435\u043c \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c\nKyrgyz - \u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430 \u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430 \u0441\u04af\u0439\u043b\u04e9\u0439 \u0430\u043b\u0430\u043c \u0431\u0438\u0440\u043e\u043a \u0430\u0437\u044b\u0440\u043a\u044b \u0443\u0447\u0443\u0440\u0434\u0430 \u0430\u0437 \u043a\u043e\u043b\u0434\u043e\u043d\u0443\u043f \u0436\u04af\u0440\u04e9\u043c\nKazakh - \u049a\u0430\u0437\u0430\u049b\u0448\u0430 \u0434\u0430 \u0441\u04e9\u0439\u043b\u0435\u0439 \u0430\u043b\u0430\u043c\u044b\u043d, \u0441\u0435\u0431\u0435\u0431\u0456 \u049b\u0430\u0437\u0430\u049b \u0445\u0430\u043b\u049b\u044b\u043d\u044b\u04a3 \u04d9\u043d\u0434\u0435\u0440\u0456 \u043c\u0430\u0493\u0430\u043d \u04e9\u0442\u0435 \u04b1\u043d\u0430\u0439\u0434\u044b\nTurkish - Bu arada daha \u00e7ok T\u00fcrk\u00e7e konu\u015fuyorum, bu y\u00fczden anlamad\u0131\u011f\u0131n\u0131z herhangi bir\u015fey varsa, T\u00fcrk\u00e7e yard\u0131m edebilirim\nItalian - ancora non lo parlo bene, ma se c'e qualcosa che non capite abbastanza bene, sono qui da aiutarvi!\n\nI adore learning languages and learning more about different cultures!\nAdditionally, I play tennis and ping pong!:)",
+        "short_signature": "Tutor that will motivate you to speak English with no fear",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "turkish",
+            "level": 4
+          },
+          {
+            "language": "italian",
+            "level": 2
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2022-03-21T08:07:12Z",
+        "session_count": 281,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/86821BF4-283C-45E8-BD55-1324DFAB70A9.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/NkmhNZgqEXk.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          6,
+          8,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "The most surprising fact - I can speak 6 languages! \nEnglish (obviously)\nRussian - \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u0435\u0441\u043b\u0438 \u0432\u0430\u043c \u0447\u0442\u043e-\u0442\u043e \u043d\u0435\u043f\u043e\u043d\u044f\u0442\u043d\u043e, \u043c\u044b \u043c\u043e\u0436\u0435\u043c \u0442\u0430\u043a\u0436\u0435 \u043f\u043e\u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c\nKyrgyz - \u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430 \u041a\u044b\u0440\u0433\u044b\u0437\u0447\u0430 \u0441\u04af\u0439\u043b\u04e9\u0439 \u0430\u043b\u0430\u043c \u0431\u0438\u0440\u043e\u043a \u0430\u0437\u044b\u0440\u043a\u044b \u0443\u0447\u0443\u0440\u0434\u0430 \u0430\u0437 \u043a\u043e\u043b\u0434\u043e\u043d\u0443\u043f \u0436\u04af\u0440\u04e9\u043c\nKazakh - \u049a\u0430\u0437\u0430\u049b\u0448\u0430 \u0434\u0430 \u0441\u04e9\u0439\u043b\u0435\u0439 \u0430\u043b\u0430\u043c\u044b\u043d, \u0441\u0435\u0431\u0435\u0431\u0456 \u049b\u0430\u0437\u0430\u049b \u0445\u0430\u043b\u049b\u044b\u043d\u044b\u04a3 \u04d9\u043d\u0434\u0435\u0440\u0456 \u043c\u0430\u0493\u0430\u043d \u04e9\u0442\u0435 \u04b1\u043d\u0430\u0439\u0434\u044b\nTurkish - Bu arada daha \u00e7ok T\u00fcrk\u00e7e konu\u015fuyorum, bu y\u00fczden anlamad\u0131\u011f\u0131n\u0131z herhangi bir\u015fey varsa, T\u00fcrk\u00e7e yard\u0131m edebilirim\nItalian - ancora non lo parlo bene, ma se c'e qualcosa che non capite abbastanza bene, sono qui da aiutarvi!\n\nI adore learning languages and learning more about different cultures!\nAdditionally, I play tennis and ping pong!:)",
+        "about_teacher": "I'm a friendly tutor who can answer any of your questions and give a proper explanation of any kind of request (advice on learning, clarification of grammar, overall level evaluation). \nI have taught more than 1700 lessons to both kids and adults and together we could overcome the students' speaking barrier. I can also help you prepare for any kind of presentation and give useful advice on improving your fluency.",
+        "teaching_style": "Lessons are adapted depending on personal goals and interests. The trial lesson is devoted to introduction and evaluation of WHY (purpose of learning) and HOW (ways of achieving and further plan). Lessons are fully practical, no lectures. Main goal is to overcome language barrier when speaking.\nLessons are conversational, so make sure you are in a good mood with a cup of tea/coffee or a glass of water :)",
+        "is_student_full": 0,
+        "student_count": 29,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-03-21T08:07:12+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Singapore Management University",
+            "major": "Business",
+            "level": 1,
+            "description": "International Exchange program",
+            "start_year": 2018,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2024-03-11T14:57:18Z",
+            "edu_id": "1922E0CB-0B3A-40EE-A033-35520F601CA3"
+          },
+          {
+            "institution": "KIMEP University",
+            "major": "Marketing",
+            "level": 1,
+            "start_year": 2016,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2024-03-11T14:56:39Z",
+            "edu_id": "635512C2-3469-4067-829E-87F56E04BB19"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "vocabulary",
+            "created_count": 1
+          },
+          {
+            "name": "quiz",
+            "created_count": 43
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 600,
+        "min_price": 1200,
+        "trial_session_count": 0,
+        "trial_description": "I'm looking forward to seeing you on a trial lesson where we will:\n1. determine your current level + identify your strong points and points for improvement\n2. discuss your expectations\n3. set up the further plan"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 8650209
+      },
+      "pro_course_detail": [
+        {
+          "id": 216549,
+          "teacher_id": 8650209,
+          "language": "english",
+          "title": "English conversational practice",
+          "description": "Our lessons will be based on personal needs and interest and will include many videomaterials, articles, blogs, songs, etc. No textbook or notebook is mandatory.\n\nSome important points:\n1. Students are to be always on time\n2. I love when students ask questions if something is unclear\n3. There will be short assignments that are to be submitted timely.",
+          "level_lower_limit": 2,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 26,
+          "session_count": 271,
+          "create_time": "2022-03-16T08:54:40Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 700,
+              "course_id": 216549,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 554536
+            },
+            {
+              "package_price": 3500,
+              "session_price": 900,
+              "course_id": 216549,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 578599
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1200,
+              "course_id": 216549,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 554535
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 7.0
+          },
+          {
+            "month": 1,
+            "data": 5.0
+          },
+          {
+            "month": 2,
+            "data": 7.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.86
+          },
+          {
+            "month": 1,
+            "data": 0.75
+          },
+          {
+            "month": 2,
+            "data": 0.77
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.82
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.88
+          }
+        ],
+        "finished_session": 281,
+        "response_rate": 0.96,
+        "attendance_rate": 0.96,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 8591106,
+        "nickname": "Gladys Mwachillu",
+        "avatar_file_name": "T085911060",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KE",
+        "is_online": 0,
+        "living_country_id": "KE",
+        "origin_city_id": "KE00001",
+        "origin_city_name": "Nairobi",
+        "living_city_id": "KE00001",
+        "living_city_name": "Nairobi",
+        "timezone": "Africa/Nairobi",
+        "last_login_time": "2025-04-01T10:15:23+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/-THacHFur9o",
+        "video_pic_url": "https://img.youtube.com/vi/-THacHFur9o/0.jpg",
+        "intro": "With extensive experience in hospitality, I have built solid networking expertise especially in customer service, staff training, people\u2019s management and administration skills.\nMy focus is to pursue and develop my skills to the highest level and to be able to offer my proficient service to my organisation and customers as well.",
+        "short_signature": "Certified TESOL and TEFL tutor with over 6 years experience",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-07-23T19:10:15Z",
+        "session_count": 59,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/47B1FE52-87C6-4982-9058-AA85DCA71BAF.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/-THacHFur9o.jpg",
+        "teacher_material_list": [
+          12,
+          5,
+          6,
+          1,
+          4,
+          9
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "With extensive experience in hospitality, I have built solid networking expertise especially in customer service, staff training, people\u2019s management and administration skills.\nMy focus is to pursue and develop my skills to the highest level and to be able to offer my proficient service to my organisation and customers as well.",
+        "about_teacher": "An expert in teaching English language especially to Kids and Adult Beginners. I have conducted private tuitions to kids and successful training to adults.\n\nI've specialized in teaching reading, writing, speaking and listening skills.\n\nAre you an adult who knows how to speak English but wants to improve fluency? I conduct Conversational English too.\n\nI am a very UNDERSTANDING and PATIENT teacher who is ready to walk with you throughout the lessons. At the same time, I am ENGAGING and FUN.",
+        "teaching_style": "My lessons are Interactive, Engaging and Fun. Am more of Conversational expertise.",
+        "is_student_full": 0,
+        "student_count": 34,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-07-28T14:34:46+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [
+          {
+            "create_time": "2021-05-31T10:03:15Z",
+            "update_time": "2021-05-31T10:03:15Z",
+            "file_ext": "jpg",
+            "institution": "Open Learning Academy",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "TESOL",
+            "cert_id": "8FDEEE55-2F92-4E72-87B4-597232B491DF"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "TESOL",
+            "institution": "Open Learning Academy",
+            "end_year": 2021,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 700,
+        "trial_session_count": 0,
+        "trial_description": "Do you want to improve your day to day conversation?Worry not. Am here to improve your fluency whether you are an adult or a kid.\n\nI am a very UNDERSTANDING and PATIENT teacher who is ready to walk with you throughout the lessons. At the same time, I am ENGAGING and FUN.\n\nI will create a schedule which works comfortably with you on our first lesson.\nCome and book a lesson with me."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 8591106
+      },
+      "pro_course_detail": [
+        {
+          "id": 168134,
+          "teacher_id": 8591106,
+          "language": "english",
+          "title": "Conversation Practice",
+          "description": "Do you want to improve your day to day conversation?Worry not. Am here to improve your fluency whether you are an adult or a kid.\nI have materials which are perfect for improving your speaking and on top of that you'll learn new vocabularies",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 26,
+          "session_count": 46,
+          "create_time": "2021-07-28T14:28:54Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 500,
+              "course_id": 168134,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 444555
+            },
+            {
+              "package_price": 6000,
+              "session_price": 600,
+              "course_id": 168134,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 437869
+            },
+            {
+              "package_price": 7000,
+              "session_price": 700,
+              "course_id": 168134,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 413147
+            }
+          ]
+        },
+        {
+          "id": 169681,
+          "teacher_id": 8591106,
+          "language": "english",
+          "title": "Business Communication",
+          "description": "Would you like to improve your business vocabulary and professional communication? We have the right materials for you. From goal setting, preparing for an interview, customer service, presentation etc.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2021-08-02T14:52:52Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7000,
+              "session_price": 700,
+              "course_id": 169681,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 437872
+            },
+            {
+              "package_price": 8000,
+              "session_price": 800,
+              "course_id": 169681,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 417568
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 59,
+        "response_rate": 0.99,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 6012487,
+        "nickname": "Zuzu Kachieva",
+        "avatar_file_name": "2T060124870",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KG",
+        "is_online": 0,
+        "living_country_id": "ME",
+        "origin_city_id": "KG00001",
+        "origin_city_name": "Biskek",
+        "living_city_id": "ME00031",
+        "living_city_name": "Herceg Novi",
+        "timezone": "Europe/Belgrade",
+        "last_login_time": "2025-04-01T14:09:35+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/9773Fx5z6W4",
+        "video_pic_url": "https://img.youtube.com/vi/9773Fx5z6W4/0.jpg",
+        "intro": "My name is Zuzu.\nI'm from Kyrgyzstan and I'm now living in Istanbul. By traveling a lot I've taught myself several languages and I know very well how difficult it can be to learn a new language. But I'm here to help you!",
+        "short_signature": "\u0420\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440 \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0445 \u044f\u0437\u044b\u043a\u043e\u0432 \u0438 \u041b\u0430\u0439\u0424-\u041a\u043e\u0443\u0447",
+        "teach_language": [
+          {
+            "language": "kyrgyz",
+            "level": 7
+          },
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          },
+          {
+            "language": "turkish",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "persian(farsi)",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2019-03-21T10:03:43Z",
+        "session_count": 549,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/17C1F4D8-B9E9-40AE-A693-6992225A1BE0.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/9773Fx5z6W4.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "My name is Zuzu.\nI'm from Kyrgyzstan and I'm now living in Istanbul. By traveling a lot I've taught myself several languages and I know very well how difficult it can be to learn a new language. But I'm here to help you!",
+        "about_teacher": "I have several years of experience as a language tutor and I know how to help you in the best way. \nBy nature I'm a very happy and outgoing person and my lessons are filled with friendly conversation and laughter. \nI will give you a fun start learning the language and I know that you'll reach your goals with me!",
+        "teaching_style": "My lessons will be very different dependent on your goals and your current level in the languange.\nIt will contain some of the following exercises:\n\n1) Conversation and phrases\n2) Reading and writing\n3) Listening and understanding audio and video\n4) Grammar\n5) Home work\n6) Talking club - practice!\n\nI very much look forward to see you!",
+        "is_student_full": 0,
+        "student_count": 73,
+        "teacher_tag": [
+          1,
+          3
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "\u0412 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u043b\u0430, \u0432\u044b\u0437\u0434\u043e\u0440\u043e\u0432\u0435\u044e \u0438 \u0441\u043d\u043e\u0432\u0430 \u043e\u0442\u043a\u0440\u043e\u044e",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "\u0412 \u0434\u0430\u043d\u043d\u044b\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0437\u0430\u0431\u043e\u043b\u0435\u043b\u0430, \u0432\u044b\u0437\u0434\u043e\u0440\u043e\u0432\u0435\u044e \u0438 \u0441\u043d\u043e\u0432\u0430 \u043e\u0442\u043a\u0440\u043e\u044e",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1300,
+        "min_price": 1700,
+        "trial_session_count": 0,
+        "trial_description": "\u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e,\u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0435, \u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e\u0441\u0442\u0438 \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u044b \u0438 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 , \u0430  \u0442\u0430\u043a\u0436\u0435 \u0434\u043b\u044f \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u043e\u0432!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 6012487
+      },
+      "pro_course_detail": [
+        {
+          "id": 80320,
+          "teacher_id": 6012487,
+          "language": "kyrgyz",
+          "title": "\u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430",
+          "description": "\u0417\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e, \u0434\u0438\u0430\u043b\u043e\u0433\u0438, \u0444\u0440\u0430\u0437\u044b ,\u0442\u0435\u043a\u0441\u0442\u044b , \u043f\u043e\u043b\u0435\u0437\u043d\u0430\u044f \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f, \u0438 \u0432 \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430! \u0414\u0440\u0443\u0436\u0435\u0441\u043a\u0430\u044f \u0438 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u0430\u044f \u0431\u0435\u0441\u0435\u0434\u0430!.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 2200,
+          "student_count": 44,
+          "session_count": 324,
+          "create_time": "2019-04-03T06:17:49Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10700,
+              "session_price": 2200,
+              "course_id": 80320,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 164665
+            }
+          ]
+        },
+        {
+          "id": 80323,
+          "teacher_id": 6012487,
+          "language": "russian",
+          "title": "\u0420\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430!",
+          "description": "\u0417\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e, \u0434\u0438\u0430\u043b\u043e\u0433\u0438, \u0444\u0440\u0430\u0437\u044b, \u0431\u0435\u0441\u0435\u0434\u044b, \u0447\u0442\u0435\u043d\u0438\u0435, \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u0435 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u044b \u0438 \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438! \u0414\u0440\u0443\u0436\u0435\u0441\u043a\u043e\u0435 \u043e\u0431\u0449\u0435\u043d\u0438\u0435!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2200,
+          "student_count": 11,
+          "session_count": 160,
+          "create_time": "2019-04-03T06:22:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10700,
+              "session_price": 2200,
+              "course_id": 80323,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 164675
+            }
+          ]
+        },
+        {
+          "id": 88967,
+          "teacher_id": 6012487,
+          "language": "english",
+          "title": "\u0420\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430",
+          "description": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0434\u043b\u044f \u043d\u0430\u0447\u0438\u043d\u0430\u044e\u0449\u0438\u0445, \u0447\u0442\u0435\u043d\u0438\u0435, \u0442\u0440\u0430\u043d\u0441\u043a\u0440\u0438\u043f\u0446\u0438\u044f, \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u044f, \u0444\u0440\u0430\u0437\u044b , \u0434\u0438\u0430\u043b\u043e\u0433\u0438, \u043f\u0435\u0440\u0435\u0441\u043a\u0430\u0437\u044b, \u0430\u0443\u0434\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435  \u0438  \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430!",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1700,
+          "student_count": 3,
+          "session_count": 8,
+          "create_time": "2019-09-05T08:37:19Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8200,
+              "session_price": 1700,
+              "course_id": 88967,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 187910
+            }
+          ]
+        },
+        {
+          "id": 88968,
+          "teacher_id": 6012487,
+          "language": "turkish",
+          "title": "\u0420\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430",
+          "description": "\u0427\u0442\u0435\u043d\u0438\u0435 \u0442\u0443\u0440\u0435\u0446\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0444\u0440\u0430\u0437\u044b \u0434\u043b\u044f \u0442\u0443\u0440\u0438\u0441\u0442\u043e\u0432 \u0438\u043b\u0438  \u043a\u0442\u043e \u0440\u0435\u0448\u0438\u043b \u043f\u0435\u0440\u0435\u0435\u0445\u0430\u0442\u044c \u0432 \u044d\u0442\u0443 \u0441\u0442\u0440\u0430\u043d\u0443, \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430.",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1700,
+          "student_count": 4,
+          "session_count": 17,
+          "create_time": "2019-09-05T08:40:48Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8200,
+              "session_price": 1700,
+              "course_id": 88968,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 187911
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 12.0
+          },
+          {
+            "month": 1,
+            "data": 18.0
+          },
+          {
+            "month": 2,
+            "data": 16.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 549,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 9293686,
+        "nickname": "Amina",
+        "avatar_file_name": "2T092936860",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KE",
+        "is_online": 0,
+        "living_country_id": "KE",
+        "origin_city_id": "KE00001",
+        "origin_city_name": "Nairobi",
+        "living_city_id": "KE00001",
+        "living_city_name": "Nairobi",
+        "timezone": "Africa/Nairobi",
+        "last_login_time": "2025-04-01T18:59:42+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/WCJwmRJf_Os",
+        "video_pic_url": "https://img.youtube.com/vi/WCJwmRJf_Os/0.jpg",
+        "intro": "Experienced English and Swahili tutor teaching students of all levels, passionate about helping learners achieve their specific goals through engaging and practical conversational lessons.\nMwalimu wa Kiingereza na Kiswahili aliyejitolea kusaidia wanafunzi kufikia ufasaha kupitia masomo ya kibinafsi na yenye kuvutia.",
+        "short_signature": "Dedicated English and Swahili Teacher helping learners achieve fluency",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "swahili",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "italian",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-07-01T21:44:19Z",
+        "session_count": 123,
+        "pro_rating": "4.8",
+        "tutor_rating": "4.8",
+        "overall_rating": "4.8",
+        "qiniu_video_url": "https://v.italki.cn/0CF3EF2A-009F-4AAC-866F-DCD9E68D129A.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/WCJwmRJf_Os.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          8,
+          9
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Experienced English and Swahili tutor teaching students of all levels, passionate about helping learners achieve their specific goals through engaging and practical conversational lessons.\nMwalimu wa Kiingereza na Kiswahili aliyejitolea kusaidia wanafunzi kufikia ufasaha kupitia masomo ya kibinafsi na yenye kuvutia.",
+        "about_teacher": "Passionate language educator specializing in English and Swahili. With a dynamic and personalized teaching approach, I help learners build confidence and fluency in both languages. Whether you're a beginner or looking to refine your skills, I make learning fun, engaging, and tailored to your goals!",
+        "teaching_style": "My lessons are interactive, personalized, and tailored to each student's goals and proficiency level. I emphasize conversational skills to build confidence and fluency, using real-life scenarios and practical exercises. With a supportive and flexible teaching style, I ensure students feel comfortable, engaged, and motivated to progress in their language journey.",
+        "is_student_full": 0,
+        "student_count": 70,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-07-02T03:47:46+00:00",
+        "exp_info": [
+          {
+            "industry": "education",
+            "country": "KE",
+            "company": "italki",
+            "job": "Tutor",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Teaching English and Kiswahili online from 2021",
+            "start_year": 2021,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2024-03-19T16:59:41Z",
+            "exp_id": 152404
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University",
+            "major": "Environmental Science",
+            "level": 1,
+            "start_year": 2016,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2024-03-19T17:03:41Z",
+            "edu_id": "7300D431-807A-48B1-B3FC-2BD401878E9D"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2023-03-06T11:28:23Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Certificate in Teaching English as a Foreign Language (TEFL)",
+            "institution": "Alison",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "Teaching English as a Foreign Language",
+            "cert_id": "32796041-6C3E-4838-8C95-8405B6E9E40D"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Teaching English as a Foreign Language",
+            "institution": "Alison",
+            "end_year": 2023,
+            "status": 1,
+            "description": "Certificate in Teaching English as a Foreign Language (TEFL)",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 2648,
+            "user_id": 9293686,
+            "start_year": 2021,
+            "end_year": 2024,
+            "institution": "italki",
+            "institution_type": "self_employed_online",
+            "position": "Tutor",
+            "country": "",
+            "city": "",
+            "description": "Teaching English and Kiswahili online from 2021",
+            "create_at": "2024-03-19T16:58:27Z",
+            "create_by": "9293686",
+            "update_at": "2024-03-19T16:58:27Z",
+            "update_by": "9293686",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "podcast",
+            "created_count": 2
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 800,
+        "min_price": 1500,
+        "trial_session_count": 44,
+        "trial_description": "During our trial lesson we will;\n- Have general conversations & get to know each other\n- Discuss goals & expectations\n- Evaluate current level of spoken English\n- Decide on a teaching plan that works for you"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 9293686
+      },
+      "pro_course_detail": [
+        {
+          "id": 159961,
+          "teacher_id": 9293686,
+          "language": "english",
+          "title": "English Conversation Practice",
+          "description": "In these lessons we have general conversations about everything, life and all. We also build confidence in the language by having interesting conversations focusing on grammar, vocabulary and pronunciation.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 15,
+          "session_count": 25,
+          "create_time": "2021-07-02T03:37:01Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 159961,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 390159
+            },
+            {
+              "package_price": 1200,
+              "session_price": 1200,
+              "course_id": 159961,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 390160
+            },
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 159961,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 390162
+            },
+            {
+              "package_price": 3000,
+              "session_price": 3000,
+              "course_id": 159961,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 836957
+            }
+          ]
+        },
+        {
+          "id": 161017,
+          "teacher_id": 9293686,
+          "language": "swahili",
+          "title": "Swahili Conversation Practice",
+          "description": "Different conversations in Kiswahili to help with grammar, vocabulary and pronunciation as well as build confidence in speaking the language.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 12,
+          "session_count": 28,
+          "create_time": "2021-07-06T09:48:48Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 161017,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 393216
+            },
+            {
+              "package_price": 1200,
+              "session_price": 1200,
+              "course_id": 161017,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 393217
+            },
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 161017,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 393215
+            },
+            {
+              "package_price": 2500,
+              "session_price": 2500,
+              "course_id": 161017,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 836958
+            }
+          ]
+        },
+        {
+          "id": 161021,
+          "teacher_id": 9293686,
+          "language": "swahili",
+          "title": "Basic Swahili for Beginners",
+          "description": "Learning basic everyday Swahili phrases using documents and other materials including speaking and pronunciation.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 1500,
+          "student_count": 11,
+          "session_count": 25,
+          "create_time": "2021-07-06T09:57:17Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 161021,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 393227
+            },
+            {
+              "package_price": 1200,
+              "session_price": 1200,
+              "course_id": 161021,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 393228
+            },
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 161021,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 393226
+            },
+            {
+              "package_price": 3000,
+              "session_price": 3000,
+              "course_id": 161021,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 836959
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 123,
+        "response_rate": 1,
+        "attendance_rate": 0.98,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 12656425,
+        "nickname": "Albright",
+        "avatar_file_name": "1T126564250",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KE",
+        "is_online": 0,
+        "living_country_id": "RU",
+        "origin_city_id": "KE00001",
+        "origin_city_name": "Nairobi",
+        "living_city_id": "RU00221",
+        "living_city_name": "Kursk",
+        "timezone": "Europe/Moscow",
+        "last_login_time": "2025-04-01T06:32:50+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/ZwOwOV1DREs",
+        "video_pic_url": "https://img.youtube.com/vi/ZwOwOV1DREs/0.jpg",
+        "intro": "I can't write about all my interest or my entire life but i can say that i was brought up in different countries and environments  which has helped me to enjoy italk lessons, this is a place where i have picked up so many interests from students and i have learned more to be adaptable, so in summary, I am a medical student in Russia and I'm eager to hear what interests i can learn from you",
+        "short_signature": "practice conversations, IELTS practice and invite other students to my lessons",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2022-02-12T16:43:06Z",
+        "session_count": 628,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/2F8E8D3A-6BB3-42E7-B706-318DCFCEFDC8.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/ZwOwOV1DREs.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I can't write about all my interest or my entire life but i can say that i was brought up in different countries and environments  which has helped me to enjoy italk lessons, this is a place where i have picked up so many interests from students and i have learned more to be adaptable, so in summary, I am a medical student in Russia and I'm eager to hear what interests i can learn from you",
+        "about_teacher": "i have been on italki for about a year now with private students as well, and i have learned and continuously learning how to adopt to each students style, interests and needs",
+        "teaching_style": "from how i have seen with most of my students, having conversations to practice at their current level with occasional lessons or corrections where the student makes the same mistakes. Another key part of the lesson is inviting guests to feature in our class as well as inviting students for free to be a part of other students lessons so they can have a good experience meeting new people and not just me. Each lesson is tailor made for the student.",
+        "is_student_full": 0,
+        "student_count": 167,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-02-12T16:43:06+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 1
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 500,
+        "trial_session_count": 0,
+        "trial_description": "Basic understanding of the learner's goals and expectations for the lessons. \nThis is where I lay out what materials and tools  we will be using throughout the lessons and also what I expect from the students or what I will offer as a teacher."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 12656425
+      },
+      "pro_course_detail": [
+        {
+          "id": 212012,
+          "teacher_id": 12656425,
+          "language": "english",
+          "title": "English Classes",
+          "description": "Using different books and materials to prepare for exam situation questions to practice, from letter writing, poetry to other English lessons \nThe lessons are not limited to students writing exams but also to learners trying to improve their English and need  general English lessons to supplement their conversational English skills and are mainly lacking in areas such as adding articles or correct tenses etc",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 500,
+          "student_count": 144,
+          "session_count": 572,
+          "create_time": "2022-02-12T14:06:42Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 212012,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 541018
+            },
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 212012,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 541017
+            }
+          ]
+        },
+        {
+          "id": 220326,
+          "teacher_id": 12656425,
+          "language": "english",
+          "title": "Added Business conversations",
+          "description": "Here we supplement our normal conversations and language pruning with the use of Business lingo, a chance to also interact and practice acquired skills with other guest students or general guests, so as to also build confidence in front of different faces and accents, among other aspects included in the class",
+          "level_lower_limit": 2,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 600,
+          "student_count": 9,
+          "session_count": 22,
+          "create_time": "2022-04-09T20:20:18Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 220326,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 565392
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 10.0
+          },
+          {
+            "month": 2,
+            "data": 5.0
+          },
+          {
+            "month": 3,
+            "data": 12.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.96
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 0.94
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.71
+          },
+          {
+            "month": 2,
+            "data": 0.89
+          },
+          {
+            "month": 3,
+            "data": 0.93
+          }
+        ],
+        "finished_session": 628,
+        "response_rate": 0.98,
+        "attendance_rate": 0.97,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 5912710,
+        "nickname": "Alwiya",
+        "avatar_file_name": "1T059127100",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KE",
+        "is_online": 0,
+        "living_country_id": "AE",
+        "origin_city_id": "KE00006",
+        "origin_city_name": "Mombasa",
+        "living_city_id": "AE00021",
+        "living_city_name": "Ajman",
+        "timezone": "Asia/Dubai",
+        "last_login_time": "2025-03-29T07:31:43+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/QM2ZASqqPrk",
+        "video_pic_url": "https://img.youtube.com/vi/QM2ZASqqPrk/0.jpg",
+        "intro": "I am a TEFL-certified teacher with a passion for language and culture. I currently live in the United Arab Emirates, which is my hometown. In addition to English, I also speak Arabic, Swahili, and German, which has given me a unique perspective on the learning process.",
+        "short_signature": "Experienced and certified TEFL teacher dedicated to helping you reach your goals",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "arabic",
+            "level": 7
+          },
+          {
+            "language": "german",
+            "level": 3
+          },
+          {
+            "language": "swahili",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2019-02-15T13:32:20Z",
+        "session_count": 1582,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/6AF14553-32D7-4B02-8113-26491852333A.mp4",
+        "cover_name": "u/5912710/cover/ch422hjs14b31mf32vfg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/QM2ZASqqPrk.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          5,
+          6,
+          8
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I am a TEFL-certified teacher with a passion for language and culture. I currently live in the United Arab Emirates, which is my hometown. In addition to English, I also speak Arabic, Swahili, and German, which has given me a unique perspective on the learning process.",
+        "about_teacher": "Over the past three years, I have been teaching English to students from all around the world through the Italki platform. It has been an incredibly rewarding experience, and I am grateful for the opportunity to help others achieve their language goals. I understand the challenges that come with learning a new language, and I am committed to providing my students with the support they need to succeed.",
+        "teaching_style": "My teaching style is interactive, engaging, and tailored to each individual student. I believe that language learning should be fun and enjoyable, and I strive to create a relaxed and welcoming atmosphere in my classes. Whether you are a beginner just starting out or an advanced student looking to improve your fluency, I am here to help you every step of the way.",
+        "is_student_full": 0,
+        "student_count": 260,
+        "teacher_tag": [
+          1,
+          3
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "I will not be available on the platform for an unknown amount of time.",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "I will not be available on the platform for an unknown amount of time.",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1000,
+        "trial_session_count": 0,
+        "trial_description": "These trial lessons will give you a glimpse as to what a typical session might look like and therefore allow you to decide whether you are interested in a full lesson or not."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 5912710
+      },
+      "pro_course_detail": [
+        {
+          "id": 78998,
+          "teacher_id": 5912710,
+          "language": "english",
+          "title": "Informal Tutoring",
+          "description": "In these lessons, we will have conversation practice about daily life situations and discuss various topics to help you to improve your English speaking skills.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 174,
+          "session_count": 1166,
+          "create_time": "2019-03-06T19:57:22Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4800,
+              "session_price": 1000,
+              "course_id": 78998,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 161347
+            }
+          ]
+        },
+        {
+          "id": 236565,
+          "teacher_id": 5912710,
+          "language": "english",
+          "title": "General",
+          "description": "These lessons focus on grammar, vocabulary, and all the basic building blocks of the language. These lessons are perfect for those who want to start from scratch or for those who want to brush up on their language skills.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0003",
+            "T0006"
+          ],
+          "session_price": 2500,
+          "student_count": 1,
+          "session_count": 2,
+          "create_time": "2023-04-25T16:48:44Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12000,
+              "session_price": 2500,
+              "course_id": 236565,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 623054
+            }
+          ]
+        },
+        {
+          "id": 236566,
+          "teacher_id": 5912710,
+          "language": "english",
+          "title": "Test Preparation",
+          "description": "These lessons will help you get ready for exams such as TOEFL, IELTS, or even language proficiency tests for a specific job.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0006",
+            "T0005",
+            "T0004"
+          ],
+          "session_price": 1800,
+          "student_count": 2,
+          "session_count": 2,
+          "create_time": "2023-04-25T16:50:50Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8800,
+              "session_price": 1800,
+              "course_id": 236566,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 623055
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 10.0
+          },
+          {
+            "month": 2,
+            "data": 7.0
+          },
+          {
+            "month": 3,
+            "data": 7.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.92
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 1582,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 4069992,
+        "nickname": "Husain",
+        "avatar_file_name": "1T040699920",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KW",
+        "is_online": 0,
+        "living_country_id": "IT",
+        "origin_city_id": "KW00000",
+        "origin_city_name": "Other",
+        "living_city_id": "IT00006",
+        "living_city_name": "Milan",
+        "timezone": "Europe/Rome",
+        "last_login_time": "2025-04-01T19:59:00+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/dP_C4tXwmFk",
+        "video_pic_url": "https://img.youtube.com/vi/dP_C4tXwmFk/0.jpg",
+        "intro": "Learn from a former iTalki student! \nI'm Husain from Milan, Italy. I grew up bilingual, speaking English and Arabic and learned Italian as an adult\u2014on iTalki! Now I live in Italy and speak it fluently.\n\n\u2022 You can choose structured lessons with clear goals or casual conversation practice\u2014it\u2019s up to you!\n\u2022 I teach all levels, from beginners to advanced speakers.\n\u2022 My lessons focus on real conversation, so you learn the way people actually speak.\n\u2022 Relaxed, supportive environment where you can speak without fear of making mistakes. \n\u2022 I'm passionate about music, cinema, art and languages.",
+        "short_signature": "April Special Prices! Improve your Italian & English with Fun & Relaxed Lessons  \ud83c\uddee\ud83c\uddf9\ud83c\uddec\ud83c\udde7",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "italian",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "arabic",
+            "level": 7
+          },
+          {
+            "language": "german",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2025-01-31T05:20:55Z",
+        "session_count": 70,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/C26B9126-C887-47C3-9AA2-163A0F082F2D.mp4",
+        "cover_name": "u/4069992/cover/cvjf37k903ghjsaflsj0.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/dP_C4tXwmFk.jpg",
+        "teacher_material_list": [
+          1,
+          3,
+          6,
+          8,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Learn from a former iTalki student! \nI'm Husain from Milan, Italy. I grew up bilingual, speaking English and Arabic and learned Italian as an adult\u2014on iTalki! Now I live in Italy and speak it fluently.\n\n\u2022 You can choose structured lessons with clear goals or casual conversation practice\u2014it\u2019s up to you!\n\u2022 I teach all levels, from beginners to advanced speakers.\n\u2022 My lessons focus on real conversation, so you learn the way people actually speak.\n\u2022 Relaxed, supportive environment where you can speak without fear of making mistakes. \n\u2022 I'm passionate about music, cinema, art and languages.",
+        "about_teacher": "\u2022 I use my own language-learning journey to make lessons engaging, practical, and suited to real-life situations.\n\n\u2022 My approach is adaptable: every student is different, so I adjust my methods based on your needs and learning style.\n\n\u2022 I believe in creating a comfortable learning environment where you can make mistakes without pressure.\n\n\u2022 LGBTQIA+ and neurodivergent safe space",
+        "teaching_style": "\u2022 My lessons are conversation-based; you\u2019ll learn by speaking as much as possible in real situations.\n\n\u2022 You can choose structured lessons, where we follow a clear plan, or more free-flowing conversations based on your interests.\n\n\u2022 If you want to focus on grammar, we can have grammar lessons where I\u2019ll break it down simply and clearly.\n\n\u2022 If you prefer expanding your vocabulary and improving pronunciation, we can focus on real-life topics and practical expressions.\n\n\u2022 I encourage speaking as much as possible, but I will always guide and support you if you feel stuck.",
+        "is_student_full": 0,
+        "student_count": 15,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2025-01-31T05:20:55+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "American University of the Middle East",
+            "major": "Computer Engineering",
+            "level": 1,
+            "start_year": 2012,
+            "end_year": 2016,
+            "status": 1,
+            "create_time": "2025-01-21T21:00:19Z",
+            "edu_id": "2C07A8B9-F527-4CB0-99C3-5198F94F447A"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 4,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 550,
+        "trial_session_count": 0,
+        "trial_description": "In this trial lesson, we will:\n\u2705 Introduce ourselves \u2013 A quick chat to get to know each other.\n\u2705 Discuss your goals & preferences \u2013 Tell me about your learning style, expectations, and what you\u2019d like to focus on.\n\u2705 Experience a mini-lesson \u2013 A short demo of how a regular lesson would go, while playing the desert island game. \n\u2705 Answer any questions \u2013 Feel free to ask anything about the lessons or my teaching approach.\n\nDurante la lezione di prova:\n\u2705 Ci presenteremo \u2013 Una breve chiacchierata per conoscerci meglio.\n\u2705 Discuteremo i tuoi obiettivi e preferenze \u2013 Parlami del tuo stile di apprendimento, delle tue aspettative e di ci\u00f2 su cui vorresti concentrarti.\n\u2705 Facciamo una mini-lezione \u2013 Una breve dimostrazione di come si svolgerebbe una lezione normale, giocando al gioco \"desert island\" \n\u2705 Risponder\u00f2 a tutte le tue domande \u2013 Chiedimi qualsiasi cosa sulle lezioni o sul mio metodo di insegnamento."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 4069992
+      },
+      "pro_course_detail": [
+        {
+          "id": 260284,
+          "teacher_id": 4069992,
+          "language": "english",
+          "title": "Improve your English!",
+          "description": "\u2705 Conversation practice \u2013 Improve fluency, pronunciation, and confidence in real-life discussions.\n\u2705 Grammar & structure \u2013 Learn and apply grammar rules in a practical way.\n\u2705 Vocabulary building \u2013 Expand your vocabulary with useful expressions and phrases.\n\u2705 Listening & comprehension \u2013 Develop your ability to understand spoken language naturally.\n\u2705 Customized lessons \u2013 Tell me what you want to focus on, and I\u2019ll create a lesson just for you!\n\n\u2705 Conversazione \u2013 Parliamo per farti sentire a tuo agio e migliorare la fluidit\u00e0 e la pronuncia.\n\u2705 Grammatica e struttura \u2013 Impara e applica le regole grammaticali in modo pratico.\n\u2705 Espansione del lessico \u2013 Arricchisci il tuo vocabolario con espressioni e frasi utili.\n\u2705 Ascolto e comprensione \u2013 Sviluppa la tua capacit\u00e0 di capire il linguaggio parlato in modo naturale.\n\u2705 Lezioni personalizzate \u2013 Dimmi su cosa vuoi concentrarti e organizzer\u00f2 una lezione apposta per te!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 550,
+          "student_count": 11,
+          "session_count": 61,
+          "create_time": "2025-01-31T03:55:27Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2630,
+              "session_price": 550,
+              "course_id": 260284,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 809947
+            },
+            {
+              "package_price": 5000,
+              "session_price": 550,
+              "course_id": 260284,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 779353
+            },
+            {
+              "package_price": 2850,
+              "session_price": 600,
+              "course_id": 260284,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 804497
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 260284,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 779354
+            }
+          ]
+        },
+        {
+          "id": 264297,
+          "teacher_id": 4069992,
+          "language": "italian",
+          "title": "Learn Italian - Fun & Practical Lessons!",
+          "description": "Learn Italian from a former student! \n\n\u2705 Conversation practice \u2013 Improve fluency, pronunciation, and confidence in real-life discussions.\n\u2705 Grammar & structure \u2013 Learn and apply grammar rules in a practical way.\n\u2705 Vocabulary building \u2013 Expand your vocabulary with useful expressions and phrases.\n\u2705 Listening & comprehension \u2013 Develop your ability to understand spoken language naturally.\n\u2705 Customized lessons \u2013 Tell me what you want to focus on, and I\u2019ll create a lesson just for you!",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 550,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2025-03-27T01:11:57Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2630,
+              "session_price": 550,
+              "course_id": 264297,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 839772
+            },
+            {
+              "package_price": 5000,
+              "session_price": 550,
+              "course_id": 264297,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 839770
+            },
+            {
+              "package_price": 2850,
+              "session_price": 600,
+              "course_id": 264297,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 839771
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 264297,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 839773
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 13.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.93
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 70,
+        "response_rate": 0.98,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 9973436,
+        "nickname": "Allan Meso",
+        "avatar_file_name": "T099734360",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "KE",
+        "is_online": 0,
+        "living_country_id": "KE",
+        "origin_city_id": "KE00001",
+        "origin_city_name": "Nairobi",
+        "living_city_id": "KE00001",
+        "living_city_name": "Nairobi",
+        "timezone": "Africa/Nairobi",
+        "last_login_time": "2025-03-31T12:38:16+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/dl4eQ5TjiT8",
+        "video_pic_url": "https://img.youtube.com/vi/dl4eQ5TjiT8/0.jpg",
+        "intro": "My name is Teacher Allan from Nairobi Kenya, East Africa to the world! I love reading, journaling, meditation, socializing, learning new cultures and making new friends. I am a fluent, native speaker of English and Swahili languages. Teaching is my passion and I can't wait to see you in my class. Thank you.",
+        "short_signature": "Patient and creative, native English and Swahili teacher with 15 years teaching experience.",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "swahili",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2022-08-08T21:14:42Z",
+        "session_count": 92,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/7C3D2272-0728-4F6C-97DA-567F60324AC2.mp4",
+        "cover_name": "u/9973436/cover/clndmsqt2am6tn7ja1ug.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/dl4eQ5TjiT8.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "My name is Teacher Allan from Nairobi Kenya, East Africa to the world! I love reading, journaling, meditation, socializing, learning new cultures and making new friends. I am a fluent, native speaker of English and Swahili languages. Teaching is my passion and I can't wait to see you in my class. Thank you.",
+        "about_teacher": "I am a trained teacher of English language and Literature with over 15 years experience in classroom teaching and instruction and  3 years experience as an online teacher of English and Swahili languages for kids, teens and adults. I am a patient, creative and understanding teacher. I use learner centered approach in all my lessons that enables you to learn at your own pace from known to unknown, one lesson at a time. See you in my class soon. Thank you.",
+        "teaching_style": "I purpose to create a customized fun learning environment that suits the individual needs of all my learners regardless of their age, background and language learning level in either English or Swahili. I achieve this by using real life scenario-based conversation practice, reading comprehension, pronunciation drills, report writing, grammar and vocabulary practice among others. My overall objective is making you a confident, competent and fluent speaker of either English or Swahili language from Foundational/Beginner Level (A1) all the way to Proficiency Level (C2), one lesson at a time. Book a trial lesson with me today and let\u2019s get started. Thank you for viewing my teaching profile.",
+        "is_student_full": 0,
+        "student_count": 20,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-08-08T21:14:42+00:00",
+        "exp_info": [
+          {
+            "industry": "language_literature",
+            "city": "Nairobi",
+            "company": "Teachers Service Commission, Kenya",
+            "job": "High School ESL Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2017,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2024-03-29T17:32:47Z",
+            "exp_id": 152531
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "St. Mary's University of Minnesota, Nairobi Campus",
+            "major": "Education",
+            "level": 1,
+            "description": "English Language and Literature",
+            "start_year": 2004,
+            "end_year": 2007,
+            "status": 1,
+            "create_time": "2024-03-12T11:45:22Z",
+            "edu_id": "C740D077-523E-4834-8696-16BEB208B0F0"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2024-03-12T11:55:26Z",
+            "update_time": "2024-03-12T12:02:12Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "description": "undefined",
+            "institution": "St. Mary's University of Minnesota, Nairobi Campus",
+            "end_year": 2007,
+            "status": 1,
+            "certificate": "Diploma in Teacher Education",
+            "language": "english",
+            "type": "Bachelors in Education",
+            "type_text_code": "TA554",
+            "cert_id": "BB241815-3EBC-4D09-B6EF-DC73AE91D47A"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Diploma in Teacher Education",
+            "institution": "St. Mary's University of Minnesota, Nairobi Campus",
+            "end_year": 2007,
+            "status": 1,
+            "description": "undefined",
+            "type": "Bachelors in Education"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 2180,
+            "user_id": 9973436,
+            "start_year": 2008,
+            "end_year": 2021,
+            "institution": "Different High schools",
+            "institution_type": "public_education",
+            "position": "High School Classroom Teacher",
+            "country": "",
+            "city": "Nairobi",
+            "description": "",
+            "create_at": "2024-03-12T12:00:02Z",
+            "create_by": "9973436",
+            "update_at": "2024-03-12T12:00:02Z",
+            "update_by": "9973436",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 3
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 700,
+        "trial_session_count": 0,
+        "trial_description": "Hello, in this lesson, I will get a better understanding of your learning needs as you also find out about me and my teaching style. The objective of this lesson is to formulate an individualized learning plan that is tailor made to propel you in achieving your learning goals in English or Swahili; from beginner to advanced level. I am looking forward to meeting you in class."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 9973436
+      },
+      "pro_course_detail": [
+        {
+          "id": 228254,
+          "teacher_id": 9973436,
+          "language": "english",
+          "title": "English for Beginners",
+          "description": "I will help you to understand and use frequently used everyday expressions as well as simple phrases to meet immediate needs. Learn to introduce yourself and others, ask and answer questions about personal details for example where you live, people you know and many others.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0003",
+            "T0005"
+          ],
+          "session_price": 700,
+          "student_count": 3,
+          "session_count": 3,
+          "create_time": "2022-08-08T19:00:20Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 228254,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 592198
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 228254,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 592199
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 228254,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 591873
+            },
+            {
+              "package_price": 9500,
+              "session_price": 1000,
+              "course_id": 228254,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 592200
+            }
+          ]
+        },
+        {
+          "id": 228260,
+          "teacher_id": 9973436,
+          "language": "swahili",
+          "title": "Basic Swahili for Beginners",
+          "description": "I will assist you to learn the basic and commonly used simple words, phrases and sentences in Swahili for greetings, introducing yourself and others, naming things and so on. Karibu. (Welcome)",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 700,
+          "student_count": 8,
+          "session_count": 51,
+          "create_time": "2022-08-08T22:00:07Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 228260,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 592216
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 228260,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 592217
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 228260,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 591895
+            },
+            {
+              "package_price": 9500,
+              "session_price": 1000,
+              "course_id": 228260,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 592218
+            }
+          ]
+        },
+        {
+          "id": 228350,
+          "teacher_id": 9973436,
+          "language": "english",
+          "title": "English for Kids",
+          "description": "In this lesson, kids of ages 6-18 years old interested in learning English get to build their confidence in reading, listening and speaking practice while constructing simple, complete and correct sentences from beginner level to advanced level. Kindly note that 5 minutes shall be slotted for teacher-parent conference at the tail end of the lesson to provide learner progress report.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 700,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2022-08-10T19:26:24Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 228350,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 592205
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 228350,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 592206
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 228350,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 592204
+            },
+            {
+              "package_price": 9500,
+              "session_price": 1000,
+              "course_id": 228350,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 592207
+            }
+          ]
+        },
+        {
+          "id": 228351,
+          "teacher_id": 9973436,
+          "language": "english",
+          "title": "General Conversation Practice - Includes a 10 Lesson package for All Levels  at a DISCOUNT!",
+          "description": "In this lesson, you will strengthen your English listening and speaking skills that you need in daily communication using real life scenario based conversation practice sessions on common topics of your choice. The conversations range from basic to advanced levels. Let's meet in class soon!",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 2,
+          "session_count": 12,
+          "create_time": "2022-08-10T19:59:14Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 228351,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 592209
+            },
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 228351,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 592210
+            },
+            {
+              "package_price": 6000,
+              "session_price": 700,
+              "course_id": 228351,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 592208
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1000,
+              "course_id": 228351,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 592211
+            }
+          ]
+        },
+        {
+          "id": 228353,
+          "teacher_id": 9973436,
+          "language": "swahili",
+          "title": "Swahili Conversation Practice - Take advantage of the 10 Lessons Package at a GREAT DISCOUNT!",
+          "description": "Learn how to communicate in Swahili language both in formal and informal contexts through interactive conversation practice based on general discussion topics of your choice. Karibu darasani!",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 7,
+          "session_count": 14,
+          "create_time": "2022-08-10T20:21:30Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 228353,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 592220
+            },
+            {
+              "package_price": 5000,
+              "session_price": 600,
+              "course_id": 228353,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 592221
+            },
+            {
+              "package_price": 6000,
+              "session_price": 700,
+              "course_id": 228353,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 592219
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1000,
+              "course_id": 228353,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 592222
+            }
+          ]
+        },
+        {
+          "id": 228354,
+          "teacher_id": 9973436,
+          "language": "swahili",
+          "title": "Swahili Grammar/Sarufi",
+          "description": "Learn the 8 Swahili Noun Classes and how to use them in sentences with different tenses. Practice will be done using exercises and general conversation practice based on topics of your choice.",
+          "level_lower_limit": 4,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002"
+          ],
+          "session_price": 700,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2022-08-10T20:32:06Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 500,
+              "course_id": 228354,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 592224
+            },
+            {
+              "package_price": 5500,
+              "session_price": 600,
+              "course_id": 228354,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 592225
+            },
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 228354,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 592223
+            },
+            {
+              "package_price": 9500,
+              "session_price": 1000,
+              "course_id": 228354,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 592226
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 92,
+        "response_rate": 1,
+        "attendance_rate": 0.98,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 52,
+    "price_list": [
+      0,
+      5,
+      23,
+      19,
+      4,
+      1,
+      29,
+      4,
+      18,
+      5,
+      14,
+      15,
+      1,
+      7,
+      4,
+      3,
+      16,
+      0,
+      5,
+      0,
+      5,
+      11,
+      1,
+      3,
+      7,
+      0,
+      0,
+      0,
+      4,
+      1,
+      1,
+      0,
+      1,
+      1,
+      4,
+      1,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-8d-49e0-8550-251bef8de963-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 52
+  },
+  "paging": {
+    "page": 3,
+    "page_size": 20,
+    "total": 52,
+    "has_next": 0
+  }
+}

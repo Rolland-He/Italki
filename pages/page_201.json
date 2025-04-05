@@ -1,0 +1,4007 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 6047874,
+        "nickname": "Artem",
+        "avatar_file_name": "1T060478740",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "UA",
+        "is_online": 1,
+        "living_country_id": "UA",
+        "origin_city_id": "UA00036",
+        "origin_city_name": "Kryvyj Rih",
+        "living_city_id": "UA00036",
+        "living_city_name": "Kryvyj Rih",
+        "timezone": "Europe/Kiev",
+        "last_login_time": "2025-04-01T20:29:49+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/VQWUU_FcYTw",
+        "video_pic_url": "https://img.youtube.com/vi/VQWUU_FcYTw/0.jpg",
+        "intro": "I am a language enthusiast and dedicated teacher based in Kryvyi Rih, Ukraine.  I am currently pursuing my PhD in \"Teaching Foreign Languages\". My academic background includes a Master's Degree with honors in Philology, with a focus on Germanic languages and literatures, particularly English translation. Additionally, I hold TESOL, Master's Degrees in metallurgy and economics.\nI am passionate about fitness, finding joy in regular workouts. Music is another integral part of my life\u2014I\u2019ve been playing various instruments like the clarinet, saxophone, and piano since a young age. I\u2019m interested in science, health, philosophy, meditation, psychology, kinesiology, and many other topics.",
+        "short_signature": "I am a PhD candidate in \"Teaching foreign languages\" with 8 years of experience =)",
+        "teach_language": [
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "ukrainian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "german",
+            "level": 3
+          },
+          {
+            "language": "polish",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2020-04-20T11:40:49Z",
+        "session_count": 2946,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/919C00AC-9375-4835-A091-89C7303A2899.mp4",
+        "cover_name": "u/6047874/cover/cstm41kbup1qjk19i7j0.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/VQWUU_FcYTw.jpg",
+        "teacher_material_list": [
+          1,
+          4,
+          7,
+          10,
+          2,
+          5,
+          8,
+          11,
+          3,
+          6,
+          9,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I am a language enthusiast and dedicated teacher based in Kryvyi Rih, Ukraine.  I am currently pursuing my PhD in \"Teaching Foreign Languages\". My academic background includes a Master's Degree with honors in Philology, with a focus on Germanic languages and literatures, particularly English translation. Additionally, I hold TESOL, Master's Degrees in metallurgy and economics.\nI am passionate about fitness, finding joy in regular workouts. Music is another integral part of my life\u2014I\u2019ve been playing various instruments like the clarinet, saxophone, and piano since a young age. I\u2019m interested in science, health, philosophy, meditation, psychology, kinesiology, and many other topics.",
+        "about_teacher": "As a language teacher with 8 years of experience, my teaching strategy is to create an enjoyable learning environment. I teach individually and in groups. I\u2019ve dealt with hundreds of students from all over the world and different cultures with pleasure. Whether you're a beginner or an advanced learner, my aim is the same: to tailor my teaching style to suit your individual needs.\nIn my lessons, I provide both general and academic language support. I prefer communicative and lexical approaches.",
+        "teaching_style": "1) I will design a lesson plan for our classes tailored to your needs, which can be adjusted at any time.\n2) Our class will start with some informal conversation before we dive into the main topic. I will introduce new vocabulary, use flashcards, explain details, and answer your questions. We will then engage in activities to practice the new knowledge through speaking, including making phrases, sentences, and dialogues. For grammar, I use visual aids such as tables, diagrams, and examples. If you are at a B1-B2 level, we can incorporate content-based activities, watch videos, read texts, and discuss new information.\n3) I will provide you with feedback to track your progress.",
+        "is_student_full": 0,
+        "student_count": 195,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "industry": "technology_engineering",
+            "country": "UA",
+            "company": "Metinvest",
+            "job": "Engineer",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2013,
+            "end_year": 2016,
+            "status": 1,
+            "create_time": "2024-03-08T10:24:09Z",
+            "exp_id": 152069
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Kryvyi Rih National University",
+            "major": "Metallurgy",
+            "level": 2,
+            "start_year": 2007,
+            "end_year": 2012,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2024-03-07T22:14:31Z",
+            "edu_id": "1B8E7033-27F4-44EF-9870-E18DBD686393"
+          },
+          {
+            "institution": "Kryvyi Rih State Pedagogical University",
+            "major": "Philology. Translation (primary \u2013 English)",
+            "level": 2,
+            "description": "Master's diploma with honours.\r\nMajor: Germanic languages and literatures (including translation), primary \u2013 English.",
+            "start_year": 2022,
+            "end_year": 2023,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2024-03-07T21:56:55Z",
+            "edu_id": "A88C0F2B-9730-4C83-8FE0-9B9CF5267373"
+          },
+          {
+            "institution": "Kryvyi Rih National University",
+            "major": "Enterprise economy",
+            "level": 2,
+            "start_year": 2012,
+            "end_year": 2015,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2024-03-07T22:16:10Z",
+            "update_time": "2024-03-07T22:17:53Z",
+            "edu_id": "DF8A75D4-3A31-4ECD-8AD1-FCA817B33312"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2024-03-07T22:05:45Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Teaching reading, writing, speaking, listening, vocabulary, and grammar to speakers of other languages.",
+            "institution": "Bridge Education Group",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "120-hour TEFL/TESOL Master's Certificate",
+            "language": "english",
+            "type": "TESOL",
+            "type_text_code": "TA563",
+            "cert_id": "07833D49-5728-4639-BCA8-2F2F7D580E9C"
+          },
+          {
+            "create_time": "2024-04-13T20:37:43Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "institution": "Skyeng",
+            "end_year": 2019,
+            "status": 1,
+            "certificate": "Magical lessons",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "2A8E1E79-7A98-4486-B7B1-54D6155A02F3"
+          },
+          {
+            "create_time": "2024-04-13T20:30:29Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "institution": "Language Factory",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "How to teach English effectively",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "65115C00-672C-4062-AB39-4BBCA2F3D123"
+          },
+          {
+            "create_time": "2024-04-13T20:32:56Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "English Office",
+            "end_year": 2019,
+            "status": 1,
+            "certificate": "Most common mistakes in IELTS",
+            "language": "english",
+            "type": "TESOL",
+            "type_text_code": "TA563",
+            "cert_id": "A2A224A4-18D9-44E9-BDFF-E80D4A3E7345"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "120-hour TEFL/TESOL Master's Certificate",
+            "institution": "Bridge Education Group",
+            "end_year": 2020,
+            "status": 1,
+            "description": "Teaching reading, writing, speaking, listening, vocabulary, and grammar to speakers of other languages.",
+            "type": "TESOL"
+          },
+          {
+            "certificate": "How to teach English effectively",
+            "institution": "Language Factory",
+            "end_year": 2020,
+            "status": 1,
+            "description": "",
+            "type": "TEFL"
+          },
+          {
+            "certificate": "Magical lessons",
+            "institution": "Skyeng",
+            "end_year": 2019,
+            "status": 1,
+            "description": "",
+            "type": "TEFL"
+          },
+          {
+            "certificate": "Most common mistakes in IELTS",
+            "institution": "English Office",
+            "end_year": 2019,
+            "status": 1,
+            "description": "",
+            "type": "TESOL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 1655,
+            "user_id": 6047874,
+            "start_year": 2018,
+            "end_year": 2020,
+            "institution": "English Office",
+            "institution_type": "private_education_center",
+            "position": "English teacher",
+            "country": "UA",
+            "city": "",
+            "description": "",
+            "create_at": "2024-03-07T22:07:42Z",
+            "create_by": "6047874",
+            "update_at": "2024-03-07T22:11:39Z",
+            "update_by": "6047874",
+            "status": 1
+          },
+          {
+            "id": 1658,
+            "user_id": 6047874,
+            "start_year": 2016,
+            "end_year": 2024,
+            "institution": "Freelance",
+            "institution_type": "self_employed_online",
+            "position": "English teacher",
+            "country": "UA",
+            "city": "",
+            "description": "",
+            "create_at": "2024-03-07T22:09:54Z",
+            "create_by": "6047874",
+            "update_at": "2024-03-07T22:09:54Z",
+            "update_by": "6047874",
+            "status": 1
+          },
+          {
+            "id": 1660,
+            "user_id": 6047874,
+            "start_year": 2020,
+            "end_year": 2024,
+            "institution": "Italki",
+            "institution_type": "self_employed_online",
+            "position": "English, Ukrainian, Russian teacher",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-03-07T22:11:27Z",
+            "create_by": "6047874",
+            "update_at": "2024-03-07T22:11:27Z",
+            "update_by": "6047874",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 700,
+        "min_price": 1400,
+        "trial_session_count": 0,
+        "trial_description": "Welcome to our first meeting, where we'll discuss how we can work together to help you improve your language skills. During this session, I'll evaluate your current level of proficiency, identify areas for improvement, and create a personalized plan to help you achieve your language goals.\nYour input on the lesson plan, activities, and materials is important to me. Please feel free to share any ideas or preferences you have for your language classes. Your feedback will help ensure that our lessons are engaging and effective for you."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 11832,
+        "exam_type": 0,
+        "level": "C1",
+        "score": "87.00",
+        "show_badge": 1,
+        "show_score": 1,
+        "url_id": 7008524755,
+        "user_id": 6047874
+      },
+      "pro_course_detail": [
+        {
+          "id": 109363,
+          "teacher_id": 6047874,
+          "language": "english",
+          "title": "General English",
+          "description": "Ready to take your language skills to the next level? Join my classes and let's embark on a journey together! Whether you want to improve for work, travel, or just for fun, my classes are tailored to your needs. With a supportive environment and personalized instruction, you'll gain the confidence to communicate effectively in no time.\n\nLevel Progression and Time Estimate:\n\nA1 Beginner (60-80 hours)\n\u2022\tIntroduction to basic English vocabulary and grammar.\n\u2022\tSimple conversations and greetings.\n\u2022\tReading and understanding basic texts.\n\u2022\tWriting short sentences and paragraphs.\n\nA2 Elementary (80-100 hours)\n\u2022\tExpanding vocabulary and understanding more complex grammar structures.\n\u2022\tEngaging in basic conversations on everyday topics.\n\u2022\tComprehending short texts and simple instructions.\n\u2022\tWriting simple essays and emails.\n\nB1 Pre-Intermediate (100-120 hours)\n\u2022\tDeveloping conversational fluency on a wider range of topics.\n\u2022\tUnderstanding more complex texts, such as articles and short stories.\n\u2022\tWriting longer essays and reports with coherence and cohesion.\n\u2022\tExpanding vocabulary for various contexts.\n\nB2 Intermediate (120-150 hours)\n\u2022\tEnhancing speaking skills for discussions, debates, and presentations.\n\u2022\tListening to and understanding native speakers in various situations.\n\u2022\tReading and analyzing longer texts, including news articles and excerpts from literature.\n\u2022\tWriting coherent and structured essays, reports, and formal letters.\n\nC1 Advanced (150-200 hours)\n\u2022\tRefining speaking skills for advanced discussions, presentations, and negotiations.\n\u2022\tFine-tuning listening comprehension for nuanced understanding of native speakers.\n\u2022\tAnalyzing and synthesizing complex texts, including academic articles and literary works.\n\u2022\tProducing well-structured and persuasive written pieces, such as essays, reports, and proposals.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1400,
+          "student_count": 78,
+          "session_count": 733,
+          "create_time": "2020-04-20T19:32:39Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3300,
+              "session_price": 700,
+              "course_id": 109363,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 243539
+            },
+            {
+              "package_price": 6800,
+              "session_price": 700,
+              "course_id": 109363,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 840208
+            },
+            {
+              "package_price": 4800,
+              "session_price": 1000,
+              "course_id": 109363,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 272017
+            },
+            {
+              "package_price": 9800,
+              "session_price": 1000,
+              "course_id": 109363,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 840209
+            },
+            {
+              "package_price": 6800,
+              "session_price": 1400,
+              "course_id": 109363,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 243538
+            },
+            {
+              "package_price": 13800,
+              "session_price": 1400,
+              "course_id": 109363,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 840207
+            },
+            {
+              "package_price": 10300,
+              "session_price": 2100,
+              "course_id": 109363,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 840210
+            }
+          ]
+        },
+        {
+          "id": 125604,
+          "teacher_id": 6047874,
+          "language": "ukrainian",
+          "title": "General Ukrainian",
+          "description": "Ready to take your language skills to the next level? Join my classes and let's embark on a journey together! Whether you want to improve for work, travel, or just for fun, my classes are tailored to your needs. With a supportive environment and personalized instruction, you'll gain the confidence to communicate effectively in no time.\n\nLevel Progression and Time Estimate:\n\nA1 Beginner (60-80 hours)\n\u2022\tIntroduction to basic English vocabulary and grammar.\n\u2022\tSimple conversations and greetings.\n\u2022\tReading and understanding basic texts.\n\u2022\tWriting short sentences and paragraphs.\n\nA2 Elementary (80-100 hours)\n\u2022\tExpanding vocabulary and understanding more complex grammar structures.\n\u2022\tEngaging in basic conversations on everyday topics.\n\u2022\tComprehending short texts and simple instructions.\n\u2022\tWriting simple essays and emails.\n\nB1 Pre-Intermediate (100-120 hours)\n\u2022\tDeveloping conversational fluency on a wider range of topics.\n\u2022\tUnderstanding more complex texts, such as articles and short stories.\n\u2022\tWriting longer essays and reports with coherence and cohesion.\n\u2022\tExpanding vocabulary for various contexts.\n\nB2 Intermediate (120-150 hours)\n\u2022\tEnhancing speaking skills for discussions, debates, and presentations.\n\u2022\tListening to and understanding native speakers in various situations.\n\u2022\tReading and analyzing longer texts, including news articles and excerpts from literature.\n\u2022\tWriting coherent and structured essays, reports, and formal letters.\n\nC1 Advanced (150-200 hours)\n\u2022\tRefining speaking skills for advanced discussions, presentations, and negotiations.\n\u2022\tFine-tuning listening comprehension for nuanced understanding of native speakers.\n\u2022\tAnalyzing and synthesizing complex texts, including academic articles and literary works.\n\u2022\tProducing well-structured and persuasive written pieces, such as essays, reports, and proposals.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 1400,
+          "student_count": 36,
+          "session_count": 856,
+          "create_time": "2020-08-22T19:59:59Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3800,
+              "session_price": 800,
+              "course_id": 125604,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 290233
+            },
+            {
+              "package_price": 7800,
+              "session_price": 800,
+              "course_id": 125604,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 837254
+            },
+            {
+              "package_price": 11800,
+              "session_price": 800,
+              "course_id": 125604,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 837255
+            },
+            {
+              "package_price": 15800,
+              "session_price": 800,
+              "course_id": 125604,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 837256
+            },
+            {
+              "package_price": 5800,
+              "session_price": 1200,
+              "course_id": 125604,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 290234
+            },
+            {
+              "package_price": 11800,
+              "session_price": 1200,
+              "course_id": 125604,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 837257
+            },
+            {
+              "package_price": 17800,
+              "session_price": 1200,
+              "course_id": 125604,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 837259
+            },
+            {
+              "package_price": 23800,
+              "session_price": 1200,
+              "course_id": 125604,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 837258
+            },
+            {
+              "package_price": 6800,
+              "session_price": 1400,
+              "course_id": 125604,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 290232
+            },
+            {
+              "package_price": 13800,
+              "session_price": 1400,
+              "course_id": 125604,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 837251
+            },
+            {
+              "package_price": 20800,
+              "session_price": 1400,
+              "course_id": 125604,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 837252
+            },
+            {
+              "package_price": 27800,
+              "session_price": 1400,
+              "course_id": 125604,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 837253
+            },
+            {
+              "package_price": 10800,
+              "session_price": 2200,
+              "course_id": 125604,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 837260
+            },
+            {
+              "package_price": 21800,
+              "session_price": 2200,
+              "course_id": 125604,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 837261
+            },
+            {
+              "package_price": 32800,
+              "session_price": 2200,
+              "course_id": 125604,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 837262
+            },
+            {
+              "package_price": 43800,
+              "session_price": 2200,
+              "course_id": 125604,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 837263
+            }
+          ]
+        },
+        {
+          "id": 125605,
+          "teacher_id": 6047874,
+          "language": "russian",
+          "title": "General Russian",
+          "description": "Ready to take your language skills to the next level? Join my classes and let's embark on a journey together! Whether you want to improve for work, travel, or just for fun, my classes are tailored to your needs. With a supportive environment and personalized instruction, you'll gain the confidence to communicate effectively in no time.\n\nLevel Progression and Time Estimate:\n\nA1 Beginner (60-80 hours)\n\u2022\tIntroduction to basic English vocabulary and grammar.\n\u2022\tSimple conversations and greetings.\n\u2022\tReading and understanding basic texts.\n\u2022\tWriting short sentences and paragraphs.\n\nA2 Elementary (80-100 hours)\n\u2022\tExpanding vocabulary and understanding more complex grammar structures.\n\u2022\tEngaging in basic conversations on everyday topics.\n\u2022\tComprehending short texts and simple instructions.\n\u2022\tWriting simple essays and emails.\n\nB1 Pre-Intermediate (100-120 hours)\n\u2022\tDeveloping conversational fluency on a wider range of topics.\n\u2022\tUnderstanding more complex texts, such as articles and short stories.\n\u2022\tWriting longer essays and reports with coherence and cohesion.\n\u2022\tExpanding vocabulary for various contexts.\n\nB2 Intermediate (120-150 hours)\n\u2022\tEnhancing speaking skills for discussions, debates, and presentations.\n\u2022\tListening to and understanding native speakers in various situations.\n\u2022\tReading and analyzing longer texts, including news articles and excerpts from literature.\n\u2022\tWriting coherent and structured essays, reports, and formal letters.\n\nC1 Advanced (150-200 hours)\n\u2022\tRefining speaking skills for advanced discussions, presentations, and negotiations.\n\u2022\tFine-tuning listening comprehension for nuanced understanding of native speakers.\n\u2022\tAnalyzing and synthesizing complex texts, including academic articles and literary works.\n\u2022\tProducing well-structured and persuasive written pieces, such as essays, reports, and proposals.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0003"
+          ],
+          "session_price": 1400,
+          "student_count": 60,
+          "session_count": 1274,
+          "create_time": "2020-08-22T20:18:51Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3800,
+              "session_price": 800,
+              "course_id": 125605,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 290236
+            },
+            {
+              "package_price": 7800,
+              "session_price": 800,
+              "course_id": 125605,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 840197
+            },
+            {
+              "package_price": 11800,
+              "session_price": 800,
+              "course_id": 125605,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 840198
+            },
+            {
+              "package_price": 15800,
+              "session_price": 800,
+              "course_id": 125605,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 840199
+            },
+            {
+              "package_price": 5800,
+              "session_price": 1200,
+              "course_id": 125605,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 290237
+            },
+            {
+              "package_price": 11800,
+              "session_price": 1200,
+              "course_id": 125605,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 840200
+            },
+            {
+              "package_price": 17800,
+              "session_price": 1200,
+              "course_id": 125605,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 840201
+            },
+            {
+              "package_price": 23800,
+              "session_price": 1200,
+              "course_id": 125605,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 840202
+            },
+            {
+              "package_price": 6800,
+              "session_price": 1400,
+              "course_id": 125605,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 290235
+            },
+            {
+              "package_price": 13800,
+              "session_price": 1400,
+              "course_id": 125605,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 840194
+            },
+            {
+              "package_price": 20800,
+              "session_price": 1400,
+              "course_id": 125605,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 840195
+            },
+            {
+              "package_price": 27800,
+              "session_price": 1400,
+              "course_id": 125605,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 840196
+            },
+            {
+              "package_price": 10800,
+              "session_price": 2200,
+              "course_id": 125605,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 840203
+            },
+            {
+              "package_price": 21800,
+              "session_price": 2200,
+              "course_id": 125605,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 840204
+            },
+            {
+              "package_price": 32800,
+              "session_price": 2200,
+              "course_id": 125605,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 840205
+            },
+            {
+              "package_price": 43800,
+              "session_price": 2200,
+              "course_id": 125605,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 840206
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 32.0
+          },
+          {
+            "month": 1,
+            "data": 33.0
+          },
+          {
+            "month": 2,
+            "data": 46.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 0.94
+          },
+          {
+            "month": 2,
+            "data": 0.98
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 2946,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 1710710,
+        "nickname": "Ivanna\u2728",
+        "avatar_file_name": "86T017107100",
+        "is_tutor": 1,
+        "is_pro": 1,
+        "origin_country_id": "UA",
+        "is_online": 0,
+        "living_country_id": "UA",
+        "origin_city_id": "UA00001",
+        "origin_city_name": "Kyiv",
+        "living_city_id": "UA00001",
+        "living_city_name": "Kyiv",
+        "timezone": "Europe/Kiev",
+        "last_login_time": "2025-04-01T16:33:08+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/imCcr5npz8k",
+        "video_pic_url": "https://img.youtube.com/vi/imCcr5npz8k/0.jpg",
+        "intro": "I am from Kiev, Ukraine. I am an experienced English and Russian teacher!\nI love working with children all ages and making interesting lessons for them. I am always trying to make the learning process even more interesting.\nMy students progress is very important to me.",
+        "short_signature": "I have conducted more than 4 601 lessons with adults and more than 17178 lessons with kids.",
+        "teach_language": [
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "ukrainian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "french",
+            "level": 1
+          },
+          {
+            "language": "german",
+            "level": 1
+          },
+          {
+            "language": "italian",
+            "level": 1
+          },
+          {
+            "language": "spanish",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2014-11-11T02:42:23Z",
+        "session_count": 4722,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/F9A0901A-2013-4E8D-99ED-1260BBFA2FD8.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/imCcr5npz8k.jpg",
+        "teacher_material_list": [
+          2,
+          5,
+          8,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "I have a Master's Degree in English Language Teaching. I am a teacher at the Law Academy. I've been working as a private teacher of English since 2009, as a distant tutor since 2013. I have work experience in General English. I have recently started teaching Ukrainian and Russian as a foreign language from the very basics.",
+        "about_me": "I am from Kiev, Ukraine. I am an experienced English and Russian teacher!\nI love working with children all ages and making interesting lessons for them. I am always trying to make the learning process even more interesting.\nMy students progress is very important to me.",
+        "about_teacher": "I am an experienced English teacher!\nI love working with children all ages and making interesting lessons for them. I am always trying to make the learning process even more interesting.\nMy students progress is very important to me.",
+        "teaching_style": null,
+        "is_student_full": 0,
+        "student_count": 228,
+        "teacher_tag": [
+          1,
+          2,
+          3
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "UA",
+            "city": "Cherkasy",
+            "company": "Law University",
+            "job": "English teacher",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2013,
+            "end_year": 2014,
+            "status": 1,
+            "create_time": "2014-11-04T09:51:42Z",
+            "exp_id": 6669
+          },
+          {
+            "country": "UA",
+            "city": "Cherkasy",
+            "company": "Odessa National Academy",
+            "job": "teacher",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2013,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2014-11-05T16:34:48Z",
+            "exp_id": 6692
+          },
+          {
+            "country": "UA",
+            "city": "KIEV, UKRAINE",
+            "company": "Kiev Linguistic Centre",
+            "job": "teacher",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2015,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2015-10-10T20:13:39Z",
+            "exp_id": 10459
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Linguistic University",
+            "major": "English philology",
+            "level": 2,
+            "start_year": 2002,
+            "end_year": 2009,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2014-11-14T11:41:12Z",
+            "edu_id": "393EE930-9650-42F6-87A2-29181D024C21"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2014-11-05T16:37:23Z",
+            "file_ext": "jpg",
+            "institution": "Cherkasy National University",
+            "end_year": 2009,
+            "status": 1,
+            "certificate": "Diploma/qualification of Master Degree",
+            "cert_id": "7F2B7B59-82A3-4B7C-910B-6541F3D0EA50"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "\u0427\u041d\u0423 \u0456\u043c\u0435\u043d\u0456 \u0411\u043e\u0433\u0434\u0430\u043d\u0430 \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e",
+            "type": "CA003",
+            "type_text_code": "TEST",
+            "certificate": "\u0414\u0438\u043f\u043b\u043e\u043c",
+            "description": "\u0427\u041d\u0423 \u0456\u043c\u0435\u043d\u0456 \u0411\u043e\u0433\u0434\u0430\u043d\u0430 \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e",
+            "end_year": 2006,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/D35E7F1E-0131-4357-8313-89B209C25A6C.jpeg",
+            "create_time": "2024-09-19T11:46:05Z",
+            "update_time": "2024-09-19T11:46:05Z",
+            "approve_time": "2024-09-24T12:53:51Z"
+          },
+          {
+            "institution": "\u0427\u041d\u0423 \u0456\u043c\u0435\u043d\u0456 \u0411\u043e\u0433\u0434\u0430\u043d\u0430 \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e",
+            "type": "CA004",
+            "type_text_code": "KIDS",
+            "certificate": "\u0414\u0438\u043f\u043b\u043e\u043c",
+            "description": "\u0427\u041d\u0423 \u0456\u043c\u0435\u043d\u0456 \u0411\u043e\u0433\u0434\u0430\u043d\u0430 \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0441\u0442\u0443\u043f\u0456\u043d\u044c \u0411\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0430 \u0442\u0430 \u041c\u0430\u0433\u0456\u0441\u0442\u0440\u0430.",
+            "end_year": 2006,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/56F8BEF2-3E13-4DDA-8779-8A9749452C96.jpeg",
+            "create_time": "2024-09-19T11:44:58Z",
+            "update_time": "2024-09-19T11:44:57Z",
+            "approve_time": "2024-09-24T12:53:47Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "Diploma/qualification of Master Degree",
+            "institution": "Cherkasy National University",
+            "end_year": 2009,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "\u0414\u0438\u043f\u043b\u043e\u043c",
+            "institution": "\u0427\u041d\u0423 \u0456\u043c\u0435\u043d\u0456 \u0411\u043e\u0433\u0434\u0430\u043d\u0430 \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e",
+            "end_year": 2006,
+            "status": 1,
+            "description": "\u0427\u041d\u0423 \u0456\u043c\u0435\u043d\u0456 \u0411\u043e\u0433\u0434\u0430\u043d\u0430 \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e",
+            "type": "CA003"
+          },
+          {
+            "certificate": "\u0414\u0438\u043f\u043b\u043e\u043c",
+            "institution": "\u0427\u041d\u0423 \u0456\u043c\u0435\u043d\u0456 \u0411\u043e\u0433\u0434\u0430\u043d\u0430 \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e",
+            "end_year": 2006,
+            "status": 1,
+            "description": "\u0427\u041d\u0423 \u0456\u043c\u0435\u043d\u0456 \u0411\u043e\u0433\u0434\u0430\u043d\u0430 \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u043e\u0433\u043e \u0441\u0442\u0443\u043f\u0456\u043d\u044c \u0411\u0430\u043a\u0430\u043b\u0430\u0432\u0440\u0430 \u0442\u0430 \u041c\u0430\u0433\u0456\u0441\u0442\u0440\u0430.",
+            "type": "CA004"
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 1200,
+        "trial_session_count": 0,
+        "trial_description": "I focus on listening, creating rapport and giving  the space to speak.\n\nSo, what does this mean in practice? I let the student talk and tell me what they need. Then, I simply respond to what I hear. So that I can really learn about my student."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 1710710
+      },
+      "pro_course_detail": [
+        {
+          "id": 32151,
+          "teacher_id": 1710710,
+          "language": "russian",
+          "title": "Russian",
+          "description": "Russian for all levels. The Basic course for Suceeding in Russian and Communicating with Confidence.This course is perfect for people who want to learn Russian with  just little prior knowledge. You will be introduced to the language and become familiar with common expressions, grammar and pronunciation. \n\nMaterials will be created/used based on your preferences/learning style.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004"
+          ],
+          "session_price": 1500,
+          "student_count": 67,
+          "session_count": 1165,
+          "create_time": "2014-11-11T20:09:43Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12000,
+              "session_price": 1200,
+              "course_id": 32151,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 45916
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1400,
+              "course_id": 32151,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 46918
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1500,
+              "course_id": 32151,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 51495
+            }
+          ]
+        },
+        {
+          "id": 32152,
+          "teacher_id": 1710710,
+          "language": "english",
+          "title": "English",
+          "description": "A1:\n\nCan understand and use familiar everyday expressions and very basic phrases aimed at the satisfaction of needs of a concrete type. Can introduce him/herself and others and can ask and answer questions about personal details such as where he/she lives, people he/she knows and things he/she has. Can interact in a simple way provided the other person talks slowly and clearly and is prepared to help.\nA2:\n\nCan understand sentences and frequently used expressions related to areas of most immediate relevance. Can communicate in simple and routine tasks requiring a simple and direct exchange of information on familiar and routine matters. Can describe in simple terms aspects of his/her background, immediate environment and matters in areas of immediate need.\nB1:\n\nCan understand the main points of clear standard input on familiar matters regularly encountered in work, school, leisure, etc. Can deal with most situations likely to arise while travelling in an area where the language is spoken. Can produce simple connected text on topics which are familiar or of personal interest. Can describe experiences and events, dreams, hopes and ambitions and briefly give reasons and explanations for opinions and plans.\nB2:\n\nCan understand the main ideas of complex texts on both concrete and abstract topics, including technical discussions in his/her field of specialisation. Can interact with a degree of fluency and spontaneity that makes regular interaction with native speakers quite possible without strain for either party. Can produce clear, detailed text on a wide range of subjects and explain a viewpoint on a topical issue giving the advantages and disadvantages of various options.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004"
+          ],
+          "session_price": 1200,
+          "student_count": 57,
+          "session_count": 821,
+          "create_time": "2014-11-11T20:14:41Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 32152,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 45917
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 32152,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 46919
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1200,
+              "course_id": 32152,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 48565
+            }
+          ]
+        },
+        {
+          "id": 32154,
+          "teacher_id": 1710710,
+          "language": "russian",
+          "title": "Informal Tutoring",
+          "description": "You already speak Russian and want to practice your oral skills? If yes, this lesson is perfect for you. We will focus on speaking and talk about a variety of topics (chosen by me or you, whatever you prefer!). Talking with a native speaker can help you with improving your pronunciation, fluency and vocabulary. I'm looking forward to speaking with you!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 46,
+          "session_count": 1966,
+          "create_time": "2014-11-11T20:27:55Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 12000,
+              "session_price": 1200,
+              "course_id": 32154,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 45919
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1400,
+              "course_id": 32154,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 46028
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1500,
+              "course_id": 32154,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 51927
+            }
+          ]
+        },
+        {
+          "id": 32155,
+          "teacher_id": 1710710,
+          "language": "ukrainian",
+          "title": "Informal Tutoring",
+          "description": "You already speak Ukrainian and want to practice your oral skills? If yes, this lesson is perfect for you. We will focus on speaking and talk about a variety of topics (chosen by me or you, whatever you prefer!). Talking with a native speaker can help you with improving your pronunciation, fluency and vocabulary. I'm looking forward to speaking with you!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 5,
+          "session_count": 16,
+          "create_time": "2014-11-11T20:28:28Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 11000,
+              "session_price": 1100,
+              "course_id": 32155,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 45920
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1200,
+              "course_id": 32155,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 46029
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1500,
+              "course_id": 32155,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 95307
+            }
+          ]
+        },
+        {
+          "id": 32568,
+          "teacher_id": 1710710,
+          "language": "english",
+          "title": "Informal Tutoring",
+          "description": "You already speak English and want to practice your oral skills? If yes, this lesson is perfect for you. We will focus on speaking and talk about a variety of topics (chosen by me or you, whatever you prefer!). Talking with a native speaker can help you with improving your pronunciation, fluency and vocabulary. I'm looking forward to speaking with you!",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 45,
+          "session_count": 375,
+          "create_time": "2014-11-27T19:48:24Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 32568,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 46921
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1200,
+              "course_id": 32568,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 46922
+            },
+            {
+              "package_price": 12000,
+              "session_price": 1200,
+              "course_id": 32568,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 48567
+            }
+          ]
+        },
+        {
+          "id": 40391,
+          "teacher_id": 1710710,
+          "language": "russian",
+          "title": "General Russian textbook-based course (A1-\u04102-B1 levels)",
+          "description": "General Russian textbook-based course (A1-\u04102-B1 levels) With these you will begin learning the basics of Russian.\nThe level of the class will be adapted to your personal or your desired language level. \n\nWe will focus on grammar, common expressions, pronunciation, reading, listening and writing. \n\nIf you want to cover specific Grammar topics, please let me know beforehand so I can plan the lesson accordingly :-)\n\nMaterials will be created/used based on your preferences/learning style.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004"
+          ],
+          "session_price": 1500,
+          "student_count": 24,
+          "session_count": 221,
+          "create_time": "2016-02-04T23:14:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 11000,
+              "session_price": 1100,
+              "course_id": 40391,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 67048
+            },
+            {
+              "package_price": 13000,
+              "session_price": 1400,
+              "course_id": 40391,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 67049
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1500,
+              "course_id": 40391,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 67050
+            }
+          ]
+        },
+        {
+          "id": 41977,
+          "teacher_id": 1710710,
+          "language": "ukrainian",
+          "title": "Ukrainian",
+          "description": "The level of the class will be adapted to your personal or your desired language level. \n\nWe will focus on grammar, common expressions, pronunciation, reading, listening and writing. \n\nIf you want to cover specific Grammar topics, please let me know beforehand so I can plan the lesson accordingly :-)\n\nMaterials will be created/used based on your preferences/learning style.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004"
+          ],
+          "session_price": 1500,
+          "student_count": 3,
+          "session_count": 7,
+          "create_time": "2016-05-08T12:05:25Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 11000,
+              "session_price": 1100,
+              "course_id": 41977,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 509427
+            },
+            {
+              "package_price": 11000,
+              "session_price": 1200,
+              "course_id": 41977,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 70983
+            },
+            {
+              "package_price": 13000,
+              "session_price": 1500,
+              "course_id": 41977,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 70984
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 19.0
+          },
+          {
+            "month": 1,
+            "data": 19.0
+          },
+          {
+            "month": 2,
+            "data": 17.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.95
+          }
+        ],
+        "finished_session": 4722,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 3941839,
+        "nickname": "\u2b50\ufe0fAlex",
+        "avatar_file_name": "1T039418390",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "UA",
+        "is_online": 1,
+        "living_country_id": "UA",
+        "origin_city_id": "UA00006",
+        "origin_city_name": "Kharkiv",
+        "living_city_id": "UA00006",
+        "living_city_name": "Kharkiv",
+        "timezone": "Europe/Kiev",
+        "last_login_time": "2025-04-01T20:29:55+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/iJmm_Tm5RGs",
+        "video_pic_url": "https://img.youtube.com/vi/iJmm_Tm5RGs/0.jpg",
+        "intro": "\u042f \u0410\u043b\u0435\u043a\u0441 - \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u042e\u0442\u044e\u0431 \u043a\u0430\u043d\u0430\u043b\u0430 \"Russian with Alex' \u0438 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0438 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u043e\u0432. \u041e\u0431\u043e\u0436\u0430\u044e \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u044f\u0437\u044b\u043a\u0438. \u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u0434\u043b\u044f \u0441\u0435\u0431\u044f \u043d\u043e\u0432\u044b\u0435 \u0441\u043b\u043e\u0432\u0430 \u0438 \u043d\u043e\u0432\u0443\u044e \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0443 - \u043e\u0433\u0440\u043e\u043c\u043d\u043e\u0435 \u043d\u0430\u0441\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u0435.  I am here to help you to improve your  Russian and English skills.",
+        "short_signature": "Learn Russian, English, and Ukrainian with me! (Over 3 years of teaching experience).",
+        "teach_language": [
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "ukrainian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 3
+          },
+          {
+            "language": "polish",
+            "level": 2
+          },
+          {
+            "language": "german",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2019-11-01T10:25:11Z",
+        "session_count": 4673,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/A15B2FDE-DE27-43FA-8E03-CC8F983F8718.mp4",
+        "cover_name": "u/3941839/cover/c6vigvsvkv4m11n6pa00.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/iJmm_Tm5RGs.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "\u042f \u0410\u043b\u0435\u043a\u0441 - \u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u042e\u0442\u044e\u0431 \u043a\u0430\u043d\u0430\u043b\u0430 \"Russian with Alex' \u0438 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u0442\u0435\u043b\u044c \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u0438 \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u043e\u0432. \u041e\u0431\u043e\u0436\u0430\u044e \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0435 \u044f\u0437\u044b\u043a\u0438. \u041e\u0442\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u0434\u043b\u044f \u0441\u0435\u0431\u044f \u043d\u043e\u0432\u044b\u0435 \u0441\u043b\u043e\u0432\u0430 \u0438 \u043d\u043e\u0432\u0443\u044e \u043a\u0443\u043b\u044c\u0442\u0443\u0440\u0443 - \u043e\u0433\u0440\u043e\u043c\u043d\u043e\u0435 \u043d\u0430\u0441\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u0435.  I am here to help you to improve your  Russian and English skills.",
+        "about_teacher": "I love learning teaching languages and that is one of the most cool things I have ever done! I have enough time to help my students 7 days a week. I am patient and flexible about the content of our lessons.  \n     \u042f \u043b\u044e\u0431\u043b\u044e \u0443\u0447\u0438\u0442\u044c \u044f\u0437\u044b\u043a\u0438, \u0438 \u044d\u0442\u043e \u043e\u0434\u043d\u0430 \u0438\u0437 \u0441\u0430\u043c\u044b\u0445 \u043a\u0440\u0443\u0442\u044b\u0445 \u0432\u0435\u0449\u0435\u0439, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u044f \u043a\u043e\u0433\u0434\u0430-\u043b\u0438\u0431\u043e \u0434\u0435\u043b\u0430\u043b! \u0423 \u043c\u0435\u043d\u044f \u0434\u043e\u0441\u0442\u0430\u0442\u043e\u0447\u043d\u043e \u0432\u0440\u0435\u043c\u0435\u043d\u0438, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043c\u043e\u0447\u044c \u043c\u043e\u0438\u043c \u0443\u0447\u0435\u043d\u0438\u043a\u0430\u043c 7 \u0434\u043d\u0435\u0439 \u0432 \u043d\u0435\u0434\u0435\u043b\u044e. \u042f \u0442\u0435\u0440\u043f\u0435\u043b\u0438\u0432 \u0438 \u0433\u0438\u0431\u043e\u043a \u0432 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0438 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f \u043d\u0430\u0448\u0438\u0445 \u0443\u0440\u043e\u043a\u043e\u0432.",
+        "teaching_style": "\u041d\u0435\u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u044f \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b Italki \u0434\u043b\u044f \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0438 \u044f \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b, \u0447\u0442\u043e \u043d\u0435\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440 \u043f\u043e\u043c\u043e\u0433 \u043c\u043d\u0435 \u0431\u043e\u043b\u044c\u0448\u0435 \u0432\u0441\u0435\u0433\u043e! \u041c\u044b \u043c\u043e\u0436\u0435\u043c \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0443, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u043b\u0443\u0447\u0448\u0435 \u0432\u0441\u0435\u0433\u043e \u043f\u043e\u0434\u0445\u043e\u0434\u0438\u0442 \u0434\u043b\u044f \u0432\u0430\u0441 \u0438 \u0432\u0430\u0448\u0438\u0445 \u0446\u0435\u043b\u0435\u0439. \u0422\u0435\u043c\u044b \u0431\u0443\u0434\u0443\u0442 \u0432\u0430\u0440\u044c\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0432 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438 \u043e\u0442 \u0432\u0430\u0448\u0435\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f, \u043d\u043e \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043e\u0431\u0449\u0438\u0435 - \u044d\u0442\u043e \u043f\u0443\u0442\u0435\u0448\u0435\u0441\u0442\u0432\u0438\u044f, \u0444\u0438\u043b\u044c\u043c\u044b, \u0441\u0442\u0440\u0430\u043d\u044b, \u043c\u0443\u0437\u044b\u043a\u0430, \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f, \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0439 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440 \u0438\u043b\u0438 \u0447\u0442\u043e-\u0442\u043e \u0435\u0449\u0435, \u0447\u0442\u043e \u0432\u0430\u0441 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u0443\u0435\u0442! \u042f \u043c\u043e\u0433\u0443 \u0431\u044b\u0442\u044c \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u044b\u043c \u0441\u043e\u0431\u0435\u0441\u0435\u0434\u043d\u0438\u043a\u043e\u043c, \u043d\u0435 \u043e\u043a\u0430\u0437\u044b\u0432\u0430\u044f  \u0434\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u043d\u0435\u043f\u0440\u0435\u0434\u0432\u0437\u044f\u0442\u043e \u0438 \u043d\u0435\u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e \u043e\u0431\u0449\u0430\u044f\u0441\u044c, \u0438\u043b\u0438, \u0435\u0441\u043b\u0438 \u0432\u044b \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0438\u0442\u0430\u0435\u0442\u0435, \u043c\u044b \u043c\u043e\u0436\u0435\u043c \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043e\u0432\u0430\u0442\u044c \u0431\u043e\u043b\u0435\u0435 \u0444\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u0443\u044e \u0438 \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0443\u044e \u0441\u0440\u0435\u0434\u0443 \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f.",
+        "is_student_full": 0,
+        "student_count": 677,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "From November 24 to December 8 I am on vacation. Thank`s for understanding.",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Kharkiv National Pedagogical University",
+            "major": "English Language and Literature",
+            "level": 2,
+            "description": "in 2024 completed the full course of H. S. Skovoroda Kharkiv National Pedagogical University. Educational Programme - \"English Language and Literature in Educational Institutions.",
+            "start_year": 2022,
+            "end_year": 2024,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2024-03-15T07:36:11Z",
+            "edu_id": "EABE051E-A1D9-4950-A78A-1A94F54EC218"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2024-03-15T10:06:00Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "institution": "Skovoroda Kharkiv National Pedagogical University",
+            "end_year": 2024,
+            "status": 1,
+            "certificate": "\u0421\u0435\u0440\u0442\u0438\u0444\u0456\u043a\u0430\u0442",
+            "language": "polish",
+            "type": "Masters in Education",
+            "type_text_code": "TA553",
+            "cert_id": "7682117C-38AF-46DC-B988-3A363FDF22F0"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "\u0421\u0435\u0440\u0442\u0438\u0444\u0456\u043a\u0430\u0442",
+            "institution": "Skovoroda Kharkiv National Pedagogical University",
+            "end_year": 2024,
+            "status": 1,
+            "description": "",
+            "type": "Masters in Education"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 2439,
+            "user_id": 3941839,
+            "start_year": 2019,
+            "end_year": 2024,
+            "institution": "Kharkive National Pedagogical University",
+            "institution_type": "self_employed_online",
+            "position": "teacher",
+            "country": "UA",
+            "city": "Kharkiv",
+            "description": "",
+            "create_at": "2024-03-15T10:07:30Z",
+            "create_by": "3941839",
+            "update_at": "2024-03-15T10:07:30Z",
+            "update_by": "3941839",
+            "status": 1
+          }
+        ],
+        "offline_reason": "From November 24 to December 8 I am on vacation. Thank`s for understanding.",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 2
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 600,
+        "trial_session_count": 211,
+        "trial_description": "\u041f\u0440\u043e\u0431\u043d\u044b\u0439 \u0443\u0440\u043e\u043a. \u041d\u0430 \u044d\u0442\u043e\u043c \u0443\u0440\u043e\u043a\u0435 - \u043d\u0430 \u0432\u0432\u043e\u0434\u043d\u043e\u043c \u0443\u0440\u043e\u043a\u0435 - \u043c\u044b \u0441 \u0412\u0430\u043c\u0438 \u043f\u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u043c\u0441\u044f, \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0438\u043c \u0446\u0435\u043b\u0438 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0420\u0443\u0441\u0441\u043a\u043e\u0433\u043e/\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0437\u0430\u0442\u0435\u043c \u0438\u0441\u0445\u043e\u0434\u044f \u0438\u0437 \u044d\u0442\u0438\u0445 \u0446\u0435\u043b\u0435\u0439, \u0412\u0430\u0448\u0438\u0445 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043e\u0432 \u0438 \u0443\u0440\u043e\u0432\u043d\u044f  \u043c\u044b \u0441\u0444\u043e\u0440\u043c\u0443\u043b\u0438\u0440\u0443\u0435\u043c \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0438\u0439 \u043f\u043b\u0430\u043d \u0412\u0430\u0448\u0438\u0445 \u0437\u0430\u043d\u044f\u0442\u0438\u0439.\nTrial lesson. In this lesson - at the introductory lesson - we will get to know each other, define the goals of learning the Russian / English language, then, based on these goals, your interests, and level, we will formulate a further plan for your lessons."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 3941839
+      },
+      "pro_course_detail": [
+        {
+          "id": 92813,
+          "teacher_id": 3941839,
+          "language": "russian",
+          "title": "\u2705\u0420\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u043d\u0430\u044f \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430. Conversation practice.",
+          "description": "\u041f\u0440\u0430\u0432\u0438\u043b\u0430 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0438\u043d\u043e\u0441\u0442\u0440\u0430\u043d\u043d\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430 \u043f\u0440\u043e\u0441\u0442\u044b - \u0425\u043e\u0447\u0435\u0448\u044c \u043d\u0430\u0443\u0447\u0438\u0442\u044c\u0441\u044f \u043f\u043e\u043d\u0438\u043c\u0430\u0442\u044c \u044f\u0437\u044b\u043a - \u043d\u0430\u0434\u043e \u043c\u043d\u043e\u0433\u043e \u0421\u041b\u0423\u0428\u0410\u0422\u042c. \u0425\u043e\u0447\u0435\u0448\u044c \u043d\u0430\u0443\u0447\u0438\u0442\u044c\u0441\u044f \u043f\u0440\u0430\u0432\u0438\u043b\u044c\u043d\u043e \u043f\u0438\u0441\u0430\u0442\u044c - \u043d\u0443\u0436\u043d\u043e \u043c\u043d\u043e\u0433\u043e \u041f\u0418\u0421\u0410\u0422\u042c. \u0425\u043e\u0447\u0435\u0448\u044c \u043d\u0430\u0443\u0447\u0438\u0442\u044c\u0441\u044f \u0445\u043e\u0440\u043e\u0448\u043e \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c - \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e \u0420\u0410\u0417\u0413\u041e\u0412\u0410\u0420\u0418\u0412\u0410\u0422\u042c! \u042d\u0442\u043e \u0437\u0430\u043d\u044f\u0442\u0438\u0435 \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442 \u0432 \u0444\u043e\u0440\u043c\u0435 \u0434\u0438\u0430\u043b\u043e\u0433\u0430, \u0432 \u0432\u0438\u0434\u0435 \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u043e\u0439 \u0442\u0435\u043c\u044b.  \u0412 \u0445\u043e\u0434\u0435 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u0430 \u044f \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u0435, \u043f\u0440\u0438 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u044e \u0441\u0438\u043d\u043e\u043d\u0438\u043c\u044b. This lesson takes the form of dialogue in the form of discussion of particular topics. During the conversation I adjust the structure of the sentence, pronunciation, if necessary, offer synonyms.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 800,
+          "student_count": 322,
+          "session_count": 2414,
+          "create_time": "2019-11-01T11:17:10Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 92813,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 463550
+            },
+            {
+              "package_price": 3300,
+              "session_price": 700,
+              "course_id": 92813,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 201524
+            },
+            {
+              "package_price": 3500,
+              "session_price": 800,
+              "course_id": 92813,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 198331
+            },
+            {
+              "package_price": 4500,
+              "session_price": 1000,
+              "course_id": 92813,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 201523
+            }
+          ]
+        },
+        {
+          "id": 92820,
+          "teacher_id": 3941839,
+          "language": "ukrainian",
+          "title": "\u2611\ufe0f\u041c\u043e\u0432\u043d\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438. \u0421onversational practice of the Ukrainian language",
+          "description": "\u0426\u0435 \u0437\u0430\u043d\u044f\u0442\u0442\u044f \u043f\u0440\u043e\u0445\u043e\u0434\u0438\u0442\u044c \u0443 \u0444\u043e\u0440\u043c\u0456 \u0434\u0456\u0430\u043b\u043e\u0433\u0443, \u0443 \u0432\u0438\u0433\u043b\u044f\u0434\u0456 \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u0435\u043d\u043d\u044f \u043f\u0435\u0432\u043d\u043e\u0457 \u0442\u0435\u043c\u0438. \u0412 \u0445\u043e\u0434\u0456 \u0440\u043e\u0437\u043c\u043e\u0432\u0438 \u044f \u043a\u043e\u0440\u0438\u0433\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u0440\u0435\u0447\u0435\u043d\u043d\u044f, \u0432\u0438\u043c\u043e\u0432\u0443, \u043f\u0440\u0438 \u043d\u0435\u043e\u0431\u0445\u0456\u0434\u043d\u043e\u0441\u0442\u0456 \u043f\u0440\u043e\u043f\u043e\u043d\u0443\u044e \u0441\u0438\u043d\u043e\u043d\u0456\u043c\u0438.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 700,
+          "student_count": 47,
+          "session_count": 199,
+          "create_time": "2019-11-01T11:39:43Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 92820,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 205221
+            },
+            {
+              "package_price": 3000,
+              "session_price": 700,
+              "course_id": 92820,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 198343
+            },
+            {
+              "package_price": 5000,
+              "session_price": 1200,
+              "course_id": 92820,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 463555
+            }
+          ]
+        },
+        {
+          "id": 94191,
+          "teacher_id": 3941839,
+          "language": "russian",
+          "title": "\u2705\u0427\u0442\u0435\u043d\u0438\u0435 \u0438 \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u043d\u043d\u043e\u0433\u043e. Reading and discussion of read.",
+          "description": "\u041d\u0430 \u044d\u0442\u043e\u043c \u0443\u0440\u043e\u043a\u0435 \u0431\u0443\u0434\u0435\u0442 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u043e \u043f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0442\u0435\u043a\u0441\u0442. \u041f\u043e\u0441\u043b\u0435 \u043f\u0440\u043e\u0447\u0442\u0435\u043d\u0438\u044f \u0438\u0434\u0451\u0442 \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u0435 \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u043d\u0438\u044f \u0442\u0435\u043a\u0441\u0442\u0430. \u0412 \u0445\u043e\u0434\u0435 \u043e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u044f \u044f \u043a\u043e\u0440\u0440\u0435\u043a\u0442\u0438\u0440\u0443\u044e \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0443 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u0435, \u043f\u0440\u0438 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u044e \u0441\u0438\u043d\u043e\u043d\u0438\u043c\u044b.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 800,
+          "student_count": 77,
+          "session_count": 412,
+          "create_time": "2019-11-20T08:12:09Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 94191,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 463554
+            },
+            {
+              "package_price": 3300,
+              "session_price": 700,
+              "course_id": 94191,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 202301
+            },
+            {
+              "package_price": 3500,
+              "session_price": 800,
+              "course_id": 94191,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 202299
+            },
+            {
+              "package_price": 4500,
+              "session_price": 1000,
+              "course_id": 94191,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 202302
+            }
+          ]
+        },
+        {
+          "id": 154873,
+          "teacher_id": 3941839,
+          "language": "english",
+          "title": "\ud83c\udfc6 Conversation Practice - Become more CONFIDENT when speaking English!",
+          "description": "English conversation practice for daily use. For all levels!  We focus on anything that you want to talk about and discuss. From News articles to Magazine articles, Short video clips, Movies, TV series, etc. We can talk about anything!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 600,
+          "student_count": 132,
+          "session_count": 497,
+          "create_time": "2021-06-16T20:59:33Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 154873,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 671092
+            },
+            {
+              "package_price": 3000,
+              "session_price": 600,
+              "course_id": 154873,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 671093
+            },
+            {
+              "package_price": 2500,
+              "session_price": 600,
+              "course_id": 154873,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 376403
+            }
+          ]
+        },
+        {
+          "id": 161442,
+          "teacher_id": 3941839,
+          "language": "russian",
+          "title": "\u041f\u0430\u043a\u0435\u0442 \u0438\u0437 10 \u0443\u0440\u043e\u043a\u043e\u0432/10 lessons package",
+          "description": "These packages are for students who already know my teaching methods, and it's more convenient for them to book 10 lessons. \u042d\u0442\u0438 \u043f\u0430\u043a\u0435\u0442\u044b \u043f\u0440\u0435\u0434\u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u044b \u0434\u043b\u044f \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u043e\u0432, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0443\u0436\u0435 \u0437\u043d\u0430\u044e\u0442 \u043c\u043e\u044e \u043c\u0435\u0442\u043e\u0434\u0438\u043a\u0443 \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u043d\u0438\u044f, \u0438 \u0438\u043c \u0443\u0434\u043e\u0431\u043d\u0435\u0435 \u0431\u0440\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c 10 \u0443\u0440\u043e\u043a\u043e\u0432.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0006"
+          ],
+          "session_price": 700,
+          "student_count": 33,
+          "session_count": 895,
+          "create_time": "2021-07-07T08:14:53Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6000,
+              "session_price": 700,
+              "course_id": 161442,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 394301
+            },
+            {
+              "package_price": 9000,
+              "session_price": 700,
+              "course_id": 161442,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 737627
+            },
+            {
+              "package_price": 12000,
+              "session_price": 700,
+              "course_id": 161442,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 737628
+            },
+            {
+              "package_price": 8000,
+              "session_price": 900,
+              "course_id": 161442,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 394302
+            },
+            {
+              "package_price": 12000,
+              "session_price": 900,
+              "course_id": 161442,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 737629
+            },
+            {
+              "package_price": 16000,
+              "session_price": 900,
+              "course_id": 161442,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 737630
+            }
+          ]
+        },
+        {
+          "id": 250002,
+          "teacher_id": 3941839,
+          "language": "english",
+          "title": "\ud83c\udfc6 Grammar in details for Intermediate and Advanced levels",
+          "description": "This course focuses exclusively on grammar and its practical use in everyday communication. In the lessons, I will teach you my special way of understanding grammar,",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0006"
+          ],
+          "session_price": 600,
+          "student_count": 4,
+          "session_count": 29,
+          "create_time": "2024-08-14T08:53:34Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 600,
+              "course_id": 250002,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 669532
+            }
+          ]
+        },
+        {
+          "id": 250004,
+          "teacher_id": 3941839,
+          "language": "ukrainian",
+          "title": "\u2611\ufe0f\u0413\u0440\u0430\u043c\u0430\u0442\u0438\u043a\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438. Ukrainian grammar",
+          "description": "\u041d\u0430 \u0446\u0438\u0445 \u0443\u0440\u043e\u043a\u0430\u0445 \u043c\u0438 \u0431\u0443\u0434\u0438\u043c\u043e \u0432\u0447\u0438\u0442\u0438 \u0433\u0440\u0430\u043c\u0430\u0442\u0438\u043a\u0443 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438 \u043f\u043e \u043c\u043e\u0457\u043c \u043f\u0456\u0434\u0440\u0443\u0447\u043d\u0438\u043a\u0430\u043c, \u0430\u0431\u043e \u043f\u043e \u043f\u0456\u0434\u0440\u0443\u0447\u043d\u0438\u043a\u0430\u043c \u043c\u043e\u0457\u0445 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u0456\u0432.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002"
+          ],
+          "session_price": 700,
+          "student_count": 5,
+          "session_count": 16,
+          "create_time": "2024-08-14T09:10:31Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 250004,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 671094
+            },
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 250004,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 671095
+            },
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 250004,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 669535
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 78.0
+          },
+          {
+            "month": 2,
+            "data": 70.0
+          },
+          {
+            "month": 3,
+            "data": 55.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.99
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 0.98
+          }
+        ],
+        "finished_session": 4672,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 26401915,
+        "nickname": "Yuliia",
+        "avatar_file_name": "T264019150",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "UA",
+        "is_online": 0,
+        "living_country_id": "UA",
+        "origin_city_id": "UA00001",
+        "origin_city_name": "Kyiv",
+        "living_city_id": "UA00001",
+        "living_city_name": "Kyiv",
+        "timezone": "Europe/Budapest",
+        "last_login_time": "2025-04-01T11:36:43+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/3DKzjR5-iuM",
+        "video_pic_url": "https://img.youtube.com/vi/3DKzjR5-iuM/0.jpg",
+        "intro": "My name is Yuliia, and I'm here to provide speaking classes in English, Ukrainian, and Russian.\nAfter years of education, I began practicing psychology while also working as a private tour guide. Meeting people from different parts of the world and understanding how they think and function is a big part of my life, and I\u2019m grateful to fulfill this passion through both of my occupations.\nI have worked as a translator, a university psychology teacher, and a freelancer for event and modelling agencies.\nDuring the off-season in tourism, I crave opportunities to speak English. I hope Italki will be a great platform not only to fill this gap but also to help students improve their language skills.",
+        "short_signature": "\ud83c\udf1f Trilingual, friendly tutor ready to ease your speaking struggles and spark deep conversations!",
+        "teach_language": [
+          {
+            "language": "ukrainian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2025-03-09T22:43:54Z",
+        "session_count": 8,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/10363B77-F278-435A-8444-C2022AE803A5.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/3DKzjR5-iuM.jpg",
+        "teacher_material_list": [
+          8,
+          9,
+          6
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "My name is Yuliia, and I'm here to provide speaking classes in English, Ukrainian, and Russian.\nAfter years of education, I began practicing psychology while also working as a private tour guide. Meeting people from different parts of the world and understanding how they think and function is a big part of my life, and I\u2019m grateful to fulfill this passion through both of my occupations.\nI have worked as a translator, a university psychology teacher, and a freelancer for event and modelling agencies.\nDuring the off-season in tourism, I crave opportunities to speak English. I hope Italki will be a great platform not only to fill this gap but also to help students improve their language skills.",
+        "about_teacher": "Having Ukrainian and Russian as my mother tongues, I have been learning English for many years, and it remains my hobby to this day.\n\nIn my experience, knowing this global language has helped me feel confident abroad, make new friends, read articles, enjoy movies in their original language, and broaden my horizons.\nAs an Italki community teacher, I want to help you become more confident in speaking languages\u2014whether it is English, \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430, or \u0440\u0443\u0441\u0441\u043a\u0438\u0439.",
+        "teaching_style": "During my years of education, I realized that if you don't practice, you forget. I believe that the ability to express your thoughts clearly and understand what another person is saying is the most important aspect of using a foreign language in daily life.\nWe will choose topics that interest you, or I will offer existential, thought-provoking, and unusual themes designed to spark discussions, debates, and storytelling\u2014making lessons more engaging and intellectually stimulating.\nAll of this will help improve your vocabulary and speaking skills.",
+        "is_student_full": 0,
+        "student_count": 6,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2025-03-09T22:43:54+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Taras Shevchenko National University of Kyiv",
+            "major": "Psychology",
+            "level": 3,
+            "start_year": 2010,
+            "end_year": 2024,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2025-03-03T14:03:06Z",
+            "edu_id": "CCDA89A1-EBB5-45B9-A0E8-C053C4CD0904"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 700,
+        "min_price": 1000,
+        "trial_session_count": 0,
+        "trial_description": "Hello!\nDuring the trial lesson we can discuss your expectations. For me it is a great opportunity to understand your current English level. And for you - to see how comfortable you are with me as a tutor. We will have a relaxed conversation on topics of your interest, focusing on fluency, pronunciation, and vocabulary. Let's make our lessons easy and enjoyable! And see you soon!\n\n\u041f\u0440\u0438\u0432\u0456\u0442!\n\u041d\u0430 \u043f\u0440\u043e\u0431\u043d\u043e\u043c\u0443 \u0443\u0440\u043e\u0446\u0456 \u043c\u0438 \u043c\u043e\u0436\u0435\u043c\u043e \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u0438\u0442\u0438 \u0432\u0430\u0448\u0456 \u043e\u0447\u0456\u043a\u0443\u0432\u0430\u043d\u043d\u044f \u0432\u0456\u0434 \u0437\u0430\u043d\u044f\u0442\u044c. \u0414\u043b\u044f  \u043c\u0435\u043d\u0435 \u0446\u0435 \u0447\u0443\u0434\u043e\u0432\u0430 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c \u0437\u0440\u043e\u0437\u0443\u043c\u0456\u0442\u0438 \u0432\u0430\u0448 \u043f\u043e\u0442\u043e\u0447\u043d\u0438\u0439 \u0440\u0456\u0432\u0435\u043d\u044c \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0457 \u043c\u043e\u0432\u0438. \u0410 \u0434\u043b\u044f \u0432\u0430\u0441 - \u043f\u043e\u0431\u0430\u0447\u0438\u0442\u0438, \u043d\u0430 \u0441\u043a\u0456\u043b\u044c\u043a\u0438 \u0432\u0430\u043c \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e \u0437\u0456 \u043c\u043d\u043e\u044e \u043d\u0430 \u0437\u0430\u043d\u044f\u0442\u0442\u0456. \u0414\u043e \u0441\u043a\u043e\u0440\u043e\u0457 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0456!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 26401915
+      },
+      "pro_course_detail": [
+        {
+          "id": 263012,
+          "teacher_id": 26401915,
+          "language": "english",
+          "title": "Speak English with Confidence for Intermediates and Elementaries",
+          "description": "In these lessons, you will improve your fluency, pronunciation, and vocabulary while gaining confidence in real-life conversations. The main focus is on helping you express your thoughts clearly, understand spoken English better, and engage in meaningful discussions.\n-  Expand your vocabulary with useful expressions and phrases\n-  Improve pronunciation and sound more natural\n-  Enhance listening skills to understand native speakers better\n-  Gain confidence in everyday conversations and discussions\n\nMethods & Materials:\n\ud83c\udfaf Conversation-Based Learning \u2013 We\u2019ll discuss engaging topics to make speaking feel natural\n\ud83d\udcd6 Real-Life Scenarios \u2013 debates, and storytelling for practical communication\n\ud83c\udfa7 Pronunciation Practice \u2013 feedback on accent improvement\n\ud83d\udcddAdditional Learning Materials \u2013 we can also use articles and short videos, tailored to your interests\n\nI'm here to create interactive and enjoyable classes that make you feel comfortable speaking English. I believe this format works well for intermediate learners, but I also want to offer it to elementary-level students. Let\u2019s see how it goes!",
+          "level_lower_limit": 2,
+          "level_up_limit": 3,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 3,
+          "session_count": 4,
+          "create_time": "2025-03-09T20:57:46Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 800,
+              "session_price": 800,
+              "course_id": 263012,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 825483
+            },
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 263012,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 825482
+            }
+          ]
+        },
+        {
+          "id": 263103,
+          "teacher_id": 26401915,
+          "language": "ukrainian",
+          "title": "\u0420\u043e\u0437\u043c\u043e\u0432\u043d\u0430 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430 \u0434\u043b\u044f \u0443\u0447\u043d\u0456\u0432 \u0432\u0456\u0434 \u0441\u0435\u0440\u0435\u0434\u043d\u044c\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f \u0434\u043e \u0434\u043e\u0441\u0432\u0456\u0434\u0447\u0435\u043d\u043e\u0433\u043e (\u04121-\u04212)",
+          "description": "\u041d\u0430 \u0432\u0456\u0434\u043c\u0456\u043d\u0443 \u0432\u0456\u0434 \u043a\u043b\u0430\u0441\u0438\u0447\u043d\u0438\u0445 \u0437\u0430\u043d\u044f\u0442\u044c \u0437 \u0432\u0438\u043a\u043b\u0430\u0434\u0447\u0435\u043c, \u0434\u0435 \u043d\u0430\u0432\u0447\u0430\u043d\u043d\u044f \u0432\u0456\u0434\u0431\u0443\u0432\u0430\u0454\u0442\u044c\u0441\u044f \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e \u043f\u0456\u0434\u0440\u0443\u0447\u043d\u0438\u043a\u0456\u0432, \u0432\u0456\u0434\u043f\u0440\u0430\u0446\u044e\u0432\u0430\u043d\u043d\u044f \u043d\u043e\u0432\u043e\u0433\u043e \u043c\u0430\u0442\u0435\u0440\u0456\u0430\u043b\u0443 \u0442\u0430 \u0434\u043e\u043c\u0430\u0448\u043d\u0456\u0445 \u0437\u0430\u0432\u0434\u0430\u043d\u044c, \u044f \u043f\u0440\u043e\u043f\u043e\u043d\u0443\u044e \u0440\u043e\u0437\u043c\u043e\u0432\u043d\u0456 \u0437\u0443\u0441\u0442\u0440\u0456\u0447\u0456 \u0434\u043b\u044f \u0442\u0438\u0445, \u0445\u0442\u043e \u043d\u0430\u0440\u0430\u0437\u0456 \u0432\u0438\u0432\u0447\u0430\u0454 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0443 \u043c\u043e\u0432\u0443, \u0430\u0431\u043e \u0432\u0438\u0432\u0447\u0430\u0432 \u0457\u0457 \u0440\u0430\u043d\u0456\u0448\u0435, \u0456 \u0431\u0430\u0436\u0430\u0454 \u043f\u0456\u0434\u0442\u0440\u0438\u043c\u0443\u0432\u0430\u0442\u0438 \u0441\u0432\u0456\u0439 \u0440\u0456\u0432\u0435\u043d\u044c \u043d\u0430 \u0431\u0430\u0436\u0430\u043d\u043e\u043c\u0443 \u0440\u0456\u0432\u043d\u0456 \u0442\u0430 \u043f\u043e\u0447\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u0432\u043f\u0435\u0432\u043d\u0435\u043d\u043e \u0432 \u0443\u043a\u0440\u0430\u0457\u043d\u043e\u043c\u043e\u0432\u043d\u043e\u043c\u0443 \u0441\u0435\u0440\u0435\u0434\u043e\u0432\u0438\u0449\u0456.\n\u041f\u0456\u0441\u043b\u044f \u0432\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f \u0432\u0430\u0448\u0438\u0445 \u043e\u0447\u0456\u043a\u0443\u0432\u0430\u043d\u044c \u0442\u0430 \u043f\u043e\u0431\u0430\u0436\u0430\u043d\u044c \u043d\u0430 \u043f\u0440\u043e\u0431\u043d\u043e\u043c\u0443 \u0443\u0440\u043e\u0446\u0456, \u043c\u0438 \u043e\u0431\u0433\u043e\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438\u043c\u0435\u043c\u043e \u0442\u0435\u043c\u0438, \u044f\u043a\u0456 \u0432\u0438 \u0432\u0432\u0430\u0436\u0430\u0454\u0442\u0435 \u043a\u043e\u0440\u0438\u0441\u043d\u0438\u043c\u0438 \u0434\u043b\u044f \u0441\u0435\u0431\u0435. \u0422\u0430\u043a\u0438\u043c \u0447\u0438\u043d\u043e\u043c \u043c\u0438 \u0437\u043e\u0441\u0435\u0440\u0435\u0434\u0436\u0443\u0454\u043c\u043e\u0441\u044f \u0432\u0438\u043a\u043b\u044e\u0447\u043d\u043e \u043d\u0430 \u043f\u0440\u0430\u043a\u0442\u0438\u0446\u0456 \u0441\u043f\u0456\u043b\u043a\u0443\u0432\u0430\u043d\u043d\u044f.\n\u042f \u0434\u043e\u043f\u043e\u043c\u0430\u0433\u0430\u0442\u0438\u043c\u0443 \u0437 \u043a\u043e\u0440\u0435\u043a\u0446\u0456\u0454\u044e \u043f\u043e\u043c\u0438\u043b\u043e\u043a, \u0432\u0438\u043c\u043e\u0432\u043e\u044e \u0442\u0430 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043d\u044f\u043c \u0441\u043b\u043e\u0432\u043d\u0438\u043a\u043e\u0432\u043e\u0433\u043e \u0437\u0430\u043f\u0430\u0441\u0443.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1000,
+          "student_count": 2,
+          "session_count": 2,
+          "create_time": "2025-03-10T19:56:12Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 800,
+              "session_price": 800,
+              "course_id": 263103,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 826443
+            },
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 263103,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 826442
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 8.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 8,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 2857518,
+        "nickname": "Svetlana",
+        "avatar_file_name": "4T028575184",
+        "is_tutor": 1,
+        "is_pro": 1,
+        "origin_country_id": "UA",
+        "is_online": 0,
+        "living_country_id": "UA",
+        "origin_city_id": "UA00001",
+        "origin_city_name": "Kyiv",
+        "living_city_id": "UA00001",
+        "living_city_name": "Kyiv",
+        "timezone": "Europe/Kiev",
+        "last_login_time": "2025-04-01T14:50:49+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/_eSAzZJ2l-c",
+        "video_pic_url": "https://img.youtube.com/vi/_eSAzZJ2l-c/0.jpg",
+        "intro": "I'm a professional English, Russian and Ukrainian teacher with more than 7 years of experience and languages are my passion.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "ukrainian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "german",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2015-11-27T06:56:49Z",
+        "session_count": 2269,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/19B4D116-7301-461A-8F81-24461E3D4D8B.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/_eSAzZJ2l-c.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "Currently I am working as a private Russian, Ukrainian, English teacher via Skype. I am experienced in giving private language lessons for adults and young learners. I would like to help those students who are strongly motivated and are burning to start confidently using Russian, Ukrainian or English for their personal and professional purposes. I am very flexible and I always customize lessons for my students\u2019 needs. In my work I use the most modern teaching methods and a variety of resources: websites, textbooks - the most advanced from the point of view of methodology, entertaining cartoons, songs, informative documentaries, funny cartoons, etc. Learning languages has become accessible to everyone, no matter where you live. All you need is to book a lesson and we will develop an individual plan for you.",
+        "about_me": "I'm a professional English, Russian and Ukrainian teacher with more than 7 years of experience and languages are my passion.",
+        "about_teacher": "",
+        "teaching_style": null,
+        "is_student_full": 0,
+        "student_count": 591,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "UA",
+            "city": "Kiev",
+            "company": "English teacher",
+            "job": "Private lessons",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Personal private lessons to all levels and all ages",
+            "start_year": 2008,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2015-11-01T14:40:35Z",
+            "exp_id": 10686
+          },
+          {
+            "country": "UA",
+            "city": "Kiev",
+            "company": "Russian teacher",
+            "job": "Russian teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "An online Russian tutor",
+            "start_year": 2010,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2015-11-01T14:44:16Z",
+            "exp_id": 10687
+          },
+          {
+            "country": "UA",
+            "city": "Kiev",
+            "company": "Ukrainian teacher",
+            "job": "Ukrainian teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "An online Ukrainian tutor",
+            "start_year": 2010,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2015-11-01T14:45:42Z",
+            "exp_id": 10688
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Taras Shevchenko National University",
+            "major": "Taras Shevchenko National University",
+            "level": 2,
+            "description": "Philology",
+            "start_year": 2002,
+            "end_year": 2007,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2015-11-21T12:26:52Z",
+            "edu_id": "45A6B6E8-C506-4A97-933F-18C3482D7637"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2015-11-21T12:43:15Z",
+            "file_ext": "jpg",
+            "institution": "iTTT",
+            "end_year": 2015,
+            "status": 1,
+            "certificate": "Certificate in Teaching English as Foreign Language",
+            "cert_id": "316D6636-1305-481E-840B-F5FFCFEAB5B2"
+          },
+          {
+            "create_time": "2015-11-21T12:36:10Z",
+            "file_ext": "jpg",
+            "institution": "iTDi.pro",
+            "end_year": 2014,
+            "status": 1,
+            "certificate": "Advanced teaching skills",
+            "cert_id": "49AE1610-5EB9-44EB-927C-B7C8CFA26228"
+          },
+          {
+            "create_time": "2015-11-21T12:41:18Z",
+            "file_ext": "jpg",
+            "institution": "MOOC",
+            "end_year": 2014,
+            "status": 1,
+            "certificate": "Teachers Teaching Online",
+            "cert_id": "4F110058-3480-4E67-B5DB-98210FBB6AFB"
+          },
+          {
+            "create_time": "2015-11-21T12:28:35Z",
+            "file_ext": "jpg",
+            "institution": "PRO",
+            "end_year": 2008,
+            "status": 1,
+            "certificate": "Translator",
+            "cert_id": "9A8B3F68-D2EB-4F27-B5B3-C02024D56E34"
+          },
+          {
+            "create_time": "2015-11-21T12:34:12Z",
+            "file_ext": "jpg",
+            "description": "ELT Advantage",
+            "institution": "Heinle Cengage Learning",
+            "end_year": 2012,
+            "status": 1,
+            "certificate": "Communicative Teaching for the ESL/EFL Classroom",
+            "cert_id": "A9585AAE-55F4-4126-B647-97E3EA2849DC"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Certificate in Teaching English as Foreign Language",
+            "institution": "iTTT",
+            "end_year": 2015,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Advanced teaching skills",
+            "institution": "iTDi.pro",
+            "end_year": 2014,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Teachers Teaching Online",
+            "institution": "MOOC",
+            "end_year": 2014,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Communicative Teaching for the ESL/EFL Classroom",
+            "institution": "Heinle Cengage Learning",
+            "end_year": 2012,
+            "status": 1,
+            "description": "ELT Advantage",
+            "type": ""
+          },
+          {
+            "certificate": "Translator",
+            "institution": "PRO",
+            "end_year": 2008,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1200,
+        "trial_session_count": 0,
+        "trial_description": ""
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 2857518
+      },
+      "pro_course_detail": [
+        {
+          "id": 39495,
+          "teacher_id": 2857518,
+          "language": "russian",
+          "title": "Russian for Beginners",
+          "description": "This course will be helpful for those students who has just decided to start learning Russian language.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1500,
+          "student_count": 45,
+          "session_count": 183,
+          "create_time": "2015-12-05T19:27:15Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 11000,
+              "session_price": 1200,
+              "course_id": 39495,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 64837
+            },
+            {
+              "package_price": 13000,
+              "session_price": 1400,
+              "course_id": 39495,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 664811
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 39495,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 64864
+            },
+            {
+              "package_price": 17000,
+              "session_price": 1800,
+              "course_id": 39495,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 664812
+            }
+          ]
+        },
+        {
+          "id": 39496,
+          "teacher_id": 2857518,
+          "language": "russian",
+          "title": "Informal Tutoring",
+          "description": "",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 26,
+          "session_count": 84,
+          "create_time": "2015-12-05T19:30:08Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 39496,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 64839
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1200,
+              "course_id": 39496,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 64860
+            }
+          ]
+        },
+        {
+          "id": 39497,
+          "teacher_id": 2857518,
+          "language": "ukrainian",
+          "title": "Informal Tutoring",
+          "description": "",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 15,
+          "session_count": 58,
+          "create_time": "2015-12-05T19:53:50Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 39497,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 64840
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1200,
+              "course_id": 39497,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 64861
+            }
+          ]
+        },
+        {
+          "id": 39498,
+          "teacher_id": 2857518,
+          "language": "russian",
+          "title": "One-on-One tutoring: Russian",
+          "description": "I will create a study plan that is required for You to reach Your goals. \nWe will focus on any aspect of Your Russian, from speaking to writing.\nThis is the course for Succeeding in Russian and Communication with Confidence.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1500,
+          "student_count": 48,
+          "session_count": 540,
+          "create_time": "2015-12-05T19:55:55Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 11000,
+              "session_price": 1200,
+              "course_id": 39498,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 64841
+            },
+            {
+              "package_price": 13000,
+              "session_price": 1400,
+              "course_id": 39498,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 664813
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 39498,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 64865
+            },
+            {
+              "package_price": 17000,
+              "session_price": 1800,
+              "course_id": 39498,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 664814
+            }
+          ]
+        },
+        {
+          "id": 39499,
+          "teacher_id": 2857518,
+          "language": "english",
+          "title": "Informal Tutoring",
+          "description": "",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 56,
+          "session_count": 122,
+          "create_time": "2015-12-05T20:25:46Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 39499,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 64843
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1200,
+              "course_id": 39499,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 64862
+            }
+          ]
+        },
+        {
+          "id": 39528,
+          "teacher_id": 2857518,
+          "language": "ukrainian",
+          "title": "One-on-One tutoring: Ukrainian",
+          "description": "This course will be helpful for those students who has just decided to start learning Ukrainian language.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1500,
+          "student_count": 42,
+          "session_count": 547,
+          "create_time": "2015-12-09T19:25:51Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 11000,
+              "session_price": 1200,
+              "course_id": 39528,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 64918
+            },
+            {
+              "package_price": 13000,
+              "session_price": 1400,
+              "course_id": 39528,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 664810
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 39528,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 64919
+            },
+            {
+              "package_price": 17000,
+              "session_price": 1800,
+              "course_id": 39528,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 664809
+            }
+          ]
+        },
+        {
+          "id": 39529,
+          "teacher_id": 2857518,
+          "language": "english",
+          "title": "One-on-One tutoring: English",
+          "description": "This course is available at any level, includes work with Pronunciation, Grammar, Vocabulary, Writing and Speaking Skills.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 1500,
+          "student_count": 43,
+          "session_count": 197,
+          "create_time": "2015-12-09T19:29:46Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 11000,
+              "session_price": 1200,
+              "course_id": 39529,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 64920
+            },
+            {
+              "package_price": 13000,
+              "session_price": 1400,
+              "course_id": 39529,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 64921
+            },
+            {
+              "package_price": 14000,
+              "session_price": 1500,
+              "course_id": 39529,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 70247
+            },
+            {
+              "package_price": 17000,
+              "session_price": 1800,
+              "course_id": 39529,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 664808
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 20.0
+          },
+          {
+            "month": 2,
+            "data": 29.0
+          },
+          {
+            "month": 3,
+            "data": 32.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 2269,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 9185087,
+        "nickname": "Olya Bagdonas",
+        "avatar_file_name": "27T091850870",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "UA",
+        "is_online": 1,
+        "living_country_id": "LT",
+        "origin_city_id": "UA00000",
+        "origin_city_name": "Other",
+        "living_city_id": "LT00001",
+        "living_city_name": "Vilnius",
+        "timezone": "Europe/Vilnius",
+        "last_login_time": "2025-04-01T20:26:48+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/RBeByxd5FB4",
+        "video_pic_url": "https://img.youtube.com/vi/RBeByxd5FB4/0.jpg",
+        "intro": "Hello, dear students! My name is Olya, and I am a Ukrainian and English language teacher. \nI was born in Ukraine and I love it with all my heart. When the full-scale war started in Ukraine, my life took many unexpected turns. I've lived in the Netherlands, Poland, Lithuania, and Norway, but there's truly no place like home. \ud83d\udc99\ud83d\udc9b\nCurrently, I'm pursuing a Master's degree in English Language and Literature in Vilnius, so I really understand what it\u2019s like to be a student. Apart from languages, I am fond of travels, psychology, and arts. If you also share my interest in music, cinema, photography, or literature, we'll have plenty to talk about!",
+        "short_signature": "Friendly teacher with 7+ years of experience \u2728",
+        "teach_language": [
+          {
+            "language": "ukrainian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "polish",
+            "level": 2
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-07-14T21:27:24Z",
+        "session_count": 566,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/E98BE0F3-759B-48BF-9482-4227335C4677.mp4",
+        "cover_name": "u/9185087/cover/cqp644b1gak4k9kohhmg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/RBeByxd5FB4.jpg",
+        "teacher_material_list": [
+          1,
+          4,
+          7,
+          10,
+          2,
+          5,
+          8,
+          3,
+          6,
+          12,
+          9,
+          11
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello, dear students! My name is Olya, and I am a Ukrainian and English language teacher. \nI was born in Ukraine and I love it with all my heart. When the full-scale war started in Ukraine, my life took many unexpected turns. I've lived in the Netherlands, Poland, Lithuania, and Norway, but there's truly no place like home. \ud83d\udc99\ud83d\udc9b\nCurrently, I'm pursuing a Master's degree in English Language and Literature in Vilnius, so I really understand what it\u2019s like to be a student. Apart from languages, I am fond of travels, psychology, and arts. If you also share my interest in music, cinema, photography, or literature, we'll have plenty to talk about!",
+        "about_teacher": "Teaching is my passion, and that enthusiasm translates into my lessons. I've been teaching languages and literature for 8 years, so you can trust my professionalism. \n\u2705I have prepared 300 high school graduates for the complex Ukrainian language test for university enrolment. I am proud of my students' results and cherish the friendships we have built along the way.\n\u2705 I have helped adult students improve their English for job opportunities, travel, and personal enrichment. I reached an advanced level of English mostly on my own, so I know the challenges of learning a new language and how to overcome them.",
+        "teaching_style": "I believe that the best way to learn is by making the process enjoyable and relaxing. \nThat is why I offer:\n\u2705 Lessons tailored to your individual goals and learning pace.\n\u2705 Interactive Sessions with fun language games and useful role-plays to help you remember the information better. \n\u2705 Focus on real-life scenarios and practical usage of the language. \n\u2705 Regular feedback and assessments to track your progress and identify areas for improvement.\n\u2705 Immersion in Ukrainian/English culture through songs, texts, and videos that will enrich your learning experience. \nI look forward to welcoming you to my lessons and helping you achieve your language goals!\ud83c\udfc5",
+        "is_student_full": 0,
+        "student_count": 40,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-07-15T15:38:41+00:00",
+        "exp_info": [],
+        "edu_info": [],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 4
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 800,
+        "min_price": 1400,
+        "trial_session_count": 0,
+        "trial_description": "It`s our first meeting, so let`s get to know each other better! We\u2019ll start by learning some essential vocabulary that will be useful for our conversation. After getting acquainted, we\u2019ll discuss your goals and language skills, and talk about your preferred learning style. From there, I\u2019ll tailor a personalized study plan just for you.\n\nI\u2019m looking forward to our meeting! \u2728"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 18502,
+        "exam_type": 0,
+        "level": "C1",
+        "score": "99.00",
+        "show_badge": 1,
+        "show_score": 1,
+        "url_id": 8795435105,
+        "user_id": 9185087
+      },
+      "pro_course_detail": [
+        {
+          "id": 164017,
+          "teacher_id": 9185087,
+          "language": "ukrainian",
+          "title": "Ukrainian: Let's Begin!",
+          "description": "This course is perfect for those who are new to the Ukrainian language and want to build a solid foundation.\n\nDuring this course, you will:\n\u2705 Learn the Ukrainian alphabet and develop your reading skills.\n\u2705 Master key grammar concepts, including genders, cases, tenses, and verb conjugations.\n\u2705 Acquire essential vocabulary focused on real-life scenarios.\n\u2705 Practice speaking on various everyday topics, such as hobbies, food, weather, family, travel, daily routines, shopping, and more.\n\ud83c\udf3b Immerse yourself in Ukrainian culture through songs, poems, and videos that will enrich your learning experience.\n\u2705 Apply what you've learned with optional additional tasks (flashcards, short stories, exercises, etc) to complete at home.\n\nReady to start your journey to learning Ukrainian? Book you trial and take the first step towards mastering this beautiful language with me! \u2728",
+          "level_lower_limit": 1,
+          "level_up_limit": 3,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 1600,
+          "student_count": 16,
+          "session_count": 416,
+          "create_time": "2021-07-15T11:00:21Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 800,
+              "course_id": 164017,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 401503
+            },
+            {
+              "package_price": 5500,
+              "session_price": 1200,
+              "course_id": 164017,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 401504
+            },
+            {
+              "package_price": 7500,
+              "session_price": 1600,
+              "course_id": 164017,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 401502
+            }
+          ]
+        },
+        {
+          "id": 164029,
+          "teacher_id": 9185087,
+          "language": "ukrainian",
+          "title": "Ukrainian: Let's Talk!",
+          "description": "This course is for those who already have a certain level of knowledge in Ukrainian but want to improve their speaking skills.\n\nWhat I offer:\n\u2705 Conversation Practice: Boost your fluency and confidence in discussing topics that interest you. All our lessons will focus on subjects you are passionate about, making learning more engaging and enjoyable.\n\u2705 Targeted Grammar Support: Focus on complex grammar rules and structures, instantly integrating them into your active use.\n\u2705 Boost Vocabulary: Receive customized vocabulary lists for each topic, allowing you to enrich your vocabulary effectively.\n\nReady to take your Ukrainian skills to the next level? Book your trial and let\u2019s improve your speaking skills together! \u2728",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1600,
+          "student_count": 5,
+          "session_count": 43,
+          "create_time": "2021-07-15T11:25:06Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 800,
+              "session_price": 800,
+              "course_id": 164029,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 412126
+            },
+            {
+              "package_price": 1200,
+              "session_price": 1200,
+              "course_id": 164029,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 412127
+            },
+            {
+              "package_price": 1600,
+              "session_price": 1600,
+              "course_id": 164029,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 401530
+            },
+            {
+              "package_price": 2400,
+              "session_price": 2400,
+              "course_id": 164029,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 611195
+            }
+          ]
+        },
+        {
+          "id": 178373,
+          "teacher_id": 9185087,
+          "language": "english",
+          "title": "Personalized English Language Learning \u2728",
+          "description": "With this course, you'll receive individualized lessons tailored to your level of proficiency and preferences. \n\nWhat do I offer:\n\u2705 Customized Topics: Choose your topics of interest from a wide range of areas during our trial session. \nWhether you're looking to improve your career skills, discuss lifestyle and relationships, explore arts and travel, or understand the latest in science and technology, there's something for everyone.\n\u2705 Integrated Lessons: Each session includes reading, grammar, listening, and speaking activities, all focused on your chosen topic.\n\nReady to take your English skills to the next level? Book your trial and start your journey towards fluency. I look forward to helping you achieve your learning goals! \u2728",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0005"
+          ],
+          "session_price": 1400,
+          "student_count": 7,
+          "session_count": 47,
+          "create_time": "2021-09-01T11:24:36Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6500,
+              "session_price": 700,
+              "course_id": 178373,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 442680
+            },
+            {
+              "package_price": 10500,
+              "session_price": 1100,
+              "course_id": 178373,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 442681
+            },
+            {
+              "package_price": 13500,
+              "session_price": 1400,
+              "course_id": 178373,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 442679
+            }
+          ]
+        },
+        {
+          "id": 249675,
+          "teacher_id": 9185087,
+          "language": "ukrainian",
+          "title": "Ukrainian Language and Literature \ud83d\udcda",
+          "description": "If you want to enhance your Ukrainian language skills while reading your favourite books, this is the perfect course for you! \n\n\ud83d\udcda We can explore both books originally written in Ukrainian and those translated into Ukrainian. \n\ud83d\udcda If choosing a book seems challenging, you can start with a book that I recommend. I will provide the book and all necessary materials.\n\nDuring this course, you will:\n\u2705 Expand your vocabulary through the rich and diverse language used in literature.\n\u2705 Understand and practice grammar structures as they naturally occur in texts.\n\u2705 Improve your reading skills by engaging with various texts.\n\u2705 Enhance your speaking skills by participating in thoughtful discussions about the themes, characters, and contexts of the readings.\n\u2705 Apply what you've learned with optional additional tasks to complete at home.\n\nReady to explore the Ukrainian language through literature? Book your trial and let's begin your unusual learning journey!",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0003",
+            "T0004"
+          ],
+          "session_price": 1500,
+          "student_count": 2,
+          "session_count": 3,
+          "create_time": "2024-08-06T11:43:57Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 800,
+              "session_price": 800,
+              "course_id": 249675,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 668561
+            },
+            {
+              "package_price": 1200,
+              "session_price": 1200,
+              "course_id": 249675,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 668562
+            },
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 249675,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 668560
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 2.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 565,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 1784303,
+        "nickname": "Ekaterina \u7f57\u6e05\u83b9",
+        "avatar_file_name": "19T017843030",
+        "is_tutor": 1,
+        "is_pro": 1,
+        "origin_country_id": "UA",
+        "is_online": 0,
+        "living_country_id": "UA",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "ZZ00000",
+        "living_city_name": "Other",
+        "timezone": "Europe/London",
+        "last_login_time": "2025-04-01T18:59:50+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/0zEkRy_0wpE",
+        "video_pic_url": "https://img.youtube.com/vi/0zEkRy_0wpE/0.jpg",
+        "intro": "My heart lies in teaching - it's my biggest passion. I'm always willing to share my knowledge with others, and I hope to inspire you to be even better than me. Learning is a big part of my life too, and I've earned multiple degrees. But I don't plan on stopping anytime soon! One of my biggest dreams is to travel the world and explore 100 countries. I believe that there's so much beauty and diversity in the world, and I'd love to experience it all.\nI'm a very approachable and easy-going person, and I want you to feel comfortable talking with me. Welcome to our learning journey together!",
+        "short_signature": "Professional teacher with 15+ years of experience. Language learner.",
+        "teach_language": [
+          {
+            "language": "russian",
+            "level": 7
+          },
+          {
+            "language": "ukrainian",
+            "level": 7
+          },
+          {
+            "language": "english",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "polish",
+            "level": 3
+          },
+          {
+            "language": "chinese",
+            "level": 2
+          },
+          {
+            "language": "french",
+            "level": 2
+          },
+          {
+            "language": "romanian",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2014-12-29T06:24:59Z",
+        "session_count": 5321,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/B1A21D5E-4460-4392-B0E5-DD8C59F4CE8D.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/0zEkRy_0wpE.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          8,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "Being a teacher is such a rewarding, invaluable experience! I'm working as a language tutor since 2008 and enjoy to see how my students improve their ability to speak, listen, write and think in chosen language! I have Master's degree in Education and I am constantly learning new teaching technics to make my lessons more effective. But as for me, getting new knowledges is about having so much fun, especially when you are learning new languages. Hope you will feel it during the lessons). I have experience in creating individually tailored curricula for students with specific needs (business, legal, travel, dating, etc.). I worked both with the begginers and advanced students, so you would feel comfortable regardless your current level. \n\nFor my Ukrainian students I started blog in youtube so they could learn any time https://www.youtube.com/playlist?list=PLWmKqQBkdtUoq5Ek2UDrFFadqRFGxoKw9\nAnd channel for my Russian students https://www.youtube.com/playlist?list=PLWmKqQBkdtUo7bU8M5biNfSj1LqZAXxBs\n\nAnd I am in touch for all my students so they can have consultations between the lessons. If you are not sure what you need, just book a trial session so we can discuss everything. Hope to meet you soon!",
+        "about_me": "My heart lies in teaching - it's my biggest passion. I'm always willing to share my knowledge with others, and I hope to inspire you to be even better than me. Learning is a big part of my life too, and I've earned multiple degrees. But I don't plan on stopping anytime soon! One of my biggest dreams is to travel the world and explore 100 countries. I believe that there's so much beauty and diversity in the world, and I'd love to experience it all.\nI'm a very approachable and easy-going person, and I want you to feel comfortable talking with me. Welcome to our learning journey together!",
+        "about_teacher": "Teaching is something I began doing back in 2008, and I have never regretted my choice to pursue this profession. Over the years, I have had students ranging in age from 6 to 72. Through all of my teaching experiences, I have come to believe that the human brain is a fascinating mystery, and everyone learns in their own unique way.\n\nMy aim as a teacher is not to interrupt your learning, but rather to motivate and facilitate your own personal learning journey. I believe that every student has the potential to achieve great things, and it is my job to help you reach your full potential.",
+        "teaching_style": "As a teacher, nothing brings me greater joy than seeing my students make real progress and achieve their goals. I am incredibly proud of those who put in the effort and do a great job. That's why I have a high standard for my students - I expect them to give it their all, 100 percent of the time.\nI also believe that homework is a valuable tool for reinforcing what we learn in class. It helps to solidify the concepts and improve our skills. Don't worry if you're not quite ready for formal tutoring - I also offer informal sessions where you can relax and feel supported. This way, you can practice speaking and using the language without fear.",
+        "is_student_full": 0,
+        "student_count": 327,
+        "teacher_tag": [
+          1,
+          3,
+          4
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "UA",
+            "city": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+            "company": "Tutor of English language",
+            "job": "(private lessons)",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2008,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2015-01-13T21:45:14Z",
+            "exp_id": 7369
+          },
+          {
+            "country": "UA",
+            "city": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+            "company": "Dnepropetrovsk Humanities University",
+            "job": "professor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2013,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2015-01-13T21:46:33Z",
+            "exp_id": 7371
+          },
+          {
+            "country": "UA",
+            "city": "\u0414\u043d\u0435\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u043a",
+            "company": "Dnipropetrovsk National Historical Museum",
+            "job": "Senior Researcher",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2008,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2015-01-13T21:47:30Z",
+            "exp_id": 7372
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Dnipropetrovsk National University",
+            "major": "History",
+            "level": 1,
+            "start_year": 2008,
+            "end_year": 2012,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2018-03-11T20:13:15Z",
+            "edu_id": "3C166712-D5AD-4656-821B-8E2EA9D08921"
+          },
+          {
+            "institution": "Dnipropetrovsk National University",
+            "major": "Archaeologist, Teacher of higher educational institutions",
+            "level": 2,
+            "start_year": 2013,
+            "end_year": 2014,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2018-03-11T20:07:10Z",
+            "edu_id": "52E59AE1-6494-40D5-B880-69CA70C5ACCB"
+          },
+          {
+            "institution": "IAIT",
+            "major": "Informational Technology (in Archaeology)",
+            "level": 3,
+            "start_year": 2014,
+            "end_year": 2018,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2020-02-29T17:40:32Z",
+            "edu_id": "8E9F05A7-A941-41D2-BF3E-6A97BBC633D4"
+          },
+          {
+            "institution": "Vladimir Dal East Ukrainian National University",
+            "major": "Tourism",
+            "level": 2,
+            "start_year": 2011,
+            "end_year": 2013,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2018-03-11T20:18:05Z",
+            "update_time": "2020-08-31T18:10:17Z",
+            "edu_id": "E5D7461B-14BB-498B-95D0-40D03CF26D79"
+          },
+          {
+            "institution": "Zaporizhzhya National University",
+            "major": "Tourism",
+            "level": 1,
+            "description": "With honour",
+            "start_year": 2008,
+            "end_year": 2012,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2018-03-11T20:16:34Z",
+            "edu_id": "F76565B6-0EC4-4A6E-B9C2-639857220A5A"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2017-01-26T10:18:38Z",
+            "file_ext": "jpg",
+            "description": "Interactive methods in education",
+            "institution": "Institute for international education",
+            "end_year": 2017,
+            "status": 1,
+            "certificate": "Methods and skills of civic education",
+            "cert_id": "030FA025-3CE9-4015-B267-A711275A8484"
+          },
+          {
+            "create_time": "2017-01-26T10:20:07Z",
+            "update_time": "2017-01-27T08:30:14Z",
+            "file_ext": "jpg",
+            "institution": "Sudost Europe Cultur",
+            "end_year": 2016,
+            "status": 1,
+            "certificate": "Non-violent Communication",
+            "cert_id": "09810C2E-3CDB-42AA-8856-75EA1B41382F"
+          },
+          {
+            "create_time": "2020-02-29T17:39:00Z",
+            "update_time": "2020-02-29T17:39:00Z",
+            "file_ext": "pdf",
+            "institution": "British Council",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "IELTS Academic C1",
+            "cert_id": "30D9B563-BB67-4405-B46A-1AAEDF66C786"
+          },
+          {
+            "create_time": "2017-01-26T10:24:14Z",
+            "file_ext": "jpg",
+            "description": "How to use training methods in adult education",
+            "institution": "Peace Academy",
+            "end_year": 2015,
+            "status": 1,
+            "certificate": "Training for trainers \"Do no harm\"",
+            "cert_id": "72B405EC-15A8-46E2-AB3D-EFEC5E41578C"
+          },
+          {
+            "create_time": "2018-01-30T13:45:24Z",
+            "file_ext": "jpg",
+            "description": "My IELST Academic score 7.5",
+            "institution": "IELTS  - Kyiv Test-center",
+            "end_year": 2018,
+            "status": 1,
+            "certificate": "International English Language Testing System",
+            "cert_id": "AB5F93E5-80B4-48E9-B272-B440C5695040"
+          },
+          {
+            "create_time": "2015-01-13T21:41:18Z",
+            "file_ext": "jpg",
+            "description": "\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u044b\u043f\u0443\u0441\u043a\u043d\u0438\u043a\u043e\u0432",
+            "institution": "\u0423\u0426\u041e\u042f\u041e",
+            "end_year": 2015,
+            "status": 1,
+            "certificate": "\u0421\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442 \u0438\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\u0430 \u0412\u043d\u0435\u0448\u043d\u0435\u0433\u043e \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0433\u043e \u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+            "cert_id": "C2C2C3DE-652D-4791-9C0D-068BB1E9C4C8"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "IELTS Academic C1",
+            "institution": "British Council",
+            "end_year": 2020,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "International English Language Testing System",
+            "institution": "IELTS  - Kyiv Test-center",
+            "end_year": 2018,
+            "status": 1,
+            "description": "My IELST Academic score 7.5",
+            "type": ""
+          },
+          {
+            "certificate": "Methods and skills of civic education",
+            "institution": "Institute for international education",
+            "end_year": 2017,
+            "status": 1,
+            "description": "Interactive methods in education",
+            "type": ""
+          },
+          {
+            "certificate": "Non-violent Communication",
+            "institution": "Sudost Europe Cultur",
+            "end_year": 2016,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Training for trainers \"Do no harm\"",
+            "institution": "Peace Academy",
+            "end_year": 2015,
+            "status": 1,
+            "description": "How to use training methods in adult education",
+            "type": ""
+          },
+          {
+            "certificate": "\u0421\u0435\u0440\u0442\u0438\u0444\u0438\u043a\u0430\u0442 \u0438\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440\u0430 \u0412\u043d\u0435\u0448\u043d\u0435\u0433\u043e \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0433\u043e \u0422\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f",
+            "institution": "\u0423\u0426\u041e\u042f\u041e",
+            "end_year": 2015,
+            "status": 1,
+            "description": "\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0442\u043e\u0440 \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u044b\u043f\u0443\u0441\u043a\u043d\u0438\u043a\u043e\u0432",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "podcast",
+            "created_count": 2
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1400,
+        "trial_session_count": 0,
+        "trial_description": "If you are not sure, which class to take, want to meet your future teacher before the actual class, create a plan for your studies or get a consultation about your learning process - this class is for you! Warmly welcome!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 1784303
+      },
+      "pro_course_detail": [
+        {
+          "id": 33065,
+          "teacher_id": 1784303,
+          "language": "russian",
+          "title": "Informal Tutoring",
+          "description": "Informal tutoring is perfect for those who simply want conversation practice. It is a good option if you are already A2 level or above. We can talk on any topic. If you are beginner, please, check my text-book based lessons. See you in class!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1400,
+          "student_count": 64,
+          "session_count": 1365,
+          "create_time": "2014-12-29T14:49:47Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 33065,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 48253
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1100,
+              "course_id": 33065,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 282426
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1400,
+              "course_id": 33065,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 48254
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1900,
+              "course_id": 33065,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 255839
+            }
+          ]
+        },
+        {
+          "id": 33066,
+          "teacher_id": 1784303,
+          "language": "ukrainian",
+          "title": "Informal Tutoring",
+          "description": "Informal tutoring is perfect for those who simply want conversation practice. It is a good option if you are already A2 level or above. We can talk on any topic. If you are beginner, please, check my text-book based lessons. See you in class!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1400,
+          "student_count": 42,
+          "session_count": 404,
+          "create_time": "2014-12-29T14:51:14Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 33066,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 48255
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1100,
+              "course_id": 33066,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 514923
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1400,
+              "course_id": 33066,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 48256
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1900,
+              "course_id": 33066,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 255840
+            }
+          ]
+        },
+        {
+          "id": 33401,
+          "teacher_id": 1784303,
+          "language": "russian",
+          "title": "Grammar - Theory and Practice.",
+          "description": "Grammar knowledge is among essentials in learning a language. Practise your grammar with clear grammar explanations and exercises to test your understanding and train using ability. No matter what your level is - make sure that you can enlarge your knowledge in proper and correct way, so native speakers would be happy to communicate with you! Welcome to the class!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0003",
+            "T0006"
+          ],
+          "session_price": 1500,
+          "student_count": 16,
+          "session_count": 532,
+          "create_time": "2015-01-15T12:43:36Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 33401,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 49083
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1200,
+              "course_id": 33401,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 514930
+            },
+            {
+              "package_price": 12800,
+              "session_price": 1500,
+              "course_id": 33401,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 49084
+            },
+            {
+              "package_price": 20000,
+              "session_price": 2300,
+              "course_id": 33401,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 255841
+            }
+          ]
+        },
+        {
+          "id": 33402,
+          "teacher_id": 1784303,
+          "language": "ukrainian",
+          "title": "Grammar - Theory and Practice.",
+          "description": "Grammar knowledge is among essentials in learning a language. Practise your grammar with clear grammar explanations and exercises to test your understanding and train using ability. No matter what your level is - make sure that you can enlarge your knowledge in proper and correct way, so native speakers would be happy to communicate with you! Welcome to the class!",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0003",
+            "T0006"
+          ],
+          "session_price": 1500,
+          "student_count": 14,
+          "session_count": 93,
+          "create_time": "2015-01-15T12:44:48Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 33402,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 49085
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1200,
+              "course_id": 33402,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 514935
+            },
+            {
+              "package_price": 12800,
+              "session_price": 1500,
+              "course_id": 33402,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 49086
+            },
+            {
+              "package_price": 20000,
+              "session_price": 2300,
+              "course_id": 33402,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 255842
+            }
+          ]
+        },
+        {
+          "id": 34530,
+          "teacher_id": 1784303,
+          "language": "russian",
+          "title": "Textbook-based course",
+          "description": "Going through a textbook, which fits your language level, we will read the text and do the exersises working on pronunsiation, understanding, speaking and grammar during the one class. Textbooks are especially helpful for beginning. The material to be covered and the design of each lesson are carefully spelled out in detail. A textbook series provides you with a balanced, chronological presentation of information.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1400,
+          "student_count": 63,
+          "session_count": 825,
+          "create_time": "2015-02-24T11:24:02Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 34530,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 51968
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1100,
+              "course_id": 34530,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 514932
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1400,
+              "course_id": 34530,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 51969
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1900,
+              "course_id": 34530,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 255843
+            }
+          ]
+        },
+        {
+          "id": 51601,
+          "teacher_id": 1784303,
+          "language": "ukrainian",
+          "title": "Textbook-based course",
+          "description": "Going through a textbook, which fits your language level, we will read the text and do the exersises working on pronunsiation, understanding, speaking and grammar during the one class. Textbooks are especially helpful for beginning. The material to be covered and the design of each lesson are carefully spelled out in detail. A textbook series provides you with a balanced, chronological presentation of information.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0004",
+            "T0005"
+          ],
+          "session_price": 1400,
+          "student_count": 53,
+          "session_count": 636,
+          "create_time": "2017-03-06T09:15:18Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 51601,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 185731
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1100,
+              "course_id": 51601,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 514933
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1400,
+              "course_id": 51601,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 93652
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1900,
+              "course_id": 51601,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 255844
+            }
+          ]
+        },
+        {
+          "id": 71609,
+          "teacher_id": 1784303,
+          "language": "english",
+          "title": "Informal Tutoring",
+          "description": "Informal tutoring is perfect for those who simply want conversation practice. It is a good option if you are already A2 level or above. We can talk on any topic. If you are beginner, please, check my text-book based lessons. See you in class))",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1400,
+          "student_count": 29,
+          "session_count": 327,
+          "create_time": "2018-09-10T04:43:06Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1000,
+              "session_price": 1000,
+              "course_id": 71609,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 255845
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1100,
+              "course_id": 71609,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 514934
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1400,
+              "course_id": 71609,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 142641
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1900,
+              "course_id": 71609,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 255846
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 31.0
+          },
+          {
+            "month": 1,
+            "data": 16.0
+          },
+          {
+            "month": 2,
+            "data": 22.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.96
+          }
+        ],
+        "finished_session": 5321,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 87,
+    "price_list": [
+      0,
+      4,
+      4,
+      3,
+      8,
+      2,
+      13,
+      0,
+      16,
+      3,
+      14,
+      35,
+      33,
+      26,
+      38,
+      20,
+      31,
+      0,
+      12,
+      5,
+      11,
+      20,
+      10,
+      12,
+      11,
+      0,
+      9,
+      1,
+      6,
+      2,
+      6,
+      17,
+      1,
+      0,
+      2,
+      1,
+      10,
+      2,
+      1,
+      0,
+      0,
+      6,
+      1,
+      0,
+      1,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-cf-4db5-a7d4-b3cbb92062fe-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 87
+  },
+  "paging": {
+    "page": 5,
+    "page_size": 20,
+    "total": 87,
+    "has_next": 0
+  }
+}

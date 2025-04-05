@@ -1,0 +1,484 @@
+{
+  "meta": {
+    "filtered_by": "origin_country_id=ZM",
+    "original_count": 20,
+    "filtered_count": 1
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 11355106,
+        "nickname": "Lisa Wila",
+        "avatar_file_name": "3T113551060",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "ZM",
+        "is_online": 0,
+        "living_country_id": "ZA",
+        "origin_city_id": "ZM00001",
+        "origin_city_name": "Lusaka",
+        "living_city_id": "ZA00021",
+        "living_city_name": "Tshwane Metro ",
+        "timezone": "Africa/Johannesburg",
+        "last_login_time": "2025-04-01T11:22:31+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/PsHxw8uCnYM",
+        "video_pic_url": "https://img.youtube.com/vi/PsHxw8uCnYM/0.jpg",
+        "intro": "\ud83c\udf89 Hi there! I\u2019m your go-to English tutor, here to make learning as fun and effective as possible! \ud83c\udf89\n\n\n\ud83c\udf0d A bit about me: I\u2019m a native English speaker with over 3 years of online teaching experience! \ud83d\udc83 Originally from Zambia and now living in South Africa (24+ years) \ud83c\uddff\ud83c\uddf2\ud83c\uddff\ud83c\udde6, I\u2019m also a Biotechnology graduate\ud83d\udc69\u200d\ud83d\udd2c.\n\n\nHere\u2019s what you can look forward to in my classes: \u2728 I\u2019m patient, chatty, and always bring good vibes\u2014learning with me is fun, friendly, and NEVER boring! \u2728 Think of me as your relatable, chatty teacher, ready to guide you with expert conversational skills and engaging material. We'll have lively discussions, learn something new every day, and make amazing memories together!",
+        "short_signature": "Lisa Wila\ud83e\udd8b | Expert conversationalist\ud83d\ude09 | Adult professionals\ud83d\udcd7| English For Work | Interview Prep",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "xhosa",
+            "level": 4
+          },
+          {
+            "language": "zulu",
+            "level": 4
+          },
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-11-25T18:52:28Z",
+        "session_count": 832,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/1D9C2D5D-1D8B-4129-95F8-1D38E4F1DCBA.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/PsHxw8uCnYM.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          5,
+          8
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "\ud83c\udf89 Hi there! I\u2019m your go-to English tutor, here to make learning as fun and effective as possible! \ud83c\udf89\n\n\n\ud83c\udf0d A bit about me: I\u2019m a native English speaker with over 3 years of online teaching experience! \ud83d\udc83 Originally from Zambia and now living in South Africa (24+ years) \ud83c\uddff\ud83c\uddf2\ud83c\uddff\ud83c\udde6, I\u2019m also a Biotechnology graduate\ud83d\udc69\u200d\ud83d\udd2c.\n\n\nHere\u2019s what you can look forward to in my classes: \u2728 I\u2019m patient, chatty, and always bring good vibes\u2014learning with me is fun, friendly, and NEVER boring! \u2728 Think of me as your relatable, chatty teacher, ready to guide you with expert conversational skills and engaging material. We'll have lively discussions, learn something new every day, and make amazing memories together!",
+        "about_teacher": "Think of me as a fun, relatable, and chatty teacher. I am an expert conversationalist, so we will have enjoyable conversations and study material from time to time, and we'll make memories together.",
+        "teaching_style": "CLASSES YOU CAN EXPECT: \n\ud83c\udf31 Conversational Class: We\u2019ll talk about everything under the sun to help boost your fluency! \ud83d\ude03\u2028\ud83c\udf31\ud83c\udf31 Reading Class: Level up your vocabulary and grammar in a fun way! \ud83d\udcd6\u2028\n\ud83c\udf31\ud83c\udf31\ud83c\udf31 Interview Prep: Get interview-ready, and let\u2019s fine-tune that CV! \ud83d\udcbc\u2028\n\ud83c\udf31\ud83c\udf31\ud83c\udf31\ud83c\udf31 Document Editing: For professionals who need polished documents in English! \ud83d\udcdd\n\n\n\ud83c\udf08 FUN CLASSES FOR KIDS:\n\ud83c\udf31\ud83c\udfa8 Creative Storytelling: We\u2019ll use fun stories to grow vocabulary and boost confidence with Oxford Books!\ud83d\udcda\n\ud83c\udf31\ud83c\udf31\ud83c\udfb6 Songs & Games: Learn English through catchy songs, interactive videos, and activities! \ud83c\udfb2\n\ud83c\udf31\ud83c\udf31\ud83c\udf31\ud83d\udd8d\ufe0f Interactive Learning: Hands-on activities and lots of visuals to make English come alive! \ud83c\udfa8",
+        "is_student_full": 0,
+        "student_count": 154,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "I won't be able to accept lesson requests for the next few days because I will be travelling.",
+        "apply_status": 9,
+        "first_complete_time": "2021-11-25T18:52:28+00:00",
+        "exp_info": [
+          {
+            "country": "ZA",
+            "city": "Pretoria",
+            "company": "Lisa Wila",
+            "job": "Blogger",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I run a personal blog about getting and maintaining healthy skin.",
+            "start_year": 2022,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2023-04-11T10:26:50Z",
+            "exp_id": 146560
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University of South Africa",
+            "major": "Biotechnology",
+            "level": 1,
+            "description": "Microbiology and Biotechnology.",
+            "start_year": 2020,
+            "end_year": 2023,
+            "status": 1,
+            "file_ext": "jpeg",
+            "file_path": "***",
+            "create_time": "2023-04-11T10:25:32Z",
+            "edu_id": "6049353A-2703-48E7-8ECA-90EF15911005"
+          }
+        ],
+        "cert_info": [],
+        "specialty_cert": [],
+        "sorted_cert_info": [],
+        "teaching_experience": [],
+        "offline_reason": "I won't be able to accept lesson requests for the next few days because I will be travelling.",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 1200,
+        "trial_session_count": 0,
+        "trial_description": "In this session, I will outline what types of lessons you can expect from me, and what study materials I have available and use for your lessons. The main goal is for me to get to know what your goals are, and for us to establish a suitable learning strategy for you. For me to be able to gauge your proficiency in reading, we'll take a short reading test, then we can plan your lessons accordingly."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 11355106
+      },
+      "pro_course_detail": [
+        {
+          "id": 197799,
+          "teacher_id": 11355106,
+          "language": "english",
+          "title": "Want To Improve Your Conversation Fluency?",
+          "description": "As we engage in different conversations, I will guide you when necessary for improvement. If you want to improve your speaking and/or presentation skills, this lesson is for you. You may select from a list of topics, but feel free to think of your own topics based on your own interests.  \n\n\n\nResources:\n\n1. PDF of different topics\n\n2. Comprehension (Reading and discussing)\n\n3. Talking about life in general, main your interest\n\n\n\nCome on let's have fun while you learn English!",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1200,
+          "student_count": 97,
+          "session_count": 717,
+          "create_time": "2021-11-25T17:54:56Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 3500,
+              "session_price": 700,
+              "course_id": 197799,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 619994
+            },
+            {
+              "package_price": 7000,
+              "session_price": 700,
+              "course_id": 197799,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 792986
+            },
+            {
+              "package_price": 10500,
+              "session_price": 700,
+              "course_id": 197799,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 792989
+            },
+            {
+              "package_price": 4300,
+              "session_price": 900,
+              "course_id": 197799,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 581962
+            },
+            {
+              "package_price": 8200,
+              "session_price": 900,
+              "course_id": 197799,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 792987
+            },
+            {
+              "package_price": 12300,
+              "session_price": 900,
+              "course_id": 197799,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 792990
+            },
+            {
+              "package_price": 5700,
+              "session_price": 1200,
+              "course_id": 197799,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 499980
+            },
+            {
+              "package_price": 11000,
+              "session_price": 1200,
+              "course_id": 197799,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 792985
+            },
+            {
+              "package_price": 16500,
+              "session_price": 1200,
+              "course_id": 197799,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 792988
+            }
+          ]
+        },
+        {
+          "id": 221211,
+          "teacher_id": 11355106,
+          "language": "english",
+          "title": "Interview practice & Resume (CV) Editing",
+          "description": "I can help you land your dream English job if you take my class. \n\n\nYour CV will be edited by me, and I will make it as clear as possible in English. You will learn all the possible questions you may encounter in an interview about your personality and work ethic in this lesson. \n\n\nAs a result, you will:\n\n1. Leave a lot more confident about your responses to your interview questions.\n\n2. Leave with a pdf document of all the possible interview questions and answers to accompany them. \n\n3. A well written resume (CV)\n\n\nI would appreciate if you could send me your CV (preferably as a word document) at least 24 hours prior to the class. In class, we'll discuss all the changes that I believe should be made to it to make it sound as crisp as possible. \n\n\n\n\nEmergencies are also acceptable, but please let me know.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0006",
+            "T0083"
+          ],
+          "session_price": 1300,
+          "student_count": 6,
+          "session_count": 9,
+          "create_time": "2022-04-15T14:01:39Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6000,
+              "session_price": 1300,
+              "course_id": 221211,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 567886
+            }
+          ]
+        },
+        {
+          "id": 235754,
+          "teacher_id": 11355106,
+          "language": "english",
+          "title": "Document Editing",
+          "description": "This class/session is for working professionals who need to edit some documents.\n\nI charge by the hour, and it can be done in the absence of your presence. \n\nSend me a message if you need any more details.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0003",
+            "T0006"
+          ],
+          "session_price": 1300,
+          "student_count": 2,
+          "session_count": 26,
+          "create_time": "2023-03-30T10:14:07Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6200,
+              "session_price": 1300,
+              "course_id": 235754,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 792992
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 14.0
+          },
+          {
+            "month": 1,
+            "data": 18.0
+          },
+          {
+            "month": 2,
+            "data": 12.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.95
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.88
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 1.0
+          },
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 832,
+        "response_rate": 0.99,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 4519,
+    "price_list": [
+      0,
+      176,
+      244,
+      358,
+      398,
+      294,
+      920,
+      402,
+      836,
+      516,
+      554,
+      1164,
+      729,
+      602,
+      795,
+      385,
+      1388,
+      338,
+      594,
+      412,
+      445,
+      1184,
+      393,
+      329,
+      417,
+      183,
+      811,
+      147,
+      281,
+      152,
+      142,
+      500,
+      142,
+      120,
+      153,
+      150,
+      410,
+      35,
+      70,
+      41,
+      49,
+      172,
+      51,
+      33,
+      40,
+      56,
+      236,
+      14,
+      22,
+      10,
+      17,
+      61,
+      13,
+      8,
+      30,
+      35,
+      129,
+      2,
+      15,
+      18,
+      5,
+      53,
+      4,
+      2,
+      19,
+      23,
+      22,
+      2,
+      5,
+      5,
+      4,
+      22,
+      3,
+      3,
+      1,
+      18,
+      82,
+      1,
+      3,
+      0,
+      1,
+      7,
+      1,
+      0,
+      0,
+      5,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      10,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      54
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-a3-4598-ad45-6da5367e2565-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 4519
+  },
+  "paging": {
+    "page": 6,
+    "page_size": 20,
+    "total": 4519,
+    "has_next": 1
+  }
+}

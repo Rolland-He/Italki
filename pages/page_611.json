@@ -1,0 +1,1384 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 19183110,
+        "nickname": "Isaac",
+        "avatar_file_name": "3T191831100",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "US",
+        "origin_city_id": "US00571",
+        "origin_city_name": "Indianapolis",
+        "living_city_id": "US00956",
+        "living_city_name": "Phoenix",
+        "timezone": "America/Phoenix",
+        "last_login_time": "2025-03-31T23:50:17+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/CxYp5rDKr-k",
+        "video_pic_url": "https://img.youtube.com/vi/CxYp5rDKr-k/0.jpg",
+        "intro": "ES | Hola! Me llamo Isaac, y soy un maestro de idiomas en los Estados Unidos. El aprendizaje de idiomas es una de mis pasiones, y me encantar\u00eda tener la oportunidad de ayudarte en tu viaje de aprender idiomas nuevos.\n\u2022\nEN | Hello! My name is Isaac, and I am language teacher in the United States. Language learning is a passion of mine, and I would love to have the opportunity to help you in your language learning journey.",
+        "short_signature": "Maestro de Ingl\u00e9s y Espa\u00f1ol // English & Spanish Teacher.",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "spanish",
+            "level": 6
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "portuguese",
+            "level": 3
+          },
+          {
+            "language": "catalan",
+            "level": 2
+          },
+          {
+            "language": "french",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2025-01-27T19:33:09Z",
+        "session_count": 3,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/A0E9B773-25C4-48C7-9E1B-BA1EC17A1926.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/CxYp5rDKr-k.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "ES | Hola! Me llamo Isaac, y soy un maestro de idiomas en los Estados Unidos. El aprendizaje de idiomas es una de mis pasiones, y me encantar\u00eda tener la oportunidad de ayudarte en tu viaje de aprender idiomas nuevos.\n\u2022\nEN | Hello! My name is Isaac, and I am language teacher in the United States. Language learning is a passion of mine, and I would love to have the opportunity to help you in your language learning journey.",
+        "about_teacher": "ES | Actualmente trabajo como maestro de ingl\u00e9s en una secundaria en Estados Unidos. He trabajado con estudiantes de todos los niveles de competencia en ingl\u00e9s, y lo \u00fanico que me importa es la motivaci\u00f3n para aprender.\n\u2022\nEN | Currently, I work as an English teacher in a United States' high school. I have worked with students of all proficiency levels in English, and the only thing I find important is the motivation to learn!",
+        "teaching_style": "ES | Mis lecciones se basan principalmente en la conversaci\u00f3n, el aprendizaje a trav\u00e9s de los errores y la resoluci\u00f3n de dudas que tengas. Dicho esto, podemos hacer cualquier cosa que te ayude a mejorar tu ingl\u00e9s!\n\u2022\nEN | My lessons primarily consist of conversation, learning through mistakes, and answering any questions you may have. That being said, we can do whatever helps you better your English!",
+        "is_student_full": 0,
+        "student_count": 3,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2025-01-27T19:33:09+00:00",
+        "exp_info": [],
+        "edu_info": [
+          {
+            "institution": "Arizona State University",
+            "major": "M.Ed. in Secondary Education",
+            "level": 2,
+            "start_year": 2023,
+            "end_year": 2155,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2025-01-20T23:56:09Z",
+            "update_time": "2025-02-05T02:31:02Z",
+            "edu_id": "080A9131-56D2-47BB-8D20-B208EAEB976F"
+          },
+          {
+            "institution": "Indiana University",
+            "major": "B.A. in Spanish",
+            "level": 1,
+            "start_year": 2019,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2025-01-21T00:04:28Z",
+            "update_time": "2025-02-05T02:30:10Z",
+            "edu_id": "A978857D-364F-4587-AD3D-F8CD9DDDE237"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2025-01-20T22:18:02Z",
+            "update_time": "2025-01-28T00:14:56Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "The TEFL Org",
+            "end_year": 2024,
+            "status": 1,
+            "certificate": "120-hour Premier TEFL Course",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "72DAC0E6-9709-427F-841C-A52AF313F80D"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "120-hour Premier TEFL Course",
+            "institution": "The TEFL Org",
+            "end_year": 2024,
+            "status": 1,
+            "description": "",
+            "type": "TEFL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 16032,
+            "user_id": 19183110,
+            "start_year": 2023,
+            "end_year": 2155,
+            "institution": "Phoenix Union High School District",
+            "institution_type": "public_education",
+            "position": "English Language Development Teacher",
+            "country": "US",
+            "city": "Phoenix, AZ",
+            "description": "",
+            "create_at": "2025-01-20T22:25:50Z",
+            "create_by": "19183110",
+            "update_at": "2025-02-05T02:28:07Z",
+            "update_by": "19183110",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 1800,
+        "trial_session_count": 0,
+        "trial_description": "\u00bfTe interesa aprender conmigo? Reserva una clase de prueba para ver si soy el profesor adecuado para ti. En esta lecci\u00f3n, nos presentaremos, hablaremos sobre tus razones y motivaciones para aprender ingl\u00e9s y empezaremos a planear futuras clases.\n\nInterested in learning with me? Book a trial lesson to find out if I'm the right tutor for you. In this lesson, we will introduce ourselves, talk about your reasons and motivations for learning English, and start making plans for future lessons."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 19183110
+      },
+      "pro_course_detail": [
+        {
+          "id": 259972,
+          "teacher_id": 19183110,
+          "language": "english",
+          "title": "English Fluency | Speaking & Listening",
+          "description": "These lessons are designed for intermediate to advanced students looking to improve their English language control and comprehension through conversation.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1800,
+          "student_count": 1,
+          "session_count": 1,
+          "create_time": "2025-01-27T20:35:25Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 259972,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 773468
+            },
+            {
+              "package_price": 6700,
+              "session_price": 1400,
+              "course_id": 259972,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 773467
+            },
+            {
+              "package_price": 8100,
+              "session_price": 1800,
+              "course_id": 259972,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 773466
+            }
+          ]
+        },
+        {
+          "id": 263108,
+          "teacher_id": 19183110,
+          "language": "english",
+          "title": "English Fluency | Writing, Spelling, and Grammar",
+          "description": "These lessons focus on improving students' control over the English language in its written form. Students should expect to respond to prompts and receive live feedback on their writing.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0006",
+            "T0003",
+            "T0002"
+          ],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-10T21:18:28Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 263108,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 826485
+            },
+            {
+              "package_price": 6700,
+              "session_price": 1400,
+              "course_id": 263108,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 826486
+            },
+            {
+              "package_price": 8100,
+              "session_price": 1800,
+              "course_id": 263108,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 826484
+            }
+          ]
+        },
+        {
+          "id": 263109,
+          "teacher_id": 19183110,
+          "language": "english",
+          "title": "English Basics (Los Fundamentos del Ingl\u00e9s)",
+          "description": "Estas lecciones est\u00e1n dise\u00f1adas para ayudar a los principiantes del idioma ingl\u00e9s. Tratar\u00e1n sobre pronunciaci\u00f3n, gram\u00e1tica y vocabulario.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0083"
+          ],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-10T21:20:18Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 263109,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 826496
+            },
+            {
+              "package_price": 6700,
+              "session_price": 1400,
+              "course_id": 263109,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 826497
+            },
+            {
+              "package_price": 8100,
+              "session_price": 1800,
+              "course_id": 263109,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 826495
+            }
+          ]
+        },
+        {
+          "id": 263222,
+          "teacher_id": 19183110,
+          "language": "spanish",
+          "title": "Fluidez en Espa\u00f1ol | Hablar y Escuchar",
+          "description": "Esta lecci\u00f3n est\u00e1 dise\u00f1ada para mejorar la fluidez a trav\u00e9s de una conversaci\u00f3n natural. Nos vamos a enfocar en la expresi\u00f3n oral y la comprensi\u00f3n auditiva.",
+          "level_lower_limit": 2,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-11T19:33:18Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 263222,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 827571
+            },
+            {
+              "package_price": 6700,
+              "session_price": 1400,
+              "course_id": 263222,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 827572
+            },
+            {
+              "package_price": 8100,
+              "session_price": 1800,
+              "course_id": 263222,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 827570
+            }
+          ]
+        },
+        {
+          "id": 263223,
+          "teacher_id": 19183110,
+          "language": "spanish",
+          "title": "Fluidez en Espa\u00f1ol | Escritura y Gram\u00e1tica",
+          "description": "Esta lecci\u00f3n est\u00e1 dise\u00f1ada para mejorar tu control sobre la escritura y la gram\u00e1tica en espa\u00f1ol. Los estudiantes deben estar preparados para responder a preguntas por escrito y recibir comentarios en vivo.",
+          "level_lower_limit": 2,
+          "level_up_limit": 4,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0006",
+            "T0003",
+            "T0002"
+          ],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-11T19:41:12Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 263223,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 827579
+            },
+            {
+              "package_price": 6700,
+              "session_price": 1400,
+              "course_id": 263223,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 827580
+            },
+            {
+              "package_price": 8100,
+              "session_price": 1800,
+              "course_id": 263223,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 827578
+            }
+          ]
+        },
+        {
+          "id": 263224,
+          "teacher_id": 19183110,
+          "language": "spanish",
+          "title": "Fundamentos del Espa\u00f1ol (Spanish Basics)",
+          "description": "This lesson is designed specifically for students hoping to take their Spanish from beginner proficiency to intermediate proficiency.",
+          "level_lower_limit": 1,
+          "level_up_limit": 2,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0001"
+          ],
+          "session_price": 1800,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2025-03-11T19:46:26Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 263224,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 827584
+            },
+            {
+              "package_price": 6700,
+              "session_price": 1400,
+              "course_id": 263224,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 827585
+            },
+            {
+              "package_price": 8100,
+              "session_price": 1800,
+              "course_id": 263224,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 827583
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 3.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 3,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 7962451,
+        "nickname": "Riley",
+        "avatar_file_name": "2T079624510",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "RU",
+        "origin_city_id": "US01011",
+        "origin_city_name": "Raleigh",
+        "living_city_id": "RU00001",
+        "living_city_name": "Moscow",
+        "timezone": "Europe/Moscow",
+        "last_login_time": "2025-04-02T01:45:21+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/RWtG4ioncPc",
+        "video_pic_url": "https://img.youtube.com/vi/RWtG4ioncPc/0.jpg",
+        "intro": "Hello! I am Riley, an English Teacher with over 5 years of experience teaching English! I work with lots of students who need to improve their English for their job, vacation, or to move to another country. I can help you with whatever your needs are, as I am very knowledgeable about the intricacies of English, and can answer your most difficult questions.\n\n\u042f \u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0435\u0446, \u0436\u0438\u0432\u0443\u0449\u0438\u0439 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435, \u0441 5-\u043b\u0435\u0442\u043d\u0438\u043c \u043e\u043f\u044b\u0442\u043e\u043c \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u043d\u0438\u044f \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u043c\u043e\u0438\u0445 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u043e\u0432 - \u0440\u0443\u0441\u0441\u043a\u0438\u0435, \u0438 \u044f \u043c\u043e\u0433\u0443 \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043f\u043e-\u0440\u0443\u0441\u0441\u043a\u0438, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u044f \u0442\u043e\u0447\u043d\u043e \u0437\u043d\u0430\u044e, \u043a\u0430\u043a \u043f\u043e\u043c\u043e\u0447\u044c \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e\u0432\u043e\u0440\u044f\u0449\u0438\u043c \u043b\u0443\u0447\u0448\u0435 \u0432\u044b\u0443\u0447\u0438\u0442\u044c \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439. \u042f \u043c\u043e\u0433\u0443 \u043f\u043e\u043c\u043e\u0447\u044c \u0432\u0430\u043c \u0432\u043e \u043c\u043d\u043e\u0433\u0438\u0445 \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u0445, \u0431\u0443\u0434\u044c \u0442\u043e \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u0435, \u0433\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0430 \u0438\u043b\u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435 \u0432\u0430\u0448\u0438\u0445 \u044f\u0437\u044b\u043a\u043e\u0432\u044b\u0445 \u043d\u0430\u0432\u044b\u043a\u043e\u0432.",
+        "short_signature": "Professional Pronunciation Coach and English Teacher with 5 years of Experience",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "russian",
+            "level": 5
+          },
+          {
+            "language": "chinese",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2024-04-27T16:51:07Z",
+        "session_count": 79,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/97C6B6AC-FE50-45AC-B7AE-EC05238F2629.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/RWtG4ioncPc.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello! I am Riley, an English Teacher with over 5 years of experience teaching English! I work with lots of students who need to improve their English for their job, vacation, or to move to another country. I can help you with whatever your needs are, as I am very knowledgeable about the intricacies of English, and can answer your most difficult questions.\n\n\u042f \u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0435\u0446, \u0436\u0438\u0432\u0443\u0449\u0438\u0439 \u0432 \u041c\u043e\u0441\u043a\u0432\u0435, \u0441 5-\u043b\u0435\u0442\u043d\u0438\u043c \u043e\u043f\u044b\u0442\u043e\u043c \u043f\u0440\u0435\u043f\u043e\u0434\u0430\u0432\u0430\u043d\u0438\u044f \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u044f\u0437\u044b\u043a\u0430, \u0431\u043e\u043b\u044c\u0448\u0438\u043d\u0441\u0442\u0432\u043e \u043c\u043e\u0438\u0445 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u043e\u0432 - \u0440\u0443\u0441\u0441\u043a\u0438\u0435, \u0438 \u044f \u043c\u043e\u0433\u0443 \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043f\u043e-\u0440\u0443\u0441\u0441\u043a\u0438, \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u044f \u0442\u043e\u0447\u043d\u043e \u0437\u043d\u0430\u044e, \u043a\u0430\u043a \u043f\u043e\u043c\u043e\u0447\u044c \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e\u0432\u043e\u0440\u044f\u0449\u0438\u043c \u043b\u0443\u0447\u0448\u0435 \u0432\u044b\u0443\u0447\u0438\u0442\u044c \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439. \u042f \u043c\u043e\u0433\u0443 \u043f\u043e\u043c\u043e\u0447\u044c \u0432\u0430\u043c \u0432\u043e \u043c\u043d\u043e\u0433\u0438\u0445 \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u0445, \u0431\u0443\u0434\u044c \u0442\u043e \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u0435, \u0433\u0440\u0430\u043c\u043c\u0430\u0442\u0438\u043a\u0430 \u0438\u043b\u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u0443\u043b\u0443\u0447\u0448\u0435\u043d\u0438\u0435 \u0432\u0430\u0448\u0438\u0445 \u044f\u0437\u044b\u043a\u043e\u0432\u044b\u0445 \u043d\u0430\u0432\u044b\u043a\u043e\u0432.",
+        "about_teacher": "I am generally laid back and prefer to have a good personal connection with my students, and I try to create a pressure free environment.",
+        "teaching_style": "My style of teaching varies by the needs of the students, so I develop an individual approach for each of my students. I like to have a relaxed setting, without strict deadlines and requirements, so you can find language learning fun and not stressful.\n\n\u042f \u0440\u0430\u0437\u0440\u0430\u0431\u0430\u0442\u044b\u0432\u0430\u044e \u0438\u043d\u0434\u0438\u0432\u0438\u0434\u0443\u0430\u043b\u044c\u043d\u044b\u0439 \u043f\u043b\u0430\u043d \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u0441\u0432\u043e\u0438\u0445 \u0441\u0442\u0443\u0434\u0435\u043d\u0442\u043e\u0432 \u0432 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0438 \u0441 \u0438\u0445 \u043f\u043e\u0442\u0440\u0435\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438, \u044d\u0442\u043e\u0442 \u043f\u043b\u0430\u043d, \u043d\u0435 \u0441\u0442\u0440\u043e\u0433\u0438\u0439, \u0430 \u0441\u0432\u043e\u0431\u043e\u0434\u043d\u044b\u0439, \u043f\u043e\u0441\u043a\u043e\u043b\u044c\u043a\u0443 \u043c\u044b \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u043c \u043d\u0430\u0434 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u043d\u044b\u043c\u0438 \u0442\u0435\u043c\u0430\u043c\u0438, \u0432 \u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0447\u0443\u0432\u0441\u0442\u0432\u0443\u0435\u043c \u0441\u0435\u0431\u044f \u043a\u043e\u043c\u0444\u043e\u0440\u0442\u043d\u043e, \u0447\u0442\u043e\u0431\u044b \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0431\u044b\u043b \u0431\u043e\u043b\u0435\u0435 \u043f\u0440\u0438\u044f\u0442\u043d\u044b\u043c",
+        "is_student_full": 0,
+        "student_count": 28,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2024-04-27T16:51:07+00:00",
+        "exp_info": [
+          {
+            "industry": "business",
+            "company": "AccentIt",
+            "job": "Head of Educational Program",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2020,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2024-04-22T19:15:35Z",
+            "exp_id": 152883
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "North Carolina State University",
+            "major": "Economics",
+            "level": 1,
+            "start_year": 2015,
+            "end_year": 2019,
+            "status": 1,
+            "create_time": "2024-04-22T19:14:14Z",
+            "edu_id": "62A5F197-454C-478E-953F-3E1E571D33ED"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2024-04-22T19:06:22Z",
+            "file_ext": "jpeg",
+            "file_path": "***",
+            "institution": "North Carolina State University",
+            "end_year": 2018,
+            "status": 1,
+            "certificate": "TESOL",
+            "language": "english",
+            "type": "TESOL",
+            "type_text_code": "TA563",
+            "cert_id": "F98064DF-CDA4-4845-A90E-48C1450792B7"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "TESOL",
+            "institution": "North Carolina State University",
+            "end_year": 2018,
+            "status": 1,
+            "description": "",
+            "type": "TESOL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 3867,
+            "user_id": 7962451,
+            "start_year": 2018,
+            "end_year": 2155,
+            "institution": "Self",
+            "institution_type": "self_employed_online",
+            "position": "Private Tutor",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-04-22T19:14:51Z",
+            "create_by": "7962451",
+            "update_at": "2024-04-22T19:14:51Z",
+            "update_by": "7962451",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1200,
+        "min_price": 2500,
+        "trial_session_count": 0,
+        "trial_description": "Our first Lesson\n In this lesson we will get to know each other, and discuss your current goals. \n\nWe can also build a study plan together, as well as I can give my advice on the best methods on how to learn English."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 7962451
+      },
+      "pro_course_detail": [
+        {
+          "id": 245953,
+          "teacher_id": 7962451,
+          "language": "english",
+          "title": "General Conversation Practice",
+          "description": "Choose this option if you are looking for general conversation practice to improve your speaking skills. We can discuss different topics of your choice, and I will make corrections and give advice.",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2500,
+          "student_count": 15,
+          "session_count": 41,
+          "create_time": "2024-04-27T15:31:36Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 13000,
+              "session_price": 1500,
+              "course_id": 245953,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 656515
+            },
+            {
+              "package_price": 17500,
+              "session_price": 2000,
+              "course_id": 245953,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 656516
+            },
+            {
+              "package_price": 21500,
+              "session_price": 2500,
+              "course_id": 245953,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 656514
+            },
+            {
+              "package_price": 3500,
+              "session_price": 3500,
+              "course_id": 245953,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 656517
+            }
+          ]
+        },
+        {
+          "id": 245958,
+          "teacher_id": 7962451,
+          "language": "english",
+          "title": "Grammar Lessons",
+          "description": "ATTENTION: If this is your first grammar lesson please send a topic that you would like to work on discuss before the lesson starts!\n\nIn this lesson we can cover different grammar topics, you can choose the topic, or if we have already worked together I can suggest a topic for us to work on.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0006",
+            "T0003"
+          ],
+          "session_price": 4000,
+          "student_count": 2,
+          "session_count": 3,
+          "create_time": "2024-04-27T16:56:13Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 2500,
+              "course_id": 245958,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 656532
+            },
+            {
+              "package_price": 3500,
+              "session_price": 3500,
+              "course_id": 245958,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 656533
+            },
+            {
+              "package_price": 4000,
+              "session_price": 4000,
+              "course_id": 245958,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 656534
+            },
+            {
+              "package_price": 6000,
+              "session_price": 6000,
+              "course_id": 245958,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 656535
+            }
+          ]
+        },
+        {
+          "id": 245960,
+          "teacher_id": 7962451,
+          "language": "english",
+          "title": "Pronunciation Training: General American Accent",
+          "description": "Note: For these lessons you should have at least a B1 level in English, unless your native language is Russian, in this case I can guide you to proper pronunciation giving explanations in Russian.\n\nIn these lessons I will teach you the proper way to speak with an American accent, I have specialized lessons created to teach you proper pronunciation, as well as other elements of accent.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001"
+          ],
+          "session_price": 3000,
+          "student_count": 6,
+          "session_count": 21,
+          "create_time": "2024-04-27T17:02:45Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 2500,
+              "session_price": 2500,
+              "course_id": 245960,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 656540
+            },
+            {
+              "package_price": 3000,
+              "session_price": 3000,
+              "course_id": 245960,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 656538
+            },
+            {
+              "package_price": 4500,
+              "session_price": 4500,
+              "course_id": 245960,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 656539
+            }
+          ]
+        },
+        {
+          "id": 245964,
+          "teacher_id": 7962451,
+          "language": "english",
+          "title": "Reading Practice",
+          "description": "In this lesson we will guide you through reading, either texts of your choice, or I can select them for you. We will read through the text, I will explain the meanings of new words, or any difficult to read sentences, I will correct your pronunciation, and we will then have a short discussion of the text.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004"
+          ],
+          "session_price": 2500,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-04-27T17:11:06Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 245964,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 656551
+            },
+            {
+              "package_price": 2000,
+              "session_price": 2000,
+              "course_id": 245964,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 656550
+            },
+            {
+              "package_price": 2500,
+              "session_price": 2500,
+              "course_id": 245964,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 656549
+            },
+            {
+              "package_price": 3500,
+              "session_price": 3500,
+              "course_id": 245964,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 656552
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 3.0
+          },
+          {
+            "month": 2,
+            "data": 15.0
+          },
+          {
+            "month": 3,
+            "data": 13.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 79,
+        "response_rate": 0.97,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 15991954,
+        "nickname": "Norah Kline",
+        "avatar_file_name": "1T159919540",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "US",
+        "origin_city_id": "US00000",
+        "origin_city_name": "Other",
+        "living_city_id": "US00000",
+        "living_city_name": "Other",
+        "timezone": "America/New_York",
+        "last_login_time": "2025-04-02T02:01:36+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/h_pPv76w7Fw",
+        "video_pic_url": "https://img.youtube.com/vi/h_pPv76w7Fw/0.jpg",
+        "intro": "I am a university student, and I love to read, travel and learn about other cultures. I have always had a passion for teaching ever since I was young. After university, I wish to go to other countries to teach English to young children. I am excited to learn about You and your culture and teach you about mine, as well.",
+        "short_signature": "Certified TEFL instructor with several years of experience",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "chinese",
+            "level": 1
+          },
+          {
+            "language": "french",
+            "level": 1
+          },
+          {
+            "language": "japanese",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2025-02-07T01:00:46Z",
+        "session_count": 8,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/567B104F-4F6C-433A-8E8D-87ABE18E48BD.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/h_pPv76w7Fw.jpg",
+        "teacher_material_list": [
+          1,
+          7,
+          5,
+          2,
+          3,
+          9
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I am a university student, and I love to read, travel and learn about other cultures. I have always had a passion for teaching ever since I was young. After university, I wish to go to other countries to teach English to young children. I am excited to learn about You and your culture and teach you about mine, as well.",
+        "about_teacher": "I am naturally a very bubbly and enthusiastic person. I\u2019m a very empathetic teacher seeing as though I know how it feels to take on the task of learning a new language. Because of my experience with learning other languages, I know to be very welcoming and inviting of each and every student.",
+        "teaching_style": "I believe the best method of teaching English involves total immersion. From the beginning of the first lesson all the way to the last, the lessons will be entirely in English. Even if my student is a beginner, I will still immerse them in an English-speaking environment during our lessons. I also enjoy doing reading exercises and writing exercise. Finding new English based games to play is also very fun.",
+        "is_student_full": 0,
+        "student_count": 3,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2025-02-07T01:00:46+00:00",
+        "exp_info": [
+          {
+            "industry": "public_social_service",
+            "country": "US",
+            "company": "Muskingum County YMCA",
+            "job": "Day Camp Counsellor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2023,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2025-01-22T00:16:47Z",
+            "exp_id": 158718
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "West Muskingum High School",
+            "major": "Diploma",
+            "level": 11,
+            "start_year": 2023,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2025-01-22T00:13:05Z",
+            "edu_id": "4B01981C-463A-44AA-8A40-27D44BE2B014"
+          },
+          {
+            "institution": "Ohio State University",
+            "major": "International Studies",
+            "level": 1,
+            "start_year": 2024,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2025-01-22T00:13:29Z",
+            "edu_id": "71D50270-06B9-490C-A3D1-B0714AFB71A7"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2025-01-21T22:06:45Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "TEFL Org",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "Teaching English as a Foreign Language",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "05942467-69C1-4B2B-AF41-52725B258D60"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Teaching English as a Foreign Language",
+            "institution": "TEFL Org",
+            "end_year": 2023,
+            "status": 1,
+            "description": "",
+            "type": "TEFL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 16253,
+            "user_id": 15991954,
+            "start_year": 2022,
+            "end_year": 2023,
+            "institution": "Zane State College",
+            "institution_type": "n/a",
+            "position": "Tutor/peer mentor",
+            "country": "US",
+            "city": "",
+            "description": "I tutored and peer mentored university students in English, or other subjects.",
+            "create_at": "2025-01-22T00:14:24Z",
+            "create_by": "15991954",
+            "update_at": "2025-01-22T00:14:24Z",
+            "update_by": "15991954",
+            "status": 1
+          },
+          {
+            "id": 16254,
+            "user_id": 15991954,
+            "start_year": 2022,
+            "end_year": 2023,
+            "institution": "West Muskingum Elementary School",
+            "institution_type": "public_education",
+            "position": "Volunteer",
+            "country": "US",
+            "city": "",
+            "description": "I would volunteer to help children as various elementary schools in my area.",
+            "create_at": "2025-01-22T00:15:33Z",
+            "create_by": "15991954",
+            "update_at": "2025-01-22T00:15:33Z",
+            "update_by": "15991954",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 800,
+        "min_price": 1500,
+        "trial_session_count": 0,
+        "trial_description": "In the trial lesson, we will discuss the techniques I use when teaching, determine what level of fluency you're currently at, and go over what you can expect to gain from my future lessons."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 15991954
+      },
+      "pro_course_detail": [
+        {
+          "id": 260831,
+          "teacher_id": 15991954,
+          "language": "english",
+          "title": "Beginner Conversational English",
+          "description": "In this lesson, we will focus on the basics of English that you can expect to use when making casual conversation with another English speaker. We will practice common phrases and terms that would be important to know.",
+          "level_lower_limit": 1,
+          "level_up_limit": 4,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1500,
+          "student_count": 3,
+          "session_count": 7,
+          "create_time": "2025-02-07T00:18:29Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 5000,
+              "session_price": 1000,
+              "course_id": 260831,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 797905
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1000,
+              "course_id": 260831,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 797906
+            },
+            {
+              "package_price": 6000,
+              "session_price": 1200,
+              "course_id": 260831,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 797907
+            },
+            {
+              "package_price": 10000,
+              "session_price": 1200,
+              "course_id": 260831,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 797908
+            },
+            {
+              "package_price": 6000,
+              "session_price": 1500,
+              "course_id": 260831,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 797903
+            },
+            {
+              "package_price": 11500,
+              "session_price": 1500,
+              "course_id": 260831,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 797904
+            },
+            {
+              "package_price": 8500,
+              "session_price": 1800,
+              "course_id": 260831,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 797909
+            },
+            {
+              "package_price": 15000,
+              "session_price": 1800,
+              "course_id": 260831,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 797910
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 8.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 8,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 854,
+    "price_list": [
+      0,
+      12,
+      7,
+      2,
+      9,
+      13,
+      33,
+      27,
+      76,
+      53,
+      65,
+      119,
+      91,
+      97,
+      119,
+      64,
+      207,
+      58,
+      108,
+      91,
+      84,
+      219,
+      82,
+      49,
+      90,
+      41,
+      180,
+      23,
+      57,
+      36,
+      22,
+      112,
+      34,
+      23,
+      24,
+      25,
+      85,
+      6,
+      11,
+      9,
+      15,
+      46,
+      9,
+      16,
+      7,
+      5,
+      52,
+      0,
+      4,
+      4,
+      9,
+      17,
+      4,
+      2,
+      1,
+      8,
+      30,
+      0,
+      2,
+      3,
+      2,
+      10,
+      0,
+      1,
+      0,
+      6,
+      10,
+      0,
+      3,
+      0,
+      3,
+      10,
+      2,
+      1,
+      1,
+      7,
+      35,
+      1,
+      3,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      5,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-e2-46ac-b1c3-d31c3ff3a997-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 854
+  },
+  "paging": {
+    "page": 9,
+    "page_size": 20,
+    "total": 854,
+    "has_next": 1
+  }
+}

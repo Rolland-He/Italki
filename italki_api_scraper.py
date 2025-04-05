@@ -6,15 +6,31 @@ import time
 from datetime import datetime
 from extract_tutors import extract_tutor_info, save_json_with_incremented_filename
 
-def get_page(page=1):
-    """Fetch a page of English teachers from the italki API"""
+
+def get_page(page=1, origin_country_ids=None):
+    """
+    Fetch a page of English teachers from the italki API
+    
+    Args:
+        page: Page number to fetch
+        origin_country_ids: List of country codes to filter by (e.g. ["US", "GB"])
+    """
+    # Based on the example payload in try.py
     payload = {
         "teach_language": {
             "language": "english",
         },
         "page": page,
-        "page_size": 20
+        "page_size": 20,
+        "has_package": 0  # Filter teachers without package lessons
     }
+    
+    # Add origin country filter if provided
+    if origin_country_ids and isinstance(origin_country_ids, list) and len(origin_country_ids) > 0:
+        if "teacher_info" not in payload:
+            payload["teacher_info"] = {}
+        payload["teacher_info"]["origin_country_id"] = origin_country_ids
+    
     url = 'https://api.italki.com/api/v2/teachers'
     headers = {
         'authority': 'api.italki.com',
@@ -28,12 +44,23 @@ def get_page(page=1):
     }
     
     print(f"Requesting page {page}...")
+    print(f"Request payload: {json.dumps(payload)}")
+    if origin_country_ids:
+        print(f"Filtering by origin countries: {', '.join(origin_country_ids)}")
+    print("Filtering to only show teachers without package lessons")
     
     response = requests.post(url, json=payload, headers=headers)
     
     # Check if response contains JSON data
     try:
-        return response.json()
+        data = response.json()
+        
+        # Print sample teacher info for debugging
+        if 'data' in data and isinstance(data['data'], list) and len(data['data']) > 0:
+            sample_teacher = data['data'][0]
+            print(f"Sample teacher found")
+                
+        return data
     except json.JSONDecodeError:
         print(f"Error: Response is not valid JSON. First 200 characters of response: {response.text[:200]}")
         # Save the full response to a file for inspection
@@ -97,7 +124,10 @@ def extract_teacher_data(teacher):
     # Extract basic info
     teacher_id = user_info.get('user_id', '')
     name = user_info.get('nickname', '')
-    is_pro = user_info.get('is_pro', 0)
+    
+    # Extract origin country and living country
+    origin_country = user_info.get('origin_country_id', '')
+    living_country = user_info.get('living_country_id', '')
     
     # Extract ratings and stats
     rating = teacher_info.get('overall_rating', '')
@@ -131,7 +161,8 @@ def extract_teacher_data(teacher):
     return {
         "Teacher ID": teacher_id,
         "Name": name,
-        "Is Pro": is_pro,
+        "Origin Country": origin_country,
+        "Living Country": living_country,
         "Overall Rating": rating,
         "Student Count": student_count,
         "Session Count": session_count,
@@ -152,23 +183,36 @@ if __name__ == "__main__":
     known_teacher_ids = set()
     known_detailed_teacher_ids = set()  # Track IDs in the detailed CSV separately
     consecutive_empty_pages = 0
-    max_consecutive_empty_pages = 10  # Increased from 3 to 10 to be more thorough
+    max_consecutive_empty_pages = 100  # Effectively disabled - will continue until we run out of pages
     
-    print("Starting exhaustive scraping of ALL available tutors...")
-    print("Will continue until we stop finding new tutors for 10 consecutive pages or encounter an error")
+    # Filter by origin country (set to None to get all countries)
+    origin_country_filter = [
+        "US"
+    ]
+    
+    filter_description = []
+    if origin_country_filter:
+        filter_description.append(f"countries: {', '.join(origin_country_filter)}")
+    
+    if filter_description:
+        print(f"Starting dynamic scraping of tutors filtered by {' and '.join(filter_description)}...")
+    else:
+        print("Starting dynamic scraping of all available tutors...")
+    
+    print("Will continue until we encounter an error or stop finding new tutors")
     
     try:
-        # Read existing tutor IDs from basic CSV if it exists
+        # Read existing tutor IDs from CSV if it exists
         csv_file = 'italki_tutors.csv'
         if os.path.exists(csv_file):
             with open(csv_file, 'r', encoding='utf-8') as f:
                 reader = csv.DictReader(f)
                 for row in reader:
                     if 'tutor_id' in row:
-                        known_teacher_ids.add(str(row['tutor_id']))
+                        known_teacher_ids.add(row['tutor_id'])
                     elif 'Teacher ID' in row:
-                        known_teacher_ids.add(str(row['Teacher ID']))
-            print(f"Found {len(known_teacher_ids)} existing tutors in basic CSV file")
+                        known_teacher_ids.add(row['Teacher ID'])
+            print(f"Found {len(known_teacher_ids)} existing tutors in CSV file")
             
         # Read existing teacher IDs from detailed CSV if it exists
         details_csv_file = 'italki_teachers_details.csv'
@@ -183,7 +227,7 @@ if __name__ == "__main__":
         # Keep scraping until we hit a stopping condition
         while True:
             # Get data for current page
-            data = get_page(page)
+            data = get_page(page, origin_country_filter)
             
             # Save raw JSON response with incremented filename
             json_file = save_json_with_incremented_filename(data)
@@ -272,6 +316,8 @@ if __name__ == "__main__":
         print(f"Pages scraped: {page-1}")
         print(f"Total teachers seen in this run: {total_teachers}")
         print(f"Total unique teachers in database: {len(known_detailed_teacher_ids)}")
+        if origin_country_filter:
+            print(f"Filter applied: Origin countries {', '.join(origin_country_filter)}")
         print(f"Scraping complete. Data saved to:")
         print(f"- italki_tutors.csv (basic info)")
         print(f"- italki_teachers_details.csv (detailed info)")

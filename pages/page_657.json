@@ -1,0 +1,1068 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 6236594,
+        "nickname": "Lester\u30fb\u30ec\u30b9\u30bf\u30fc",
+        "avatar_file_name": "7T062365940",
+        "is_tutor": 1,
+        "is_pro": 0,
+        "origin_country_id": "US",
+        "is_online": 1,
+        "living_country_id": "DE",
+        "origin_city_id": "US01111",
+        "origin_city_name": "San Francisco",
+        "living_city_id": "DE00096",
+        "living_city_name": "Mannheim",
+        "timezone": "Europe/Berlin",
+        "last_login_time": "2025-04-05T15:29:58+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/Myk6GUzYVRc",
+        "video_pic_url": "https://img.youtube.com/vi/Myk6GUzYVRc/0.jpg",
+        "intro": "\ud83c\udf0fCalifornia\ud83c\uddfa\ud83c\uddf8(\uff5e2011) \u25b6\ufe0eHokkaido & Tokyo\ud83c\uddef\ud83c\uddf5 (\uff5e2021) \u25b6\ufe0eBaden-W\u00fcrttemberg\ud83c\udde9\ud83c\uddea(2020\uff5enow)\n\ud83e\uddf3planned absence: May 18-21, in Italy \ud83c\uddee\ud83c\uddf9 \n\u2b50\ufe0fVisited: 36 countries\n\ud83c\udfdd\ufe0fWorld traveler, Foodie, Researcher\n\nHi, I\u2019m Lester, originally from California, and now living in Germany while running an IT consulting firm\ud83d\udc54in Tokyo. After earning my Ph.D. \ud83c\udf93and spending 10 years in Japan, I moved here in 2020 with my German spouse\ud83d\udc9e.\n\nAs a native Chinese speaker fluent in Japanese (JLPT N1 180/180, J.Test Special A 1000/1000), I\u2019ve taught Academic and Business English, Spatial Econometrics, and GIS at Keio University in Tokyo. \nWith my expertise, I\u2019ll help you excel in language, academic, or business goals.",
+        "short_signature": "\ud83c\uddfa\ud83c\uddf8\u27a1\ufe0e\ud83c\uddef\ud83c\uddf5\u27a1\ufe0e\ud83c\udde9\ud83c\uddea PhD\ud83c\udf93in Economics(\u7d4c\u6e08\u5b66\u535a\u58eb)\ud83d\udcdaFormer college Lecturer in Tokyo (\u524d\u65e5\u672c\u5927\u5b66\u8b1b\u5e2b)\ud83d\udcbcExecutive(\u7d4c\u55b6\u8005)",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          },
+          {
+            "language": "japanese",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "chinese",
+            "level": 7
+          },
+          {
+            "language": "german",
+            "level": 5
+          },
+          {
+            "language": "chinese(cantonese)",
+            "level": 4
+          },
+          {
+            "language": "korean",
+            "level": 4
+          },
+          {
+            "language": "spanish",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2020-08-14T13:31:50Z",
+        "session_count": 4469,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/4C7F8632-35B0-45FF-B53D-A93A0F12C711.mp4",
+        "cover_name": "u/6236594/cover/cucep3rqh4ueir4tkrl0.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/Myk6GUzYVRc.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          11
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "\ud83c\udf0fCalifornia\ud83c\uddfa\ud83c\uddf8(\uff5e2011) \u25b6\ufe0eHokkaido & Tokyo\ud83c\uddef\ud83c\uddf5 (\uff5e2021) \u25b6\ufe0eBaden-W\u00fcrttemberg\ud83c\udde9\ud83c\uddea(2020\uff5enow)\n\ud83e\uddf3planned absence: May 18-21, in Italy \ud83c\uddee\ud83c\uddf9 \n\u2b50\ufe0fVisited: 36 countries\n\ud83c\udfdd\ufe0fWorld traveler, Foodie, Researcher\n\nHi, I\u2019m Lester, originally from California, and now living in Germany while running an IT consulting firm\ud83d\udc54in Tokyo. After earning my Ph.D. \ud83c\udf93and spending 10 years in Japan, I moved here in 2020 with my German spouse\ud83d\udc9e.\n\nAs a native Chinese speaker fluent in Japanese (JLPT N1 180/180, J.Test Special A 1000/1000), I\u2019ve taught Academic and Business English, Spatial Econometrics, and GIS at Keio University in Tokyo. \nWith my expertise, I\u2019ll help you excel in language, academic, or business goals.",
+        "about_teacher": "\ud83c\udf89All my students will get \ud83c\udf81Extra free time (5-10min)\u2795\ud83d\udcddDetailed Study Feedback in PDF format\n\n\u2b50\ufe0fEducation\u2b50\ufe0f\n2018-2021 Ph.D.\uff08\u535a\u58eb\uff09in Economics, Tokyo, Japan\uff08\u65e5\u672c\u30fb\u6771\u4eac\u90fd\uff09\n2016-2018 M.A. \uff08\u4fee\u58eb\uff09in Economics, Tokyo, Japan\uff08\u65e5\u672c\u30fb\u6771\u4eac\u90fd\uff09\n2011-2015 B.A. \uff08\u5b66\u58eb\uff09in Financial Engineering, Hokkaido, Japan\uff08\u65e5\u672c\u30fb\u5317\u6d77\u9053\uff09\n\n\u2b50\ufe0fCertificates\u2b50\ufe0f\nTEFL Certification\nCertified Financial Planner\nSecurity Sales Representative\nJapanese Kanji Educator\nJLPT N1 level 180/180\nJ.Test Special A, 1000/1000\n\n\u2b50\ufe0fService\u2b50\ufe0f\nAcademic English&Japanese\u270d\ud83c\udffb\u30a2\u30ab\u30c7\u30df\u30c3\u30af\u82f1\u8a9e\u30fb\u5b66\u8853\u65e5\u672c\u8a9e\nResearch&Thesis Writing Guide\ud83e\uddd1\ud83c\udffb\u200d\ud83c\udfeb\u7814\u7a76\u30fb\u8ad6\u6587\u4f5c\u6210\u6307\u5c0e\nEditing&Publication Support\ud83d\udcdd\u82f1\u6587\u6821\u95b2\u30fb\u6821\u6b63\u30fb\u5b66\u8853\u8a8c\u6295\u7a3f\u652f\u63f4\nBusiness English&Japanese\ud83d\udcbc\u30d3\u30b8\u30cd\u30b9\u82f1\u8a9e\u30fb\u65e5\u672c\u8a9e\nInterview/Presentation Prep\ud83d\udc54\u9762\u63a5\u30fb\u8b1b\u6f14\u6e96\u5099\nLife counseling\ud83c\udf38\u4eba\u751f\u76f8\u8ac7",
+        "teaching_style": "\u2b50\ufe0f Teaching Materials \u2b50\ufe0f\n\ud83d\uddfd English: Unlock your full potential with engaging resources, including YouTube clips, current news, and the trusted Cambridge English in Use series.\n\ud83d\uddfe Japanese: Immerse yourself in real-world materials like NHK news, the Marugoto series, and exclusive cultural insights tailored for you!\n\n\ud83d\udc4d\ud83c\udffb I\u2019m patient, compassionate, and professional, with a deep understanding of both Western and Asian cultures. I love helping students from all backgrounds succeed!\n\ud83d\udc68\ud83c\udffb\u200d\ud83c\udfeb My approach: 20% lectures, 80% active practice. Whether it\u2019s conversation, grammar, or test prep (TOEFL, IELTS, JLPT), I\u2019ll help you achieve your language goals. Let\u2019s start your journey to success!",
+        "is_student_full": 0,
+        "student_count": 513,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "industry": "math_data_science",
+            "country": "JP",
+            "city": "Tokyo",
+            "company": "Data Analytics Company",
+            "job": "Executive Director\uff08\u57f7\u884c\u5f79\u54e1\uff09",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2021,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2023-08-11T15:43:05Z",
+            "update_time": "2025-01-19T21:57:57Z",
+            "exp_id": 149488
+          },
+          {
+            "industry": "education",
+            "country": "JP",
+            "city": "Tokyo",
+            "company": "Keio University\uff08\u6176\u61c9\u7fa9\u587e\u5927\u5b66\u5927\u5b66\u9662\uff09",
+            "job": "Adjunct Researcher\uff08\u7814\u7a76\u54e1\uff09",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2019,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2023-08-11T15:45:27Z",
+            "update_time": "2025-01-09T21:59:09Z",
+            "exp_id": 149489
+          },
+          {
+            "industry": "public_social_service",
+            "country": "JP",
+            "city": "Tokyo",
+            "company": "Fuji TV\uff08\u30d5\u30b8\u30c6\u30ec\u30d3\uff09",
+            "job": "Eng-Jpn-Chn Interpreter\uff08\u7dcf\u5408\u901a\u8a33\uff09",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2018,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2023-08-11T15:45:59Z",
+            "update_time": "2025-01-09T21:59:22Z",
+            "exp_id": 149490
+          },
+          {
+            "industry": "business",
+            "country": "JP",
+            "city": "Tokyo",
+            "company": "Mitsubishi Research Institute\uff08\u4e09\u83f1\u7dcf\u5408\u7814\u7a76\u6240\uff09",
+            "job": "Data Scientist & Business Consultant\uff08\u7814\u7a76\u54e1\u30fb\u30b3\u30f3\u30b5\u30eb\u30bf\u30f3\u30c8\uff09",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2016,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2023-08-11T15:46:55Z",
+            "update_time": "2025-01-09T22:00:00Z",
+            "exp_id": 149491
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Hokkaido University \uff08\u5317\u6d77\u9053\u5927\u5b66\uff09",
+            "major": "Financial Engineering\uff08\u91d1\u878d\u5de5\u5b66\uff09",
+            "level": 1,
+            "start_year": 2011,
+            "end_year": 2015,
+            "status": 1,
+            "create_time": "2025-01-05T10:51:00Z",
+            "update_time": "2025-01-09T22:01:31Z",
+            "edu_id": "146A4E49-BE2A-497A-B1E6-8FD4042D7ADE"
+          },
+          {
+            "institution": "Keio University \uff08\u6176\u61c9\u7fa9\u587e\u5927\u5b66\u5927\u5b66\u9662\uff09",
+            "major": "Urban Economics/ Spatial Econometrics",
+            "level": 3,
+            "start_year": 2018,
+            "end_year": 2021,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2025-01-05T13:24:35Z",
+            "update_time": "2025-01-09T22:00:53Z",
+            "edu_id": "DC6A20F1-DB12-4053-9C3F-4BF4390CD6B3"
+          },
+          {
+            "institution": "Keio University\u3000\uff08\u6176\u61c9\u7fa9\u587e\u5927\u5b66\u5927\u5b66\u9662\uff09",
+            "major": "Urban Economics/ Spatial Econometrics",
+            "level": 2,
+            "start_year": 2016,
+            "end_year": 2018,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2025-01-05T13:23:54Z",
+            "update_time": "2025-01-09T22:01:14Z",
+            "edu_id": "EF84E97E-981F-452D-9293-3EAE10279393"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2023-08-12T15:16:13Z",
+            "update_time": "2024-02-21T13:51:58Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "A State University",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "TESOL English Teaching Certificate",
+            "cert_id": "009AE842-FFF0-4DBD-B012-04D030F69C05"
+          },
+          {
+            "create_time": "2023-08-10T10:56:23Z",
+            "update_time": "2023-08-12T15:17:04Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "institution": "Japan Association for Financial Planners",
+            "end_year": 2016,
+            "status": 1,
+            "certificate": "Affiliated Financial Planer",
+            "cert_id": "B6306069-5341-4B84-A965-5D75B1944E82"
+          },
+          {
+            "create_time": "2023-08-10T10:26:02Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "institution": "Ritsumeikan University",
+            "end_year": 2019,
+            "status": 1,
+            "certificate": "Japanese Kanji Educator",
+            "cert_id": "CC6C346F-E1A2-4772-9AC3-51C2D753C08A"
+          },
+          {
+            "create_time": "2023-08-10T10:42:06Z",
+            "update_time": "2023-08-10T10:42:15Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "institution": "The Japan Foundation",
+            "end_year": 2015,
+            "status": 1,
+            "certificate": "JLPT N1 180/180",
+            "cert_id": "D02F2315-6EC2-40E5-9BF4-B18183CACCD2"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "Mitsubishi Research Institute (\u4e09\u83f1\u7dcf\u5408\u7814\u7a76\u6240\uff09",
+            "type": "CA002",
+            "type_text_code": "BUSINESS",
+            "certificate": "Certificate of Employment",
+            "description": "At Mitsubishi Research Institute's Financial Innovation Division, I served as a consultant, specializing in strategic consultancy for financial sector clients. My role encompassed driving innovation through advanced technology adoption, strategic planning, and enhancing operational efficiencies to foster competitive advantages in the financial market.",
+            "end_year": 2017,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/4717197E-2072-4F76-A731-CA9609EEEF17.pdf",
+            "create_time": "2024-08-14T13:10:57Z",
+            "update_time": "2025-01-06T16:50:19Z",
+            "approve_time": "2024-08-15T08:23:23Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "TESOL English Teaching Certificate",
+            "institution": "A State University",
+            "end_year": 2020,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Japanese Kanji Educator",
+            "institution": "Ritsumeikan University",
+            "end_year": 2019,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "Certificate of Employment",
+            "institution": "Mitsubishi Research Institute (\u4e09\u83f1\u7dcf\u5408\u7814\u7a76\u6240\uff09",
+            "end_year": 2017,
+            "status": 1,
+            "description": "At Mitsubishi Research Institute's Financial Innovation Division, I served as a consultant, specializing in strategic consultancy for financial sector clients. My role encompassed driving innovation through advanced technology adoption, strategic planning, and enhancing operational efficiencies to foster competitive advantages in the financial market.",
+            "type": "CA002"
+          },
+          {
+            "certificate": "Affiliated Financial Planer",
+            "institution": "Japan Association for Financial Planners",
+            "end_year": 2016,
+            "status": 1,
+            "description": "",
+            "type": ""
+          },
+          {
+            "certificate": "JLPT N1 180/180",
+            "institution": "The Japan Foundation",
+            "end_year": 2015,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 8486,
+            "user_id": 6236594,
+            "start_year": 2019,
+            "end_year": 2021,
+            "institution": "Keio University\uff08\u6176\u61c9\u7fa9\u587e\u5927\u5b66\uff09",
+            "institution_type": "public_education",
+            "position": "Lecturer\uff08\u8b1b\u5e2b\uff09",
+            "country": "JP",
+            "city": "Tokyo",
+            "description": "Econometrics, Statistics, Geographic Economics, Business/Academic English, Academic Japanese",
+            "create_at": "2024-08-14T13:33:35Z",
+            "create_by": "6236594",
+            "update_at": "2025-01-09T21:58:44Z",
+            "update_by": "6236594",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 5
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 2888,
+        "min_price": 5388,
+        "trial_session_count": 0,
+        "trial_description": "\ud83c\udf89 All my students will get \ud83c\udf81 Extra free time (5-10 min) \u2795 \ud83d\udcdd Detailed Study Feedback in PDF format\n\n\u2b50\ufe0f Service for Trial Lessons \u30fb\u30b5\u30fc\u30d3\u30b9\u5185\u5bb9\u2b50\ufe0f\nGreetings & Self-introduction \ud83d\udc4b\nWe'll begin by introducing ourselves and sharing your learning interests. This allows me to understand your background and tailor the lesson to your needs.\n\u6328\u62f6\u3068\u81ea\u5df1\u7d39\u4ecb\u3092\u884c\u3044\u3001\u5b66\u7fd2\u76ee\u6a19\u3092\u304a\u4f3a\u3044\u3057\u307e\u3059\u3002\n\u6211\u5011\u5c07\u4ecb\u7d39\u5f7c\u6b64\uff0c\u4e26\u4e86\u89e3\u60a8\u7684\u5b78\u7fd2\u8208\u8da3\u53ca\u76ee\u6a19\u3002\n\nSet up study goals based on current language levels \ud83c\udfc5\nBased on your proficiency, we\u2019ll set realistic and motivating learning goals. This will guide our lessons and ensure steady progress.\n\u3042\u306a\u305f\u306e\u30ec\u30d9\u30eb\u306b\u5408\u308f\u305b\u3066\u3001\u5b9f\u73fe\u53ef\u80fd\u3067\u3084\u308a\u304c\u3044\u306e\u3042\u308b\u76ee\u6a19\u3092\u8a2d\u5b9a\u3057\u307e\u3059\u3002\n\u6839\u64da\u60a8\u7684\u8a9e\u8a00\u6c34\u5e73\u8a2d\u7f6e\u53ef\u884c\u4e14\u6709\u6311\u6230\u6027\u7684\u5b78\u7fd2\u76ee\u6a19\u3002\n\nIntroduce study materials and curriculum \ud83d\udcda\nI will recommend study materials that match your current level. This ensures you have the right resources to progress smoothly.\n\u73fe\u5728\u306e\u30ec\u30d9\u30eb\u306b\u5408\u3063\u305f\u6559\u6750\u3068\u30ab\u30ea\u30ad\u30e5\u30e9\u30e0\u3092\u7d39\u4ecb\u3057\u307e\u3059\u3002\n\u6211\u6703\u63a8\u85a6\u7b26\u5408\u60a8\u73fe\u6709\u6c34\u5e73\u7684\u5b78\u7fd2\u8cc7\u6e90\uff0c\u5e6b\u52a9\u60a8\u66f4\u9806\u5229\u9032\u6b65\u3002\n\nDemo Teaching \ud83d\udcd6\nYou will experience a sample lesson to get a feel for my teaching style, lesson structure, and approach to helping you reach your goals.\n\u6a21\u64ec\u6388\u696d\u3092\u901a\u3058\u3066\u3001\u79c1\u306e\u6388\u696d\u30b9\u30bf\u30a4\u30eb\u3001\u9032\u884c\u65b9\u6cd5\u3001\u5b66\u7fd2\u30a2\u30d7\u30ed\u30fc\u30c1\u3092\u4f53\u9a13\u3057\u307e\u3059\u3002\n\u60a8\u5c07\u9ad4\u9a57\u6a21\u64ec\u6388\u8ab2\uff0c\u4e86\u89e3\u6211\u7684\u6388\u8ab2\u98a8\u683c\u548c\u8ab2\u7a0b\u7d50\u69cb\u3002\n\nQ&A \ud83d\ude4b\ud83c\udffb\u200d\u2642\ufe0f\nAt the end of the lesson, I\u2019ll answer any questions you may have, whether about the content or my teaching methods.\n\u30ec\u30c3\u30b9\u30f3\u5f8c\u306b\u3001\u8cea\u554f\u3084\u7591\u554f\u306b\u304a\u7b54\u3048\u3057\u307e\u3059\u3002\n\u8ab2\u7a0b\u7d50\u675f\u5f8c\uff0c\u6211\u5c07\u56de\u7b54\u60a8\u4efb\u4f55\u7591\u554f\uff0c\u7121\u8ad6\u662f\u5167\u5bb9\u9084\u662f\u65b9\u6cd5\u3002\n\n\ud83d\udce9 How to Start \u30fb\u59cb\u3081\u65b9\nPlease send me your current English/Japanese level and learning goals via italki Messenger. I\u2019ll confirm your request after receiving your information.\n\n\ud83d\udce9 \u65e5\u672c\u8a9e\u3067\u306e\u30e1\u30c3\u30bb\u30fc\u30b8:\n\u4e88\u7d04\u6642\u306b\u3001\u73fe\u5728\u306e\u8a00\u8a9e\u30ec\u30d9\u30eb\u3068\u5b66\u7fd2\u76ee\u6a19\u3092\u304a\u77e5\u3089\u305b\u304f\u3060\u3055\u3044\u3002\n\ud83d\udce9 \u4e2d\u6587\u7528\u6237\u8bf7\u6ce8\u610f\uff1a\n\u8acb\u5728\u9810\u7d04\u8ab2\u7a0b\u6642\u544a\u77e5\u60a8\u7684\u8a9e\u8a00\u6c34\u5e73\u548c\u5b78\u7fd2\u76ee\u6a19\u3002\n\n\ud83d\udea8 Important Notice \u30fb\u6ce8\u610f\u4e8b\u9805\n\ud83d\udeab No lessons for minors (under 14 years old).\n14\u6b73\u672a\u6e80\u306e\u65b9\u306f\u30ec\u30c3\u30b9\u30f3\u3092\u304a\u53d7\u3051\u3067\u304d\u307e\u305b\u3093\u3002\n\ud83d\udeab \u4e0d\u63a5\u53d714\u6b72\u4ee5\u4e0b\u5b69\u7ae5\u9810\u7d04\u3002\n\n\u26d4\ufe0f Editing/Reviewing Documents\nEditing or reviewing documents (e.g., slides, reports, letters) is not available during trial lessons.\n\u30c8\u30e9\u30a4\u30a2\u30eb\u30ec\u30c3\u30b9\u30f3\u3067\u306f\u3001\u6587\u66f8\u306e\u6821\u6b63\u3084\u6dfb\u524a\u306f\u63d0\u4f9b\u3057\u307e\u305b\u3093\u3002\n\u8a66\u807d\u8ab2\u7a0b\u4e0d\u63d0\u4f9b\u6587\u7a3f\u6821\u5c0d\u4fee\u6539\u670d\u52d9\u3002"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 6236594
+      },
+      "pro_course_detail": [
+        {
+          "id": 124944,
+          "teacher_id": 6236594,
+          "language": "japanese",
+          "title": "\ud83c\uddef\ud83c\uddf5Native Japanese CONVERSATION Practice\ud83c\udf99\ufe0f& Japanese Culture Tips\ud83d\uddfe[A1-C2 Level] \u65e5\u672c\u8a9e\u4f1a\u8a71\u30b3\u30fc\u30b9\u30fb\u30a2\u30af\u30bb\u30f3\u30c8\u77ef\u6b63\u30fb\u65e5\u672c\u6587\u5316\u7d39\u4ecb",
+          "description": "\ud83c\udf89 Special for My Students:\nAll students receive \ud83c\udf81Free extra time (5-10 minutes) and \ud83d\udcddDetailed Study Feedback in PDF format after each lesson!\n\n\u2b50\ufe0f What This Lesson Includes \u30fb\u30b5\u30fc\u30d3\u30b9\u5185\u5bb9 \u2b50\ufe0f\nJapanese Conversation Practice \ud83c\udf99\ufe0f \u65e5\u672c\u8a9e\u4f1a\u8a71\u7df4\u7fd2\nPractice real-life conversations to improve fluency, pronunciation, and confidence.\n\u5b9f\u969b\u306e\u4f1a\u8a71\u7df4\u7fd2\u3092\u901a\u3057\u3066\u3001\u6d41\u66a2\u3055\u3084\u767a\u97f3\u3001\u4f1a\u8a71\u529b\u3092\u9ad8\u3081\u307e\u3059\u3002\n\nBusiness Japanese \ud83d\udcbc \u30d3\u30b8\u30cd\u30b9\u65e5\u672c\u8a9e\nLearn workplace expressions, formal language, and professional etiquette.\n\u8077\u5834\u3067\u4f7f\u3048\u308b\u8868\u73fe\u3084\u656c\u8a9e\u3001\u30d3\u30b8\u30cd\u30b9\u30de\u30ca\u30fc\u3092\u5b66\u3073\u307e\u3059\u3002\n\nJapanese Etiquette \ud83d\ude45 \u65e5\u672c\u306e\u793c\u5100\u30fb\u30de\u30ca\u30fc\nMaster the essential customs and social manners for smoother communication.\n\u65e5\u672c\u7279\u6709\u306e\u793c\u5100\u3084\u30de\u30ca\u30fc\u3092\u7fd2\u5f97\u3057\u3001\u5186\u6ed1\u306a\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u3092\u76ee\u6307\u3057\u307e\u3059\u3002\n\nCulture Insights \ud83c\udfef \u65e5\u672c\u6587\u5316\u7d39\u4ecb\nDiscover Japan\u2019s festivals, traditions, history, and modern trends.\n\u65e5\u672c\u306e\u796d\u308a\u3084\u4f1d\u7d71\u3001\u6b74\u53f2\u3001\u305d\u3057\u3066\u73fe\u4ee3\u306e\u30c8\u30ec\u30f3\u30c9\u306b\u3064\u3044\u3066\u5b66\u3073\u307e\u3059\u3002\n\nOral Tests, Job Interviews & Presentations \ud83d\udc54 \u53e3\u8ff0\u8a66\u9a13\u30fb\u9762\u63a5\u30fb\u8b1b\u6f14\u6e96\u5099\nPrepare for speaking exams, job interviews, or presentations with tailored support.\n\u8a66\u9a13\u5bfe\u7b56\u3084\u9762\u63a5\u6e96\u5099\u3001\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u306e\u7df4\u7fd2\u3092\u500b\u5225\u30b5\u30dd\u30fc\u30c8\u3057\u307e\u3059\u3002\n\nLife & Career Guidance \ud83c\udf38 \u4eba\u751f\u30fb\u9032\u8def\u76f8\u8ac7\nReceive advice on studying, working, or living in Japan.\n\u65e5\u672c\u3067\u306e\u751f\u6d3b\u3084\u30ad\u30e3\u30ea\u30a2\u306b\u3064\u3044\u3066\u30a2\u30c9\u30d0\u30a4\u30b9\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002\n\n\ud83d\udce9 How to Start\nTo tailor the lesson to your needs, please share your current level and goals via italki Messenger. I\u2019ll confirm your request after reviewing your response.\n\n\ud83d\udce9 \u65e5\u672c\u8a9e\u3067\u306e\u30e1\u30c3\u30bb\u30fc\u30b8:\n\u3054\u4e88\u7d04\u306e\u969b\u65e5\u672c\u8a9e\u30ec\u30d9\u30eb\u3068\u5b66\u7fd2\u76ee\u6a19\u3092\u30c1\u30e3\u30c3\u30c8\u306b\u3066\u304a\u77e5\u3089\u305b\u304f\u3060\u3055\u3044\u3002\u304a\u8fd4\u4e8b\u304c\u78ba\u8a8d\u3067\u304d\u6b21\u7b2c\u3001\u30ea\u30af\u30a8\u30b9\u30c8\u3092\u627f\u308a\u307e\u3059\u3002\n\n\ud83d\udce9 \u4e2d\u6587\u7528\u6237\u8bf7\u6ce8\u610f\uff1a\n\u8acb\u5728\u9810\u7d04\u8ab2\u7a0b\u6642\u544a\u77e5\u60a8\u7684\u8a9e\u8a00\u6c34\u5e73\u548c\u76ee\u6a19\uff0c\u4ee5\u4fbf\u5171\u540c\u5236\u5b9a\u5b78\u7fd2\u8a08\u5283\u3002\n\n\ud83d\udea8 Important Notice\n\ud83d\udeab I do not teach students under 14 years old. I appreciate your understanding!\n\ud83d\udeab 14\u6b73\u672a\u6e80\u306e\u65b9\u306b\u3088\u308b\u30ec\u30c3\u30b9\u30f3\u30ea\u30af\u30a8\u30b9\u30c8\u306f\u3054\u9060\u616e\u304f\u3060\u3055\u3044\u3002\n\nWhy Choose My Lessons?\nWhether you aim to master natural conversations, succeed in business settings, or gain cultural insights, this lesson is designed for you. My interactive teaching style and detailed feedback will help you achieve your goals quickly and confidently.\n\nLet\u2019s start your Japanese journey today! \u307e\u305f\u304a\u4f1a\u3044\u3057\u307e\u3057\u3087\u3046\uff01",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 5388,
+          "student_count": 74,
+          "session_count": 696,
+          "create_time": "2020-08-14T14:27:41Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 31000,
+              "session_price": 3288,
+              "course_id": 124944,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 288219
+            },
+            {
+              "package_price": 45000,
+              "session_price": 3288,
+              "course_id": 124944,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 729852
+            },
+            {
+              "package_price": 60000,
+              "session_price": 3288,
+              "course_id": 124944,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 750048
+            },
+            {
+              "package_price": 42000,
+              "session_price": 4388,
+              "course_id": 124944,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 289597
+            },
+            {
+              "package_price": 61000,
+              "session_price": 4388,
+              "course_id": 124944,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 729851
+            },
+            {
+              "package_price": 79500,
+              "session_price": 4388,
+              "course_id": 124944,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 750049
+            },
+            {
+              "package_price": 51000,
+              "session_price": 5388,
+              "course_id": 124944,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 696333
+            },
+            {
+              "package_price": 74000,
+              "session_price": 5388,
+              "course_id": 124944,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 729853
+            },
+            {
+              "package_price": 95000,
+              "session_price": 5388,
+              "course_id": 124944,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 750047
+            },
+            {
+              "package_price": 61000,
+              "session_price": 6588,
+              "course_id": 124944,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 622591
+            },
+            {
+              "package_price": 87800,
+              "session_price": 6588,
+              "course_id": 124944,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 729854
+            },
+            {
+              "package_price": 114000,
+              "session_price": 6588,
+              "course_id": 124944,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 750050
+            }
+          ]
+        },
+        {
+          "id": 124948,
+          "teacher_id": 6236594,
+          "language": "japanese",
+          "title": "\u2b50\ufe0fNative Japanese General Learning[A1-C2 Level] \ud83d\udcd6& JLPT Prep N5-N1\u270d\ufe0f&Business Japanese\ud83d\udc54 & Academic Japanese\ud83c\udf93 \u65e5\u672c\u8a9e\u5168\u30ec\u30d9\u30eb\u5b66\u7fd2\u30fb\u65e5\u672c\u8a9e\u80fd\u529b\u8a66\u9a13\u53d7\u9a13\u30b3\u30fc\u30b9\u30fb\u30d3\u30b8\u30cd\u30b9\u65e5\u672c\u8a9e\u30fb\u30a2\u30ab\u30c7\u30df\u30c3\u30af\u65e5\u672c\u8a9e\u30fb\u5165\u8a66\u53ca\u3073\u65e5\u7cfb\u4f01\u696d\u9762\u63a5\u30fb\u5927\u5b66\u9662\u5165\u8a66\u30fb\u7814\u7a76\u8ad6\u6587\u30ac\u30a4\u30c0\u30f3\u30b9",
+          "description": "\ud83c\udf89 Exclusive for My Students:\nEnjoy \ud83c\udf81Additional complimentary time (5-10 minutes) and \ud83d\udcddDetailed Study Feedback in PDF format after every lesson!\n\n\u2b50\ufe0f What This Lesson Includes \u30fb\u30b5\u30fc\u30d3\u30b9\u5185\u5bb9 \u2b50\ufe0f\nJapanese General Learning (N5-N1) \ud83d\udcda \u65e5\u672c\u8a9e\u5168\u30ec\u30d9\u30eb\u5b66\u7fd2 (N5-N1):\nBuild essential skills in vocabulary, grammar, and communication for any level.\n\u8a9e\u5f59\u3084\u6587\u6cd5\u3001\u4f1a\u8a71\u30b9\u30ad\u30eb\u3092\u57fa\u790e\u304b\u3089\u5b66\u3073\u307e\u3059\u3002\n\nJapanese Honorifics (Keigo) \u26e9\ufe0f \u656c\u8a9e\u306e\u4f7f\u3044\u65b9:\nMaster Keigo for professional and social settings.\n\u656c\u8a9e\u3092\u81ea\u7136\u306b\u4f7f\u3048\u308b\u3088\u3046\u306b\u7df4\u7fd2\u3057\u307e\u3059\u3002\n\nAcademic Japanese \u270d\ud83c\udffb \u5b66\u8853\u65e5\u672c\u8a9e:\nLearn to express complex ideas for research and academic purposes.\n\u5b66\u8853\u7684\u306a\u65e5\u672c\u8a9e\u8868\u73fe\u3092\u8eab\u306b\u3064\u3051\u307e\u3059\u3002\n\nResearch & Thesis Writing \ud83e\uddd1\ud83c\udffb\u200d\ud83c\udfeb \u7814\u7a76\u30fb\u8ad6\u6587\u4f5c\u6210\u6307\u5c0e:\nGuidance on writing and structuring research papers or theses.\n\u8ad6\u6587\u3084\u7814\u7a76\u8a08\u753b\u66f8\u4f5c\u6210\u306e\u30b5\u30dd\u30fc\u30c8\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002\n\nEditing & Publication Support \ud83d\udcdd \u8ad6\u6587\u6821\u95b2\u30fb\u6295\u7a3f\u652f\u63f4:\nAssistance with editing, proofreading, and submitting your work.\n\u8ad6\u6587\u6821\u95b2\u3084\u5b66\u8853\u8a8c\u6295\u7a3f\u3092\u304a\u624b\u4f1d\u3044\u3057\u307e\u3059\u3002\n\nBusiness Japanese \ud83d\udcbc \u30d3\u30b8\u30cd\u30b9\u65e5\u672c\u8a9e:\nCraft emails, reports, and presentations with professional finesse.\n\u30d3\u30b8\u30cd\u30b9\u6587\u66f8\u3084\u30e1\u30fc\u30eb\u3001\u5831\u544a\u66f8\u4f5c\u6210\u3092\u5b66\u3073\u307e\u3059\u3002\n\nJob Interview Prep \ud83d\udc54 \u65e5\u7cfb\u4f01\u696d\u9762\u63a5\u6e96\u5099:\nPrepare for interviews with mock sessions and expert tips.\n\u6a21\u64ec\u9762\u63a5\u3068\u30a2\u30c9\u30d0\u30a4\u30b9\u3067\u6e96\u5099\u3057\u307e\u3059\u3002\n\nAcademic Conference Prep \ud83d\udce2 \u5b66\u4f1a\u767a\u8868\u6e96\u5099:\nDevelop presentation skills for academic conferences.\n\u5b66\u4f1a\u767a\u8868\u306e\u30b9\u30e9\u30a4\u30c9\u4f5c\u6210\u3068\u7df4\u7fd2\u3092\u30b5\u30dd\u30fc\u30c8\u3057\u307e\u3059\u3002\n\nJLPT/J.TEST/Exam Prep \ud83d\udcaf \u8a66\u9a13\u6e96\u5099:\nStrategize with targeted lessons and mock exams.\n\u8a66\u9a13\u5bfe\u7b56\u306b\u7279\u5316\u3057\u305f\u6388\u696d\u3067\u5408\u683c\u3092\u76ee\u6307\u3057\u307e\u3059\u3002\n\nLearning Economics/Data Analysis \ud83d\udcd6 \u65e5\u672c\u8a9e\u3067\u5b66\u3076\u7d4c\u6e08\u5b66:\nDive into technical subjects in Japanese.\n\u65e5\u672c\u8a9e\u3067\u7d4c\u6e08\u5b66\u3084\u30c7\u30fc\u30bf\u89e3\u6790\u3092\u5b66\u3073\u307e\u3059\u3002\n\n\ud83d\udce9 How to Start \u30fb\u59cb\u3081\u65b9\nTo customize your lesson, please share your current level and goals via italki Messenger. I\u2019ll confirm your request after reviewing your response.\n\n\ud83d\udce9 \u65e5\u672c\u8a9e\u3067\u306e\u30e1\u30c3\u30bb\u30fc\u30b8:\n\u3054\u4e88\u7d04\u306e\u969b\u3001\u65e5\u672c\u8a9e\u30ec\u30d9\u30eb\u3068\u5b66\u7fd2\u76ee\u6a19\u3092\u304a\u77e5\u3089\u305b\u304f\u3060\u3055\u3044\u3002\n\n\ud83d\udce9 \u4e2d\u6587\u7528\u6237\u8bf7\u6ce8\u610f\uff1a\n\u8acb\u544a\u77e5\u60a8\u7684\u8a9e\u8a00\u6c34\u5e73\u548c\u76ee\u6a19\uff0c\u4ee5\u4fbf\u5236\u5b9a\u5b78\u7fd2\u8a08\u5283\u3002\n\n\ud83d\udea8 Important Notice \u30fb\u6ce8\u610f\u4e8b\u9805\n\ud83d\udeab I do not provide lessons for students under 14 years old. Thank you for understanding.\n\ud83d\udeab 14\u6b73\u672a\u6e80\u306e\u65b9\u306e\u30ec\u30c3\u30b9\u30f3\u306f\u304a\u53d7\u3051\u3067\u304d\u307e\u305b\u3093\u3002\n\ud83d\udeab \u4e0d\u63a5\u53d714\u6b72\u4ee5\u4e0b\u5b69\u7ae5\u9810\u7d04\uff0c\u611f\u8b1d\u7406\u89e3\u3002\n\nWhy Choose This Lesson?\nThis lesson offers tailored support for all Japanese learning goals, whether for exams, professional use, or academic excellence. Let's achieve your objectives together",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 5388,
+          "student_count": 66,
+          "session_count": 579,
+          "create_time": "2020-08-14T14:48:41Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 31000,
+              "session_price": 3288,
+              "course_id": 124948,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 288228
+            },
+            {
+              "package_price": 45000,
+              "session_price": 3288,
+              "course_id": 124948,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 729859
+            },
+            {
+              "package_price": 60000,
+              "session_price": 3288,
+              "course_id": 124948,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 750054
+            },
+            {
+              "package_price": 42000,
+              "session_price": 4388,
+              "course_id": 124948,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 289596
+            },
+            {
+              "package_price": 61000,
+              "session_price": 4388,
+              "course_id": 124948,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 729860
+            },
+            {
+              "package_price": 79500,
+              "session_price": 4388,
+              "course_id": 124948,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 750055
+            },
+            {
+              "package_price": 51000,
+              "session_price": 5388,
+              "course_id": 124948,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 696399
+            },
+            {
+              "package_price": 74000,
+              "session_price": 5388,
+              "course_id": 124948,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 729857
+            },
+            {
+              "package_price": 95000,
+              "session_price": 5388,
+              "course_id": 124948,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 750053
+            },
+            {
+              "package_price": 61000,
+              "session_price": 6588,
+              "course_id": 124948,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 622590
+            },
+            {
+              "package_price": 87800,
+              "session_price": 6588,
+              "course_id": 124948,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 729861
+            },
+            {
+              "package_price": 114000,
+              "session_price": 6588,
+              "course_id": 124948,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 750056
+            }
+          ]
+        },
+        {
+          "id": 125074,
+          "teacher_id": 6236594,
+          "language": "english",
+          "title": "\ud83c\uddfa\ud83c\uddf8Native American English CONVERSATION Practice\ud83c\udf99\ufe0f[A1- C2 Level] & American Culture Introduction\ud83d\uddfd",
+          "description": "\ud83c\udf89 Exclusive for My Students:\nEnjoy \ud83c\udf81Extra complimentary time (5-10 minutes) and \ud83d\udcddDetailed Study Feedback in PDF format after each session!\n\n\u2b50\ufe0f What This Lesson Includes \u30fb\u30b5\u30fc\u30d3\u30b9\u5185\u5bb9 \u2b50\ufe0f\nEnglish Conversational Practice \ud83c\udf99\ufe0f \u82f1\u8a9e\u4f1a\u8a71\u7df4\u7fd2:\nImprove fluency and confidence through practical conversation tailored to your level and interests.\n\u30ec\u30d9\u30eb\u3084\u8208\u5473\u306b\u5408\u308f\u305b\u305f\u4f1a\u8a71\u7df4\u7fd2\u3067\u6d41\u66a2\u3055\u3068\u81ea\u4fe1\u3092\u9ad8\u3081\u307e\u3059\u3002\n\nBusiness English \ud83d\udcbc \u30d3\u30b8\u30cd\u30b9\u82f1\u8a9e:\nEnhance your professional communication skills, including email writing, presentations, and meeting etiquette.\n\u30e1\u30fc\u30eb\u4f5c\u6210\u3001\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u3001\u4f1a\u8b70\u3067\u306e\u30a8\u30c1\u30b1\u30c3\u30c8\u306a\u3069\u3001\u5b9f\u8df5\u7684\u306a\u30b9\u30ad\u30eb\u3092\u5411\u4e0a\u3055\u305b\u307e\u3059\u3002\n\nAmerican Culture Tips \ud83d\uddfd \u30a2\u30e1\u30ea\u30ab\u6587\u5316\u7d39\u4ecb:\nLearn about American customs, traditions, and everyday life to navigate cultural differences with ease.\n\u30a2\u30e1\u30ea\u30ab\u306e\u7fd2\u6163\u3084\u65e5\u5e38\u751f\u6d3b\u3092\u5b66\u3073\u3001\u6587\u5316\u306e\u9055\u3044\u3092\u30b9\u30e0\u30fc\u30ba\u306b\u7406\u89e3\u3057\u307e\u3059\u3002\n\nOral Speaking Test, Job Interview & Presentation Prep \ud83d\udc54 \u8a66\u9a13\u30fb\u9762\u63a5\u30fb\u8b1b\u6f14\u6e96\u5099:\nPractice speaking confidently for exams, job interviews, or public speaking engagements.\n\u8a66\u9a13\u3084\u9762\u63a5\u3001\u8b1b\u6f14\u306b\u5099\u3048\u305f\u30b9\u30d4\u30fc\u30ad\u30f3\u30b0\u7df4\u7fd2\u3092\u884c\u3044\u307e\u3059\u3002\n\nLife/Career Counseling \ud83c\udf38 \u4eba\u751f\u30fb\u9032\u8def\u76f8\u8ac7:\nGet personalized advice on life and career planning, whether you\u2019re exploring new opportunities or seeking guidance.\n\u4eba\u751f\u3084\u30ad\u30e3\u30ea\u30a2\u30d7\u30e9\u30f3\u306b\u3064\u3044\u3066\u3001\u500b\u5225\u306e\u30a2\u30c9\u30d0\u30a4\u30b9\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002\n\n\ud83d\udce9 How to Start \u30fb\u59cb\u3081\u65b9\nTo personalize your lesson, kindly share your current level and goals via italki Messenger. Your lesson request will be confirmed after reviewing your message.\n\n\ud83d\udce9 \u65e5\u672c\u8a9e\u3067\u306e\u30e1\u30c3\u30bb\u30fc\u30b8:\n\u3054\u4e88\u7d04\u306e\u969b\u3001\u73fe\u5728\u306e\u82f1\u8a9e\u30ec\u30d9\u30eb\u3068\u5b66\u7fd2\u76ee\u6a19\u3092\u304a\u77e5\u3089\u305b\u304f\u3060\u3055\u3044\u3002\n\n\ud83d\udce9 \u4e2d\u6587\u7528\u6237\u8bf7\u6ce8\u610f\uff1a\n\u8acb\u5728\u9810\u7d04\u8ab2\u7a0b\u6642\u544a\u77e5\u60a8\u7684\u8a9e\u8a00\u6c34\u5e73\u548c\u5b78\u7fd2\u76ee\u6a19\uff0c\u4ee5\u4fbf\u5171\u540c\u5236\u5b9a\u5b78\u7fd2\u8a08\u5283\u3002\n\n\ud83d\udea8 Important Notice \u30fb\u6ce8\u610f\u4e8b\u9805\n\ud83d\udeab I do not accept lessons for minors (under 14 years old). Thank you for understanding.\n\ud83d\udeab 14\u6b73\u672a\u6e80\u306e\u65b9\u306e\u30ec\u30c3\u30b9\u30f3\u306f\u304a\u53d7\u3051\u3067\u304d\u307e\u305b\u3093\u3002\n\ud83d\udeab \u4e0d\u63a5\u53d714\u6b72\u4ee5\u4e0b\u5b69\u7ae5\u9810\u7d04\uff0c\u611f\u8b1d\u60a8\u7684\u7406\u89e3\u3002\n\nWhy Choose This Lesson?\nWhether you aim to improve conversational fluency, master business English, or explore American culture, this lesson is fully customizable to meet your goals. Let\u2019s work together to build your confidence and achieve success!\n\n\u4e00\u7dd2\u306b\u82f1\u8a9e\u529b\u3092\u78e8\u304d\u307e\u3057\u3087\u3046\uff01",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 5388,
+          "student_count": 197,
+          "session_count": 1524,
+          "create_time": "2020-08-16T08:13:34Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 31000,
+              "session_price": 3288,
+              "course_id": 125074,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 288610
+            },
+            {
+              "package_price": 45000,
+              "session_price": 3288,
+              "course_id": 125074,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 729865
+            },
+            {
+              "package_price": 60000,
+              "session_price": 3288,
+              "course_id": 125074,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 750058
+            },
+            {
+              "package_price": 42000,
+              "session_price": 4388,
+              "course_id": 125074,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 289592
+            },
+            {
+              "package_price": 61000,
+              "session_price": 4388,
+              "course_id": 125074,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 729866
+            },
+            {
+              "package_price": 79500,
+              "session_price": 4388,
+              "course_id": 125074,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 750059
+            },
+            {
+              "package_price": 51000,
+              "session_price": 5388,
+              "course_id": 125074,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 696413
+            },
+            {
+              "package_price": 74000,
+              "session_price": 5388,
+              "course_id": 125074,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 729863
+            },
+            {
+              "package_price": 95000,
+              "session_price": 5388,
+              "course_id": 125074,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 750057
+            },
+            {
+              "package_price": 61000,
+              "session_price": 6588,
+              "course_id": 125074,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 622589
+            },
+            {
+              "package_price": 87800,
+              "session_price": 6588,
+              "course_id": 125074,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 729867
+            },
+            {
+              "package_price": 114000,
+              "session_price": 6588,
+              "course_id": 125074,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 750060
+            }
+          ]
+        },
+        {
+          "id": 125407,
+          "teacher_id": 6236594,
+          "language": "english",
+          "title": "TOEFL & IELTS Prep\u2b50\ufe0fBusiness English\ud83d\udcbcAcademic English\ud83c\udf93Master & PhD Research Thesis Guidance\u270d\ufe0fTest & Interview Preparations\ud83d\udc54/Economics/Data Analysis/Econometrics\ud83d\udcaf",
+          "description": "\ud83c\udf89 Exclusive for My Students:\n\n\ud83c\udf81 Extra complimentary time (5-10 minutes)\n\ud83d\udcdd Detailed Study Feedback in PDF format after each session!\n\n\u2b50\ufe0f What This Lesson Includes \u30fb\u30b5\u30fc\u30d3\u30b9\u5185\u5bb9 \u2b50\ufe0f\nEnglish Vocabulary & Grammar Learning \ud83d\udcdd\nBuild strong vocabulary and grammar skills tailored to your needs.\n\u82f1\u5358\u8a9e\u3068\u6587\u6cd5\u3092\u5f37\u5316\u3057\u3001\u57fa\u790e\u3092\u3057\u3063\u304b\u308a\u56fa\u3081\u307e\u3059\u3002\n\nEnglish Reading & Comprehension \ud83d\udcda\nImprove reading strategies and comprehension skills for better understanding.\n\u8aad\u89e3\u529b\u3092\u5411\u4e0a\u3055\u305b\u3001\u7406\u89e3\u529b\u3092\u6df1\u3081\u307e\u3059\u3002\n\nAcademic English \u270d\ud83c\udffb\nFocus on formal writing, presenting, and understanding academic content.\n\u30a2\u30ab\u30c7\u30df\u30c3\u30af\u306a\u82f1\u8a9e\u306e\u30b9\u30ad\u30eb\u3092\u78e8\u304d\u3001\u8ad6\u6587\u3084\u7814\u7a76\u767a\u8868\u306b\u5bfe\u5fdc\u3057\u307e\u3059\u3002\n\nResearch & Thesis Writing Guidance \ud83e\uddd1\ud83c\udffb\u200d\ud83c\udfeb\nExpert guidance on structuring, editing, and refining your research papers.\n\u8ad6\u6587\u4f5c\u6210\u306e\u69cb\u6210\u3084\u6821\u6b63\u3092\u5fb9\u5e95\u7684\u306b\u30b5\u30dd\u30fc\u30c8\u3057\u307e\u3059\u3002\n\nReviewing, Editing & Publication Support \ud83d\udcdd\nProfessional editing to make your papers publication-ready.\n\u8ad6\u6587\u3092\u5b66\u8853\u8a8c\u6295\u7a3f\u306b\u9069\u3057\u305f\u5f62\u306b\u4ed5\u4e0a\u3052\u307e\u3059\u3002\n\nBusiness English Writing \ud83d\udcbc\nImprove professional writing skills for reports, emails, and presentations.\n\u30d3\u30b8\u30cd\u30b9\u3067\u5fc5\u8981\u306a\u6587\u66f8\u4f5c\u6210\u80fd\u529b\u3092\u5411\u4e0a\u3055\u305b\u307e\u3059\u3002\n\nGlobal Job Interview Prep \ud83d\udc54\nMock interviews and feedback to prepare for international job opportunities.\n\u5c31\u8077\u9762\u63a5\u306e\u6e96\u5099\u3092\u6a21\u64ec\u9762\u63a5\u3067\u884c\u3044\u3001\u5b9f\u8df5\u7684\u306a\u30d5\u30a3\u30fc\u30c9\u30d0\u30c3\u30af\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002\n\nAcademic Conference Presentation Prep \ud83d\udce2\nPractice impactful presentations for academic conferences.\n\u5b66\u4f1a\u767a\u8868\u306b\u5411\u3051\u305f\u30d7\u30ec\u30bc\u30f3\u30c6\u30fc\u30b7\u30e7\u30f3\u306e\u6e96\u5099\u3092\u652f\u63f4\u3057\u307e\u3059\u3002\n\nTOEFL/IELTS/SAT/GRE/GMAT Prep \ud83d\udcaf\nTailored preparation strategies to help you excel in exams.\n\u8a66\u9a13\u5bfe\u7b56\u306b\u7279\u5316\u3057\u305f\u30ab\u30b9\u30bf\u30de\u30a4\u30ba\u3055\u308c\u305f\u6e96\u5099\u3092\u63d0\u4f9b\u3057\u307e\u3059\u3002\n\nEconomics, Data Analysis, & Econometrics \ud83d\udcd6\nLearn advanced concepts in Economics and Data Science in English.\n\u7d4c\u6e08\u5b66\u3084\u30c7\u30fc\u30bf\u89e3\u6790\u3092\u82f1\u8a9e\u3067\u5b66\u3073\u3001\u5c02\u9580\u77e5\u8b58\u3092\u6df1\u3081\u307e\u3059\u3002\n\n\ud83d\udce9 How to Start \u30fb\u59cb\u3081\u65b9\nPlease share your current English level and goals via italki Messenger. I will confirm your request after reviewing your response.\n\n\ud83d\udce9 \u65e5\u672c\u8a9e\u3067\u306e\u30e1\u30c3\u30bb\u30fc\u30b8:\n\u3054\u4e88\u7d04\u6642\u306b\u3001\u82f1\u8a9e\u30ec\u30d9\u30eb\u3068\u5b66\u7fd2\u76ee\u6a19\u3092\u304a\u77e5\u3089\u305b\u304f\u3060\u3055\u3044\u3002\n\n\ud83d\udce9 \u4e2d\u6587\u7528\u6237\u8bf7\u6ce8\u610f\uff1a\n\u8acb\u5728\u9810\u7d04\u8ab2\u7a0b\u6642\u544a\u77e5\u60a8\u7684\u8a9e\u8a00\u6c34\u5e73\u548c\u5b78\u7fd2\u76ee\u6a19\u3002\n\n\ud83d\udea8 Important Notice \u30fb\u6ce8\u610f\u4e8b\u9805\n\ud83d\udeab No lessons for minors (under 14 years old). I appreciate your understanding.\n\ud83d\udeab 14\u6b73\u672a\u6e80\u306e\u65b9\u306f\u30ec\u30c3\u30b9\u30f3\u3092\u304a\u53d7\u3051\u3067\u304d\u307e\u305b\u3093\u3002\n\ud83d\udeab \u4e0d\u63a5\u53d714\u6b72\u4ee5\u4e0b\u5b69\u7ae5\u9810\u7d04\u3002",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0006",
+            "T0083"
+          ],
+          "session_price": 5388,
+          "student_count": 105,
+          "session_count": 1301,
+          "create_time": "2020-08-20T03:34:41Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 31000,
+              "session_price": 3288,
+              "course_id": 125407,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 289621
+            },
+            {
+              "package_price": 45000,
+              "session_price": 3288,
+              "course_id": 125407,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 729874
+            },
+            {
+              "package_price": 60000,
+              "session_price": 3288,
+              "course_id": 125407,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 750062
+            },
+            {
+              "package_price": 42000,
+              "session_price": 4388,
+              "course_id": 125407,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 289622
+            },
+            {
+              "package_price": 61000,
+              "session_price": 4388,
+              "course_id": 125407,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 729875
+            },
+            {
+              "package_price": 79500,
+              "session_price": 4388,
+              "course_id": 125407,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 750063
+            },
+            {
+              "package_price": 51000,
+              "session_price": 5388,
+              "course_id": 125407,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 696421
+            },
+            {
+              "package_price": 74000,
+              "session_price": 5388,
+              "course_id": 125407,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 729872
+            },
+            {
+              "package_price": 95000,
+              "session_price": 5388,
+              "course_id": 125407,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 750061
+            },
+            {
+              "package_price": 61000,
+              "session_price": 6588,
+              "course_id": 125407,
+              "package_length": 10,
+              "session_length": 6,
+              "course_price_id": 622588
+            },
+            {
+              "package_price": 87800,
+              "session_price": 6588,
+              "course_id": 125407,
+              "package_length": 15,
+              "session_length": 6,
+              "course_price_id": 729876
+            },
+            {
+              "package_price": 114000,
+              "session_price": 6588,
+              "course_id": 125407,
+              "package_length": 20,
+              "session_length": 6,
+              "course_price_id": 750064
+            }
+          ]
+        },
+        {
+          "id": 210962,
+          "teacher_id": 6236594,
+          "language": "english",
+          "title": "\u3010\ud83d\udeabNOT FOR BOOKING\u3011Professional Academic English Editing/Proofreading & Translation Services \u300e\u8acb\u52ff\u76f4\u63a5\u9810\u5b9a\u8ab2\u7a0b\u300f\u5c08\u696d\u82f1\u6587\u7ffb\u8b6f\u7de8\u8f2f\u670d\u52d9\u300e\u8981\u4e8b\u524d\u898b\u7a4d\u300f\u9ad8\u54c1\u8cea\u30a2\u30ab\u30c7\u30df\u30c3\u30af\u82f1\u8a9e\u6821\u6b63\u30fb\u7ffb\u8a33\u30b5\u30fc\u30d3\u30b9",
+          "description": "\u2728PLEASE CONTACT ME FOR YOUR QUOTE BEFORE YOU PLACE AN ORDER; SERVICE ONLY. \n\u2728\u539f\u7a3f\u306b\u6cbf\u3063\u305f\u304a\u898b\u7a4d\u308a\u306e\u4e0a\u3067\u306e\u6ce8\u6587\u3068\u306a\u308b\u305f\u3081\u3001\u5fc5\u305a\u4e8b\u524d\u306b\u5f53\u65b9\u306b\u3054\u9023\u7d61\u3044\u305f\u3060\u3051\u308c\u3070\u5e78\u3044\u3067\u3059\u3002\n\u2728\u8acb\u52d9\u5fc5\u4e8b\u5148\u9023\u7d61\u7372\u53d6\u670d\u52d9\u5831\u50f9\u4e4b\u5f8c\u518d\u9810\u7d04\u6b64\u9805\u670d\u52d9\uff0c\u591a\u8b1d\u5408\u4f5c; \u50c5\u63d0\u4f9b\u670d\u52d9\u3002\n\n\u2b50Pricing/\u4fa1\u683c/\u5b9a\u50f9\u2b50\n\u2714\ufe0fEnglish Editing, Proofreading/\u82f1\u6587\u6821\u95b2/\u82f1\u6587\u7de8\u8f2f\uff1a 0.12 USD/ English words\n\u2714\ufe0fJPN\u2794ENG Translation with Editing/\u82f1\u6587\u6821\u6b63\u4ed8\u304d\u65e5\u82f1\u7ffb\u8a33: 0. 20 USD/ Japanese characters\uff08\u5b57\uff09\n\n\ud83d\udc4d\ud83c\udffbUnlimited Q&A and re-edits support are available for six months after completing the service. \u30b5\u30fc\u30d3\u30b9\u7d42\u4e86\u5f8c\u3001\u56de\u6570\u7121\u5236\u9650\u306e\u8cea\u7591\u5fdc\u7b54\u304a\u3088\u3073\u518d\u7de8\u96c6\u30b5\u30fc\u30d3\u30b9\u304c\u534a\u5e74\u9650\u5b9a\u3067\u3054\u5229\u7528\u3044\u305f\u3060\u3051\u307e\u3059\u3002\u670d\u52d9\u7d50\u675f\u5f8c\uff0c\u60a8\u4ecd\u53ef\u4ee5\u4eab\u53d7\u70ba\u671f\u534a\u5e74\u7684\u7121\u9650\u6b21\u6578\u7684\u554f\u8a62\u53ca\u4fee\u6539\u670d\u52d9\u3002\n\n\u2b50How it works/\u6ce8\u6587\u306e\u6d41\u308c/\u670d\u52d9\u6d41\u7a0b\u2b50\nStep 1: Send me your manuscript in doc format via italki messenger to acquire your quote.\n\u30b9\u30c6\u30c3\u30d71\uff1a\u5f53\u65b9\u306bWord\u30d5\u30a1\u30a4\u30eb\u306e\u539f\u7a3f\u3092italki\u30e1\u30c3\u30bb\u30f3\u30b8\u30e3\u30fc\u306b\u3066\u304a\u9001\u308a\u3044\u305f\u3060\u3044\u305f\u5f8c\u3001\u3053\u3061\u3089\u304c\u304a\u898b\u7a4d\u308a\u3092\u3054\u4f5c\u6210\u3057\u307e\u3059\u3002\n\u7b2c\u4e00\u6b65\uff1a\u8acb\u5c07doc\u683c\u5f0f\u7684\u7a3f\u4ef6\u767c\u81f3italki\u79c1\u4fe1\u4e4b\u5f8c\uff0c\u6211\u5c07\u70ba\u60a8\u63d0\u4f9b\u670d\u52d9\u5831\u50f9\u3002\n\nStep 2: Once you accept the quote for your task, I\u2019ll send you a service request confirmation with the price.\n\u30b9\u30c6\u30c3\u30d7\uff12\uff1a \u3054\u4f9d\u983c\u5185\u5bb9\u306b\u6cbf\u3063\u305f\u304a\u898b\u7a4d\u308a\u306e\u3054\u78ba\u8a8d\u304c\u5b8c\u4e86\u3057\u305f\u3089\u3001\u3053\u3061\u3089\u304b\u3089\u30b5\u30fc\u30d3\u30b9\u30ea\u30af\u30a8\u30b9\u30c8\u78ba\u8a8d\u66f8\u3092\u304a\u9001\u308a\u3044\u305f\u3057\u307e\u3059\u3002\n\u7b2c\u4e8c\u6b65\uff1a\u4e00\u65e6\u60a8\u63a5\u53d7\u60a8\u7a3f\u4ef6\u7684\u5831\u50f9\uff0c\u6211\u6703\u5c07\u670d\u52d9\u9810\u7d04\u78ba\u8a8d\u51fd\u767c\u81f3\u60a8\u8655\u3002\n\nStep 3: I will inform you when I complete your work as soon as possible. Please confirm the lesson after the finished document is sent to you. (Service Completed)\n\u30b9\u30c6\u30c3\u30d7\uff13\uff1a\u4f5c\u696d\u5185\u5bb9\u304c\u5b8c\u6210\u6b21\u7b2c\u3067\u304d\u308b\u3060\u3051\u65e9\u304f\u3054\u9023\u7d61\u3044\u305f\u3057\u307e\u3059\u3002\u4f5c\u696d\u6e08\u307f\u30d5\u30a1\u30a4\u30eb\u3092\u3054\u9001\u4ed8\u306e\u5f8c\u30ec\u30c3\u30b9\u30f3\u306e\u3054\u78ba\u8a8d\u304a\u9858\u3044\u81f4\u3057\u307e\u3059\u3002\uff08\u30b5\u30fc\u30d3\u30b9\u5b8c\u4e86\uff09\n\u7b2c\u4e09\u6b65\uff1a\u6211\u5c07\u7b2c\u4e00\u6642\u9593\u901a\u77e5\u60a8\u9805\u76ee\u7684\u5b8c\u6210\u3002\u8acb\u5728\u5b8c\u6210\u7a3f\u4ef6\u767c\u9001\u81f3\u60a8\u8655\u4e4b\u5f8c\u78ba\u8a8d\u8ab2\u7a0b\u3002\uff08\u670d\u52d9\u7d50\u675f\uff09\n\n\ud83c\udf40\u2014\u2550\u2014\u2550\u2014\u2550\u2014\u2550\u2014\u2550\ud83c\udf40\ud83c\udf40\u2550\u2014\u2550\u2014\u2550\u2014\u2550\u2014\u2550\u2014\ud83c\udf40\n\nDo you need help preparing your manuscript for formal situations in English (Meetings, Presentations, Resumes, Academic papers, etc.)? I offer a full range of pre-submission manuscript preparation services to help you maximize the impact of your research and improve the quality of your manuscript in English. The list of services includes English language editing, Scientific editing, and Professional translation. \n\n\u82f1\u8a9e\u3092\u6bcd\u56fd\u8a9e\u3068\u3057\u306a\u3044\u591a\u304f\u306e\u65b9\u3005\u306f\u3001\u30b8\u30e3\u30fc\u30ca\u30eb\u6295\u7a3f\u7528\u306e\u8ad6\u6587\u3084\u30d3\u30b8\u30cd\u30b9\u4f1a\u8b70\u3001\u5c31\u8077\u9762\u63a5\u3092\u6e96\u5099\u3059\u308b\u306b\u3042\u305f\u308a\u69d8\u3005\u306a\u30b5\u30dd\u30fc\u30c8\u3092\u5fc5\u8981\u3068\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u3061\u3089\u306e\u82f1\u6587\u6821\u6b63\u30b5\u30fc\u30d3\u30b9\u306f\u3001\u30d3\u30b8\u30cd\u30b9\u82f1\u8a9e\u3084\u30a2\u30ab\u30c7\u30df\u30c3\u30af\u82f1\u8a9e\u3067\u539f\u7a3f\u4f5c\u6210\u306e\u6bb5\u968e\u3067\u76f4\u9762\u3059\u308b\u69d8\u3005\u306a\u554f\u984c\u3092\u89e3\u6c7a\u3057\u3001\u6210\u679c\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3059\u304a\u624b\u4f1d\u3044\u3092\u3059\u308b\u305f\u3081\u3001\u82f1\u6587\u6821\u6b63\u306b\u52a0\u3048\u3001\u9ad8\u54c1\u8cea\u306e\u7ffb\u8a33\u30b5\u30fc\u30d3\u30b9\u3092\u3054\u63d0\u4f9b\u3057\u307e\u3059\u3002\u304a\u5ba2\u69d8\u304c\u7814\u7a76\u3084\u30d3\u30b8\u30cd\u30b9\u3001\u5916\u8cc7\u7cfb\u4f01\u696d\u3078\u306e\u5c31\u8077\u9762\u63a5\u306b\u96c6\u4e2d\u3067\u304d\u308b\u3088\u3046\u306b\u539f\u7a3f\u3092\u6574\u3048\u308b\u4f5c\u696d\u306f\u79c1\u306b\u304a\u4efb\u305b\u304f\u3060\u3055\u3044\u3002",
+          "level_lower_limit": 5,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0008",
+            "T0009",
+            "T0010",
+            "T0021"
+          ],
+          "session_price": 12000,
+          "student_count": 7,
+          "session_count": 95,
+          "create_time": "2022-02-06T13:54:19Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 12000,
+              "session_price": 12000,
+              "course_id": 210962,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 537810
+            }
+          ]
+        },
+        {
+          "id": 245338,
+          "teacher_id": 6236594,
+          "language": "japanese",
+          "title": "\u300e\u8981\u4e8b\u524d\u898b\u7a4d\u2757\u300f\u9ad8\u54c1\u8cea\u5b66\u8853\u65e5\u672c\u8a9e\u6821\u6b63\u30fb\u65e5\u82f1\u7ffb\u8a33\u30b5\u30fc\u30d3\u30b9\u3010\ud83d\udeabNOT FOR BOOKING\u3011Professional Academic Japanese Editing/Proofreading & Translation Services \u300e\u8acb\u52ff\u76f4\u63a5\u9810\u5b9a\u8ab2\u7a0b\u300f\u5c08\u696d\u65e5\u672c\u8a9e\u6821\u95b2\u30fb\u65e5\u82f1\u7ffb\u8b6f\u7de8\u8f2f\u670d\u52d9",
+          "description": "\u2728PLEASE CONTACT ME FOR YOUR QUOTE BEFORE YOU PLACE AN ORDER; SERVICE ONLY. \n\u2728\u539f\u7a3f\u306b\u6cbf\u3063\u305f\u304a\u898b\u7a4d\u308a\u306e\u4e0a\u3067\u306e\u6ce8\u6587\u3068\u306a\u308b\u305f\u3081\u3001\u5fc5\u305a\u4e8b\u524d\u306b\u5f53\u65b9\u306b\u3054\u9023\u7d61\u3044\u305f\u3060\u3051\u308c\u3070\u5e78\u3044\u3067\u3059\u3002\n\u2728\u8acb\u52d9\u5fc5\u4e8b\u5148\u9023\u7d61\u7372\u53d6\u670d\u52d9\u5831\u50f9\u4e4b\u5f8c\u518d\u9810\u7d04\u6b64\u9805\u670d\u52d9\uff0c\u591a\u8b1d\u5408\u4f5c; \u50c5\u63d0\u4f9b\u670d\u52d9\u3002\n\n\u2b50Pricing/\u4fa1\u683c/\u5b9a\u50f9\u2b50\n\u2714\ufe0fAcademic Japanese Editing, Proofreading/\u5b66\u8853\u65e5\u672c\u8a9e\u6821\u6b63\uff1a 0.05 USD/ Japanese characters\uff08\u5b57\uff09\n\u2714\ufe0fENG\u2794JPN Translation with Editing/\u5b66\u8853\u65e5\u672c\u8a9e\u6821\u6b63\u4ed8\u304d\u65e5\u82f1\u7ffb\u8a33: 0. 15 USD/ English word\n\n\ud83d\udc4d\ud83c\udffbUnlimited Q&A and re-edits support are available for six months after completing the service. \u30b5\u30fc\u30d3\u30b9\u7d42\u4e86\u5f8c\u3001\u56de\u6570\u7121\u5236\u9650\u306e\u8cea\u7591\u5fdc\u7b54\u304a\u3088\u3073\u518d\u7de8\u96c6\u30b5\u30fc\u30d3\u30b9\u304c\u534a\u5e74\u9650\u5b9a\u3067\u3054\u5229\u7528\u3044\u305f\u3060\u3051\u307e\u3059\u3002\u670d\u52d9\u7d50\u675f\u5f8c\uff0c\u60a8\u4ecd\u53ef\u4ee5\u4eab\u53d7\u70ba\u671f\u534a\u5e74\u7684\u7121\u9650\u6b21\u6578\u7684\u554f\u8a62\u53ca\u4fee\u6539\u670d\u52d9\u3002\n\n\u2b50How it works/\u6ce8\u6587\u306e\u6d41\u308c/\u670d\u52d9\u6d41\u7a0b\u2b50\nStep 1: Send me your manuscript in doc format via italki messenger to acquire your quote.\n\u30b9\u30c6\u30c3\u30d71\uff1a\u5f53\u65b9\u306bWord\u30d5\u30a1\u30a4\u30eb\u306e\u539f\u7a3f\u3092italki\u30e1\u30c3\u30bb\u30f3\u30b8\u30e3\u30fc\u306b\u3066\u304a\u9001\u308a\u3044\u305f\u3060\u3044\u305f\u5f8c\u3001\u3053\u3061\u3089\u304c\u304a\u898b\u7a4d\u308a\u3092\u3054\u4f5c\u6210\u3057\u307e\u3059\u3002\n\u7b2c\u4e00\u6b65\uff1a\u8acb\u5c07doc\u683c\u5f0f\u7684\u7a3f\u4ef6\u767c\u81f3italki\u79c1\u4fe1\u4e4b\u5f8c\uff0c\u6211\u5c07\u70ba\u60a8\u63d0\u4f9b\u670d\u52d9\u5831\u50f9\u3002\n\nStep 2: Once you accept the quote for your task, I\u2019ll send you a service request confirmation with the price.\n\u30b9\u30c6\u30c3\u30d7\uff12\uff1a \u3054\u4f9d\u983c\u5185\u5bb9\u306b\u6cbf\u3063\u305f\u304a\u898b\u7a4d\u308a\u306e\u3054\u78ba\u8a8d\u304c\u5b8c\u4e86\u3057\u305f\u3089\u3001\u3053\u3061\u3089\u304b\u3089\u30b5\u30fc\u30d3\u30b9\u30ea\u30af\u30a8\u30b9\u30c8\u78ba\u8a8d\u66f8\u3092\u304a\u9001\u308a\u3044\u305f\u3057\u307e\u3059\u3002\n\u7b2c\u4e8c\u6b65\uff1a\u4e00\u65e6\u60a8\u63a5\u53d7\u60a8\u7a3f\u4ef6\u7684\u5831\u50f9\uff0c\u6211\u6703\u5c07\u670d\u52d9\u9810\u7d04\u78ba\u8a8d\u51fd\u767c\u81f3\u60a8\u8655\u3002\n\nStep 3: I will inform you when I complete your work as soon as possible. Please confirm the lesson after the finished document is sent to you. (Service Completed)\n\u30b9\u30c6\u30c3\u30d7\uff13\uff1a\u4f5c\u696d\u5185\u5bb9\u304c\u5b8c\u6210\u6b21\u7b2c\u3067\u304d\u308b\u3060\u3051\u65e9\u304f\u3054\u9023\u7d61\u3044\u305f\u3057\u307e\u3059\u3002\u4f5c\u696d\u6e08\u307f\u30d5\u30a1\u30a4\u30eb\u3092\u3054\u9001\u4ed8\u306e\u5f8c\u30ec\u30c3\u30b9\u30f3\u306e\u3054\u78ba\u8a8d\u304a\u9858\u3044\u81f4\u3057\u307e\u3059\u3002\uff08\u30b5\u30fc\u30d3\u30b9\u5b8c\u4e86\uff09\n\u7b2c\u4e09\u6b65\uff1a\u6211\u5c07\u7b2c\u4e00\u6642\u9593\u901a\u77e5\u60a8\u9805\u76ee\u7684\u5b8c\u6210\u3002\u8acb\u5728\u5b8c\u6210\u7a3f\u4ef6\u767c\u9001\u81f3\u60a8\u8655\u4e4b\u5f8c\u78ba\u8a8d\u8ab2\u7a0b\u3002\uff08\u670d\u52d9\u7d50\u675f\uff09\n\ud83c\udf40\u2014\u2550\u2014\u2550\u2014\u2550\u2014\u2550\u2014\u2550\ud83c\udf40\ud83c\udf40\u2550\u2014\u2550\u2014\u2550\u2014\u2550\u2014\u2550\u2014\ud83c\udf40\nDo you need help preparing your manuscript for formal situations in Japanese (Meetings, Presentations, Resumes, Academic papers, etc.)? I offer a full range of pre-submission manuscript preparation services to help you maximize the impact of your research and improve the quality of your manuscript in Japanese. The list of services includes Japanese language editing, Scientific editing, and Professional translation. \n\n\u65e5\u672c\u8a9e\u3092\u6bcd\u56fd\u8a9e\u3068\u3057\u306a\u3044\u591a\u304f\u306e\u65b9\u3005\u306f\u3001\u30b8\u30e3\u30fc\u30ca\u30eb\u6295\u7a3f\u7528\u306e\u8ad6\u6587\u3084\u30d3\u30b8\u30cd\u30b9\u4f1a\u8b70\u3001\u5c31\u8077\u9762\u63a5\u3092\u6e96\u5099\u3059\u308b\u306b\u3042\u305f\u308a\u69d8\u3005\u306a\u30b5\u30dd\u30fc\u30c8\u3092\u5fc5\u8981\u3068\u3057\u3066\u3044\u307e\u3059\u3002\u3053\u3061\u3089\u306e\u5b66\u8853\u65e5\u672c\u8a9e\u6821\u6b63\u30b5\u30fc\u30d3\u30b9\u306f\u3001\u30d3\u30b8\u30cd\u30b9\u65e5\u672c\u8a9e\u3084\u30a2\u30ab\u30c7\u30df\u30c3\u30af\u65e5\u672c\u8a9e\u3067\u539f\u7a3f\u4f5c\u6210\u306e\u6bb5\u968e\u3067\u76f4\u9762\u3059\u308b\u69d8\u3005\u306a\u554f\u984c\u3092\u89e3\u6c7a\u3057\u3001\u6210\u679c\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3059\u304a\u624b\u4f1d\u3044\u3092\u3059\u308b\u305f\u3081\u3001\u5b66\u8853\u65e5\u672c\u8a9e\u6821\u6b63\u306b\u52a0\u3048\u3001\u9ad8\u54c1\u8cea\u306e\u7ffb\u8a33\u30b5\u30fc\u30d3\u30b9\u3092\u3054\u63d0\u4f9b\u3057\u307e\u3059\u3002\u304a\u5ba2\u69d8\u304c\u7814\u7a76\u3084\u30d3\u30b8\u30cd\u30b9\u3001\u65e5\u7cfb\u4f01\u696d\u3078\u306e\u5c31\u8077\u9762\u63a5\u306b\u96c6\u4e2d\u3067\u304d\u308b\u3088\u3046\u306b\u539f\u7a3f\u3092\u6574\u3048\u308b\u4f5c\u696d\u306f\u79c1\u306b\u304a\u4efb\u305b\u304f\u3060\u3055\u3044\u3002",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0008",
+            "T0009",
+            "T0011",
+            "T0021"
+          ],
+          "session_price": 12000,
+          "student_count": 0,
+          "session_count": 0,
+          "create_time": "2024-04-15T16:02:02Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 12000,
+              "session_price": 12000,
+              "course_id": 245338,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 654698
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 39.0
+          },
+          {
+            "month": 2,
+            "data": 61.0
+          },
+          {
+            "month": 3,
+            "data": 43.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 4468,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 860,
+    "price_list": [
+      0,
+      10,
+      8,
+      2,
+      9,
+      13,
+      29,
+      30,
+      73,
+      52,
+      66,
+      121,
+      94,
+      96,
+      112,
+      71,
+      209,
+      56,
+      115,
+      87,
+      87,
+      224,
+      85,
+      56,
+      95,
+      42,
+      181,
+      24,
+      53,
+      35,
+      20,
+      116,
+      34,
+      23,
+      24,
+      22,
+      85,
+      6,
+      13,
+      9,
+      15,
+      48,
+      9,
+      16,
+      7,
+      5,
+      51,
+      0,
+      4,
+      4,
+      9,
+      17,
+      4,
+      2,
+      1,
+      8,
+      30,
+      0,
+      2,
+      3,
+      2,
+      10,
+      0,
+      1,
+      0,
+      6,
+      11,
+      0,
+      3,
+      0,
+      3,
+      10,
+      2,
+      1,
+      1,
+      7,
+      35,
+      1,
+      3,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      3,
+      5,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23
+    ],
+    "sort_scores": [],
+    "recommendation_id": "RID-ee-4d4d-b164-8125e7f09043-CID-228e15",
+    "algo_detail": {
+      "campaign_name": "six_v1_personalized_ranking_cpn",
+      "recipe_name": "aws-personalized-ranking"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 860
+  },
+  "paging": {
+    "page": 2,
+    "page_size": 20,
+    "total": 860,
+    "has_next": 1
+  }
+}

@@ -1,0 +1,4543 @@
+{
+  "meta": {
+    "performance": 0,
+    "server_time": 0,
+    "ver": "2.2.0"
+  },
+  "data": [
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 1899314,
+        "nickname": "Jason",
+        "avatar_file_name": "T018993143",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "CZ",
+        "origin_city_id": "US00686",
+        "origin_city_name": "Los Angeles",
+        "living_city_id": "CZ00001",
+        "living_city_name": "Prague",
+        "timezone": "Europe/Prague",
+        "last_login_time": "2025-03-28T14:29:12+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/od32Q-d2g5U",
+        "video_pic_url": "https://img.youtube.com/vi/od32Q-d2g5U/0.jpg",
+        "intro": "English teaching professional (native speaker) with a focus on conversation (real world) language learning. I have taught English in numerous countries. I have worked with individuals, small groups, and large classes. I am Tesol certified, and hold a Bachelor's degree from the University of Nevada Las Vegas. I also work in the entertainment industry as a development executive for a boutique production company.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2015-05-05T12:13:25Z",
+        "session_count": 2578,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/xitalki10009411.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/od32Q-d2g5U.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "English teaching professional (native speaker) with a focus on conversation (real world) language learning. I have taught English to all age groups, in numerous countries. I have worked with individuals, small groups, and large clases. I am Tesol certified, and hold a Bachelor's degree from the University of Nevada Las Vegas. I also work in the entertainment industry as a development executive for a boutique production company. I'm originally from Los Angeles, California. I attended the University of Nevada Las Vegas where I received my undergraduate degree in film/entertainment. I returned to Los Angeles and began attending a writer's workshop in Santa Monica, Calfornia. I was soon hired as an executive assistant to two content producers at Mandalay Entertainment. While with Mandalay and subsequent to my accepting a job with HighRoad Entertainment, I had the opporunity to work in all arenas of the entertainment industry; branding, theatre, television, film. I was most recently an executive producer on a feature length documentary entitled, 'The Hornet's Nest'. I currently hold the title of 'Director of Development' at HighRoad Ent. ...I was Tesol certified in Prague, Czech Republic. While in Prague, I worked with all age groups (including young learners), and class sizes (private, small groups, large groups). I have a variety of experience in working with business professionals in a multitude of departments including but not limited to; human resources, accounting, sales, and customer service. After leaving the Czech Republic, I traveled through much of South America and Central America working with underpriveleged communities in an effort to allow language opporunities where none previously existed. My 'conversation' based approach to learning places an emphasis on both listening and speaking in 'real world' type scenarios.",
+        "about_me": "English teaching professional (native speaker) with a focus on conversation (real world) language learning. I have taught English in numerous countries. I have worked with individuals, small groups, and large classes. I am Tesol certified, and hold a Bachelor's degree from the University of Nevada Las Vegas. I also work in the entertainment industry as a development executive for a boutique production company.",
+        "about_teacher": "I have worked with all class sizes (private, small groups, large groups). I have a variety of experience in working with business professionals in a multitude of departments including but not limited to; human resources, accounting, sales, and customer service.",
+        "teaching_style": "My 'conversation' based approach to learning places an emphasis on both listening and speaking in 'real world' type scenarios. Expect to discuss everything from global current events to your favorite TV show.",
+        "is_student_full": 0,
+        "student_count": 275,
+        "teacher_tag": [
+          3,
+          4,
+          5
+        ],
+        "teacher_child_tag_id_list": [
+          1,
+          2
+        ],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "US",
+            "city": "Beverly Hills",
+            "company": "HighRoad Entertainment",
+            "job": "Creative Consultant",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2009,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2015-05-09T18:44:34Z",
+            "exp_id": 8721
+          },
+          {
+            "country": "CZ",
+            "city": "Prague",
+            "company": "Lexis Language School",
+            "job": "Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Worked with Young Learners. Adults. Business Professionals.---One on One. Small Groups. Large Classes.---All levels.",
+            "start_year": 2013,
+            "end_year": 2014,
+            "status": 1,
+            "create_time": "2015-05-09T18:48:25Z",
+            "exp_id": 8722
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University of Nevada Las Vegas",
+            "major": "Film",
+            "level": 1,
+            "start_year": 1999,
+            "end_year": 2003,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2015-04-01T22:07:55Z",
+            "edu_id": "58B90585-F16F-4D2C-B86A-D799DC31ADC9"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2015-04-01T22:11:58Z",
+            "file_ext": "jpg",
+            "institution": "Trinity College London",
+            "end_year": 2013,
+            "status": 1,
+            "certificate": "Tesol Certification",
+            "cert_id": "DF3BB6AC-50A7-4FE0-A443-4D35BABA5BD1"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Tesol Certification",
+            "institution": "Trinity College London",
+            "end_year": 2013,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [
+          {
+            "tag_name": "IELTS",
+            "full_name": "International English Language Testing System",
+            "language": "english"
+          },
+          {
+            "tag_name": "TOEFL",
+            "full_name": "Test of English as a Foreign Language",
+            "language": "english"
+          }
+        ],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 2500,
+        "trial_session_count": 0,
+        "trial_description": "Let\u2019s get to know each other, let\u2019s see where YOU ARE at with your conversational English. I\u2019ll give you an analysis and overview of what to expect moving forward."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 1899314
+      },
+      "pro_course_detail": [
+        {
+          "id": 36011,
+          "teacher_id": 1899314,
+          "language": "english",
+          "title": "Conversational  Based Approach",
+          "description": "Are you looking to improve your real world American English? Are you interested in American Culture? Do you watch English Language films? Listen to English Language music? Do you ever listen to English Language podcasts?---All types of media are incorporated into my methodology, with discussion being driven by real world events and consumption.--Language analysis included at the end of each session/discussion.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2500,
+          "student_count": 209,
+          "session_count": 2395,
+          "create_time": "2015-05-09T18:07:20Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 36011,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 305437
+            },
+            {
+              "package_price": 23500,
+              "session_price": 2500,
+              "course_id": 36011,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 55668
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 5.0
+          },
+          {
+            "month": 2,
+            "data": 5.0
+          },
+          {
+            "month": 3,
+            "data": 4.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 0.8
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 2578,
+        "response_rate": 0.99,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 5873397,
+        "nickname": "Robert",
+        "avatar_file_name": "T058733970",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "US",
+        "origin_city_id": "US00426",
+        "origin_city_name": "Fort Lauderdale",
+        "living_city_id": "US00831",
+        "living_city_name": "New York",
+        "timezone": "America/New_York",
+        "last_login_time": "2025-04-01T03:44:57+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/BikEgwCMuCM",
+        "video_pic_url": "https://img.youtube.com/vi/BikEgwCMuCM/0.jpg",
+        "intro": "Hello, I\u2019m Robert. I help most anyone who wants to improve their English, but I specialize in helping doctors, nurses, and other medical, business, and I.T. professionals, and students. Whether you are going to work in or visit the USA or another English-speaking country, are taking the OET exams, book a lesson with me. I've been a psychiatric and medical nurse, as well as a nursing instructor at a college in Miami, USA, and a business owner.  Now, I\u2019m working from Bangkok, Thailand. I love teaching and engaging people. I've been to over 50 countries and territories, maybe yours! Also, I've visited all 50 US states!",
+        "short_signature": "Biz & medical residency expert: OET speaking & writing, interviews, personal statements, LORs, CVs",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 1
+          },
+          {
+            "language": "thai",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2019-11-25T02:54:12Z",
+        "session_count": 2343,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/6140DF11-C9D5-49D7-A862-44EC40148082.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/BikEgwCMuCM.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello, I\u2019m Robert. I help most anyone who wants to improve their English, but I specialize in helping doctors, nurses, and other medical, business, and I.T. professionals, and students. Whether you are going to work in or visit the USA or another English-speaking country, are taking the OET exams, book a lesson with me. I've been a psychiatric and medical nurse, as well as a nursing instructor at a college in Miami, USA, and a business owner.  Now, I\u2019m working from Bangkok, Thailand. I love teaching and engaging people. I've been to over 50 countries and territories, maybe yours! Also, I've visited all 50 US states!",
+        "about_teacher": "My strongest point is that I can explain things. I try to be patient with people in every situation. Whether presentations, accent reduction, speaking and writing tests, or interviews\u2013I can help you understand the situation. I have fast Internet with multiple monitors, and subscriptions to Microsoft, Adobe, Grammarly, the New York Times, and the the Wall Street Journal. Through my long experience and several careers, I know specialized English vocabulary in many areas. These include medicine, as well as business, IT, construction, law, and real estate. I've helped many students learn to read, understand, pronounce, take exams, write papers, and present in all",
+        "teaching_style": "I OK offer several teaching styles as shown in my lessons. General English, job interviews, writing\u2013CVs, resumes, personal statements, essays, journal articles, any kind of writing. I do role-play for job interviews and health care professionals seeing their patients, such as doctors and nurses. I help with OET exams. If you would like a general lesson, we can have general conversation with feedback from me. You read articles on screen, get feedback on pronunciation, and I answer your vocabulary questions. I offer several lesson types, but you can get any service on any lesson type . Book a lesson today!",
+        "is_student_full": 0,
+        "student_count": 491,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "industry": "health_medicine",
+            "country": "UA",
+            "city": "Kiev",
+            "company": "preply.com",
+            "job": "Online English Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Online English position, focused on medicine, business, and technology, based out of Kiev with students worldwide, but concentrated on Russian and Belarus students, living in their countries and often in the United States.",
+            "start_year": 2018,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2019-11-13T16:08:05Z",
+            "update_time": "2024-11-27T15:08:32Z",
+            "exp_id": 60143
+          },
+          {
+            "country": "US",
+            "city": "Miami",
+            "company": "Saber College",
+            "job": "Nursing Instructor (live and online)",
+            "file_ext": "",
+            "file_path": "",
+            "description": "These were Cuban students who spoke limited English, taking classes in English only. I learned to prepare the curriculum, manage a classroom, and help them with their English. The online division (I taught Nursing Informatics, also to Spanish speakers, in English) prepared me for the online experience.",
+            "start_year": 2012,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2019-11-13T16:10:41Z",
+            "exp_id": 60144
+          },
+          {
+            "country": "US",
+            "city": "Fort Lauderdale",
+            "company": "Universal Health Services",
+            "job": "Psychiatric nurse",
+            "file_ext": "",
+            "file_path": "",
+            "description": "While working as a nurse and manager in mental hospitals, I frequently taught classes of doctors and nurses, who often did not speak English at home. This is where I got my start as a teacher.",
+            "start_year": 2002,
+            "end_year": 2018,
+            "status": 1,
+            "create_time": "2019-11-13T16:12:38Z",
+            "exp_id": 60145
+          },
+          {
+            "industry": "health_medicine",
+            "country": "US",
+            "city": "New York",
+            "company": "Jewish Board for Family and Childrens Services",
+            "job": "Registered Nurse, Psychiatric",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Work as a psychiatric nurse, teaching patients and colleagues in the community.",
+            "start_year": 2024,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2024-11-27T15:09:43Z",
+            "exp_id": 157532
+          },
+          {
+            "industry": "health_medicine",
+            "city": "Baltimore",
+            "company": "Johns Hopkins University",
+            "job": "Registered Nurse, Bachelors degree",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Bachelor of Science, Nursing from Johns Hopkins University",
+            "start_year": 1994,
+            "end_year": 1997,
+            "status": 1,
+            "create_time": "2024-11-27T15:11:36Z",
+            "exp_id": 157533
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Johns Hopkins University",
+            "major": "Information & Telecommunications for Business",
+            "level": 2,
+            "description": "An overview of information technology, during the \"dot com boom,\" as well as basic business classes.",
+            "start_year": 1998,
+            "end_year": 2001,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2019-11-13T16:05:01Z",
+            "edu_id": "CA6190A4-D092-4332-B0A8-9014A51ACACF"
+          },
+          {
+            "institution": "Johns Hopkins University",
+            "major": "Nursing",
+            "level": 1,
+            "description": "Bachelor of Science in nursing, prepared student for Registered Nurse exam.",
+            "start_year": 1994,
+            "end_year": 1997,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2019-11-13T16:06:12Z",
+            "edu_id": "FCDF8712-94A3-4748-9F88-9D9DEDE236C0"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2019-11-13T16:17:48Z",
+            "update_time": "2019-11-13T16:17:48Z",
+            "file_ext": "jpg",
+            "description": "120 hour",
+            "institution": "learnTEFL",
+            "end_year": 2019,
+            "status": 1,
+            "certificate": "TEFL",
+            "cert_id": "6B37A81C-8314-4335-8159-E065460A0F12"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "Johns Hopkins University",
+            "type": "CA068",
+            "type_text_code": "TECHNOLOGY",
+            "certificate": "Masters Degree",
+            "description": "Masters program with many technology courses, allows to work in IT field.",
+            "end_year": 2001,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/C3BE6661-52C8-4C35-8B17-9F20B75846F8.pdf",
+            "create_time": "2025-03-08T16:48:15Z",
+            "update_time": "2025-03-08T16:48:15Z",
+            "approve_time": "2025-03-12T16:01:01Z"
+          },
+          {
+            "institution": "Johns Hopkins University",
+            "type": "CA067",
+            "type_text_code": "MEDICAL",
+            "certificate": "Bachelors degree",
+            "description": "BS in Nursing, allows me to work as registered nurse in USA",
+            "end_year": 1997,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/B44BC9B0-2338-47B1-B199-54EBE4DD8EF1.pdf",
+            "create_time": "2025-03-08T16:46:13Z",
+            "update_time": "2025-03-08T16:46:12Z",
+            "approve_time": "2025-03-12T16:00:57Z"
+          },
+          {
+            "institution": "Johns Hopkins University",
+            "type": "CA002",
+            "type_text_code": "BUSINESS",
+            "certificate": "Masters Degree",
+            "description": "Masters program in information technology and business",
+            "end_year": 2001,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/039BD70C-E156-463E-B2AE-3422AE1E98DF.pdf",
+            "create_time": "2024-09-11T01:14:08Z",
+            "update_time": "2024-11-27T15:10:12Z",
+            "approve_time": "2024-09-13T03:28:28Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "TEFL",
+            "institution": "learnTEFL",
+            "end_year": 2019,
+            "status": 1,
+            "description": "120 hour",
+            "type": ""
+          },
+          {
+            "certificate": "Masters Degree",
+            "institution": "Johns Hopkins University",
+            "end_year": 2001,
+            "status": 1,
+            "description": "Masters program with many technology courses, allows to work in IT field.",
+            "type": "CA068"
+          },
+          {
+            "certificate": "Masters Degree",
+            "institution": "Johns Hopkins University",
+            "end_year": 2001,
+            "status": 1,
+            "description": "Masters program in information technology and business",
+            "type": "CA002"
+          },
+          {
+            "certificate": "Bachelors degree",
+            "institution": "Johns Hopkins University",
+            "end_year": 1997,
+            "status": 1,
+            "description": "BS in Nursing, allows me to work as registered nurse in USA",
+            "type": "CA067"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 9975,
+            "user_id": 5873397,
+            "start_year": 2020,
+            "end_year": 2155,
+            "institution": "BPME",
+            "institution_type": "private_education_center",
+            "position": "OET Instructor",
+            "country": "DE",
+            "city": "",
+            "description": "Online teacher and coach for OET and US and UK medical residency and doctor candidates",
+            "create_at": "2024-09-11T01:12:40Z",
+            "create_by": "5873397",
+            "update_at": "2024-09-11T01:12:40Z",
+            "update_by": "5873397",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 4,
+        "has_trial": 1,
+        "trial_price": 2500,
+        "min_price": 3900,
+        "trial_session_count": 0,
+        "trial_description": "In this lesson we will meet each other and see if we can work together. I will ask you what help you want. If you want to improve your business English, I will show you how I use reading from a shared screen (such as the New York Times, which had a very good American English style that business students find helpful), the Washington Post, or something from your area of work or study, or where you live, or that you request. For many students, I show them how I can help with vocabulary and grammar. \n\nOther students come to me for help with job interviews, help with their resumes or CVs, or perhaps help with cultural issues in the USA or other English-speaking countries. If you need help with writing and editing, or even to have me act as your virtual assistant, such as editing your emails and messages, this is the place to meet me and learn how I can help you."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 5873397
+      },
+      "pro_course_detail": [
+        {
+          "id": 94656,
+          "teacher_id": 5873397,
+          "language": "english",
+          "title": "Conversation, reading, pronunciation\u2013or structured lessons for beginning, intermediate, or advanced levels,  general conversation",
+          "description": "In this lesson, for many students, I ask you if you had any issues using English this week or have any questions or requests. Then, I ask if you\u2019d like to read something. I offer the New York Times, the Washington Post, the Straits Times (Singapore), or some easy English reading, or something related to your field of work or study, or from your location or that you request. As you read, I note any pronunciation errors, and when you read a paragraph or two, I tell you. Then, I ask if you understand everything and explain if needed. \n\nThen I bring up some vocabulary words. Usually the \u201cdictionary definition\u201d is on the screen. I ask if you know the word. If not, I explain the normal meaning and any social or cultural meaning of the word. Many students find this very helpful. Also, I keep a list of idoms and expressions in English, that I write down as I hear the or say them, in my daily life. Many students really enjoy this, and often, they have not heard the words used this way.\n\nThen, if the student wishes, I have grammar quizzes I can offer on tenses, punctuation, and more grammar topics. \n\nOf course, I can help with other items such as job interviews, resumes, CVs, editing written work, or most any request.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0004"
+          ],
+          "session_price": 3900,
+          "student_count": 188,
+          "session_count": 809,
+          "create_time": "2019-11-27T06:12:51Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 18915,
+              "session_price": 3900,
+              "course_id": 94656,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 203500
+            },
+            {
+              "package_price": 37050,
+              "session_price": 3900,
+              "course_id": 94656,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 824798
+            },
+            {
+              "package_price": 54404,
+              "session_price": 3900,
+              "course_id": 94656,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 824799
+            },
+            {
+              "package_price": 70200,
+              "session_price": 3900,
+              "course_id": 94656,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 824800
+            }
+          ]
+        },
+        {
+          "id": 94657,
+          "teacher_id": 5873397,
+          "language": "english",
+          "title": "Editing and writing help with your work documents for medical, business, IT, or general",
+          "description": "Editing and writing help with your work or study documents, in real time or offline\nI am available for editing work. I will use my knowledge of English and experience in several fields, Whether you are creating a resume or CV, applying on a company\u2019s website, seeking admission to graduate school, internship, medical school or internship, or submitting and article to a professional journal, or writing a report for you job, I can help. You can upload to Google Docs or Microsoft and share with me. Or, you could email me the document. I can correct it by hand, and scan and email it back to you. I find this more helpful than just giving you a revision, so you can see the changes I made. Some students had even sent me their work emails, before sending to their English-speaking managers, to make sure the English is correct. Remember, I have experience in health care, business, I.T., construction, management, and education. To learn more, book this lesson (or any lesson) and we can chat about it. NOW INCLUDES PAID VERSION GRAMMARLY EDITING IF DESIRED",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0007",
+            "T0009",
+            "T0012",
+            "T0038"
+          ],
+          "session_price": 3900,
+          "student_count": 105,
+          "session_count": 286,
+          "create_time": "2019-11-27T06:29:58Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 18915,
+              "session_price": 3900,
+              "course_id": 94657,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 203502
+            },
+            {
+              "package_price": 37050,
+              "session_price": 3900,
+              "course_id": 94657,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 824801
+            },
+            {
+              "package_price": 54404,
+              "session_price": 3900,
+              "course_id": 94657,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 824802
+            },
+            {
+              "package_price": 70200,
+              "session_price": 3900,
+              "course_id": 94657,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 824803
+            }
+          ]
+        },
+        {
+          "id": 94658,
+          "teacher_id": 5873397,
+          "language": "english",
+          "title": "Lesson, 1 hour, help with medical english including  OET, or practicing doctor/nurse-patient interviews",
+          "description": "I am an OET  and International Medical Graduate (IMG) EXPERT and registered nurse (RN) in the United States ) currently licensed in the states of Florida and New York. Much of my experience is doing intake in psychiatric and substance abuse hospitals. I have also done Home Care nursing, taught in a nursing college, and worked in the medical areas of a large American teaching hospital. As such, I can help doctors, nurses, other medical professionals and students, and those working in related areas. You can have a regular lesson with help in conversation, reading, pronunciation and grammar\u2013or I can show you how to write notes on your patient in English, get a USA job, prepare your resume/CV, or answer any question you have, that I am qualified to answer.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 3900,
+          "student_count": 160,
+          "session_count": 648,
+          "create_time": "2019-11-27T06:50:58Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 18915,
+              "session_price": 3900,
+              "course_id": 94658,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 203503
+            },
+            {
+              "package_price": 37050,
+              "session_price": 3900,
+              "course_id": 94658,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 824804
+            },
+            {
+              "package_price": 54404,
+              "session_price": 3900,
+              "course_id": 94658,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 824805
+            },
+            {
+              "package_price": 70200,
+              "session_price": 3900,
+              "course_id": 94658,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 824806
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 2343,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 6482104,
+        "nickname": "Teacher C J",
+        "avatar_file_name": "4T064821040",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "PH",
+        "origin_city_id": "US00101",
+        "origin_city_name": "Baltimore",
+        "living_city_id": "PH00006",
+        "living_city_name": "Manila",
+        "timezone": "Asia/Manila",
+        "last_login_time": "2025-03-31T02:20:21+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/OMRSNG3ql3c",
+        "video_pic_url": "https://img.youtube.com/vi/OMRSNG3ql3c/0.jpg",
+        "intro": "Hello, my name is Teacher CJ. I'm a US Citizen from the United States of America currently living in Manila Philippines. I have found that teaching English is one of the greatest ways to exchange with others from around the world and at the same time help improve their confidence levels in speaking English.",
+        "short_signature": "",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "other",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2019-10-17T12:06:15Z",
+        "session_count": 175,
+        "pro_rating": "4.9",
+        "tutor_rating": "4.9",
+        "overall_rating": "4.9",
+        "qiniu_video_url": "https://v.italki.cn/04BA5536-7450-43FB-BBEE-37BEC162D79A.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/OMRSNG3ql3c.jpg",
+        "teacher_material_list": [
+          4,
+          8,
+          2,
+          9,
+          6
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hello, my name is Teacher CJ. I'm a US Citizen from the United States of America currently living in Manila Philippines. I have found that teaching English is one of the greatest ways to exchange with others from around the world and at the same time help improve their confidence levels in speaking English.",
+        "about_teacher": "I currently possess a TEFL, CTEYL and CTBE young learners and business English certificates. I also hold a degree in information systems technology, however I have always taught English at an informal level. I have tutored absolute beginners, teenagers and students at a collegiate level, as well as adults. No matter what your level is. I am happy to help!",
+        "teaching_style": "My goal is to help build your confidence in the English language. Most of my lessons focus on conversation skills, as well as reading and writing. I am less concerned about teaching grammar alone and far more concerned in improving your level of confidence and comfort to reach a fluid level of speaking. I enjoy talking about everyday topics from current events, news, history,  and especially business.  \n\nI believe that engaging with a topic of your interest will improve your fluidity in the English language. We can do writing assignments as well, and go over sentence structure and vocabulary together as a way to strengthen your abilities. Above all I want language to be fun and engaging.",
+        "is_student_full": 0,
+        "student_count": 96,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "US",
+            "city": "Blue ridge",
+            "company": "Comcast Cable",
+            "job": "Reginal Manager Trainer",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Head of Operations (Project Manager), Comcast Cable \n\u2022\tSuccessfully launched high-speed communications service for blue ridge VA\n\u2022\tAcquired over 120,000 new customers and brought in US$10 million worth of new revenues\n\u2022\tHired and trained over 1000 new employees\n\u2022\tPlanned and executed the reorganization of the Business Development Division to improve the quality and efficiency of business planning\n\u2022\tLaunched a new service of Video-on-Demand, the first of such service in region.",
+            "start_year": 2001,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2019-09-30T12:02:22Z",
+            "exp_id": 57983
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "Community College",
+            "major": "Computer Information systems",
+            "level": 1,
+            "description": "Computer Information systems and Art History.",
+            "start_year": 1996,
+            "end_year": 1999,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2019-10-04T16:52:53Z",
+            "edu_id": "0D61C904-41B3-4433-AE8C-86A99F814009"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2019-09-30T11:49:33Z",
+            "update_time": "2019-09-30T11:49:33Z",
+            "file_ext": "pdf",
+            "description": "English for Business professionals",
+            "institution": "ITTT",
+            "end_year": 2019,
+            "status": 1,
+            "certificate": "CTBE",
+            "cert_id": "030F5009-7F0B-4BD6-ACCC-2DEFFD8CC7C3"
+          },
+          {
+            "create_time": "2019-09-30T11:48:08Z",
+            "update_time": "2019-09-30T11:48:08Z",
+            "file_ext": "pdf",
+            "description": "English for young learners.",
+            "institution": "ITTT",
+            "end_year": 2019,
+            "status": 1,
+            "certificate": "CTEYL",
+            "cert_id": "4118FFF2-3EB3-45B3-9035-4B5A6EB26004"
+          },
+          {
+            "create_time": "2019-09-30T11:47:00Z",
+            "update_time": "2019-09-30T11:47:00Z",
+            "file_ext": "pdf",
+            "institution": "ITTT",
+            "end_year": 2019,
+            "status": 1,
+            "certificate": "TEFL",
+            "cert_id": "C0CA389F-E3C2-4F17-8BC6-D4F67E7E83A8"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "CTBE",
+            "institution": "ITTT",
+            "end_year": 2019,
+            "status": 1,
+            "description": "English for Business professionals",
+            "type": ""
+          },
+          {
+            "certificate": "CTEYL",
+            "institution": "ITTT",
+            "end_year": 2019,
+            "status": 1,
+            "description": "English for young learners.",
+            "type": ""
+          },
+          {
+            "certificate": "TEFL",
+            "institution": "ITTT",
+            "end_year": 2019,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1200,
+        "min_price": 2000,
+        "trial_session_count": 0,
+        "trial_description": "This is an opportunity for us to get to know each other and review your goals and objectives. See you soon!"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 6482104
+      },
+      "pro_course_detail": [
+        {
+          "id": 91545,
+          "teacher_id": 6482104,
+          "language": "english",
+          "title": "Conversational English",
+          "description": "The lessons are designed to help you learn or improve your verbal communication in everyday English and professional English.\n\nThe lessons are focused on:\n- Fluency skills\n- Accuracy skills\n- Listening ability",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2000,
+          "student_count": 46,
+          "session_count": 95,
+          "create_time": "2019-10-17T12:14:30Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1200,
+              "session_price": 1200,
+              "course_id": 91545,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 269768
+            },
+            {
+              "package_price": 2000,
+              "session_price": 2000,
+              "course_id": 91545,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 194989
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 12,
+            "data": 0.0
+          },
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 175,
+        "response_rate": 0.98,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 8097102,
+        "nickname": "Andrew",
+        "avatar_file_name": "T080971020",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "US",
+        "origin_city_id": "US00596",
+        "origin_city_name": "Jacksonville",
+        "living_city_id": "US00596",
+        "living_city_name": "Jacksonville",
+        "timezone": "America/New_York",
+        "last_login_time": "2025-03-30T23:07:56+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/K8TaJ0mI2ew",
+        "video_pic_url": "https://img.youtube.com/vi/K8TaJ0mI2ew/0.jpg",
+        "intro": "\ud83d\udd39I Teach Kids and Adults\n\ud83d\udd39Certified ESL Teacher\n\ud83d\udd3930 years of experience in Elementary School\n\ud83d\udd39Currently teaching 4th grade in US public school\n\n\nI am from the United States and I live in the state of Florida. I teach 4th grade students full-time in public school. I love reading, cooking, traveling, and meeting people from around the world. I like to write poetry and short stories. Teaching has been my life's work and it is gratifying to help others reach their goals. Teaching English online has allowed me to meet people from different countries and cultures.",
+        "short_signature": "Certified ESL teacher with 30 years experience. I offer lessons for kids and adults!",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 5
+          },
+          {
+            "language": "portuguese",
+            "level": 4
+          },
+          {
+            "language": "french",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-01-29T06:42:15Z",
+        "session_count": 985,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/464DB1C5-C716-4673-B2CF-40DFB1B258F1.mp4",
+        "cover_name": "u/8097102/cover/c76rvn6kh8g2hqlnanjg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/K8TaJ0mI2ew.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          4,
+          5,
+          8,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "\ud83d\udd39I Teach Kids and Adults\n\ud83d\udd39Certified ESL Teacher\n\ud83d\udd3930 years of experience in Elementary School\n\ud83d\udd39Currently teaching 4th grade in US public school\n\n\nI am from the United States and I live in the state of Florida. I teach 4th grade students full-time in public school. I love reading, cooking, traveling, and meeting people from around the world. I like to write poetry and short stories. Teaching has been my life's work and it is gratifying to help others reach their goals. Teaching English online has allowed me to meet people from different countries and cultures.",
+        "about_teacher": "As an experienced ESL certified teacher, I can help you with writing, speaking, reading, and pronunciation in English. I have been a teacher for 29 years working with kids and adults and I love teaching English. I am patient and I understand the challenges of learning a language because I have learned Spanish as my second language and am currently learning Portuguese. I teach learners of all ages and levels and enjoy talking about any topic: cooking, TV,  and books. I can also help you with your vocabulary and grammar.",
+        "teaching_style": "My lessons focus on speaking English in a conversational manner. I can adapt the lesson to the needs and goals of the student, whether the goal is to pass an English exam, improve your writing in English, or improve your fluency in the language. I am patient and comfortable working with students of all levels, kids, and adults. I can teach you ways to improve your vocabulary and understanding of English grammar. I am able to assign practice and homework between lessons.",
+        "is_student_full": 0,
+        "student_count": 143,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-01-29T14:29:35+00:00",
+        "exp_info": [
+          {
+            "country": "US",
+            "city": "Jacksonville, FL",
+            "company": "Duval County Public Schools",
+            "job": "teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I have taught language in public schools for 28 years. In that time have taught language to English language learners and have earned an endorsement from the state of Florida to teach English as a second language to students.",
+            "start_year": 1993,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2021-01-18T14:03:36Z",
+            "exp_id": 97355
+          },
+          {
+            "country": "US",
+            "city": "Jacksonville",
+            "company": "Hallo",
+            "job": "English Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I gove private lessons for English language learners and I produce lessons on live stream videos on this platform.",
+            "start_year": 2021,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2021-01-18T14:20:58Z",
+            "exp_id": 97358
+          }
+        ],
+        "edu_info": [],
+        "cert_info": [
+          {
+            "create_time": "2021-01-18T14:19:02Z",
+            "update_time": "2021-01-18T14:19:02Z",
+            "file_ext": "jpg",
+            "institution": "Florida Department of Education",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "Florida Teaching Certificate",
+            "cert_id": "7DC876F6-6313-44C8-8744-AA9E98A6AB79"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Florida Teaching Certificate",
+            "institution": "Florida Department of Education",
+            "end_year": 2020,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "podcast",
+            "created_count": 1
+          },
+          {
+            "name": "quiz",
+            "created_count": 11
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 500,
+        "min_price": 2500,
+        "trial_session_count": 0,
+        "trial_description": "In a trial lesson, we will get to know each other, practice conversation, and discuss your learning goals. You can ask questions and we can have an informal tutoring session. We can talk about what you would like in future lessons.\n\nEn esta lecci\u00f3n, nos conoceremos, practicaremos la conversaci\u00f3n y discutiremos sus objetivos de aprendizaje. Puede hacer preguntas y podemos tener una sesi\u00f3n de tutor\u00eda informal. Podemos hablar sobre lo que le gustar\u00eda en lecciones futuras."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 8097102
+      },
+      "pro_course_detail": [
+        {
+          "id": 133974,
+          "teacher_id": 8097102,
+          "language": "english",
+          "title": "Conversation Practice / Informal tutoring",
+          "description": "Do you need to improve your English? Do you want to have more natural conversations?\n\nAsk questions or practice your English.\nThis lesson is for people that:\n -Want to practice normal, everyday conversation in English. \n- Just started learning English and want to practice what they know. \n- Want to review what they are learning.\n- Want help with their homework.\n\nThese lessons are versatile. You decide what you want to learn or practice. You will receive feedback from me on errors or ways to sound more natural. \n\n\u00bfNecesitas mejorar tu ingl\u00e9s? \u00bfQuieres tener conversaciones m\u00e1s naturales?\n\nHaz preguntas o practica tu ingl\u00e9s.\nEsta lecci\u00f3n es para personas que:\n -Quiero practicar una conversaci\u00f3n normal y cotidiana en ingl\u00e9s.\n- Reci\u00e9n comenc\u00e9 a aprender ingl\u00e9s y quieren practicar lo que saben.\n- Quieren revisar lo que est\u00e1n aprendiendo.\n- Quiere ayuda con su tarea.\n\nEstas lecciones son vers\u00e1tiles. T\u00fa decides lo que quieres aprender o practicar. Recibir\u00e1 comentarios m\u00edos sobre errores o formas de sonar m\u00e1s naturales.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2500,
+          "student_count": 80,
+          "session_count": 698,
+          "create_time": "2021-01-29T13:14:11Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7900,
+              "session_price": 2100,
+              "course_id": 133974,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 317547
+            },
+            {
+              "package_price": 8900,
+              "session_price": 2300,
+              "course_id": 133974,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 317549
+            },
+            {
+              "package_price": 9900,
+              "session_price": 2500,
+              "course_id": 133974,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 317548
+            }
+          ]
+        },
+        {
+          "id": 133980,
+          "teacher_id": 8097102,
+          "language": "english",
+          "title": "Writing",
+          "description": "Do you need to improve your English writing skills for school or university?\n\nI am a school teacher from the United States. I can help you write essays in accurate, stylish English that sounds natural so that you can improve your performance in school.\n\n\n\u00bfNecesitas mejorar tus habilidades de escritura en ingl\u00e9s para la escuela o la universidad?\n\nSoy un maestro de escuela de Estados Unidos. Puedo ayudarte a escribir ensayos en un ingl\u00e9s preciso y elegante que suene natural para que puedas mejorar tu rendimiento en la escuela.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0006"
+          ],
+          "session_price": 3000,
+          "student_count": 8,
+          "session_count": 47,
+          "create_time": "2021-01-29T14:05:00Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2600,
+              "session_price": 2600,
+              "course_id": 133980,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 317561
+            },
+            {
+              "package_price": 2800,
+              "session_price": 2800,
+              "course_id": 133980,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 317562
+            },
+            {
+              "package_price": 12900,
+              "session_price": 3000,
+              "course_id": 133980,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 317560
+            }
+          ]
+        },
+        {
+          "id": 184026,
+          "teacher_id": 8097102,
+          "language": "english",
+          "title": "Pronunciation",
+          "description": "Does English pronunciation drive you crazy? Are you afraid to speak because you don't sound natural? Do you want to reduce your accent and sound more like a native? I can help you. I can teach you strategies to form the sounds of the English language and focus on the sounds that are the most difficult for you. I will provide practice that will help you to speak more naturally.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2500,
+          "student_count": 5,
+          "session_count": 47,
+          "create_time": "2021-09-23T00:12:24Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7900,
+              "session_price": 2100,
+              "course_id": 184026,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 458942
+            },
+            {
+              "package_price": 8900,
+              "session_price": 2300,
+              "course_id": 184026,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 458943
+            },
+            {
+              "package_price": 9900,
+              "session_price": 2500,
+              "course_id": 184026,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 458941
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.0
+          },
+          {
+            "month": 3,
+            "data": 0.0
+          }
+        ],
+        "finished_session": 985,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 4039420,
+        "nickname": "Sue-Ellen",
+        "avatar_file_name": "1T040394200",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "DE",
+        "origin_city_id": "US00831",
+        "origin_city_name": "New York",
+        "living_city_id": "DE00001",
+        "living_city_name": "Berlin",
+        "timezone": "Europe/Berlin",
+        "last_login_time": "2025-03-27T09:39:52+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/uioB8iy3p9o",
+        "video_pic_url": "https://img.youtube.com/vi/uioB8iy3p9o/0.jpg",
+        "intro": "*Kindly message me before booking to check ongoing availability*  I am Sue-Ellen, a native New Yorker and somewhat of a globetrotter-- having lived for extended periods in China, Mexico, France and currently Germany. In my free time, I do urban exploration, forest walks, and attend myriad live concerts and festivals.",
+        "short_signature": "General English conversation with native speaker and thorough correction (via notes)",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 6
+          },
+          {
+            "language": "french",
+            "level": 5
+          },
+          {
+            "language": "german",
+            "level": 3
+          }
+        ],
+        "first_valid_time": "2020-05-06T07:08:29Z",
+        "session_count": 266,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/A8AD8E03-4BD1-45DD-911C-6F6E5B987D32.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/uioB8iy3p9o.jpg",
+        "teacher_material_list": [
+          1,
+          4,
+          5,
+          6,
+          8,
+          11,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "*Kindly message me before booking to check ongoing availability*  I am Sue-Ellen, a native New Yorker and somewhat of a globetrotter-- having lived for extended periods in China, Mexico, France and currently Germany. In my free time, I do urban exploration, forest walks, and attend myriad live concerts and festivals.",
+        "about_teacher": "I have been teaching English as a Second Language since 1999. I love the opportunity it gives me to meet diverse individuals from all over the globe and to hear their unique insights and perspectives.  I taught in NYC, China, Mexico City and now Berlin (10 years and counting..) tutoring company employees, retirees and recent university graduates.  In Berlin, I focus on in-company & private classes both in-person and online.",
+        "teaching_style": "I teach adults (>18 years old) with an English level of pre-intermediate or higher.  We will focus on what you wish -- including but not limited to: conversation based on work or current videos/articles, grammar review of key structures, proofreading of written material, presenting business slides, role-playing of real-life situations related to travel or your job, pronunciation, etc.  During the lessons, I note down pronunciation & grammar mistakes + new vocab in a Google or Word doc which you'll receive (or in the chat for the trial lesson).  It serves as an important review tool. :)",
+        "is_student_full": 0,
+        "student_count": 60,
+        "teacher_tag": [
+          4,
+          5
+        ],
+        "teacher_child_tag_id_list": [
+          1,
+          2,
+          3
+        ],
+        "cancel_policy": "",
+        "interest": "Upcoming vacation + full schedule currently",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "MX",
+            "city": "Mexico City",
+            "company": "various",
+            "job": "ESL teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Worked in several countries as an ESL teacher",
+            "start_year": 1999,
+            "end_year": 2155,
+            "status": 1,
+            "create_time": "2018-08-23T13:24:43Z",
+            "exp_id": 39658
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "various",
+            "major": "marketing, management",
+            "level": 1,
+            "description": "My resume is attached.",
+            "start_year": 1985,
+            "end_year": 1996,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2018-08-23T13:26:36Z",
+            "edu_id": "205CF914-F82A-482B-9060-276C15700DF1"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2018-08-23T13:21:43Z",
+            "file_ext": "pdf",
+            "description": "Cambrige English Teaching Certificate, internationally recognized certification, one month intensive course in ESL teaching and methodology",
+            "institution": "Embassy CES NYC",
+            "end_year": 1998,
+            "status": 1,
+            "certificate": "CELTA",
+            "cert_id": "3C0E3AF5-BB9C-4BE1-8E98-4D01B7E617FF"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "Pace University, New York",
+            "type": "CA002",
+            "type_text_code": "BUSINESS",
+            "certificate": "Diploma",
+            "description": "This is the diploma showing I have a bachelor's degree in Business Administration",
+            "end_year": 1989,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/3E1E94E0-AB5F-4197-B19E-C9F322D0E2B3.jpg",
+            "create_time": "2024-10-04T14:39:37Z",
+            "update_time": "2024-10-04T14:39:36Z",
+            "approve_time": "2024-10-07T09:23:32Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "CELTA",
+            "institution": "Embassy CES NYC",
+            "end_year": 1998,
+            "status": 1,
+            "description": "Cambrige English Teaching Certificate, internationally recognized certification, one month intensive course in ESL teaching and methodology",
+            "type": ""
+          },
+          {
+            "certificate": "Diploma",
+            "institution": "Pace University, New York",
+            "end_year": 1989,
+            "status": 1,
+            "description": "This is the diploma showing I have a bachelor's degree in Business Administration",
+            "type": "CA002"
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "Upcoming vacation + full schedule currently",
+        "personal_tag": [],
+        "teacher_child_tag": [
+          {
+            "tag_name": "IELTS",
+            "full_name": "International English Language Testing System",
+            "language": "english"
+          },
+          {
+            "tag_name": "TOEFL",
+            "full_name": "Test of English as a Foreign Language",
+            "language": "english"
+          },
+          {
+            "tag_name": "TOEIC",
+            "full_name": "Test of English for International Communication",
+            "language": "english"
+          }
+        ],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 850,
+        "min_price": 1700,
+        "trial_session_count": 0,
+        "trial_description": "In the trial lesson, a topic that interests you will be discussed along with ad-hoc grammar correction. I teach adults >18 years old only, with an English level of at least pre-intermediate (A2+). :)"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 4039420
+      },
+      "pro_course_detail": [
+        {
+          "id": 113591,
+          "teacher_id": 4039420,
+          "language": "english",
+          "title": "Adult students: English conversation & correction",
+          "description": "In this conversation-focused class, we will discuss topics that interest you based on assigned audio, video or news articles.  The goal will be to learn new vocabulary in context, receive error correction (grammar, pronunciation), & review grammar on an as-needed basis.  This is for adult students >18 years old who have at least a pre-intermediate level of English (A2+).",
+          "level_lower_limit": 3,
+          "level_up_limit": 5,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 1700,
+          "student_count": 37,
+          "session_count": 205,
+          "create_time": "2020-05-11T19:37:35Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6950,
+              "session_price": 1440,
+              "course_id": 113591,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 254669
+            },
+            {
+              "package_price": 13600,
+              "session_price": 1440,
+              "course_id": 113591,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 767194
+            },
+            {
+              "package_price": 19800,
+              "session_price": 1440,
+              "course_id": 113591,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 833239
+            },
+            {
+              "package_price": 25700,
+              "session_price": 1440,
+              "course_id": 113591,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 833240
+            },
+            {
+              "package_price": 8200,
+              "session_price": 1700,
+              "course_id": 113591,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 254668
+            },
+            {
+              "package_price": 16000,
+              "session_price": 1700,
+              "course_id": 113591,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 767193
+            },
+            {
+              "package_price": 23400,
+              "session_price": 1700,
+              "course_id": 113591,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 833237
+            },
+            {
+              "package_price": 30500,
+              "session_price": 1700,
+              "course_id": 113591,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 833238
+            }
+          ]
+        },
+        {
+          "id": 114422,
+          "teacher_id": 4039420,
+          "language": "english",
+          "title": "Business English",
+          "description": "General business- We will go over the work-related materials you bring into the class such as your presentations, business e-mails, resumes (CVs), interview or meeting role-play etc.  We can also review polite phrasing, emailing, negotiations, conference calls, etc.  As a supplement, I can use materials from several Business English books.  Videos and articles on topics related to your industry can also be discussed. You'll receive a Word doc containing new vocab, mispronounced words + your grammar errors from me after the session.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0007",
+            "T0008",
+            "T0009",
+            "T0015"
+          ],
+          "session_price": 2000,
+          "student_count": 6,
+          "session_count": 25,
+          "create_time": "2020-05-14T19:58:53Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7500,
+              "session_price": 1575,
+              "course_id": 114422,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 256805
+            },
+            {
+              "package_price": 14700,
+              "session_price": 1575,
+              "course_id": 114422,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 833257
+            },
+            {
+              "package_price": 21500,
+              "session_price": 1575,
+              "course_id": 114422,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 833259
+            },
+            {
+              "package_price": 28300,
+              "session_price": 1575,
+              "course_id": 114422,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 833258
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2000,
+              "course_id": 114422,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 256803
+            },
+            {
+              "package_price": 18700,
+              "session_price": 2000,
+              "course_id": 114422,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 829969
+            },
+            {
+              "package_price": 27500,
+              "session_price": 2000,
+              "course_id": 114422,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 833255
+            },
+            {
+              "package_price": 35900,
+              "session_price": 2000,
+              "course_id": 114422,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 833256
+            },
+            {
+              "package_price": 2700,
+              "session_price": 2700,
+              "course_id": 114422,
+              "package_length": 1,
+              "session_length": 6,
+              "course_price_id": 493941
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 5.0
+          },
+          {
+            "month": 3,
+            "data": 6.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 0.83
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 266,
+        "response_rate": 0.97,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 6013172,
+        "nickname": "Brittney B",
+        "avatar_file_name": "1T060131720",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "US",
+        "origin_city_id": "US01086",
+        "origin_city_name": "Salt Lake City",
+        "living_city_id": "US01086",
+        "living_city_name": "Salt Lake City",
+        "timezone": "America/Denver",
+        "last_login_time": "2025-04-01T16:47:32+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/mZ3_brz9Omg",
+        "video_pic_url": "https://img.youtube.com/vi/mZ3_brz9Omg/0.jpg",
+        "intro": "I have been teaching on italki for nearly 5 years and have done more than 1,000 lessons. I love meeting new people! My favorite thing about italki has been amazing conversations from people around the world. \n\nI'm a  Web & App Developer, and a writer with publishings on Substack and Medium. I love topics such as business, entrepeneurship, technology, travel, cultures, cuisine, video games, books, and more.\n\nI'm a voracious reader! I adore books.",
+        "short_signature": "Certified Professional Teacher: Business, TOEFL, IELTS, Conversation, Pronunciation",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 3
+          },
+          {
+            "language": "chinese",
+            "level": 1
+          },
+          {
+            "language": "german",
+            "level": 1
+          },
+          {
+            "language": "thai",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2020-02-06T08:55:25Z",
+        "session_count": 1342,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/C4FF8715-4D72-4809-96BF-723B111DEEBE.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/mZ3_brz9Omg.jpg",
+        "teacher_material_list": [
+          1,
+          4,
+          7,
+          10,
+          2,
+          5,
+          8,
+          3,
+          6,
+          9,
+          12,
+          11
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "I have been teaching on italki for nearly 5 years and have done more than 1,000 lessons. I love meeting new people! My favorite thing about italki has been amazing conversations from people around the world. \n\nI'm a  Web & App Developer, and a writer with publishings on Substack and Medium. I love topics such as business, entrepeneurship, technology, travel, cultures, cuisine, video games, books, and more.\n\nI'm a voracious reader! I adore books.",
+        "about_teacher": "I like to make lessons highly individualized and fun! Every student has a unique plan. The focus for is always being the best listener I can be and catch pronunciation/grammar mistakes. I use materials from english4tutors, Linguahouse, The British Council, and Engoo, among others, and can make you a customized long-term plan/outline if you'd like.\n\nI also encourage students to READ! Reading in English will help with everything. It can be anything\u2014Young adult books, Harry Potter, astrophysics, anything, as long as it is interesting to you! Reading helps with grammar, spelling, and understanding vocabulary in context.",
+        "teaching_style": "I am patient, calm, and focus on active listening, giving you written corrections as we chat, and giving you verbal feedback.",
+        "is_student_full": 0,
+        "student_count": 311,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "I will be taking a break from italki.",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "MX",
+            "city": "Monterrey",
+            "company": "International House",
+            "job": "English Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2019,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2020-01-18T01:35:38Z",
+            "exp_id": 62615
+          },
+          {
+            "country": "TW",
+            "city": "Taipei",
+            "company": "Harland Education Private Tutoring",
+            "job": "1-1 Tutor",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2023,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2023-12-05T12:37:01Z",
+            "exp_id": 150707
+          },
+          {
+            "country": "TW",
+            "city": "Taipei",
+            "company": "TrinityScholar \u529b\u53ef\u7559\u5b78",
+            "job": "1-1 Tutor",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I help students with TOEFL and SSAT test preparation.",
+            "start_year": 2023,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2023-12-05T12:39:07Z",
+            "exp_id": 150708
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University of Utah",
+            "major": "Mass Communication/Journalism",
+            "level": 1,
+            "start_year": 2008,
+            "end_year": 2009,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2020-05-12T23:05:55Z",
+            "edu_id": "82C8CE0B-13BC-495C-A5C8-4ED47F3FC448"
+          },
+          {
+            "institution": "Fresno State",
+            "major": "Multiple Subject Teaching",
+            "level": 1,
+            "start_year": 2014,
+            "end_year": 2015,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2020-01-18T01:35:14Z",
+            "edu_id": "E681B90C-5D16-4F2A-9E01-4A1FE769BFDB"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2020-01-18T01:36:45Z",
+            "update_time": "2020-01-18T01:36:45Z",
+            "file_ext": "pdf",
+            "institution": "Oxford Seminars",
+            "end_year": 2013,
+            "status": 1,
+            "certificate": "TEFL Certification",
+            "cert_id": "7858401B-EACB-4396-88DA-9D55F97E463A"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "TEFL Certification",
+            "institution": "Oxford Seminars",
+            "end_year": 2013,
+            "status": 1,
+            "description": "",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "I will be taking a break from italki.",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 2200,
+        "trial_session_count": 0,
+        "trial_description": "We will talk about your goals with learning English to create a customized plan for you, and do an introductory conversation-based lesson.\n\nPlease **do not** book this for test preparation. This is only a trial class."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 6013172
+      },
+      "pro_course_detail": [
+        {
+          "id": 99501,
+          "teacher_id": 6013172,
+          "language": "english",
+          "title": "Conversation Practice, Business English, or Grammar Focus",
+          "description": "I give written corrections and verbal feedback for grammar and pronunciation mistakes. I also introduce new vocabulary, challenge your grammar, introduce new phrasal verbs or idiomatic expressions, and more.",
+          "level_lower_limit": 2,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0001",
+            "T0002",
+            "T0083"
+          ],
+          "session_price": 2200,
+          "student_count": 133,
+          "session_count": 565,
+          "create_time": "2020-02-10T18:35:56Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 7000,
+              "session_price": 1700,
+              "course_id": 99501,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 673932
+            },
+            {
+              "package_price": 8000,
+              "session_price": 2000,
+              "course_id": 99501,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 673933
+            },
+            {
+              "package_price": 9000,
+              "session_price": 2200,
+              "course_id": 99501,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 217222
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2400,
+              "course_id": 99501,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 673934
+            }
+          ]
+        },
+        {
+          "id": 240553,
+          "teacher_id": 6013172,
+          "language": "english",
+          "title": "IELTS, TOEFL, or TOEIC Test Preparation",
+          "description": "I can help you improve your scores and feel confident and prepared for upcoming exams. I have taught workshops on all these exams in-person.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0006",
+            "T0083"
+          ],
+          "session_price": 2200,
+          "student_count": 13,
+          "session_count": 76,
+          "create_time": "2023-09-06T00:13:16Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 9000,
+              "session_price": 2200,
+              "course_id": 240553,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 636835
+            },
+            {
+              "package_price": 9500,
+              "session_price": 2400,
+              "course_id": 240553,
+              "package_length": 5,
+              "session_length": 6,
+              "course_price_id": 637632
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 22.0
+          },
+          {
+            "month": 2,
+            "data": 14.0
+          },
+          {
+            "month": 3,
+            "data": 19.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 0.96
+          },
+          {
+            "month": 2,
+            "data": 0.9
+          },
+          {
+            "month": 3,
+            "data": 0.95
+          }
+        ],
+        "finished_session": 1342,
+        "response_rate": 1,
+        "attendance_rate": 0.99,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 21366766,
+        "nickname": "Stacy Motte",
+        "avatar_file_name": "T213667660",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "JP",
+        "origin_city_id": "US00000",
+        "origin_city_name": "Other",
+        "living_city_id": "JP00000",
+        "living_city_name": "Other",
+        "timezone": "Asia/Tokyo",
+        "last_login_time": "2025-04-01T00:25:24+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/t00rrdU4fnQ",
+        "video_pic_url": "https://img.youtube.com/vi/t00rrdU4fnQ/0.jpg",
+        "intro": "Hi, I\u2019m Stacy and I am from California. I have been a college professor for 6 years, teaching art and art history and I recently began teaching English online after finishing my 190-hour TEFL Certification. I have traveled all over the world and am currently working on moving to Japan.  I love learning new things and meeting people through language exchange.  My interests include art, politics, history, literature, environmental issues, travel, pets, fitness and so many other things.  So, if you are hoping to cover a variety of topics in your English lessons, I can help.",
+        "short_signature": "TEFL certified English teacher with 6 years experience teaching art in American Universities",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "japanese",
+            "level": 4
+          }
+        ],
+        "first_valid_time": "2024-05-08T21:00:10Z",
+        "session_count": 90,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/DAA28B7A-9614-4F77-AD76-77E8DC81821A.mp4",
+        "cover_name": "u/21366766/cover/cpj8mr9vqt3udmabfjlg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/t00rrdU4fnQ.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "Hi, I\u2019m Stacy and I am from California. I have been a college professor for 6 years, teaching art and art history and I recently began teaching English online after finishing my 190-hour TEFL Certification. I have traveled all over the world and am currently working on moving to Japan.  I love learning new things and meeting people through language exchange.  My interests include art, politics, history, literature, environmental issues, travel, pets, fitness and so many other things.  So, if you are hoping to cover a variety of topics in your English lessons, I can help.",
+        "about_teacher": "I believe that learning should be fun, engaging, and tailored to the goals of the student. Although I enjoy teaching beginners, I specialize in early intermediate to very advanced English.  Because of my experience as an academic, I am particularly good at helping with academic English, including writing, presentation practice, and test prep.  I am also qualified to teach business English, intermediate and advanced grammar and vocabulary acquisition, or conversation practice.",
+        "teaching_style": "I tailor my teaching content to each student based on their goals and interests.  I use my own materials and skill-specific textbooks in addition to authentic reading and listening materials, including news articles, essays, short stories and podcasts.  In a conversation class, for example, I might have the student read an essay before class so that we can work on debate strategies and polite disagreement.  Or, if a student is refining a pitch for work, we can focus on persuasive writing and speaking. I also teach a general English class which includes speaking, reading, writing, and listening activities that present grammar and vocabulary in context.",
+        "is_student_full": 0,
+        "student_count": 9,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2024-05-08T21:00:09+00:00",
+        "exp_info": [
+          {
+            "industry": "art_humanities",
+            "country": "US",
+            "city": "Madison",
+            "company": "The Center for Design and Material Culture",
+            "job": "Assistant Curator",
+            "file_ext": "",
+            "file_path": "",
+            "start_year": 2018,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2024-04-24T22:08:56Z",
+            "exp_id": 153314
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University of Wisconsin, Madison",
+            "major": "Fine Art",
+            "level": 2,
+            "start_year": 2017,
+            "end_year": 2020,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2024-04-24T22:02:13Z",
+            "edu_id": "D1CF9DF1-B129-477E-AA92-4F316616D0F5"
+          },
+          {
+            "institution": "California College of the Arts",
+            "major": "Fine Art",
+            "level": 1,
+            "description": "I majored in Fine Art with a dual minor in Writing and Art History",
+            "start_year": 2016,
+            "end_year": 2020,
+            "status": 1,
+            "create_time": "2024-04-24T22:04:29Z",
+            "edu_id": "DB990453-885A-403D-BCAC-047EAB111C0F"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2024-04-24T22:00:38Z",
+            "file_ext": "jpg",
+            "file_path": "***",
+            "description": "This was a 190-hour class that included 20 hours of teaching English as a foreign language.",
+            "institution": "International TEFL Academy",
+            "end_year": 2024,
+            "status": 1,
+            "certificate": "Level 5 Certificate in Teaching English",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "8B106578-E5EB-4F8B-AE8B-0EABB47DC543"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "Level 5 Certificate in Teaching English",
+            "institution": "International TEFL Academy",
+            "end_year": 2024,
+            "status": 1,
+            "description": "This was a 190-hour class that included 20 hours of teaching English as a foreign language.",
+            "type": "TEFL"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 4742,
+            "user_id": 21366766,
+            "start_year": 2024,
+            "end_year": 2155,
+            "institution": "Reply",
+            "institution_type": "self_employed_online",
+            "position": "Teacher",
+            "country": "",
+            "city": "",
+            "description": "",
+            "create_at": "2024-04-24T22:04:56Z",
+            "create_by": "21366766",
+            "update_at": "2024-04-24T22:04:56Z",
+            "update_by": "21366766",
+            "status": 1
+          },
+          {
+            "id": 4743,
+            "user_id": 21366766,
+            "start_year": 2022,
+            "end_year": 2155,
+            "institution": "Tennessee Tech University",
+            "institution_type": "public_education",
+            "position": "Faculty",
+            "country": "US",
+            "city": "Smitheville",
+            "description": "",
+            "create_at": "2024-04-24T22:05:58Z",
+            "create_by": "21366766",
+            "update_at": "2024-04-24T22:05:58Z",
+            "update_by": "21366766",
+            "status": 1
+          },
+          {
+            "id": 4744,
+            "user_id": 21366766,
+            "start_year": 2020,
+            "end_year": 2022,
+            "institution": "University of Indiana, Pennsylvania",
+            "institution_type": "public_education",
+            "position": "Faculty",
+            "country": "US",
+            "city": "Indiana",
+            "description": "",
+            "create_at": "2024-04-24T22:06:28Z",
+            "create_by": "21366766",
+            "update_at": "2024-04-24T22:06:28Z",
+            "update_by": "21366766",
+            "status": 1
+          },
+          {
+            "id": 4745,
+            "user_id": 21366766,
+            "start_year": 2018,
+            "end_year": 2020,
+            "institution": "University of Wisconsin, Madison",
+            "institution_type": "public_education",
+            "position": "Teacher of Record",
+            "country": "US",
+            "city": "Madison",
+            "description": "",
+            "create_at": "2024-04-24T22:06:57Z",
+            "create_by": "21366766",
+            "update_at": "2024-04-24T22:06:57Z",
+            "update_by": "21366766",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 4,
+        "has_trial": 1,
+        "trial_price": 2500,
+        "min_price": 3500,
+        "trial_session_count": 0,
+        "trial_description": "In this lesson we will discuss your goals and priorities in order to determine the best learning plan for you.  I will demonstrate my teaching style and introduce the materials we might use in our lessons together.  If I know your interests in advance, I can tailor the content accordingly.  Absolute beginners are welcome! \n\u3053\u306e\u30ec\u30c3\u30b9\u30f3\u3067\u306f\u3001\u3042\u306a\u305f\u306e\u76ee\u6a19\u3084\u512a\u5148\u4e8b\u9805\u306b\u3064\u3044\u3066\u8a71\u3057\u5408\u3044\u3001\u3042\u306a\u305f\u306b\u6700\u9069\u306a\u5b66\u7fd2\u30d7\u30e9\u30f3\u3092\u6c7a\u5b9a\u3057\u307e\u3059\u3002 \u79c1\u306e\u6307\u5c0e\u30b9\u30bf\u30a4\u30eb\u3092\u304a\u898b\u305b\u3057\u3001\u30ec\u30c3\u30b9\u30f3\u3067\u4f7f\u7528\u3059\u308b\u6559\u6750\u3092\u3054\u7d39\u4ecb\u3057\u307e\u3059\u3002 \u4e8b\u524d\u306b\u3054\u8208\u5473\u3092\u304a\u4f3a\u3044\u3057\u3066\u304a\u3051\u3070\u3001\u305d\u308c\u306b\u5408\u308f\u305b\u3066\u5185\u5bb9\u3092\u8abf\u6574\u3059\u308b\u3053\u3068\u3082\u53ef\u80fd\u3067\u3059\u3002 \u5168\u304f\u306e\u521d\u5fc3\u8005\u306e\u65b9\u3082\u5927\u6b53\u8fce\u3067\u3059"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 21366766
+      },
+      "pro_course_detail": [
+        {
+          "id": 246899,
+          "teacher_id": 21366766,
+          "language": "english",
+          "title": "Conversation Practice",
+          "description": "This class can take a few different forms: We can discuss any topic of your choosing, I can assign reading material for us to discuss each week, or we can focus on specific types of conversations: academic, casual, etc. in order to practice moving between different levels of formality.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 3500,
+          "student_count": 7,
+          "session_count": 56,
+          "create_time": "2024-05-08T20:04:10Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 8300,
+              "session_price": 1750,
+              "course_id": 246899,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 692517
+            },
+            {
+              "package_price": 12400,
+              "session_price": 2700,
+              "course_id": 246899,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 659354
+            },
+            {
+              "package_price": 16500,
+              "session_price": 3500,
+              "course_id": 246899,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 659166
+            }
+          ]
+        },
+        {
+          "id": 246946,
+          "teacher_id": 21366766,
+          "language": "english",
+          "title": "General English",
+          "description": "In these classes we will cover English speaking, reading, writing, and listening.  We will use a variety of materials so that every class is fun and engaging.  All grammar points and vocabulary will be presented in context so that you are learning English that you can use.  If you are an absolute beginner, don't worry, this class is for you!",
+          "level_lower_limit": 1,
+          "level_up_limit": 5,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 3500,
+          "student_count": 1,
+          "session_count": 31,
+          "create_time": "2024-05-09T17:08:32Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 13000,
+              "session_price": 2700,
+              "course_id": 246946,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 659300
+            },
+            {
+              "package_price": 17000,
+              "session_price": 3500,
+              "course_id": 246946,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 659299
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 14.0
+          },
+          {
+            "month": 2,
+            "data": 7.0
+          },
+          {
+            "month": 3,
+            "data": 15.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 90,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 4189682,
+        "nickname": "Marcel Vanlandingham",
+        "avatar_file_name": "1T041896820",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "US",
+        "origin_city_id": "US01256",
+        "origin_city_name": "Tampa",
+        "living_city_id": "US01251",
+        "living_city_name": "Tallahassee",
+        "timezone": "America/Chicago",
+        "last_login_time": "2025-04-01T03:56:57+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/4bukMqf-CrE",
+        "video_pic_url": "https://img.youtube.com/vi/4bukMqf-CrE/0.jpg",
+        "intro": "My name is Marcel. I am from the US. I enjoy self-learning: I taught myself guitar as a teenager. Today, I am teaching myself to play violin and speak Arabic. When I am not teaching a language, learning a language, or playing an instrument, I enjoy reading books.",
+        "short_signature": "Caring Language Teacher helping people express their ideas through words.",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "spanish",
+            "level": 6
+          },
+          {
+            "language": "french",
+            "level": 4
+          },
+          {
+            "language": "swahili",
+            "level": 3
+          },
+          {
+            "language": "arabic",
+            "level": 2
+          },
+          {
+            "language": "esperanto",
+            "level": 2
+          },
+          {
+            "language": "chinese",
+            "level": 1
+          },
+          {
+            "language": "hebrew",
+            "level": 1
+          },
+          {
+            "language": "russian",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2021-10-12T20:23:56Z",
+        "session_count": 1518,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/D3986D0A-1334-432A-B353-5000DB4A64E6.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/4bukMqf-CrE.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "",
+        "about_me": "My name is Marcel. I am from the US. I enjoy self-learning: I taught myself guitar as a teenager. Today, I am teaching myself to play violin and speak Arabic. When I am not teaching a language, learning a language, or playing an instrument, I enjoy reading books.",
+        "about_teacher": "My mission in life is to listen to people, to appreciate their life stories, and to guide them as they acquire English. I truly enjoy watching my students progress and achieve their objectives.",
+        "teaching_style": "Lessons are co-created with my students. We brainstorm topics and situations which are interesting or needed. Together we sort them according to your priority. From there, I can seek materials and design activities out of them for you. You will learn by completing tasks that require you to use English to complete them.",
+        "is_student_full": 0,
+        "student_count": 216,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2021-10-14T11:39:07+00:00",
+        "exp_info": [
+          {
+            "industry": "education",
+            "country": "MA",
+            "city": "Casablanca",
+            "company": "Capstone",
+            "job": "English Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "English teacher responsible for teaching private as well as group lessons in person and online to learners of all levels A1-C1.  Teach accelerated language courses (5 days of class a week) and bring students from A1 to B2 level within 360 contact hours. Prepare students for IELTS, TOEFL, and SAT exams within 20 contact hours. Teach Business English and Public Speaking to working professionals. Assist young adults with College Admission Applications.",
+            "start_year": 2020,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2021-06-01T23:12:42Z",
+            "update_time": "2024-08-16T17:44:00Z",
+            "exp_id": 108761
+          },
+          {
+            "industry": "education",
+            "country": "MA",
+            "city": "Casablanca",
+            "company": "Auto-Entrepreneur",
+            "job": "Foreign Language Teacher",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Instructor de espa\u00f1ol con fines generales. Responsable por el desarrollo de 4 alumnos a nivel intermedio B1-CEFR. Utilizando metodolog\u00edas comunicativas (espec\u00edficamente TPRS) mis alumnos est\u00e1n adquiriendo vocabulario, gram\u00e1tica, pronunciaci\u00f3n, comprensi\u00f3n y confianza sin recurso a ejercicios de conjugaci\u00f3n ni explicaciones gramaticales. Mis alumnos est\u00e1n adquiriendo la conjugaci\u00f3n de verbos y tiempos verbales en contexto por medio de la construcci\u00f3n mutua de cuentos.",
+            "start_year": 2020,
+            "end_year": 2021,
+            "status": 1,
+            "create_time": "2021-11-10T15:26:19Z",
+            "update_time": "2024-08-16T17:44:13Z",
+            "exp_id": 127198
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University of North Texas",
+            "major": "Applied Anthropology",
+            "level": 2,
+            "description": "The scientific study of human behavior, cultures, and societies using qualitative and quantitative research methods to solve practical problems and evaluate their solution.",
+            "start_year": 2014,
+            "end_year": 2018,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2021-09-16T23:00:31Z",
+            "edu_id": "2EB60557-2AA1-463C-80CD-0CE25EE40A92"
+          },
+          {
+            "institution": "University of South Florida",
+            "major": "Anthropology",
+            "level": 1,
+            "description": "Comprehending humans past and present (their biology, culture, society, language, and cognition) using scientific research methods.",
+            "start_year": 2010,
+            "end_year": 2012,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2021-09-17T16:50:34Z",
+            "edu_id": "EC459AB3-4E30-4567-9E37-1270BA1F5D17"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2021-09-17T18:07:02Z",
+            "update_time": "2024-08-07T16:13:02Z",
+            "file_ext": "pdf",
+            "description": "I planned and taught lessons and designed lesson materials in collaboration with other teachers in a virtual environment for online classes consisting of 10-30 diverse students from 3 different continents. I analyzed student communication and compared it with language resources to adapt content to their level and address student difficulties. Repurposed in-person materials to produce virtual interactive virtual. Created individualized linguistic profiles of students strengths and weaknesses.",
+            "institution": "Cambridge ESOL",
+            "end_year": 2021,
+            "status": 1,
+            "certificate": "CELTA",
+            "language": "english",
+            "type": "CELTA",
+            "type_text_code": "TA565",
+            "cert_id": "23E52180-9367-44DA-B34E-66395073EA56"
+          },
+          {
+            "create_time": "2024-08-13T20:00:45Z",
+            "update_time": "2024-08-16T02:24:53Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Requirements: Attend Classes, Read Articles, Complete  Assignments, Teaching Practicum\r\n\r\nAbilities: Plan Lessons, Manage Classrooms, Develop Learner Skills (Grammar, Reading, Writing, Speaking, Pronunciation, and Listening), Teach Multi-Level Classes. \r\n\r\nSpecialization: Teaching Business English & TOEFL Preparation",
+            "institution": "Oxford Seminars",
+            "end_year": 2012,
+            "status": 1,
+            "certificate": "TOEFL Preparation & Business English",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "27F2523C-618C-47C7-B400-278DC25D284D"
+          },
+          {
+            "create_time": "2021-09-17T17:32:56Z",
+            "update_time": "2024-08-07T16:12:36Z",
+            "file_ext": "pdf",
+            "description": "Advance 180 Hour intensive Teacher Training Certification Course: \r\nStudied theories of language and language acquisition (e.g. Universal Grammar, Input Hypothesis), teaching methods past and present, and procedures for planning lessons, managing classrooms, student-centered teaching. \r\nDeveloped skills in teaching grammar, pronunciation, listening, speaking, reading, and writing by a teaching practicum with feedback from a teacher trainer.",
+            "institution": "Oxford Seminars",
+            "end_year": 2012,
+            "status": 1,
+            "certificate": "TESOL TESL TEFL",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "6DDCD403-5DA3-4130-A98D-E5A20016FD2E"
+          },
+          {
+            "create_time": "2021-09-17T18:16:35Z",
+            "update_time": "2024-08-07T16:13:46Z",
+            "file_ext": "pdf",
+            "description": "This is a copy of a work contract with Capstone American English as a 'formateur en anglais' (English Teacher).",
+            "institution": "Capstone American English",
+            "end_year": 2020,
+            "status": 1,
+            "certificate": "Work Contract",
+            "language": "english",
+            "type": "TEFL",
+            "type_text_code": "TA562",
+            "cert_id": "90F6F34D-3CDC-48F6-AE5B-11EDDC473393"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "Oxford Seminars",
+            "type": "CA003",
+            "type_text_code": "TEST",
+            "certificate": "Advanced 180 Hour TESOL/TEFL/TESL",
+            "description": "Specialization: Teaching TOEFL Preparation",
+            "end_year": 2012,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/91EE3C4E-7FA5-409D-B3D9-DDACC5DD72E3.pdf",
+            "create_time": "2024-08-16T02:31:33Z",
+            "update_time": "2024-08-16T02:31:32Z",
+            "approve_time": "2024-08-19T08:11:16Z"
+          },
+          {
+            "institution": "Oxford Seminars",
+            "type": "CA002",
+            "type_text_code": "BUSINESS",
+            "certificate": "Advanced 180 Hour TESOL/TEFL/TESL",
+            "description": "Specialization in Teaching Business English",
+            "end_year": 2012,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/15BBF235-DBCC-49DE-8A6F-DB2DCBBE678A.pdf",
+            "create_time": "2024-08-16T02:30:34Z",
+            "update_time": "2024-08-16T02:30:33Z",
+            "approve_time": "2024-08-19T08:11:13Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "CELTA",
+            "institution": "Cambridge ESOL",
+            "end_year": 2021,
+            "status": 1,
+            "description": "I planned and taught lessons and designed lesson materials in collaboration with other teachers in a virtual environment for online classes consisting of 10-30 diverse students from 3 different continents. I analyzed student communication and compared it with language resources to adapt content to their level and address student difficulties. Repurposed in-person materials to produce virtual interactive virtual. Created individualized linguistic profiles of students strengths and weaknesses.",
+            "type": "CELTA"
+          },
+          {
+            "certificate": "Work Contract",
+            "institution": "Capstone American English",
+            "end_year": 2020,
+            "status": 1,
+            "description": "This is a copy of a work contract with Capstone American English as a 'formateur en anglais' (English Teacher).",
+            "type": "TEFL"
+          },
+          {
+            "certificate": "TOEFL Preparation & Business English",
+            "institution": "Oxford Seminars",
+            "end_year": 2012,
+            "status": 1,
+            "description": "Requirements: Attend Classes, Read Articles, Complete  Assignments, Teaching Practicum\r\n\r\nAbilities: Plan Lessons, Manage Classrooms, Develop Learner Skills (Grammar, Reading, Writing, Speaking, Pronunciation, and Listening), Teach Multi-Level Classes. \r\n\r\nSpecialization: Teaching Business English & TOEFL Preparation",
+            "type": "TEFL"
+          },
+          {
+            "certificate": "TESOL TESL TEFL",
+            "institution": "Oxford Seminars",
+            "end_year": 2012,
+            "status": 1,
+            "description": "Advance 180 Hour intensive Teacher Training Certification Course: \r\nStudied theories of language and language acquisition (e.g. Universal Grammar, Input Hypothesis), teaching methods past and present, and procedures for planning lessons, managing classrooms, student-centered teaching. \r\nDeveloped skills in teaching grammar, pronunciation, listening, speaking, reading, and writing by a teaching practicum with feedback from a teacher trainer.",
+            "type": "TEFL"
+          },
+          {
+            "certificate": "Advanced 180 Hour TESOL/TEFL/TESL",
+            "institution": "Oxford Seminars",
+            "end_year": 2012,
+            "status": 1,
+            "description": "Specialization: Teaching TOEFL Preparation",
+            "type": "CA003"
+          },
+          {
+            "certificate": "Advanced 180 Hour TESOL/TEFL/TESL",
+            "institution": "Oxford Seminars",
+            "end_year": 2012,
+            "status": 1,
+            "description": "Specialization in Teaching Business English",
+            "type": "CA002"
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "quiz",
+            "created_count": 3
+          }
+        ],
+        "recording_permission": 1,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 3,
+        "has_trial": 1,
+        "trial_price": 1000,
+        "min_price": 2400,
+        "trial_session_count": 0,
+        "trial_description": "Please, book a trial lesson first. This way, I know your level, your needs, and you can decide which method of learning you would prefer: TPRS or Task Based Learning."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 4189682
+      },
+      "pro_course_detail": [
+        {
+          "id": 188509,
+          "teacher_id": 4189682,
+          "language": "english",
+          "title": "Conversation",
+          "description": "Develop your oral fluency by maintaining conversations on topics of your choice. Learn to use \u201cfiller words\u201d to maintain the conversation as you think about what to say.",
+          "level_lower_limit": 1,
+          "level_up_limit": 6,
+          "course_category": "CA005",
+          "course_tags": [],
+          "session_price": 2400,
+          "student_count": 72,
+          "session_count": 365,
+          "create_time": "2021-10-13T00:32:20Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 6000,
+              "session_price": 1200,
+              "course_id": 188509,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 475919
+            },
+            {
+              "package_price": 11700,
+              "session_price": 1200,
+              "course_id": 188509,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 761691
+            },
+            {
+              "package_price": 17200,
+              "session_price": 1200,
+              "course_id": 188509,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 761689
+            },
+            {
+              "package_price": 22000,
+              "session_price": 1200,
+              "course_id": 188509,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 761690
+            },
+            {
+              "package_price": 9000,
+              "session_price": 1800,
+              "course_id": 188509,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 475920
+            },
+            {
+              "package_price": 17000,
+              "session_price": 1800,
+              "course_id": 188509,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 761692
+            },
+            {
+              "package_price": 24000,
+              "session_price": 1800,
+              "course_id": 188509,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 761693
+            },
+            {
+              "package_price": 30000,
+              "session_price": 1800,
+              "course_id": 188509,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 761694
+            },
+            {
+              "package_price": 12000,
+              "session_price": 2400,
+              "course_id": 188509,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 472546
+            },
+            {
+              "package_price": 21600,
+              "session_price": 2400,
+              "course_id": 188509,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 761686
+            },
+            {
+              "package_price": 30600,
+              "session_price": 2400,
+              "course_id": 188509,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 761687
+            },
+            {
+              "package_price": 38500,
+              "session_price": 2400,
+              "course_id": 188509,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 761688
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 2.0
+          },
+          {
+            "month": 3,
+            "data": 4.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 1518,
+        "response_rate": 1,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 4170745,
+        "nickname": "JR Public Speaking",
+        "avatar_file_name": "3T041707450",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "US",
+        "origin_city_id": "US00241",
+        "origin_city_name": "Cleveland",
+        "living_city_id": "US00891",
+        "living_city_name": "Orlando",
+        "timezone": "Asia/Bangkok",
+        "last_login_time": "2025-03-31T05:59:17+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/Swk71XGxrHU",
+        "video_pic_url": "https://img.youtube.com/vi/Swk71XGxrHU/0.jpg",
+        "intro": "Do you need someone with experience in public speaking, EFL/ESL, storytelling, communications, vocal dynamics and presentation skills? Someone with 5000+ hours of classroom contact over 15 + years? That's me, JR Public Speaking! Hi, I'm a native US speaker with a neutral Midwest American accent, a BFA from New York University (Communications), a Cambridge CELTA, an MA in International Development.\n\nSpecialties include: \n\n\u25cf Public Speaking & Presentation skills\n\u25cf Accent Reduction and Natural Intonation\n\u25cf Storytelling for Business & Organizations\n\u25cf Executive Voice Coaching\n\u25cf English for Specific Purposes (Business, Tech, Media)\n\nHope to meet with you soon! All the Best, JR Public Speaking",
+        "short_signature": "\u25baCambridge CELTA & NYU Communications Public Speaking, EFL-ESL, Storytelling, Accent, Native Speaker",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "khmer",
+            "level": 3
+          },
+          {
+            "language": "thai",
+            "level": 1
+          }
+        ],
+        "first_valid_time": "2017-05-27T09:51:17Z",
+        "session_count": 577,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/BECE6625-648D-4A81-916A-8EF34623F953.mp4",
+        "cover_name": "u/4170745/cover/c9cfm142uskm5dcpg5tg.jpg",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/Swk71XGxrHU.jpg",
+        "teacher_material_list": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "Hi! I'm Teacher Jason, and I've been teaching EFL/ESL, Communications, and other language skills for the past 5+ years. While I'm a native US speaker and citizen, I have been working extensively in Asia since 2005. \n\nMy significant recent full time EFL teaching positions include time spent working with the US Embassy, Rangoon (Burma) as an EFL lecturer at the American Center. As an employee of the US Department of State at that time, I was fully vetted to join a select group of teachers in fulfilling that educational and cultural mission. \n\nDuring the past decade, I've taught a very wide range of communications related subjects including: EFL/ESL, Communication Skills, Accent Reduction (neutral US accent baseline), Media Studies and Production, Business English, Academic Writing, Critical Thinking skills, and a wide range of related subjects.\n\n I've helped HUNDREDS of students to vastly improve their speaking and listening proficiency and pronunciation while boosting their English language ability - and having FUN along the way! I have a Bachelors in Media Production (BFA-Film/TV) from New York University, and a Masters degree in International Development Studies (MA) from Royal University of Phnom Penh, Cambodia (*a program supervised by Nagoya University, Japan). \n\nSince I began teaching in the year 2000, I have earned more than 2000 hours of classroom contact with a very diverse range of students. For example, I've taught absolute beginners as well as University students on the Masters level, and I welcome any student no matter what their background or proficiency. \n\nFinally: as a trained multimedia professional, I've acquired a skill set geared towards producing voiceovers with a precise, neutral American accent. This lends itself towards my specialty areas of Accent Reduction, Pronunciation Enhancement, and Presentation Skills. \n\nThanks for stopping by to review my profile - I hope to meet you online!",
+        "about_me": "Do you need someone with experience in public speaking, EFL/ESL, storytelling, communications, vocal dynamics and presentation skills? Someone with 5000+ hours of classroom contact over 15 + years? That's me, JR Public Speaking! Hi, I'm a native US speaker with a neutral Midwest American accent, a BFA from New York University (Communications), a Cambridge CELTA, an MA in International Development.\n\nSpecialties include: \n\n\u25cf Public Speaking & Presentation skills\n\u25cf Accent Reduction and Natural Intonation\n\u25cf Storytelling for Business & Organizations\n\u25cf Executive Voice Coaching\n\u25cf English for Specific Purposes (Business, Tech, Media)\n\nHope to meet with you soon! All the Best, JR Public Speaking",
+        "about_teacher": "I'm a dynamic, creative, student-centered public speaking, EFL/ESL and communications coach with experience teaching learners of all ages.  I started my journey as an award winning multimedia producer with a background in voiceovers, talent direction in film and on stage, storytelling for all media and vocal performance in music and audio production, & related areas. \n\n\"Jason is a master of storytelling and a true genius in his craft.\" - Phillip M, CFO Marine Logistics\n\n\"His lessons are engaging and creative, he has a remarkable ability to break down complex concepts\" - Sergey, iTalki Student\n\n\u25ba Do you know that many vocal performance techniques I can share are helpful with public speaking?",
+        "teaching_style": "My teaching style is student centered, creative, and active.  All sessions are customized to the needs of each specific student, so there is no 'cookie cutter' approach. I adapt to any approach needed by each student with a thorough diagnostic and discussion held in our introductory session.\n\n\"Absolutely wonderful coach! Tailor-suits his approach depending on my specific needs!\" - Kathryn B (Data Analyst\n\n\"Jason is an absolute master of public speaking. His unparalleled expertise and insightful guidance are evident from the very first session\" - Philip M, CFO Marine Logistics\n\n\"Jason is an excellent tutor! Precise, communicative, with great teaching skills.\" - Adasa, Israel (Medical Sector)",
+        "is_student_full": 0,
+        "student_count": 125,
+        "teacher_tag": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "2022-04-13T14:08:52+00:00",
+        "exp_info": [
+          {
+            "industry": "art_humanities",
+            "country": "US",
+            "city": "Southeast/East",
+            "company": "Camerado Media",
+            "job": "Multimedia and Digital Producer",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I've been active as a multimedia and digital producer since 2000, with the production of my first award winning documentary, 'BookWars' (Terrific - LA Times).  Since then, I've focused on the production of long form audio (podcast, audiobooks, and audiodramas), and have produced, narrated and engineered numerous titles.",
+            "start_year": 2015,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2022-04-15T05:00:49Z",
+            "update_time": "2024-03-20T09:10:16Z",
+            "exp_id": 140987
+          },
+          {
+            "country": "KH",
+            "city": "Phnom Penh",
+            "company": "Phnom Penh International University of the Arts",
+            "job": "Design & Art History Lecturer",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Taught bachelor level art and design courses in English at Phnom Penh International Institute of the Arts, including: Art History, Video Editing, Sound Design for Video, Motion Graphics, History of Graphic Design, and Multimedia Design. Applications include Adobe Premiere, After Effects, Photoshop, Illustrator, SketchUp, and others.",
+            "start_year": 2017,
+            "end_year": 2019,
+            "status": 1,
+            "create_time": "2022-04-15T05:04:54Z",
+            "exp_id": 140990
+          },
+          {
+            "country": "KH",
+            "city": "Phnom Penh",
+            "company": "CamEd Business School",
+            "job": "ESL & Academic Writing Lecturer",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Lecturer of Bachelor-level academic writing & English at the CamEd business school in Phnom Penh, Cambodia. Curriculum focused on development of critical thinking skills, in which I guided discussion of topics and presentation of concepts delivered verbally and in written English.",
+            "start_year": 2012,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2022-04-15T05:08:06Z",
+            "exp_id": 140991
+          },
+          {
+            "country": "KH",
+            "city": "Phnom Penh",
+            "company": "Build Bright University",
+            "job": "ESL & Foreign Language Lecturer",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Taught Speaking & Listening, Public Speaking & Presentation Skills, Academic Writing, Research Methodology, and General English",
+            "start_year": 2015,
+            "end_year": 2017,
+            "status": 1,
+            "create_time": "2022-04-15T05:09:06Z",
+            "exp_id": 140992
+          },
+          {
+            "country": "TH",
+            "city": "Bangkok",
+            "company": "Srinakharinwirot University",
+            "job": "Directing & Documentary Production Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Developed curriculum and taught production and postproduction techniques for documentary video and media direction to second year Bachelor students at SWU in Bangkok, Thailand. With instruction in English, students learned the director's craft while learning to budget for video productions, develop story concepts, operate cameras and other gear, frame shots, edit, and mix audio in order to deliver final projects.",
+            "start_year": 2010,
+            "end_year": 2010,
+            "status": 1,
+            "create_time": "2022-04-15T05:17:16Z",
+            "exp_id": 140993
+          },
+          {
+            "country": "KH",
+            "city": "Phnom Penh",
+            "company": "Pannasastra University",
+            "job": "Communications & Journalism Lecturer",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Taught journalism and fundamentals of communication at Pannasastra University, Cambodia, in their English language Communications program. Topics included marketing communications, print and broadcast journalism concepts, ethics of journalism, news writing & editing, and an overview of the role of media in society.",
+            "start_year": 2009,
+            "end_year": 2009,
+            "status": 1,
+            "create_time": "2022-04-15T05:18:22Z",
+            "exp_id": 140994
+          },
+          {
+            "country": "KH",
+            "city": "Phnom Penh",
+            "company": "Royal University of Phnom penh",
+            "job": "Video Production Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Designed and taught curriculum, sourced hardware, and helped establish Cambodia\u2019s first ever University-level media production course at RUPP, Department of Media and Communications. Students produced, edited, and output a broad variety of projects in team-based production units. Course culminated in a field trip to the Bangkok International Film Festival and Market, which I produced with the cooperation of festival colleagues in Thailand.",
+            "start_year": 2005,
+            "end_year": 2005,
+            "status": 1,
+            "create_time": "2022-04-15T05:19:12Z",
+            "exp_id": 140995
+          },
+          {
+            "country": "US",
+            "city": "New York",
+            "company": "The New School / Parsons School of Design",
+            "job": "Digital Media Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Taught digital video production to first year graduate students at Parsons School of Design, New York City. Practical components included production planning, shooting, editing, and online distribution using then-emerging digital platforms and technologies. Theoretical components included aesthetics, shot design, theories of montage and sound design, and grammar of moving media.",
+            "start_year": 2002,
+            "end_year": 2002,
+            "status": 1,
+            "create_time": "2022-04-15T05:20:16Z",
+            "exp_id": 140996
+          },
+          {
+            "country": "KH",
+            "city": "Phnom Penh",
+            "company": "Camerado Media",
+            "job": "Writer-Director, Producer",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Devised, pitched, scripted, produced, directed, shot and edited original and commissioned content on an ongoing basis for internal and external stakeholders. Supervised teams while maintaining point of contact with client(s).  Devised and launched on and offline distribution platforms, while managing and tracking deliverables from mockup through completion and delivery via theatrical, TV, and online distribution.",
+            "start_year": 2006,
+            "end_year": 2022,
+            "status": 1,
+            "create_time": "2022-04-15T05:21:36Z",
+            "exp_id": 140997
+          },
+          {
+            "country": "US",
+            "city": "Orlando",
+            "company": "Camerado Media",
+            "job": "Audiobook Producer and Narrator",
+            "file_ext": "",
+            "file_path": "",
+            "description": "I have been working as an independent audiobook producer and narrator since 2019, with titles appearing on Audible, Google Play Audiobooks, Apple Music, Spotify, and other platforms. Find titles I've produced and/or narrated on Audible at: https://www.audible.com/search?searchNarrator=Jason+Rosette",
+            "start_year": 2019,
+            "end_year": 2023,
+            "status": 1,
+            "create_time": "2023-07-22T07:01:59Z",
+            "exp_id": 148474
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "New York University",
+            "major": "Film & TV Production",
+            "level": 1,
+            "description": "Studied Film & TV production at New York University, New York NY. Courses and modules included: Film directing; screenwriting; acting; directing the actor; editing; narrative structure; aesthetics; cinema history; art history; and related coursework. (Trustee Scholar)",
+            "start_year": 1986,
+            "end_year": 1991,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2022-04-15T05:15:25Z",
+            "edu_id": "3B7A4690-5C2E-45BD-B50A-7085182BEBD0"
+          },
+          {
+            "institution": "Royal University of Phnom Penh (Cambodia/Japan)",
+            "major": "International Development Studies",
+            "level": 2,
+            "description": "Masters of Arts in International Development Studies. Courses and modules included: Sustainable Development; Economic Development; Research Methodology; Economics; and related areas.",
+            "start_year": 2007,
+            "end_year": 2010,
+            "status": 1,
+            "file_ext": "pdf",
+            "file_path": "***",
+            "create_time": "2022-04-15T05:13:16Z",
+            "edu_id": "837AF88A-7222-4711-A042-7E3235775A79"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2023-01-03T06:45:27Z",
+            "update_time": "2023-01-03T06:45:39Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "Currently earning a CELTA qualification for teaching English as a foreign language (completion date February 18, 2023). The CELTA is the most widely recognized English teaching qualification in the world and the most often requested by employers",
+            "institution": "International House, Cairo",
+            "end_year": 2023,
+            "status": 1,
+            "certificate": "Cambridge CELTA",
+            "cert_id": "4C79457D-17AA-44F2-8AD5-BA18EF43605D"
+          },
+          {
+            "create_time": "2023-05-18T04:27:34Z",
+            "file_ext": "pdf",
+            "file_path": "***",
+            "description": "120 hours of remote study, with final examination",
+            "institution": "MyTEFL",
+            "end_year": 2017,
+            "status": 1,
+            "certificate": "120 Hour Remote TEFL",
+            "cert_id": "C1BF316C-2123-4770-8D40-56DDA3AB8EC3"
+          }
+        ],
+        "specialty_cert": [
+          {
+            "institution": "Cal Arts",
+            "type": "CA068",
+            "type_text_code": "TECHNOLOGY",
+            "certificate": "UX Design Fundamentals",
+            "description": "This hands-on course examines how content is organized and structured to create an experience for a user, and what role the designer plays in creating and shaping user experience. You will be led through a condensed process that acts as a roadmap for developing robust UI/UX design: from ideation and sitemapping, to the creation of paper and digital prototypes. Building on the design skills learned in Visual Elements of User Interface Design, you will apply this methodology to produce a digital p",
+            "end_year": 2019,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/ACBD73F7-DCB9-477F-ACB8-4CE3CBE37E8E.pdf",
+            "create_time": "2024-12-04T04:55:24Z",
+            "update_time": "2024-12-04T04:55:23Z",
+            "approve_time": "2024-12-09T07:11:43Z"
+          },
+          {
+            "institution": "Royal University of Phnom Penh",
+            "type": "CA002",
+            "type_text_code": "BUSINESS",
+            "certificate": "Masters of International Development",
+            "description": "This was a two-year overseas masters program in English, from which I graduated in 2010. The program is internationally recognized, and is ideal for development studies as it was located in an LDC environment (Cambodia) in Asia. The program covered many key areas of the international business development sector including: macro economics;  sustainable development; research methodology; development communications; academic writing; field monitoring and evaluation; and more.",
+            "end_year": 2010,
+            "status": 1,
+            "file_path": "https://s3-us-west-2.amazonaws.com/teacher-info/certificate/D9C0EC40-F87D-4143-9CFC-20532AC044BD.pdf",
+            "create_time": "2024-10-08T05:20:53Z",
+            "update_time": "2024-10-08T05:20:53Z",
+            "approve_time": "2024-10-08T06:36:38Z"
+          }
+        ],
+        "sorted_cert_info": [
+          {
+            "certificate": "Cambridge CELTA",
+            "institution": "International House, Cairo",
+            "end_year": 2023,
+            "status": 1,
+            "description": "Currently earning a CELTA qualification for teaching English as a foreign language (completion date February 18, 2023). The CELTA is the most widely recognized English teaching qualification in the world and the most often requested by employers",
+            "type": ""
+          },
+          {
+            "certificate": "UX Design Fundamentals",
+            "institution": "Cal Arts",
+            "end_year": 2019,
+            "status": 1,
+            "description": "This hands-on course examines how content is organized and structured to create an experience for a user, and what role the designer plays in creating and shaping user experience. You will be led through a condensed process that acts as a roadmap for developing robust UI/UX design: from ideation and sitemapping, to the creation of paper and digital prototypes. Building on the design skills learned in Visual Elements of User Interface Design, you will apply this methodology to produce a digital p",
+            "type": "CA068"
+          },
+          {
+            "certificate": "120 Hour Remote TEFL",
+            "institution": "MyTEFL",
+            "end_year": 2017,
+            "status": 1,
+            "description": "120 hours of remote study, with final examination",
+            "type": ""
+          },
+          {
+            "certificate": "Masters of International Development",
+            "institution": "Royal University of Phnom Penh",
+            "end_year": 2010,
+            "status": 1,
+            "description": "This was a two-year overseas masters program in English, from which I graduated in 2010. The program is internationally recognized, and is ideal for development studies as it was located in an LDC environment (Cambodia) in Asia. The program covered many key areas of the international business development sector including: macro economics;  sustainable development; research methodology; development communications; academic writing; field monitoring and evaluation; and more.",
+            "type": "CA002"
+          }
+        ],
+        "teaching_experience": [
+          {
+            "id": 2674,
+            "user_id": 4170745,
+            "start_year": 2024,
+            "end_year": 2024,
+            "institution": "CamEd Business School",
+            "institution_type": "private_education_center",
+            "position": "Academic Writing Lecturer",
+            "country": "KH",
+            "city": "Phnom Penh",
+            "description": "At CamEd, I taught bachelor level academic writing in a face to face environment, with an emphasis on literature analysis and essay writing for business purposes.",
+            "create_at": "2024-03-20T09:00:27Z",
+            "create_by": "4170745",
+            "update_at": "2024-10-08T06:04:35Z",
+            "update_by": "4170745",
+            "status": 1
+          },
+          {
+            "id": 2675,
+            "user_id": 4170745,
+            "start_year": 2019,
+            "end_year": 2024,
+            "institution": "iTalki, Preply, and others",
+            "institution_type": "self_employed_online",
+            "position": "Public Speaking & Presentation Skills Instructor",
+            "country": "",
+            "city": "",
+            "description": "Starting around the time of the Covid-19 pandemic, I began to coach public speaking, presentation skills, vocal dynamics, and accent reduction on a range of platforms. Prior to this, I had been instructing in these areas mainly in face-to-face classroom environments.",
+            "create_at": "2024-03-20T09:01:50Z",
+            "create_by": "4170745",
+            "update_at": "2024-03-20T09:03:42Z",
+            "update_by": "4170745",
+            "status": 1
+          },
+          {
+            "id": 2676,
+            "user_id": 4170745,
+            "start_year": 2017,
+            "end_year": 2019,
+            "institution": "Limkokwing University of Creative Technology",
+            "institution_type": "private_education_center",
+            "position": "Design Lecturer",
+            "country": "MY",
+            "city": "",
+            "description": "Taught bachelor level design and multimedia courses at Limkokwing University, a Malaysia-based international design university. Subjects include: Video Editing, Short Film and Documentary Production, Cinematography, Design Management, Motion Graphics, 3D Modelling with Blender and Unity, Computer Graphics, and Interaction Design.",
+            "create_at": "2024-03-20T09:08:10Z",
+            "create_by": "4170745",
+            "update_at": "2024-03-20T09:08:10Z",
+            "update_by": "4170745",
+            "status": 1
+          },
+          {
+            "id": 2677,
+            "user_id": 4170745,
+            "start_year": 2013,
+            "end_year": 2014,
+            "institution": "US Embassy, American Center",
+            "institution_type": "private_education_center",
+            "position": "EFL Lecturer",
+            "country": "MM",
+            "city": "Yangon",
+            "description": "Taught English as a Foreign Language (EFL) at the US Embassy's American Center, Rangoon. I also served as the supervisor of the Youth-organized public speaking club. During this time, I worked individually and with colleagues to develop and deliver course materials while providing guidance to students on an individual basis. As an employee of the US Embassy and State Department, I was vetted for and received strict",
+            "create_at": "2024-03-20T09:09:39Z",
+            "create_by": "4170745",
+            "update_at": "2024-03-20T09:09:39Z",
+            "update_by": "4170745",
+            "status": 1
+          },
+          {
+            "id": 11400,
+            "user_id": 4170745,
+            "start_year": 2024,
+            "end_year": 2155,
+            "institution": "Camerado Media",
+            "institution_type": "self_employed_online",
+            "position": "Storytelling Consultant and Specialist",
+            "country": "",
+            "city": "",
+            "description": "Recently, I expanded upon my public speaking and presentation skills offerings with a dedicated Storytelling for Business and Organizations (SBO) track, which I offer remotely here on iTalki and other platforms, and in-person in a workshop format. This Storytelling for Business and Organizations program is a custom program which derives from my experience in narrative development in the motion picture and media sector, and my background as a public speaking coach and practitioner.",
+            "create_at": "2024-10-08T06:02:41Z",
+            "create_by": "4170745",
+            "update_at": "2024-10-08T06:03:14Z",
+            "update_by": "4170745",
+            "status": 1
+          }
+        ],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [
+          {
+            "name": "podcast",
+            "created_count": 4
+          },
+          {
+            "name": "quiz",
+            "created_count": 12
+          }
+        ],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 777,
+        "min_price": 2500,
+        "trial_session_count": 0,
+        "trial_description": "This introductory Trial Lesson is designed to explore and uncover your needs, your language level, any pronunciation issues you may have, and your overall learning aims. Trial lessons are modeled after my Guided Conversation sessions (*available separately), with some attention placed on grammar and pronunciation as well. This trial lesson is an affordable, fun, and efficient way to explore our compatibility and to share your learning goals!\n\nKindly note the iTalki 24 Hour Cancellation Policy: Student is automatically charged if there is no reschedule or cancellation within 24 hours (*this is beyond my control, it's an iTalki policy)"
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 4170745
+      },
+      "pro_course_detail": [
+        {
+          "id": 54158,
+          "teacher_id": 4170745,
+          "language": "english",
+          "title": "\u2714\ufe0f Presentation Skills and Public Speaking for Presentations, Meetings, Workshops, Interviews, School/Academia, and Other Applications",
+          "description": "These sessions are focused on developing presentation & public speaking skills for prepared and impromptu presentations, depending on the needs and interest of the learner.  Sessions are customized to learner's experience level and case-specific needs. Where applicable, we'll also address natural speech and intonation, use of idioms & storytelling devices, transitional devices, effective opening and closing techniques, key pronunciation issues, and more. Our approach can include a range of practices including: remote presentation techniques; run through or rehearsal of existing presentations in development; presentation preparation strategies; and more. (NOTE: Industry group is flexible, I've chosen 'business' as a placeholder, but have worked with a wide range of sectors and industries\n\nPresentation Skills Lessons differ from my 'Guided Conversation' sessions in that these are geared specifically towards public speaking and presentation skills techniques\n\nKindly note the iTalki 24 Hour Cancellation Policy: Student is automatically charged if there is no reschedule or cancellation within 24 hours (*this is beyond my control, it's an iTalki policy)",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0007",
+            "T0008",
+            "T0009",
+            "T0032"
+          ],
+          "session_price": 3400,
+          "student_count": 38,
+          "session_count": 149,
+          "create_time": "2017-05-31T13:10:00Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 3000,
+              "session_price": 3000,
+              "course_id": 54158,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 631296
+            },
+            {
+              "package_price": 3400,
+              "session_price": 3400,
+              "course_id": 54158,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 99743
+            }
+          ]
+        },
+        {
+          "id": 221168,
+          "teacher_id": 4170745,
+          "language": "english",
+          "title": "\ud83d\udc45 Guided Conversation with Cambridge CELTA Correction and Modeling of Grammar and Pronunciation (Intermediate & Advanced Learners)",
+          "description": "The 'Guided Conversation Lesson' covers conversation skills, mainly speaking and listening, and critical thinking topics guided by learner according to their area(s) of interest. Grammar and Pronunciation issues are addressed in a basic way as well, though this is not the sole focus of the Guided Conversation lesson as I offer specialty lessons dedicated to these areas. Use of idioms, figures of speech, common expressions, and other items can be addressed as well. Note that the 'Guided Conversation' lesson differs from other lessons I offer, such as the Public Speaking and Presentation Skills lesson and other niche-specific targeted lessons. \n\nSTUDENTS: Please send a link to an article of your choice or written paragraph describing your preferred topic before each session so I can prepare :)  If you prefer to undertake a life coaching or career coaching type discussion, please write a paragraph in advance describing your concern and send a link to a reference article, if possible. \n\nKindly note the iTalki 24 Hour Cancellation Policy: Student is automatically charged if there is no reschedule or cancellation within 24 hours (*this is beyond my control, it's an iTalki policy)",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0007",
+            "T0011",
+            "T0012",
+            "T0032"
+          ],
+          "session_price": 2500,
+          "student_count": 58,
+          "session_count": 282,
+          "create_time": "2022-04-15T05:53:00Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 2200,
+              "session_price": 2200,
+              "course_id": 221168,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 817126
+            },
+            {
+              "package_price": 11500,
+              "session_price": 2500,
+              "course_id": 221168,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 752081
+            }
+          ]
+        },
+        {
+          "id": 237299,
+          "teacher_id": 4170745,
+          "language": "english",
+          "title": "\ud83d\udc44 Accent Reduction with American English Accent Modeling (*Neutral American English)",
+          "description": "(This is not a conversation class, though some converation will be used in diagnostics and practice modeling. This is an Accent Reduction and pronunciation correction class, with the goal of approaching a Neutral American Accent (also called the 'Midwestern Accent'). The first sessions are dedicated to an extensive phonemic diagnostic based on students' existing natural speech, minimal pair tests, sample texts and other assessments. \n\n** IMPORTANT:  Please let me know before our first session what your native language is, i.e., the language you grew up speaking, even if it's not your current dominant language **\n\nAll students booking sessions with me get to benefit from my 30+ year background in broadcast and voiceover training, and my neutral Midwest [Ohio, USA] accent.\n\nSpecial attention is placed on diagnosing and remedying phonetic distortion and inaccuracies which may stem from the learner's native language pronunciation and intonation patterns, previous poor training, and so forth.  All learners in my Accent Reduction sessions have different needs, depending on particular pronunciation issues, so the first session is spent diagnosing pronunciation issues, with exercises provided for home-study and practice. \n\nAccent reduction sessions are focused and intense, so I would suggest booking a 30 or 45 minute accent reduction/pronunciation session, followed by a more 'relaxing' one hour General Conversation or Public Speaking Session as an ideal combo.\n\nKindly note the iTalki 24 Hour Cancellation Policy: Student is automatically charged if there is no reschedule or cancellation within 24 hours (*this is beyond my control, it's an iTalki policy)",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0008",
+            "T0018"
+          ],
+          "session_price": 2900,
+          "student_count": 18,
+          "session_count": 69,
+          "create_time": "2023-05-27T05:53:22Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 2300,
+              "session_price": 2300,
+              "course_id": 237299,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 817127
+            },
+            {
+              "package_price": 2900,
+              "session_price": 2900,
+              "course_id": 237299,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 625816
+            }
+          ]
+        },
+        {
+          "id": 239954,
+          "teacher_id": 4170745,
+          "language": "english",
+          "title": "IELTS Coaching and Test Prep - SPEAKING",
+          "description": "IELTS Coaching and Test Prep (*SPEAKING) - Level up your IELTS Speaking performance with my customized training program. Our interactive sessions combine practical exercises with detailed coaching to strengthen your speaking abilities. With expert guidance and individualized attention, you'll master the techniques needed to reach your target IELTS score.",
+          "level_lower_limit": 3,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0008",
+            "T0025"
+          ],
+          "session_price": 2900,
+          "student_count": 2,
+          "session_count": 3,
+          "create_time": "2023-08-17T03:57:15Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 2900,
+              "session_price": 2900,
+              "course_id": 239954,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 634696
+            }
+          ]
+        },
+        {
+          "id": 250000,
+          "teacher_id": 4170745,
+          "language": "english",
+          "title": "\ud83d\udcd6 STORYTELLING for Business and Presentations",
+          "description": "\u201cJason is a master of storytelling and a true genius in his craft. His extensive experience and unique ability to see stories from different angles have completely transformed how I approach storytelling,\u201d - Philipp M, CFO\n\nAre you ready to unlock the transformative power of storytelling for your business, organization, or personal development? Studies show that storytelling can increase message retention by up to 22 times, compared to sharing facts alone! \n\nBenefit from my extensive, multi-decade background in storytelling on screen, long-form audio, and stage (BFA, NYU Film & TV) to bring your verbal narrative production skills to a new level! \n\nThrough personalized coaching and practical exercises, you'll learn how to:\n\n* Craft Compelling Business Narratives: Discover the art of identifying and developing powerful stories that resonate with your target audience and drive business outcomes.\n\n* Master Persuasive Presentations: Learn to structure your presentations effectively, design engaging visuals, and deliver with confidence.\n\n* Connect Deeply with Your Audience: Understand your audience's needs and desires to tailor your stories and presentations for maximum impact.\n\n* Build a Strong Personal Brand: Discover how storytelling can help you differentiate yourself and establish credibility in the marketplace.\n\n* Organize Your Storytelling Material: Learn effective methods to gather and organize your storytelling resources, ensuring they're readily available for use in various business contexts.\n\nBenefits:\n\n* Enhanced Business Communication: Become a more effective communicator who can influence stakeholders and drive results.\n\n* Increased Influence: Learn to use storytelling to persuade, inspire, and build relationships.\n\n* Tailored Learning: Receive personalized coaching to meet your specific needs and goals.\n\n(Look for my movies, audiobooks, voiceovers, and other content on Amazon, Apple TV, Audible, Apple Books, & other platforms)",
+          "level_lower_limit": 4,
+          "level_up_limit": 6,
+          "course_category": "CA002",
+          "course_tags": [
+            "T0008",
+            "T0009",
+            "T0010",
+            "T0036"
+          ],
+          "session_price": 3400,
+          "student_count": 2,
+          "session_count": 13,
+          "create_time": "2024-08-14T05:09:18Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 2700,
+              "session_price": 2700,
+              "course_id": 250000,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 817128
+            },
+            {
+              "package_price": 3400,
+              "session_price": 3400,
+              "course_id": 250000,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 669527
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 12.0
+          },
+          {
+            "month": 2,
+            "data": 19.0
+          },
+          {
+            "month": 3,
+            "data": 25.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 577,
+        "response_rate": 0.99,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    },
+    {
+      "is_favor": 0,
+      "user_info": {
+        "user_id": 2910087,
+        "nickname": "Dr. Socrates",
+        "avatar_file_name": "2T029100870",
+        "is_tutor": 0,
+        "is_pro": 1,
+        "origin_country_id": "US",
+        "is_online": 0,
+        "living_country_id": "FR",
+        "origin_city_id": "ZZ00000",
+        "origin_city_name": "Other",
+        "living_city_id": "FR00001",
+        "living_city_name": "Paris",
+        "timezone": "Europe/Paris",
+        "last_login_time": "2025-04-01T23:11:29+00:00"
+      },
+      "teacher_info": {
+        "video_url": "https://www.youtube.com/embed/0sl0cg1H9Kk",
+        "video_pic_url": "https://img.youtube.com/vi/0sl0cg1H9Kk/0.jpg",
+        "intro": "Let's start with the obvious: there are not a lot of iTalki teachers with Doctorates in Philosophy. Consider me a niche tutor for niche students - like you - looking for something more than merely \"English Lessons.\" My courses are all \"Thinking Lessons,\" which happen to be in English. I'm a clear, logical, and original thinker, with extensive experience as an academic writer and years of interest in creative writing. In my 20 years of postsecondary training, I've received a BA in Linguistics, two MAs, and a PhD, I've studied 6 languages, and I've taught university-level courses from Philosophy to Research Writing to students from around the world.",
+        "short_signature": "Philosophy PhD Prof. for all your academic and critical thinking needs!",
+        "teach_language": [
+          {
+            "language": "english",
+            "level": 7
+          }
+        ],
+        "also_speak": [
+          {
+            "language": "french",
+            "level": 5
+          },
+          {
+            "language": "latin",
+            "level": 4
+          },
+          {
+            "language": "german",
+            "level": 3
+          },
+          {
+            "language": "greek(ancient)",
+            "level": 2
+          },
+          {
+            "language": "japanese",
+            "level": 2
+          }
+        ],
+        "first_valid_time": "2017-03-27T21:47:21Z",
+        "session_count": 1415,
+        "pro_rating": "5.0",
+        "tutor_rating": "5.0",
+        "overall_rating": "5.0",
+        "qiniu_video_url": "https://v.italki.cn/87752433-825A-454E-8804-2ED48F076EAA.mp4",
+        "cover_name": "",
+        "instant_lesson_status": 0,
+        "qiniu_video_pic_url": "https://v.italki.cn/0sl0cg1H9Kk.jpg",
+        "teacher_material_list": [],
+        "is_new": 0,
+        "free_trial": 0,
+        "has_trial": 1,
+        "instant_now": 0,
+        "introduction": "As a philosopher, it is my job to ask interesting questions, and so I am a perfect teacher for those who are bored of the basic \"how is the weather?\" conversations. Contact me if you want to learn to share ideas in another language, and articulate complex points of view in speech or review your writing. We can talk about art or science or religion or history, or anything that interests you! If you can't think of anything, don't worry, I will. I have 12 years of experience in postsecondary education, with degrees in Linguistics, Religious Studies, and Philosophy. I've learned 6 languages (including Elvish and Old English, which iTalki does not show!) studied abroad in 3 different countries, and have officially taught English as a Second Language to students from around the world. I would be an excellent teacher for someone who would like to learn how to speak or write English in an academic setting.\n\nMy courses focus not just on English language skills, but critical thinking skills that lay a foundation for higher level work in almost any profession or specialization. By learning to read and analyze arguments with me, you can sharpen your own clarity of expression. By discussing your ideas, you can deepen your ability to express your thinking in English. I also offer writing coaching to help you with whatever other projects you're work on - whether it's blogging, journal articles, dissertations, or novels! In addition to my academic training, I have a lot of experience in creative writing.",
+        "about_me": "Let's start with the obvious: there are not a lot of iTalki teachers with Doctorates in Philosophy. Consider me a niche tutor for niche students - like you - looking for something more than merely \"English Lessons.\" My courses are all \"Thinking Lessons,\" which happen to be in English. I'm a clear, logical, and original thinker, with extensive experience as an academic writer and years of interest in creative writing. In my 20 years of postsecondary training, I've received a BA in Linguistics, two MAs, and a PhD, I've studied 6 languages, and I've taught university-level courses from Philosophy to Research Writing to students from around the world.",
+        "about_teacher": "As a philosopher, it is my job to ask interesting questions, so I am an ideal teacher for those who are bored of the basic \"how is the weather?\" conversations. You're already smart in your native language--contact me if you want to learn to share your great ideas in English, articulate complex points of view in speech, or work on developing your clarity through writing. As for content, we can think through questions about art or science or religion or history, or anything else that interests you! I have great collections of texts for us to work with, both original philosophical texts as well as general-reading articles that present current issues in a creative and approachable way.",
+        "teaching_style": "My courses focus not just on English skills, but critical thinking skills that lay a foundation for higher level work in almost any profession or specialization. By learning to read and analyze texts with me, you can sharpen your own clarity of expression. By discussing your ideas, you can deepen your ability to express your thinking in English. By working on your writing, you can improve your nuance of style, whether through blogs, academic articles, dissertations, or novels. Finally, I am an academic--a great resource if you want to sharpen, organize, or rework personal statements, grant statements, or book proposals. With my help, you will make a strong and memorable first impression!",
+        "is_student_full": 0,
+        "student_count": 239,
+        "teacher_tag": [],
+        "teacher_child_tag_id_list": [],
+        "cancel_policy": "",
+        "interest": "",
+        "apply_status": 9,
+        "first_complete_time": "",
+        "exp_info": [
+          {
+            "country": "US",
+            "city": "Boston",
+            "company": "Boston College",
+            "job": "University Tutor",
+            "file_ext": "",
+            "file_path": "",
+            "description": "One-on-one tutoring for Boston students in Latin, German, Philosophy, Theology, and Writing.",
+            "start_year": 2012,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2017-05-29T08:06:59Z",
+            "exp_id": 22646
+          },
+          {
+            "country": "US",
+            "city": "Boston",
+            "company": "EF International Language Schools",
+            "job": "Instructor",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Taught advanced ESL students Writing Skills, Research Writing, Philosophy and Theology, American Music, and American Culture.",
+            "start_year": 2014,
+            "end_year": 2014,
+            "status": 1,
+            "create_time": "2017-05-29T08:08:31Z",
+            "update_time": "2020-12-10T15:19:08Z",
+            "exp_id": 22647
+          },
+          {
+            "country": "US",
+            "city": "Boston",
+            "company": "Boston College",
+            "job": "Professor",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Designed and taught yearlong introductory philosophy course to 30 undergraduates. Topics included history of philosophy, techniques for critical thinking, and research writing.",
+            "start_year": 2014,
+            "end_year": 2015,
+            "status": 1,
+            "create_time": "2017-05-29T08:11:54Z",
+            "exp_id": 22648
+          },
+          {
+            "country": "US",
+            "city": "Boston",
+            "company": "Boston College",
+            "job": "Teaching Assistant",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Assisted students, led study reviews, and graded essays for a course in Psychology of the Human Person.",
+            "start_year": 2011,
+            "end_year": 2013,
+            "status": 1,
+            "create_time": "2017-05-29T08:13:23Z",
+            "exp_id": 22649
+          },
+          {
+            "industry": "education",
+            "country": "FR",
+            "city": "Paris",
+            "company": "Academic English",
+            "job": "Academic Consultant",
+            "file_ext": "",
+            "file_path": "",
+            "description": "Helped academics (advanced graduate students, postdocs, and professors) to present their best research in English, improving grant statements, graduate school applications, articles, CVs, book proposals, and conference presentations.",
+            "start_year": 2015,
+            "end_year": 2024,
+            "status": 1,
+            "create_time": "2020-12-10T10:57:49Z",
+            "update_time": "2024-03-05T14:17:59Z",
+            "exp_id": 96236
+          }
+        ],
+        "edu_info": [
+          {
+            "institution": "University of Chicago",
+            "major": "Linguistics",
+            "level": 1,
+            "start_year": 2005,
+            "end_year": 2008,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2017-05-29T08:09:14Z",
+            "edu_id": "75673452-6824-4858-A95F-88C33CB4BC13"
+          },
+          {
+            "institution": "Marquette University",
+            "major": "Theology",
+            "level": 2,
+            "start_year": 2009,
+            "end_year": 2011,
+            "status": 1,
+            "file_ext": "jpg",
+            "create_time": "2017-05-29T08:09:36Z",
+            "update_time": "2020-06-01T08:46:11Z",
+            "edu_id": "8FB12233-437D-440C-8462-4ABFCB5983EB"
+          },
+          {
+            "institution": "Boston College",
+            "major": "Philosophy",
+            "level": 2,
+            "start_year": 2011,
+            "end_year": 2013,
+            "status": 1,
+            "file_ext": "jpg",
+            "file_path": "***",
+            "create_time": "2019-10-22T13:19:58Z",
+            "update_time": "2020-12-10T10:58:17Z",
+            "edu_id": "9A00DADC-8B5F-42C3-BBE4-38270FE02BCC"
+          },
+          {
+            "institution": "Boston College",
+            "major": "Philosophy",
+            "level": 3,
+            "start_year": 2013,
+            "end_year": 2019,
+            "status": 1,
+            "file_ext": "pdf",
+            "create_time": "2017-05-29T08:09:56Z",
+            "update_time": "2020-12-10T10:58:05Z",
+            "edu_id": "C0ECDE0D-E910-4BA0-8C8A-273E45FAB43F"
+          }
+        ],
+        "cert_info": [
+          {
+            "create_time": "2017-05-29T08:05:27Z",
+            "update_time": "2020-12-10T15:18:42Z",
+            "file_ext": "pdf",
+            "description": "Two years of teaching seminar before and during my university course, which I designed and taught to 30 students over fall and spring semesters. (We were not given a separate certificate, but you can see this training listed each semester on my transcript)",
+            "institution": "Boston College",
+            "end_year": 2015,
+            "status": 1,
+            "certificate": "University Teacher",
+            "cert_id": "6140C5CD-55F1-417D-B250-32ACDD779990"
+          }
+        ],
+        "specialty_cert": [],
+        "sorted_cert_info": [
+          {
+            "certificate": "University Teacher",
+            "institution": "Boston College",
+            "end_year": 2015,
+            "status": 1,
+            "description": "Two years of teaching seminar before and during my university course, which I designed and taught to 30 students over fall and spring semesters. (We were not given a separate certificate, but you can see this training listed each semester on my transcript)",
+            "type": ""
+          }
+        ],
+        "teaching_experience": [],
+        "offline_reason": "",
+        "personal_tag": [],
+        "teacher_child_tag": [],
+        "tools_statistics": [],
+        "recording_permission": 0,
+        "available_time": ""
+      },
+      "course_info": {
+        "trial_length": 2,
+        "has_trial": 1,
+        "trial_price": 1500,
+        "min_price": 3200,
+        "trial_session_count": 0,
+        "trial_description": "For your first lesson, you can sign up for a strategy session. We can talk about your language learning goals and how I can best help you achieve them."
+      },
+      "exam_result_shown": {
+        "exam_shown_id": 0,
+        "exam_type": 0,
+        "level": "",
+        "score": 0,
+        "show_badge": 0,
+        "show_score": 0,
+        "url_id": "",
+        "user_id": 2910087
+      },
+      "pro_course_detail": [
+        {
+          "id": 54255,
+          "teacher_id": 2910087,
+          "language": "english",
+          "title": "Deepening Conversation",
+          "description": "In these classes I can help you to read and think critically in English and work on  communicating your own thoughts in a clear, coherent, direct way. Critical thinking is a fundamental basic for high school and college education, and is the foundation for clarity of thinking at higher levels in almost every subject. Improve your ability to do it all in English!",
+          "level_lower_limit": 4,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 4200,
+          "student_count": 97,
+          "session_count": 596,
+          "create_time": "2017-06-06T09:32:58Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 13000,
+              "session_price": 2600,
+              "course_id": 54255,
+              "package_length": 5,
+              "session_length": 2,
+              "course_price_id": 310391
+            },
+            {
+              "package_price": 25500,
+              "session_price": 2600,
+              "course_id": 54255,
+              "package_length": 10,
+              "session_length": 2,
+              "course_price_id": 770200
+            },
+            {
+              "package_price": 38000,
+              "session_price": 2600,
+              "course_id": 54255,
+              "package_length": 15,
+              "session_length": 2,
+              "course_price_id": 770201
+            },
+            {
+              "package_price": 50000,
+              "session_price": 2600,
+              "course_id": 54255,
+              "package_length": 20,
+              "session_length": 2,
+              "course_price_id": 770202
+            },
+            {
+              "package_price": 21000,
+              "session_price": 4200,
+              "course_id": 54255,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 99999
+            },
+            {
+              "package_price": 41700,
+              "session_price": 4200,
+              "course_id": 54255,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 770197
+            },
+            {
+              "package_price": 61000,
+              "session_price": 4200,
+              "course_id": 54255,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 770198
+            },
+            {
+              "package_price": 80800,
+              "session_price": 4200,
+              "course_id": 54255,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 770199
+            }
+          ]
+        },
+        {
+          "id": 54256,
+          "teacher_id": 2910087,
+          "language": "english",
+          "title": "Academic Writing, Personal Statements, Grant application",
+          "description": "The secret to good writing is that it is closely linked to good thinking. As a professional philosopher, this is one of my special talents. I will help you bring logical clarity and coherence to your writing, as well as nuance and style, in order to best help you articulate your ideas.  The course can serve you in a number of ways:\n\n1) Work on a personal statement, grant application, book proposal, or conference presentation. If you want to persuade someone of the importance of your project, your career, or your candidacy for an academic program, its worth taking the extra time to make the best case possible. Especially if the words count are limited, you will need to say a lot in a little space: let me help you structure your thinking!\n\n2) If you are a high school, university, or graduate-level researcher, I can help you with every stage of the writing process, from brainstorming to bibliography. \nIn particular, you will learn:\n-Brainstorming tactics and thesis formation\n-Introductory hook\n-Paragraph structure, coherence of ideas\n-Writing style and grammar\n-Citing sources: footnotes, paraphrasing, bibliographies\n\n3) Other: blogging, diplomatic emails, personal reflections, advertising content (philosophers have a knack for persuasion!), or even creative writing. I can help you improve style, grammar, or content, or guide you in communicating across cultural nuances.",
+          "level_lower_limit": 4,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0002",
+            "T0006"
+          ],
+          "session_price": 6700,
+          "student_count": 54,
+          "session_count": 225,
+          "create_time": "2017-06-06T09:34:19Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 4200,
+              "session_price": 4200,
+              "course_id": 54256,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 309228
+            },
+            {
+              "package_price": 6700,
+              "session_price": 6700,
+              "course_id": 54256,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 100000
+            }
+          ]
+        },
+        {
+          "id": 74076,
+          "teacher_id": 2910087,
+          "language": "english",
+          "title": "Independent Study in Philosophy",
+          "description": "Learn English by taking a one-on-one course in Philosophy with a university professor. Let's talk and read about the big questions together: \n\nWhat is philosophy, and what does it mean to love wisdom?\nWhat is truth and how can we distinguish truth from falsity in a \"post-truth\" world? \nWhat is art and how can we understand its place in a world so dominated by scientific thinking? \nHow can we understand our roles as individuals within a larger community?\nHow can we determine if something is good or evil? \nWhat or who is God, and why do people believe in his existence, or not? \nWhat is phenomenology? \n\nThese are just a few of the questions past students have been interested in. Together, we can plan a reading list and set of questions that meet your interests and needs.",
+          "level_lower_limit": 4,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0006"
+          ],
+          "session_price": 7900,
+          "student_count": 11,
+          "session_count": 100,
+          "create_time": "2018-11-08T12:46:42Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 31600,
+              "session_price": 6400,
+              "course_id": 74076,
+              "package_length": 5,
+              "session_length": 3,
+              "course_price_id": 545888
+            },
+            {
+              "package_price": 62800,
+              "session_price": 6400,
+              "course_id": 74076,
+              "package_length": 10,
+              "session_length": 3,
+              "course_price_id": 770210
+            },
+            {
+              "package_price": 93800,
+              "session_price": 6400,
+              "course_id": 74076,
+              "package_length": 15,
+              "session_length": 3,
+              "course_price_id": 770211
+            },
+            {
+              "package_price": 124000,
+              "session_price": 6400,
+              "course_id": 74076,
+              "package_length": 20,
+              "session_length": 3,
+              "course_price_id": 770212
+            },
+            {
+              "package_price": 39000,
+              "session_price": 7900,
+              "course_id": 74076,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 148735
+            },
+            {
+              "package_price": 77000,
+              "session_price": 7900,
+              "course_id": 74076,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 770207
+            },
+            {
+              "package_price": 114700,
+              "session_price": 7900,
+              "course_id": 74076,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 770208
+            },
+            {
+              "package_price": 152000,
+              "session_price": 7900,
+              "course_id": 74076,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 770209
+            }
+          ]
+        },
+        {
+          "id": 95992,
+          "teacher_id": 2910087,
+          "language": "english",
+          "title": "Attacking Faulty Reasoning, Logic, Fallacies",
+          "description": "This class is a more philosophical approach to critical thinking. Improve your logic and critical thinking through one of two methods:\n(1) Learn to slowly and carefully read philosophical texts that discuss these issues. through how to improve critical thinking through particular texts. We will begin with Platonic dialogues. \n(2) Work through a textbook of Informal Logic, which will train you to think more clearly by training you to recognize and eliminate common patterns of errors, or logical fallacies. We will use Damer's \"Attacking Faulty Reasoning\" (6th or 7th edition).",
+          "level_lower_limit": 5,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004"
+          ],
+          "session_price": 5500,
+          "student_count": 7,
+          "session_count": 87,
+          "create_time": "2019-12-26T14:52:00Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4200,
+              "session_price": 4200,
+              "course_id": 95992,
+              "package_length": 1,
+              "session_length": 3,
+              "course_price_id": 207415
+            },
+            {
+              "package_price": 27000,
+              "session_price": 5500,
+              "course_id": 95992,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 207414
+            },
+            {
+              "package_price": 53500,
+              "session_price": 5500,
+              "course_id": 95992,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 770216
+            },
+            {
+              "package_price": 80000,
+              "session_price": 5500,
+              "course_id": 95992,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 770215
+            },
+            {
+              "package_price": 105000,
+              "session_price": 5500,
+              "course_id": 95992,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 770217
+            }
+          ]
+        },
+        {
+          "id": 120033,
+          "teacher_id": 2910087,
+          "language": "english",
+          "title": "Introduction: Choosing a Learning Strategy",
+          "description": "For your initial lesson, feel free to sign up for a half-hour strategy session. We can talk about your language learning goals, and how I can best help you achieve them through my course offerings. (Please note that I do not offer hour-long courses for first-lessons.)\n\nNote: you may also book this course again for your first full lesson (of 30 minutes or 1 hour). With a lower trial rate, you can have a stress-free experience of what a lesson with me is like to help you better decide if it is a good fit for your learning needs.",
+          "level_lower_limit": 4,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 3200,
+          "student_count": 89,
+          "session_count": 102,
+          "create_time": "2020-06-27T11:03:04Z",
+          "has_package": 0,
+          "price_list": [
+            {
+              "package_price": 1500,
+              "session_price": 1500,
+              "course_id": 120033,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 273541
+            },
+            {
+              "package_price": 3200,
+              "session_price": 3200,
+              "course_id": 120033,
+              "package_length": 1,
+              "session_length": 4,
+              "course_price_id": 273540
+            }
+          ]
+        },
+        {
+          "id": 229987,
+          "teacher_id": 2910087,
+          "language": "english",
+          "title": "Classic Texts:  What is Freedom?",
+          "description": "What is Freedom? This idea is central to human life, and it is of course a major part of the \"American dream.\" But what does this word mean? Is freedom about external circumstance, or internal state? And how has it so shaped our popular imagination? This course will give you a mini-version of what we call in English a \"great-books\" course: an introduction to classic texts that have shaped the history and culture of the anglophone world, in America and beyond. \n\n*READING*: Each session will feature a selection of works from a variety of genres and from across different periods, to improve your range of literary comprehension and to give you new angles to think from - from literature to poetry to political philosophy.*\n\n*WRITING*: Each session will include an assignment of a short response paragraph to the readings to work on your writing skills.\n\n*SPEAKING*: Each session, come with questions or reflections, and we can work out these themes together, as you expand your English and learn to think about big ideas!\n\n[*Too busy to write? Too busy to read? That's ok! The advantage of one-on-one tutoring is that we can adapt to your needs and schedule.]\n\nLet's work on polishing your English skills while reflecting on important themes together!",
+          "level_lower_limit": 4,
+          "level_up_limit": 6,
+          "course_category": "CA001",
+          "course_tags": [
+            "T0004",
+            "T0005",
+            "T0006"
+          ],
+          "session_price": 6300,
+          "student_count": 7,
+          "session_count": 54,
+          "create_time": "2022-09-19T16:11:45Z",
+          "has_package": 1,
+          "price_list": [
+            {
+              "package_price": 4800,
+              "session_price": 4800,
+              "course_id": 229987,
+              "package_length": 1,
+              "session_length": 2,
+              "course_price_id": 598111
+            },
+            {
+              "package_price": 31000,
+              "session_price": 6300,
+              "course_id": 229987,
+              "package_length": 5,
+              "session_length": 4,
+              "course_price_id": 598110
+            },
+            {
+              "package_price": 61500,
+              "session_price": 6300,
+              "course_id": 229987,
+              "package_length": 10,
+              "session_length": 4,
+              "course_price_id": 770218
+            },
+            {
+              "package_price": 91500,
+              "session_price": 6300,
+              "course_id": 229987,
+              "package_length": 15,
+              "session_length": 4,
+              "course_price_id": 770219
+            },
+            {
+              "package_price": 121000,
+              "session_price": 6300,
+              "course_id": 229987,
+              "package_length": 20,
+              "session_length": 4,
+              "course_price_id": 770220
+            }
+          ]
+        }
+      ],
+      "tutor_course_detail": [],
+      "teacher_statistics": {
+        "finished_session_list": [
+          {
+            "month": 1,
+            "data": 14.0
+          },
+          {
+            "month": 2,
+            "data": 13.0
+          },
+          {
+            "month": 3,
+            "data": 6.0
+          }
+        ],
+        "response_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "attendance_rate_list": [
+          {
+            "month": 1,
+            "data": 1.0
+          },
+          {
+            "month": 2,
+            "data": 1.0
+          },
+          {
+            "month": 3,
+            "data": 1.0
+          }
+        ],
+        "finished_session": 1415,
+        "response_rate": 0.99,
+        "attendance_rate": 1,
+        "update_time": ""
+      }
+    }
+  ],
+  "success": 1,
+  "statistics": {
+    "count": 854,
+    "price_list": [
+      0,
+      12,
+      7,
+      2,
+      9,
+      13,
+      33,
+      27,
+      76,
+      53,
+      65,
+      119,
+      91,
+      97,
+      119,
+      64,
+      207,
+      58,
+      108,
+      91,
+      84,
+      219,
+      82,
+      49,
+      90,
+      41,
+      180,
+      23,
+      57,
+      36,
+      22,
+      112,
+      34,
+      23,
+      24,
+      25,
+      85,
+      6,
+      11,
+      9,
+      15,
+      46,
+      9,
+      16,
+      7,
+      5,
+      52,
+      0,
+      4,
+      4,
+      9,
+      17,
+      4,
+      2,
+      1,
+      8,
+      30,
+      0,
+      2,
+      3,
+      2,
+      10,
+      0,
+      1,
+      0,
+      6,
+      10,
+      0,
+      3,
+      0,
+      3,
+      10,
+      2,
+      1,
+      1,
+      7,
+      35,
+      1,
+      3,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      5,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23
+    ],
+    "sort_scores": [],
+    "recommendation_id": "",
+    "algo_detail": {
+      "campaign_name": "elastic_search_score",
+      "recipe_name": "quality_sort_sum_rand_score"
+    },
+    "is_libra": 1,
+    "tutor_count": 0,
+    "pro_count": 854
+  },
+  "paging": {
+    "page": 21,
+    "page_size": 20,
+    "total": 854,
+    "has_next": 1
+  }
+}
