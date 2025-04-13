@@ -202,14 +202,14 @@ if __name__ == "__main__":
     
     # Filter by origin country (set to None to get all countries)
     origin_country_filter = [
-        "US"  # United States
+        "US" 
     ]
     
     # Filter by teacher type
     # 1 = One type of teacher
     # 2 = Another type of teacher
     # None = Both types
-    teacher_type_filter = 0  # Set to filter for teacher_type 1
+    teacher_type_filter = 2  # Set to filter for teacher_type 1
     
     filter_description = []
     if origin_country_filter:
