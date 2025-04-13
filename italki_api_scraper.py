@@ -7,13 +7,14 @@ from datetime import datetime
 from extract_tutors import extract_tutor_info, save_json_with_incremented_filename
 
 
-def get_page(page=1, origin_country_ids=None):
+def get_page(page=1, origin_country_ids=None, teacher_type=None):
     """
     Fetch a page of English teachers from the italki API
     
     Args:
         page: Page number to fetch
         origin_country_ids: List of country codes to filter by (e.g. ["US", "GB"])
+        teacher_type: Filter by teacher type (1 or 2)
     """
     # Based on the example payload in try.py
     payload = {
@@ -25,11 +26,17 @@ def get_page(page=1, origin_country_ids=None):
         "has_package": 0  # Filter teachers without package lessons
     }
     
+    # Add teacher_info filters (country and teacher type)
+    if "teacher_info" not in payload:
+        payload["teacher_info"] = {}
+        
     # Add origin country filter if provided
     if origin_country_ids and isinstance(origin_country_ids, list) and len(origin_country_ids) > 0:
-        if "teacher_info" not in payload:
-            payload["teacher_info"] = {}
         payload["teacher_info"]["origin_country_id"] = origin_country_ids
+    
+    # Add teacher type filter if provided
+    if teacher_type is not None:
+        payload["teacher_info"]["teacher_type"] = teacher_type
     
     url = 'https://api.italki.com/api/v2/teachers'
     headers = {
@@ -47,6 +54,8 @@ def get_page(page=1, origin_country_ids=None):
     print(f"Request payload: {json.dumps(payload)}")
     if origin_country_ids:
         print(f"Filtering by origin countries: {', '.join(origin_country_ids)}")
+    if teacher_type is not None:
+        print(f"Filtering by teacher type: {teacher_type}")
     print("Filtering to only show teachers without package lessons")
     
     response = requests.post(url, json=payload, headers=headers)
@@ -58,7 +67,9 @@ def get_page(page=1, origin_country_ids=None):
         # Print sample teacher info for debugging
         if 'data' in data and isinstance(data['data'], list) and len(data['data']) > 0:
             sample_teacher = data['data'][0]
-            print(f"Sample teacher found")
+            teacher_info = sample_teacher.get('teacher_info', {})
+            sample_teacher_type = teacher_info.get('teacher_type')
+            print(f"Sample teacher found, teacher_type: {sample_teacher_type}")
                 
         return data
     except json.JSONDecodeError:
@@ -125,6 +136,9 @@ def extract_teacher_data(teacher):
     teacher_id = user_info.get('user_id', '')
     name = user_info.get('nickname', '')
     
+    # Extract teacher type
+    teacher_type = teacher_info.get('teacher_type', '')
+    
     # Extract origin country and living country
     origin_country = user_info.get('origin_country_id', '')
     living_country = user_info.get('living_country_id', '')
@@ -161,6 +175,7 @@ def extract_teacher_data(teacher):
     return {
         "Teacher ID": teacher_id,
         "Name": name,
+        "Teacher Type": teacher_type,
         "Origin Country": origin_country,
         "Living Country": living_country,
         "Overall Rating": rating,
@@ -187,12 +202,20 @@ if __name__ == "__main__":
     
     # Filter by origin country (set to None to get all countries)
     origin_country_filter = [
-        "US"
+        "US"  # United States
     ]
+    
+    # Filter by teacher type
+    # 1 = One type of teacher
+    # 2 = Another type of teacher
+    # None = Both types
+    teacher_type_filter = 0  # Set to filter for teacher_type 1
     
     filter_description = []
     if origin_country_filter:
         filter_description.append(f"countries: {', '.join(origin_country_filter)}")
+    if teacher_type_filter is not None:
+        filter_description.append(f"teacher type: {teacher_type_filter}")
     
     if filter_description:
         print(f"Starting dynamic scraping of tutors filtered by {' and '.join(filter_description)}...")
@@ -227,7 +250,7 @@ if __name__ == "__main__":
         # Keep scraping until we hit a stopping condition
         while True:
             # Get data for current page
-            data = get_page(page, origin_country_filter)
+            data = get_page(page, origin_country_filter, teacher_type_filter)
             
             # Save raw JSON response with incremented filename
             json_file = save_json_with_incremented_filename(data)
@@ -318,6 +341,8 @@ if __name__ == "__main__":
         print(f"Total unique teachers in database: {len(known_detailed_teacher_ids)}")
         if origin_country_filter:
             print(f"Filter applied: Origin countries {', '.join(origin_country_filter)}")
+        if teacher_type_filter is not None:
+            print(f"Filter applied: Teacher type {teacher_type_filter}")
         print(f"Scraping complete. Data saved to:")
         print(f"- italki_tutors.csv (basic info)")
         print(f"- italki_teachers_details.csv (detailed info)")
