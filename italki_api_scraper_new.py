@@ -5,6 +5,7 @@ import os
 import time
 from datetime import datetime
 from extract_tutors import extract_tutor_info, save_json_with_incremented_filename
+from countries import COUNTRIES  # Import the list of countries
 
 
 def get_page(page=1, origin_country_ids=None, teacher_type=None):
@@ -139,6 +140,10 @@ def extract_teacher_data(teacher):
     # Extract teacher type
     teacher_type = teacher_info.get('teacher_type', '')
     
+    # Extract is_pro and is_tutor flags
+    is_pro = user_info.get('is_pro', '')
+    is_tutor = user_info.get('is_tutor', '')
+    
     # Extract origin country and living country
     origin_country = user_info.get('origin_country_id', '')
     living_country = user_info.get('living_country_id', '')
@@ -176,6 +181,8 @@ def extract_teacher_data(teacher):
         "Teacher ID": teacher_id,
         "Name": name,
         "Teacher Type": teacher_type,
+        "Is Pro": is_pro,
+        "Is Tutor": is_tutor,
         "Origin Country": origin_country,
         "Living Country": living_country,
         "Overall Rating": rating,
@@ -188,75 +195,65 @@ def extract_teacher_data(teacher):
         "Specialties": '; '.join(specialties),
     }
 
-if __name__ == "__main__":
+def scrape_country_teachers(country_code, teacher_type):
+    """
+    Scrape teachers from a specific country with a specific teacher type
+    
+    Args:
+        country_code: The country code to filter by
+        teacher_type: The teacher type to filter by (1 or 2)
+        
+    Returns:
+        The number of teachers found
+    """
+    print(f"\n{'='*50}")
+    print(f"Starting scraping for country: {country_code}, teacher_type: {teacher_type}")
+    print(f"{'='*50}")
+    
     # Create directory for json files if it doesn't exist
     os.makedirs('pages', exist_ok=True)
+    
+    # Create a specific directory for this country and teacher type
+    country_dir = f'pages/{country_code}_type_{teacher_type}'
+    os.makedirs(country_dir, exist_ok=True)
     
     # Initialize tracking variables
     page = 1
     total_teachers = 0
     known_teacher_ids = set()
-    known_detailed_teacher_ids = set()  # Track IDs in the detailed CSV separately
     consecutive_empty_pages = 0
-    max_consecutive_empty_pages = 100  # Effectively disabled - will continue until we run out of pages
+    max_consecutive_empty_pages = 100  # Match original script - continue until many empty pages
     
-    # Filter by origin country (set to None to get all countries)
-    origin_country_filter = [
-        "US" 
-    ]
+    # Set up the country filter
+    origin_country_filter = [country_code]
     
-    # Filter by teacher type
-    # 1 = One type of teacher
-    # 2 = Another type of teacher
-    # None = Both types
-    teacher_type_filter = 1  # Set to filter for teacher_type 1
-    
-    filter_description = []
-    if origin_country_filter:
-        filter_description.append(f"countries: {', '.join(origin_country_filter)}")
-    if teacher_type_filter is not None:
-        filter_description.append(f"teacher type: {teacher_type_filter}")
-    
-    if filter_description:
-        print(f"Starting dynamic scraping of tutors filtered by {' and '.join(filter_description)}...")
-    else:
-        print("Starting dynamic scraping of all available tutors...")
-    
-    print("Will continue until we encounter an error or stop finding new tutors")
+    # CSV file for storing tutor info
+    basic_csv_file = 'italki_tutor_name_id.csv'
     
     try:
         # Read existing tutor IDs from CSV if it exists
-        csv_file = 'italki_tutors.csv'
-        if os.path.exists(csv_file):
-            with open(csv_file, 'r', encoding='utf-8') as f:
+        if os.path.exists(basic_csv_file):
+            with open(basic_csv_file, 'r', encoding='utf-8') as f:
                 reader = csv.DictReader(f)
                 for row in reader:
                     if 'tutor_id' in row:
                         known_teacher_ids.add(row['tutor_id'])
                     elif 'Teacher ID' in row:
                         known_teacher_ids.add(row['Teacher ID'])
-            print(f"Found {len(known_teacher_ids)} existing tutors in CSV file")
-            
-        # Read existing teacher IDs from detailed CSV if it exists
-        details_csv_file = 'italki_teachers_details.csv'
-        if os.path.exists(details_csv_file):
-            with open(details_csv_file, 'r', encoding='utf-8') as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    if 'Teacher ID' in row:
-                        known_detailed_teacher_ids.add(str(row['Teacher ID']))
-            print(f"Found {len(known_detailed_teacher_ids)} existing tutors in detailed CSV file")
+            print(f"Found {len(known_teacher_ids)} existing tutors in basic CSV file")
         
         # Keep scraping until we hit a stopping condition
         while True:
             # Get data for current page
-            data = get_page(page, origin_country_filter, teacher_type_filter)
+            data = get_page(page, origin_country_filter, teacher_type)
             
-            # Save raw JSON response with incremented filename
-            json_file = save_json_with_incremented_filename(data)
+            # Save raw JSON response to country-specific directory with incremented filename
+            json_file = os.path.join(country_dir, f'page_{page}.json')
+            with open(json_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2)
             print(f"Raw JSON data saved to {json_file}")
             
-            # Update the CSV file with the new tutors
+            # Update the basic CSV file with the new tutors
             new_tutor_count = extract_tutor_info(json_file)
             
             # Check if there was an error with the JSON response
@@ -293,36 +290,6 @@ if __name__ == "__main__":
                 consecutive_empty_pages = 0
                 print(f"Found {new_tutor_count} new tutors on page {page}. Continuing search...")
             
-            # Extract comprehensive teacher data for CSV
-            page_teacher_data = [extract_teacher_data(teacher) for teacher in teachers]
-            
-            # Filter out duplicates for the detailed CSV
-            new_teacher_data = []
-            for teacher in page_teacher_data:
-                teacher_id = str(teacher["Teacher ID"])
-                # Check if this teacher is already in our detailed database or this page's batch
-                if teacher_id not in known_detailed_teacher_ids and not any(t["Teacher ID"] == teacher_id for t in new_teacher_data):
-                    new_teacher_data.append(teacher)
-                    known_detailed_teacher_ids.add(teacher_id)  # Add to our tracking set
-            
-            # Save to CSV - append mode to avoid losing previous data
-            details_csv_file = 'italki_teachers_details.csv'
-            
-            # Check if file exists to determine if we need to write headers
-            file_exists = os.path.isfile(details_csv_file)
-            
-            # Only write to the file if we have new teacher data
-            if new_teacher_data:
-                print(f"Adding {len(new_teacher_data)} new teachers to detailed CSV")
-                with open(details_csv_file, 'a', newline='', encoding='utf-8') as csvfile:
-                    fieldnames = list(new_teacher_data[0].keys())
-                    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-                    
-                    if not file_exists:
-                        writer.writeheader()
-                        
-                    writer.writerows(new_teacher_data)
-            
             # Add a small delay between requests to be nice to the server
             time.sleep(0.5)
             
@@ -335,15 +302,61 @@ if __name__ == "__main__":
         traceback.print_exc()
         
     finally:
-        print("\nScraping Summary:")
+        # Print summary for this country and teacher type
+        print(f"\nScraping Summary for {country_code}, teacher_type {teacher_type}:")
         print(f"Pages scraped: {page-1}")
-        print(f"Total teachers seen in this run: {total_teachers}")
-        print(f"Total unique teachers in database: {len(known_detailed_teacher_ids)}")
-        if origin_country_filter:
-            print(f"Filter applied: Origin countries {', '.join(origin_country_filter)}")
-        if teacher_type_filter is not None:
-            print(f"Filter applied: Teacher type {teacher_type_filter}")
-        print(f"Scraping complete. Data saved to:")
-        print(f"- italki_tutors.csv (basic info)")
-        print(f"- italki_teachers_details.csv (detailed info)")
-        print(f"- Individual JSON files in the 'pages' directory")
+        print(f"Total teachers found: {total_teachers}")
+        
+        return total_teachers
+
+
+if __name__ == "__main__":
+    print("Starting Italki API Scraper - All Countries, All Teacher Types")
+    print("This script will scrape teacher data for teacher types 1 and 2 across all countries")
+    
+    # Create directories for data storage
+    os.makedirs('pages', exist_ok=True)
+    
+    # Track total teachers found
+    total_teachers = 0
+    countries_processed = 0
+    
+    # Loop through teacher types
+    for teacher_type in [1, 2]:
+        print(f"\n{'#'*70}")
+        print(f"### Starting scraping for TEACHER TYPE {teacher_type}")
+        print(f"{'#'*70}")
+        
+        teacher_type_total = 0
+        
+        # Loop through all countries
+        for country in COUNTRIES:
+            try:
+                # Scrape teachers from this country with this teacher type
+                teachers_found = scrape_country_teachers(country, teacher_type)
+                teacher_type_total += teachers_found
+                total_teachers += teachers_found
+                countries_processed += 1
+                
+                # Add a delay between countries to be respectful to the server
+                time.sleep(2)
+                
+            except Exception as e:
+                print(f"Error scraping country {country} with teacher_type {teacher_type}: {e}")
+                print("Continuing with next country...")
+                continue
+        
+        print(f"\n{'='*50}")
+        print(f"Teacher Type {teacher_type} Summary:")
+        print(f"Total teachers found for this type: {teacher_type_total}")
+        print(f"{'='*50}")
+        
+        # Add a longer delay between teacher types
+        time.sleep(5)
+    
+    print("\n=== FINAL SUMMARY ===")
+    print(f"Total countries processed: {countries_processed}")
+    print(f"Total teachers found: {total_teachers}")
+    print("All data has been saved to:")
+    print("- italki_tutor_name_id.csv (contains basic tutor information)")
+    print("- Individual JSON files in country-specific directories under 'pages/'") 
