@@ -228,7 +228,7 @@ def scrape_country_teachers(country_code, teacher_type):
     origin_country_filter = [country_code]
     
     # CSV file for storing tutor info
-    basic_csv_file = 'italki_tutor_name_id.csv'
+    basic_csv_file = 'italki_tutors.csv'
     
     try:
         # Read existing tutor IDs from CSV if it exists
@@ -358,5 +358,5 @@ if __name__ == "__main__":
     print(f"Total countries processed: {countries_processed}")
     print(f"Total teachers found: {total_teachers}")
     print("All data has been saved to:")
-    print("- italki_tutor_name_id.csv (contains basic tutor information)")
+    print("- italki_tutors.csv (contains basic tutor information)")
     print("- Individual JSON files in country-specific directories under 'pages/'") 

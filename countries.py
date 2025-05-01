@@ -5,7 +5,7 @@ COUNTRIES = [
     "AU",  # Australia
     "ZA",  # South Africa
     "IE",  # Ireland
-    "NZ"   # New Zealand
+    "NZ",  # New Zealand
     "AD",  # Andorra
     "AE",  # United Arab Emirates
     "AF",  # Afghanistan
@@ -18,7 +18,7 @@ COUNTRIES = [
     "AR",  # Argentina
     "AS",  # American Samoa
     "AT",  # Austria
-    "AW"   # Aruba
+    "AW",  # Aruba
     "AZ",  # Azerbaijan
     "BA",  # Bosnia and Herzegovina
     "BB",  # Barbados
@@ -39,7 +39,7 @@ COUNTRIES = [
     "BW",  # Botswana
     "BY",  # Belarus
     "BZ",  # Belize
-    "CC"   # Cocos (Keeling) Islands
+    "CC",  # Cocos (Keeling) Islands
     "CF",  # Central African Republic
     "CG",  # Republic of Congo
     "CH",  # Switzerland
@@ -60,7 +60,7 @@ COUNTRIES = [
     "DM",  # Dominica
     "DO",  # Dominican Republic
     "DZ",  # Algeria
-    "EC"   # Ecuador
+    "EC",  # Ecuador
     "EE",  # Estonia
     "EG",  # Egypt
     "EH",  # Western Sahara
@@ -82,7 +82,7 @@ COUNTRIES = [
     "GM",  # Gambia
     "GN",  # Guinea
     "GQ",  # Equatorial Guinea
-    "GR"   # Greece
+    "GR",  # Greece
     "GS",  # South Georgia and the South Sandwich Islands
     "GT",  # Guatemala
     "GU",  # Guam
@@ -103,7 +103,7 @@ COUNTRIES = [
     "IT",  # Italy
     "JM",  # Jamaica
     "JO",  # Jordan
-    "JP"   # Japan
+    "JP",  # Japan
     "KE",  # Kenya
     "KG",  # Kyrgyzstan
     "KH",  # Cambodia
@@ -123,7 +123,7 @@ COUNTRIES = [
     "LS",  # Lesotho
     "LT",  # Lithuania
     "LU",  # Luxembourg
-    "LV"   # Latvia
+    "LV",  # Latvia
     "LY",  # Libya
     "MA",  # Morocco
     "MC",  # Monaco
@@ -145,7 +145,7 @@ COUNTRIES = [
     "MW",  # Malawi
     "MX",  # Mexico
     "MY",  # Malaysia
-    "MZ"   # Mozambique
+    "MZ",  # Mozambique
     "NA",  # Namibia
     "NE",  # Niger
     "NF",  # Norfolk Island
@@ -167,7 +167,7 @@ COUNTRIES = [
     "PR",  # Puerto Rico
     "PS",  # Palestinian Territories
     "PT",  # Portugal
-    "PW"   # Palau
+    "PW",  # Palau
     "PY",  # Paraguay
     "QA",  # Qatar
     "RO",  # Romania
@@ -188,7 +188,7 @@ COUNTRIES = [
     "SM",  # San Marino
     "SN",  # Senegal
     "SO",  # Somalia
-    "SR"   # Suriname
+    "SR",  # Suriname
     "TC",  # Turks and Caicos Islands
     "TD",  # Chad
     "TG",  # Togo
@@ -205,7 +205,7 @@ COUNTRIES = [
     "TW",  # Taiwan, China
     "TZ",  # United Republic of Tanzania
     "UA",  # Ukraine
-    "UG"   # Uganda
+    "UG",  # Uganda
     "ST",  # Sao Tome and Principe
     "SV",  # El Salvador
     "SZ",  # Swaziland
