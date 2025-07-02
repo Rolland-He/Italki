@@ -71,7 +71,7 @@ def get_page(page=1, origin_country_ids=None, teacher_type=None):
             teacher_info = sample_teacher.get('teacher_info', {})
             sample_teacher_type = teacher_info.get('teacher_type')
             print(f"Sample teacher found, teacher_type: {sample_teacher_type}")
-                
+
         return data
     except json.JSONDecodeError:
         print(f"Error: Response is not valid JSON. First 200 characters of response: {response.text[:200]}")
@@ -339,7 +339,7 @@ if __name__ == "__main__":
                 countries_processed += 1
                 
                 # Add a delay between countries to be respectful to the server
-                time.sleep(2)
+                time.sleep(1)
                 
             except Exception as e:
                 print(f"Error scraping country {country} with teacher_type {teacher_type}: {e}")
@@ -351,8 +351,7 @@ if __name__ == "__main__":
         print(f"Total teachers found for this type: {teacher_type_total}")
         print(f"{'='*50}")
         
-        # Add a longer delay between teacher types
-        time.sleep(5)
+        time.sleep(2)
     
     print("\n=== FINAL SUMMARY ===")
     print(f"Total countries processed: {countries_processed}")

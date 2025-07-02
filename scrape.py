@@ -172,15 +172,11 @@ if __name__ == '__main__':
         
         # Add delay between page requests to avoid rate limiting
         if i < len(teacher_info) - 1:
-            delay = 0.2 + random.uniform(0, 0.5)  # Random delay between 0.5-1 seconds
+            delay = 0.1 + random.uniform(0, 0.5)  # Random delay between 0.5-1 seconds
             print(f"Waiting {delay:.2f}s before next request...")
             time.sleep(delay)
     
     print(f"\nProcessing complete!")
     print(f"Processed {total_processed} teachers")
     print(f"Results saved to {output_filename}")
-
-
-
-
 
